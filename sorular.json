@@ -1,95 +1,197 @@
-[  
-  { "desc": "Anayasa Mahkemesi milletvekili dokunulmazlığı kaldırma davasına bakar" },
-  { "desc": "Anayasa Mahkemesi üyeleri 12 yıl görev yapar" },
-  { "desc": "HSK 13 üyeden oluşur" },
-  { "desc": "Ceza ehliyeti başlangıcı 12 yaştır" },
-  { "desc": "Cumhurbaşkanı en fazla iki dönem seçilebilir" },
-  { "desc": "Danıştay idari yargının en yüksek temyiz merciidir" },
-  { "desc": "Hak ehliyeti ana rahmine düşmekle başlar" },
-  { "desc": "TBMM 600 milletvekilinden oluşur" },
-  { "desc": "Gaiplik uzun süre kayıp halinde 5 yıl sonra istenir" },
-  { "desc": "Anayasa Mahkemesi 1961 Anayasası ile kurulmuştur" },
-  { "desc": "Devletin dili Türkçedir" },
-  { "desc": "HSK üyelerinin 7'sini TBMM seçer" },
-  { "desc": "Siyasi parti kurmak için en az 30 kişi gerekir" },
-  { "desc": "Sayıştay TBMM adına denetim yapar" },
-  { "desc": "Erginlik yaşı 18'dir" },
-  { "desc": "Bütçe kanun teklifini Cumhurbaşkanı sunar" },
-  { "desc": "Yargı yetkisi bağımsız ve tarafsız mahkemelerce kullanılır" },
-  { "desc": "Mülkiyet hakkı kanunla sınırlandırılabilir" },
-  { "desc": "Toplantı ve gösteri yürüyüşü önceden izin alınmadan yapılabilir" },
-  { "desc": "AYM üyelerini Cumhurbaşkanı (12) ve TBMM (3) seçer" },
-  { "desc": "Danıştay üyelerinin 1/4'ünü Cumhurbaşkanı seçer" },
-  { "desc": "TBMM seçimleri 5 yılda bir yapılır" },
-  { "desc": "Hakimler görevlerinde bağımsızdır" },
-  { "desc": "Basın özgürlüğü sansür edilemez" },
-  { "desc": "Oy kullanma yaşı 18'dir" },
-  { "desc": "Cumhurbaşkanı seçilme yaşı 40'tır" },
-  { "desc": "Yüce Divan görevi Anayasa Mahkemesi tarafından yürütülür" },
-  { "desc": "AYM Başkanı 4 yıl için seçilir" },
-  { "desc": "Yargıtay adli yargının en üst derece mahkemesidir" },
-  { "desc": "Danıştay idari yargının en üst derece temyiz merciidir" },
-  { "desc": "HSK kararlarına yargı yolu kapalıdır, sadece meslekten çıkarma hariç" },
-  { "desc": "Yargıtay üyelerini HSK seçer" },
-  { "desc": "Parti kapatma davasını Yargıtay Cumhuriyet Başsavcısı açar" },
-  { "desc": "Siyasi parti grubu 20 milletvekili ile kurulur" },
-  { "desc": "Cumhurbaşkanı kararnamesi kanunla çelişirse kanun uygulanır" },
-  { "desc": "Milli Güvenlik Kurulu Cumhurbaşkanına danışma organıdır" },
-  { "desc": "Temel haklar ancak kanunla sınırlandırılabilir" },
-  { "desc": "Konut dokunulmazlığı esastır" },
-  { "desc": "Haberleşme özgürlüğü ancak hakim kararıyla sınırlandırılabilir" },
-  { "desc": "Özel hayatın gizliliği anayasal güvencededir" },
-  { "desc": "Devletin başkenti Ankara'dır" },
-  { "desc": "TBMM kanun çıkarır, değiştirir ve kaldırır" },
-  { "desc": "Kanun teklif etme yetkisi milletvekillerine aittir" },
-  { "desc": "AYM bireysel başvuruları karara bağlar" },
-  { "desc": "HSK hakim ve savcıların atama ve disiplin işlemlerini yapar" },
-  { "desc": "Siyasi partilerin mali denetimini AYM yapar" },
-  { "desc": "Hakimler ve savcılar başka görev alamaz" },
-  { "desc": "İdarenin her türlü işlemine karşı yargı yolu açıktır" },
-  { "desc": "Kanun önünde herkes eşittir" },
-  { "desc": "Basın hürdür, sansür edilemez" },
-  { "desc": "Diyanet İşleri Başkanlığı genel idare içindedir" },
-  { "desc": "Eğitim hakkı temel bir haktır" },
-  { "desc": "Hak ehliyeti pasiftir" },
-  { "desc": "Fiil ehliyeti için ayırt etme gücü, erginlik ve kısıtlı olmamak gerekir" },
-  { "desc": "Ceza sorumluluğu şahsidir" },
-  { "desc": "Hiç kimse işkence ve eziyete tabi tutulamaz" },
-  { "desc": "Masumiyet karinesi temel ilkedir" },
-  { "desc": "Kanunsuz suç ve ceza olmaz" },
-  { "desc": "Cumhurbaşkanı OHAL ilan edebilir" },
-  { "desc": "OHAL en fazla 6 ay ilan edilir" },
-  { "desc": "OHAL uzatma yetkisi TBMM’dedir" },
-  { "desc": "Seçimler ve halkoylaması yargı yönetiminde yapılır" },
-  { "desc": "Anayasa değişikliği teklifi TBMM’nin 1/5’i tarafından yapılır" },
-  { "desc": "Savaş halinde TBMM seçimleri 1 yıl ertelenebilir" },
-  { "desc": "MGK kararları bağlayıcı değildir, danışma niteliğindedir" },
-  { "desc": "Benzer suçlara benzer cezalar verilmesi ölçülülük ilkesidir" },
-  { "desc": "Anayasa Mahkemesi 15 üyeden oluşur" },
-  { "desc": "YSK kararlarına karşı yargı yolu kapalıdır" },
-  { "desc": "Askeri mahkemeler 2017’de kaldırılmıştır" },
-  { "desc": "Hakimler 65 yaşına kadar görev yapabilir" },
-  { "desc": "Milli Marş İstiklal Marşı’dır" },
-  { "desc": "Devlet şekli Cumhuriyettir" },
-  { "desc": "Egemenlik kayıtsız şartsız milletindir" },
-  { "desc": "TBMM ülke adına savaş ilan edebilir" },
-  { "desc": "Cumhurbaşkanı kabineye başkanlık eder" },
-  { "desc": "Cumhurbaşkanı yardımcısı yasama sorumsuzluğuna sahip değildir" },
-  { "desc": "Temel hakların özüne dokunulamaz" },
-  { "desc": "Siyasi partilere %3 oy alanlara hazine yardımı yapılır" },
-  { "desc": "Cumhurbaşkanı adayı göstermek için %5 oy veya 100.000 imza gerekir" },
-  { "desc": "Gaiplik ilanı 6 ay arayla iki kez duyurulur" },
-  { "desc": "Ölüm karinesi cesedi bulunmayan kişi için uygulanır" },
-  { "desc": "Birlikte ölüm karinesi için miras ilişkisi gerekir" },
-  { "desc": "Miras teminat süresi ölüm tehlikesinde 5 yıl" },
-  { "desc": "İptal davası için TBMM'nin 1/5’i veya 2 parti grubu gerekir" },
-  { "desc": "TBMM kanunla para basılmasına karar verir" },
-  { "desc": "TBMM kanunla af çıkarır" },
-  { "desc": "Yazılı soru 15 gün içinde cevaplanır" },
-  { "desc": "Genel görüşmeyi 20 milletvekili isteyebilir" },
-  { "desc": "Meclis araştırması bilgi edinmek içindir" },
-  { "desc": "Meclis soruşturması cezai sorumluluk içindir" },
-  { "desc": "Soruşturma için 301 imza gerekir" },
-  { "desc": "Yüce Divan’a sevk için 400 oy gerekir" },
-  { "desc": "Seçme ve seçilme hakkı 18 yaşla başlar" }
-]
+// GitHub'dan soru çekme fonksiyonu
+async function loadQuestionsFromGitHub() {
+    // GitHub raw JSON URL'nizi buraya ekleyin
+    const GITHUB_URL = "https://raw.githubusercontent.com/KULLANICI/REPO/main/anayasa_sorulari.json";
+    
+    const modal = document.getElementById('githubModal');
+    const progressBar = document.getElementById('githubProgress');
+    const statusText = document.getElementById('githubStatus');
+    const successCount = document.getElementById('successCount');
+    
+    // Modal'ı göster
+    modal.style.display = 'flex';
+    progressBar.style.width = '0%';
+    statusText.textContent = 'GitHub bağlantısı kuruluyor...';
+    
+    try {
+        // 1. GitHub'dan JSON'u çek
+        progressBar.style.width = '30%';
+        statusText.textContent = 'Soru verileri indiriliyor...';
+        
+        const response = await fetch(`${GITHUB_URL}?t=${Date.now()}`);
+        
+        if (!response.ok) {
+            throw new Error(`GitHub'dan veri alınamadı: ${response.status}`);
+        }
+        
+        const data = await response.json();
+        
+        progressBar.style.width = '60%';
+        statusText.textContent = 'Sorular kontrol ediliyor...';
+        
+        // 2. Soruları kontrol et
+        if (!data.questions || !Array.isArray(data.questions)) {
+            throw new Error('Geçersiz soru formatı');
+        }
+        
+        // 3. Mevcut sorularla karşılaştır
+        progressBar.style.width = '80%';
+        statusText.textContent = 'Yeni sorular ekleniyor...';
+        
+        // Bu kısmı mevcut soru yapınıza göre düzenleyin
+        const newQuestionsCount = await updateLocalQuestions(data.questions);
+        
+        // 4. Başarılı sonuç
+        progressBar.style.width = '100%';
+        statusText.textContent = 'Başarılı!';
+        successCount.textContent = `${newQuestionsCount} yeni soru eklendi`;
+        
+        // 2 saniye sonra modal'ı kapat
+        setTimeout(() => {
+            modal.style.display = 'none';
+            
+            // Kullanıcıya bildirim göster
+            showNotification(`${newQuestionsCount} yeni soru başarıyla eklendi!`);
+            
+            // Sayfayı yenile (isteğe bağlı)
+            if (newQuestionsCount > 0) {
+                setTimeout(() => {
+                    window.location.reload();
+                }, 1000);
+            }
+        }, 2000);
+        
+    } catch (error) {
+        // Hata durumu
+        progressBar.style.width = '100%';
+        progressBar.style.background = '#ff4757';
+        statusText.innerHTML = `<span style="color:#ff4757">Hata: ${error.message}</span>`;
+        console.error('GitHub yükleme hatası:', error);
+    }
+}
+
+// Mevcut soruları güncelle (Bu fonksiyonu mevcut yapınıza göre düzenleyin)
+async function updateLocalQuestions(newQuestions) {
+    // LOCAL STORAGE örneği - mevcut sisteminize göre düzenleyin
+    let currentQuestions = JSON.parse(localStorage.getItem('anayasa_sorulari') || '[]');
+    
+    // Yeni soruları ID'lere göre kontrol et
+    const existingIds = new Set(currentQuestions.map(q => q.id));
+    let addedCount = 0;
+    
+    newQuestions.forEach(question => {
+        if (!existingIds.has(question.id)) {
+            currentQuestions.push(question);
+            addedCount++;
+        }
+    });
+    
+    // Güncellenmiş soruları kaydet
+    localStorage.setItem('anayasa_sorulari', JSON.stringify(currentQuestions));
+    
+    return addedCount;
+}
+
+// Bildirim göster
+function showNotification(message) {
+    // Toast bildirimi oluştur
+    const toast = document.createElement('div');
+    toast.className = 'github-toast';
+    toast.innerHTML = `
+        <div class="toast-content">
+            <span class="toast-icon">✅</span>
+            <span class="toast-message">${message}</span>
+        </div>
+    `;
+    
+    // Toast stilleri
+    toast.style.cssText = `
+        position: fixed;
+        top: 20px;
+        right: 20px;
+        background: white;
+        padding: 15px 20px;
+        border-radius: 8px;
+        box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+        z-index: 10000;
+        animation: slideIn 0.3s ease, fadeOut 0.3s ease 2.7s;
+        border-left: 4px solid #4CAF50;
+    `;
+    
+    document.body.appendChild(toast);
+    
+    // 3 saniye sonra kaldır
+    setTimeout(() => {
+        toast.remove();
+    }, 3000);
+}
+
+// Modal HTML'ini ekle
+function addGitHubModal() {
+    const modalHTML = `
+        <div id="githubModal" class="github-modal">
+            <div class="github-modal-content">
+                <h3>🔄 Sorular GitHub'dan Yükleniyor</h3>
+                <div class="github-progress">
+                    <div id="githubProgress" class="github-progress-bar"></div>
+                </div>
+                <div id="githubStatus" class="github-status">Hazırlanıyor...</div>
+                <div id="successCount" class="github-status" style="color:#4CAF50; font-weight:bold;"></div>
+                <div class="github-buttons">
+                    <button id="githubCancelBtn" class="github-btn github-btn-secondary">İptal</button>
+                    <button id="githubCloseBtn" class="github-btn github-btn-primary" style="display:none;">Kapat</button>
+                </div>
+            </div>
+        </div>
+    `;
+    
+    document.body.insertAdjacentHTML('beforeend', modalHTML);
+    
+    // İptal butonu
+    document.getElementById('githubCancelBtn').addEventListener('click', () => {
+        document.getElementById('githubModal').style.display = 'none';
+    });
+    
+    // Kapat butonu
+    document.getElementById('githubCloseBtn').addEventListener('click', () => {
+        document.getElementById('githubModal').style.display = 'none';
+    });
+}
+
+// Sayfa yüklendiğinde modal'ı ekle ve butonu aktif et
+document.addEventListener('DOMContentLoaded', function() {
+    // Modal'ı ekle
+    addGitHubModal();
+    
+    // Butonu bul ve event listener ekle
+    const githubBtn = document.getElementById('githubBtn');
+    if (githubBtn) {
+        githubBtn.addEventListener('click', loadQuestionsFromGitHub);
+    }
+    
+    // CSS animasyonları
+    const style = document.createElement('style');
+    style.textContent = `
+        @keyframes slideIn {
+            from { transform: translateX(100%); opacity: 0; }
+            to { transform: translateX(0); opacity: 1; }
+        }
+        @keyframes fadeOut {
+            from { opacity: 1; }
+            to { opacity: 0; }
+        }
+        .github-toast .toast-content {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        .github-toast .toast-icon {
+            font-size: 20px;
+        }
+        .github-toast .toast-message {
+            color: #333;
+            font-weight: 500;
+        }
+    `;
+    document.head.appendChild(style);
+});
