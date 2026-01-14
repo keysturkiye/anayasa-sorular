@@ -1,0 +1,787 @@
+[
+  {
+    "q": "Soru: Türkiye Cumhuriyeti Anayasası hangi yıl kabul edilmiştir?",
+    "options": ["1924", "1961", "1982", "2001"],
+    "answer": 2
+  },
+  {
+    "q": "Soru: Anayasada değişiklik teklifini kimler yapabilir?",
+    "options": ["Cumhurbaşkanı", "TBMM üyeleri", "Cumhurbaşkanı ve TBMM üyeleri", "Yüksek Mahkemeler"],
+    "answer": 2
+  },
+  {
+    "q": "Soru: Aşağıdakilerden hangisi temel haklardan biri değildir?",
+    "options": ["Yaşama hakkı", "Düşünce özgürlüğü", "Çalışma hakkı", "Mülkiyet hakkı"],
+    "answer": 3
+  },
+  {
+    "q": "Soru: Egemenlik kayıtsız şartsız kime aittir?",
+    "options": ["Cumhurbaşkanı", "TBMM", "Türk halkı", "Anayasa Mahkemesi"],
+    "answer": 2
+  },
+  {
+    "q": "Soru: Devletin nitelikleri arasında hangisi yer alır?",
+    "options": ["Demokratik", "Sosyal", "Hukuk devleti", "Hepsi"],
+    "answer": 3
+  },
+  {
+    "q": "Soru: Devletin temel amaç ve görevleri hangi maddede düzenlenmiştir?",
+    "options": ["Madde 2", "Madde 5", "Madde 6", "Madde 7"],
+    "answer": 1
+  },
+  {
+    "q": "Soru: Cumhurbaşkanının görevlerinden hangisi değildir?",
+    "options": ["Kanunları yayımlamak", "Bakanları atamak", "TBMM'yi feshetmek", "Uluslararası anlaşmaları onaylamak"],
+    "answer": 2
+  },
+  {
+    "q": "Soru: Anayasa'da eşitlik ilkesi hangi maddede yer alır?",
+    "options": ["Madde 10", "Madde 11", "Madde 12", "Madde 13"],
+    "answer": 0
+  },
+  {
+    "q": "Soru: Devletin temel organlarından biri olmayan hangisidir?",
+    "options": ["Yasama", "Yürütme", "Yargı", "Danışma Kurulu"],
+    "answer": 3
+  },
+  {
+    "q": "Soru: Anayasaya aykırı kanun hükümleri hangi maddede düzenlenmiştir?",
+    "options": ["Madde 11", "Madde 12", "Madde 13", "Madde 14"],
+    "answer": 0
+  },
+  {
+    "q": "Soru: Temel hak ve hürriyetlerin sınırlanmasına aykırı olan hangisidir?",
+    "options": ["Kanunla sınırlama", "Anayasaya aykırı sınırlama", "Demokratik toplum düzenine aykırı sınırlama", "Kamu güvenliği gerekçesiyle sınırlama"],
+    "answer": 1
+  },
+  {
+    "q": "Soru: Cumhurbaşkanının görev ve yetkileri hangi maddede düzenlenmiştir?",
+    "options": ["Madde 104", "Madde 105", "Madde 106", "Madde 107"],
+    "answer": 0
+  },
+  {
+    "q": "Soru: Yasama yetkisini kullanma yetkisi kime aittir?",
+    "options": ["Cumhurbaşkanı", "TBMM", "Bakanlar Kurulu", "Anayasa Mahkemesi"],
+    "answer": 1
+  },
+  {
+    "q": "Soru: Anayasa Mahkemesi üyelerinin sayısı kaçtır?",
+    "options": ["9", "11", "13", "15"],
+    "answer": 1
+  },
+  {
+    "q": "Soru: Yargıtay nedir?",
+    "options": ["Adliye mahkemelerinin verdiği kararların ilk inceleme mercii", "Adliye mahkemelerince verilen kararların son inceleme mercii", "İdari mahkemelerin verdiği kararların temyiz mercii", "Askeri mahkemelerin kararlarını denetleyen merci"],
+    "answer": 1
+  },
+  {
+    "q": "Soru: Yargıtay üyelerini kim seçer?",
+    "options": ["Cumhurbaşkanı", "TBMM", "Hâkimler ve Savcılar Kurulu (HSK)", "Yargıtay Genel Kurulu"],
+    "answer": 2
+  },
+  {
+    "q": "Soru: Yargıtay üyeleri kaç yıllığına seçilir?",
+    "options": ["4 yıl", "6 yıl", "12 yıl", "Ömür boyu"],
+    "answer": 2
+  },
+  {
+    "q": "Soru: Yargıtay Cumhuriyet Başsavcısını kim seçer?",
+    "options": ["Hâkimler ve Savcılar Kurulu", "TBMM", "Cumhurbaşkanı", "Yargıtay Genel Kurulu"],
+    "answer": 2
+  },
+  {
+    "q": "Soru: Yargıtay Cumhuriyet Başsavcısı vekilini kim seçer?",
+    "options": ["Hâkimler ve Savcılar Kurulu", "TBMM", "Cumhurbaşkanı", "Yargıtay Genel Kurulu"],
+    "answer": 2
+  },
+  {
+    "q": "Soru: Danıştay nedir?",
+    "options": ["Adli yargı kararlarını inceleyen merci", "İdari mahkemelerce verilen kararların son inceleme mercii", "Yargıtay kararlarını denetleyen merci", "Uyuşmazlıkları çözen ilk derece mahkemesi"],
+    "answer": 1
+  },
+  {
+    "q": "Soru: Danıştay üyelerinin kaçta kaçı Cumhurbaşkanınca seçilir?",
+    "options": ["1/2'si", "1/3'ü", "1/4'ü", "3/4'ü"],
+    "answer": 2
+  },
+  {
+    "q": "Soru: Danıştay üyeleri kaç yıllığına seçilir?",
+    "options": ["4 yıl", "6 yıl", "12 yıl", "Ömür boyu"],
+    "answer": 2
+  },
+  {
+    "q": "Soru: Danıştay Başkanı kim tarafından seçilir?",
+    "options": ["Cumhurbaşkanı", "Hâkimler ve Savcılar Kurulu", "TBMM", "Danıştay Genel Kurulu"],
+    "answer": 3
+  },
+  {
+    "q": "Soru: Uyuşmazlık Mahkemesi'nin görevi nedir?",
+    "options": ["Bireysel başvuruları incelemek", "Adli ve idari yargı arasındaki uyuşmazlıkları çözmek", "Siyasi partileri denetlemek", "Yargıtay ve Danıştay kararlarını birleştirmek"],
+    "answer": 1
+  },
+  {
+    "q": "Soru: Uyuşmazlık Mahkemesi üyeleri kimlerden oluşur?",
+    "options": ["Sadece Yargıtay üyelerinden", "Sadece Danıştay üyelerinden", "Yargıtay ve Danıştay üyelerinden", "Anayasa Mahkemesi üyelerinden"],
+    "answer": 2
+  },
+  {
+    "q": "Soru: Uyuşmazlık Mahkemesi başkanını kim seçer?",
+    "options": ["Cumhurbaşkanı", "TBMM", "Anayasa Mahkemesi", "Hâkimler ve Savcılar Kurulu"],
+    "answer": 2
+  },
+  {
+    "q": "Soru: Uyuşmazlık Mahkemesi başkanının görev süresi kaç yıldır?",
+    "options": ["2 yıl", "4 yıl", "6 yıl", "12 yıl"],
+    "answer": 1
+  },
+  {
+    "q": "Soru: HSK nedir?",
+    "options": ["Yasama organı", "Yargı personelinin atama ve disiplin işlemlerini yürüten kurul", "Yürütme denetleme kurulu", "Yargıtay'ın alt birimi"],
+    "answer": 1
+  },
+  {
+    "q": "Soru: HSK kaç üyeden oluşur?",
+    "options": ["11 üye", "13 üye", "15 üye", "17 üye"],
+    "answer": 1
+  },
+  {
+    "q": "Soru: HSK üyelerinden kaçını Cumhurbaşkanı seçer?",
+    "options": ["4 üye", "7 üye", "9 üye", "13 üye"],
+    "answer": 0
+  },
+  {
+    "q": "Soru: HSK üyelerinin görev süresi kaç yıldır?",
+    "options": ["2 yıl", "4 yıl", "6 yıl", "12 yıl"],
+    "answer": 1
+  },
+  {
+    "q": "Soru: HSK kararlarına karşı yargı yolu açık mıdır?",
+    "options": ["Tüm kararlara açıktır", "Hiçbir karara açık değildir", "Sadece meslekten çıkarma kararlarına açıktır", "Sadece atama kararlarına açıktır"],
+    "answer": 2
+  },
+  {
+    "q": "Soru: Sayıştay'ın görevi nedir?",
+    "options": ["Yargıtay kararlarını denetlemek", "Kamu idarelerinin gelir-giderlerini denetlemek", "Siyasi partileri denetlemek", "İdari davalara bakmak"],
+    "answer": 1
+  },
+  {
+    "q": "Soru: Sayıştay kararlarına karşı ne kadar sürede itiraz edilebilir?",
+    "options": ["7 gün", "15 gün", "30 gün", "60 gün"],
+    "answer": 1
+  },
+  {
+    "q": "Soru: Sayıştay kime bağlıdır?",
+    "options": ["Cumhurbaşkanlığına", "Adalet Bakanlığına", "TBMM'ye", "Başbakanlığa"],
+    "answer": 2
+  },
+  {
+    "q": "Soru: Bir siyasi parti en az kaç kişiyle kurulur?",
+    "options": ["15 kişi", "30 kişi", "50 kişi", "100 kişi"],
+    "answer": 1
+  },
+  {
+    "q": "Soru: Cumhurbaşkanı adayı gösterebilmek için bir siyasi parti en az yüzde kaç oy almış olmalıdır?",
+    "options": ["%3", "%5", "%7", "%10"],
+    "answer": 1
+  },
+  {
+    "q": "Soru: Bir siyasi partinin hazine yardımı alabilmesi için baraj oranı nedir?",
+    "options": ["%1", "%3", "%5", "%7"],
+    "answer": 1
+  },
+  {
+    "q": "Soru: TBMM'de siyasi parti grubu en az kaç milletvekiliyle kurulur?",
+    "options": ["10 milletvekili", "20 milletvekili", "25 milletvekili", "30 milletvekili"],
+    "answer": 1
+  },
+  {
+    "q": "Soru: Siyasi partilerin mali denetimini kim yapar?",
+    "options": ["Sayıştay", "Yargıtay", "Danıştay", "Anayasa Mahkemesi"],
+    "answer": 3
+  },
+  {
+    "q": "Soru: Anayasa Mahkemesi, siyasi partilerin mali denetiminde kimden yardım alır?",
+    "options": ["Yargıtay", "Danıştay", "Sayıştay", "Maliye Bakanlığı"],
+    "answer": 2
+  },
+  {
+    "q": "Soru: Siyasi partilere kapatma davasını kim açar?",
+    "options": ["Adalet Bakanı", "TBMM", "Danıştay", "Yargıtay Cumhuriyet Başsavcısı"],
+    "answer": 3
+  },
+  {
+    "q": "Soru: Siyasi partilerin kapatılmasına kim karar verir?",
+    "options": ["Yargıtay", "Danıştay", "Anayasa Mahkemesi", "Uyuşmazlık Mahkemesi"],
+    "answer": 2
+  },
+  {
+    "q": "Soru: Anayasa Mahkemesi üyeleri ne kadar süre görev yapar?",
+    "options": ["6 yıl", "8 yıl", "10 yıl", "12 yıl"],
+    "answer": 2
+  },
+  {
+    "q": "Soru: Anayasa Mahkemesi üyelerinin yaş sınırı kaçtır?",
+    "options": ["60", "65", "70", "75"],
+    "answer": 1
+  },
+  {
+    "q": "Soru: AYM kaç üyeden oluşur?",
+    "options": ["11", "13", "15", "17"],
+    "answer": 2
+  },
+  {
+    "q": "Soru: AYM Başkanı ve Başkanvekilleri ne kadar süreyle seçilir?",
+    "options": ["2 yıl", "4 yıl", "6 yıl", "12 yıl"],
+    "answer": 1
+  },
+  {
+    "q": "Soru: AYM üyelerinin görev süresi hangi süredir?",
+    "options": ["6 yıl", "8 yıl", "10 yıl", "12 yıl"],
+    "answer": 3
+  },
+  {
+    "q": "Soru: AYM üyeliği için tekrar seçilme mümkün müdür?",
+    "options": ["Evet, tekrar seçilebilir", "Hayır, aynı kişi iki kez üye seçilemez"],
+    "answer": 1
+  },
+  {
+    "q": "Soru: AYM'nin Genel Kurulu karar alabilmesi için toplantı nisabı nedir?",
+    "options": ["Üye tam sayısının çoğunluğu", "En az 10 üyenin katılması", "Üye tam sayısının ¾'ünün katılması", "Başkan + 5 üye"],
+    "answer": 1
+  },
+  {
+    "q": "Soru: TBMM seçimleri kaç yılda bir yapılır?",
+    "options": ["3 yıl", "4 yıl", "5 yıl", "6 yıl"],
+    "answer": 2
+  },
+  {
+    "q": "Soru: 1982 Anayasası hangi Anayasadan sonra kabul edilmiştir?",
+    "options": ["1921 Anayasası", "1924 Anayasası", "1961 Anayasası", "2001 Anayasası"],
+    "answer": 2
+  },
+  {
+    "q": "Soru: Temel hak ve özgürlüklerin sınırlanmasında hangi ilkeye uyulmalıdır?",
+    "options": ["Kanunilik", "Orantılılık", "Gerekçelilik", "Hepsi"],
+    "answer": 3
+  },
+  {
+    "q": "Soru: Cumhurbaşkanının TBMM'yi feshetme yetkisi hangi durumla sınırlıdır?",
+    "options": ["Hiçbir şekilde", "Sadece seçim döneminde", "Hükümet istifa ederse", "Anayasa Mahkemesi izniyle"],
+    "answer": 2
+  },
+  {
+    "q": "Soru: Anayasaya göre siyasi partilerin kapatılması hangi organ tarafından yapılır?",
+    "options": ["Cumhurbaşkanı", "TBMM", "Anayasa Mahkemesi", "Danıştay"],
+    "answer": 2
+  },
+  {
+    "q": "Soru: Cumhurbaşkanının atadığı bakanlar hangi organın onayına tabidir?",
+    "options": ["Hiçbiri", "TBMM", "Danıştay", "Yargıtay"],
+    "answer": 1
+  },
+  {
+    "q": "Soru: Anayasa değişiklikleri hangi süreçle yürürlüğe girer?",
+    "options": ["TBMM kararıyla", "Cumhurbaşkanı kararıyla", "Referandumla", "Anayasa Mahkemesi kararıyla"],
+    "answer": 2
+  },
+  {
+    "q": "Soru: Temel hak ve özgürlüklerin korunmasında hangi organ yetkilidir?",
+    "options": ["Yargıtay", "Anayasa Mahkemesi", "Danıştay", "Cumhurbaşkanı"],
+    "answer": 1
+  },
+  {
+    "q": "Soru: Egemenliğin kullanılmasında kayıtsız şartsız yetki kimdedir?",
+    "options": ["Cumhurbaşkanı", "TBMM", "Halk", "Anayasa Mahkemesi"],
+    "answer": 2
+  },
+  {
+    "q": "Soru: Anayasada devletin resmi dili hangisidir?",
+    "options": ["Kürtçe", "Türkçe", "Arapça", "Farsça"],
+    "answer": 1
+  },
+  {
+    "q": "Soru: Anayasada yer alan sosyal devlet ilkesi hangi maddede yer alır?",
+    "options": ["Madde 2", "Madde 5", "Madde 10", "Madde 11"],
+    "answer": 0
+  },
+  {
+    "q": "Soru: Türkiye Cumhuriyeti'nin rejimi nedir?",
+    "options": ["Monarşi", "Cumhuriyet", "Başkanlık", "Parlamenter"],
+    "answer": 1
+  },
+  {
+    "q": "Soru: Anayasaya göre sağlık hakkı hangi haklar kapsamındadır?",
+    "options": ["Kişisel hak", "Sosyal hak", "Siyasi hak", "Ekonomik hak"],
+    "answer": 1
+  },
+  {
+    "q": "Soru: Anayasa Mahkemesi üyelerinin görev süresi dolduğunda aynı göreve dönmeleri mümkün müdür?",
+    "options": ["Evet", "Hayır", "Sadece onayla", "Kısmen"],
+    "answer": 1
+  },
+  {
+    "q": "Soru: 1982 Anayasası hangi hükümlerle değiştirilemez?",
+    "options": ["Devletin şekli", "Temel haklar", "Devletin bütünlüğü", "Hepsi"],
+    "answer": 3
+  },
+  {
+    "q": "Soru: TBMM üyeleri kaç yılda bir seçilir?",
+    "options": ["4", "5", "6", "7"],
+    "answer": 1
+  },
+  {
+    "q": "Soru: Cumhurbaşkanının olağanüstü yetkileri hangi durumlarda kullanılır?",
+    "options": ["Savaş", "Sadece seçim döneminde", "Hükümet istifa ederse", "Hiçbiri"],
+    "answer": 0
+  },
+  {
+    "q": "Soru: Anayasaya aykırılık denetimini hangi organ yapar?",
+    "options": ["Cumhurbaşkanı", "TBMM", "Anayasa Mahkemesi", "Danıştay"],
+    "answer": 2
+  },
+  {
+    "q": "Soru: Devletin temel organları nelerdir?",
+    "options": ["Yasama, Yürütme, Yargı", "Cumhurbaşkanı, Bakanlar, Mahkemeler", "TBMM, Danıştay, Yargıtay", "Hiçbiri"],
+    "answer": 0
+  },
+  {
+    "q": "Soru: Temel hakların korunmasında hangi ilke geçerlidir?",
+    "options": ["Sınırsızlık", "Kanunilik", "Siyasi tarafsızlık", "Hiçbiri"],
+    "answer": 1
+  },
+  {
+    "q": "Soru: Cumhurbaşkanı seçimleri kaç yılda bir yapılır?",
+    "options": ["5", "6", "7", "8"],
+    "answer": 2
+  },
+  {
+    "q": "Soru: Anayasada belirtilen laiklik ilkesi hangi maddede yer alır?",
+    "options": ["Madde 2", "Madde 4", "Madde 10", "Madde 12"],
+    "answer": 0
+  },
+  {
+    "q": "Soru: Cumhurbaşkanı, bakanları atarken kimin onayını alır?",
+    "options": ["Hiçbiri", "TBMM", "Danıştay", "Anayasa Mahkemesi"],
+    "answer": 1
+  },
+  {
+    "q": "Soru: Türkiye Cumhuriyeti Anayasası hangi sistemle yönetilir?",
+    "options": ["Başkanlık", "Parlamenter", "Monarşi", "Sosyalist"],
+    "answer": 1
+  },
+  {
+    "q": "Soru: Anayasada belirtilen seçimlerin genel niteliği nedir?",
+    "options": ["Serbest ve gizli", "Sadece erkekler", "Sadece 25 yaş üstü", "Atama"],
+    "answer": 0
+  },
+  {
+    "q": "Soru: Cumhurbaşkanının TBMM üyelerini seçme yetkisi var mıdır?",
+    "options": ["Evet", "Hayır", "Sadece seçim döneminde", "Kısmen"],
+    "answer": 1
+  },
+  {
+    "q": "Soru: Devletin temel amaç ve görevleri arasında hangisi yoktur?",
+    "options": ["Halkın mutluluğunu sağlamak", "Hukuk devleti olmak", "Savaş başlatmak", "Temel hakları korumak"],
+    "answer": 2
+  },
+  {
+    "q": "Soru: Anayasaya göre eğitim hakkı hangi haklar kapsamındadır?",
+    "options": ["Sosyal hak", "Kişisel hak", "Siyasi hak", "Ekonomik hak"],
+    "answer": 0
+  },
+  {
+    "q": "Soru: Anayasa Mahkemesi hangi başvuruları inceler?",
+    "options": ["Anayasaya aykırılık", "Ceza davalarını", "İdari davaları", "Siyasi davaları"],
+    "answer": 0
+  },
+  {
+    "q": "Soru: Cumhurbaşkanı hangi durumlarda TBMM'yi feshedebilir?",
+    "options": ["Hükümet istifa ederse", "Her zaman", "Savaşta", "Hiçbir zaman"],
+    "answer": 0
+  },
+  {
+    "q": "Soru: Türkiye Cumhuriyeti'nin resmi dini hangisidir?",
+    "options": ["İslam", "Hristiyanlık", "Hiçbiri", "Yahudilik"],
+    "answer": 2
+  },
+  {
+    "q": "Soru: Anayasada kişi haklarının korunmasında hangi organ görev yapar?",
+    "options": ["TBMM", "Cumhurbaşkanı", "Anayasa Mahkemesi", "Danıştay"],
+    "answer": 2
+  },
+  {
+    "q": "Soru: Cumhurbaşkanı seçimi hangi yöntemle yapılır?",
+    "options": ["TBMM seçer", "Doğrudan halk seçer", "Danıştay seçer", "Atama ile"],
+    "answer": 1
+  },
+  {
+    "q": "Soru: Anayasa Mahkemesi üyeleri kaç yaşından küçük olamaz?",
+    "options": ["50", "55", "60", "65"],
+    "answer": 3
+  },
+  {
+    "q": "Soru: Anayasa değişiklikleri halk oylamasına sunulabilir mi?",
+    "options": ["Evet", "Hayır", "Sadece Cumhurbaşkanı onayıyla", "Sadece TBMM onayıyla"],
+    "answer": 0
+  },
+  {
+    "q": "Soru: Temel hak ve hürriyetler hangi ilkeye göre sınırlandırılır?",
+    "options": ["Orantılılık", "Keyfilik", "Rastgele", "Hiçbiri"],
+    "answer": 0
+  },
+  {
+    "q": "Soru : Görevde yükselmede hangi kriter önemli değildir?",
+    "options": ["Süre", "Sınav", "Şans", "Başarı"],
+    "answer": 2
+  },
+  {
+    "q": "Soru : Deneme testi ne amaçla yapılır?",
+    "options": ["Hazırlık", "Dinlenme", "Ödül", "Hiçbiri"],
+    "answer": 0
+  },
+  {
+    "q": "Aşağıdakilerden hangisi 1982 Anayasası başlangıç metninde düzenlenen temel ilkelerden biri değildir?",
+    "options": ["Milli egemenlik", "Laiklik", "Atatürk milliyetçiliği", "Kuvvetler birliği"],
+    "answer": 3
+  },
+  {
+    "q": "1982 Anayasası'na göre temel hak ve hürriyetler hangi durumda kanunla sınırlandırılamaz?",
+    "options": ["Kamu düzeni", "Genel ahlak", "Genel sağlık", "Suçüstü hali"],
+    "answer": 3
+  },
+  {
+    "q": "Cumhurbaşkanı seçilebilmek için aşağıdaki şartlardan hangisi aranmaz?",
+    "options": ["40 yaşını doldurmuş olmak", "Yükseköğrenim mezunu olmak", "Milletvekili seçilme yeterliliği", "En az 5 yıl kamu hizmeti"],
+    "answer": 3
+  },
+  {
+    "q": "Cumhurbaşkanı'na vekalet etme görevi hangi makama aittir?",
+    "options": ["TBMM Başkanı", "Başbakan", "Anayasa Mahkemesi Başkanı", "Genelkurmay Başkanı"],
+    "answer": 0
+  },
+  {
+    "q": "Savaş durumunda TBMM seçimleri en fazla ne kadar ertelenebilir?",
+    "options": ["3 ay", "6 ay", "1 yıl", "2 yıl"],
+    "answer": 2
+  },
+  {
+    "q": "Milletvekili dokunulmazlığının kaldırılmasından sonra yargılanma süresi kaç gündür?",
+    "options": ["3 gün", "5 gün", "7 gün", "10 gün"],
+    "answer": 2
+  },
+  {
+    "q": "Bakanlar görevleriyle ilgili suçlardan dolayı nerede yargılanır?",
+    "options": ["Danıştay", "Yargıtay", "Anayasa Mahkemesi", "Ağır Ceza Mahkemesi"],
+    "answer": 1
+  },
+  {
+    "q": "Aşağıdakilerden hangisi olağanüstü hal ilanını gerektirmez?",
+    "options": ["Doğal afet", "Ekonomik kriz", "Salgın hastalık", "Savaş tehdidi"],
+    "answer": 3
+  },
+  {
+    "q": "Anayasa değişikliğinin iptali için başvuru süresi kaç gündür?",
+    "options": ["10 gün", "15 gün", "30 gün", "45 gün"],
+    "answer": 1
+  },
+  {
+    "q": "Kanunların anayasaya uygunluğunu denetleme görevi kime aittir?",
+    "options": ["Danıştay", "Yargıtay", "Anayasa Mahkemesi", "Sayıştay"],
+    "answer": 2
+  },
+  {
+    "q": "Yasama yapma yetkisi aşağıdakilerden hangisine aittir?",
+    "options": ["Cumhurbaşkanı", "Bakanlar Kurulu", "TBMM", "Anayasa Mahkemesi"],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisi Cumhurbaşkanının görevlerinden biridir?",
+    "options": ["Yasama yetkisini kullanmak", "Kanunları yürütmek", "Yargı kararlarını onaylamak", "Anayasa Mahkemesi başkanını atamak"],
+    "answer": 1
+  },
+  {
+    "q": "Türkiye'nin başkenti aşağıdakilerden hangisidir?",
+    "options": ["İstanbul", "Ankara", "İzmir", "Bursa"],
+    "answer": 1
+  },
+  {
+    "q": "İnsan hakları ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": ["Sadece gelişmiş ülkeler için geçerlidir", "Sadece Türk vatandaşları için geçerlidir", "Evrenseldir", "Kanunla sınırlandırılamaz"],
+    "answer": 2
+  },
+  {
+    "q": "Kanunlara uymak aşağıdakilerden hangisinin görevidir?",
+    "options": ["Sadece devlet görevlilerinin", "Sadece iş adamlarının", "Tüm vatandaşların", "Sadece yargıçların"],
+    "answer": 2
+  },
+  {
+    "q": "Yargı bağımsızlğı aşağıdakilerden hangisi ile güvence altına alınmıştır?",
+    "options": ["Kanun", "Tüzük", "Anayasa", "Yönetmelik"],
+    "answer": 2
+  },
+  {
+    "q": "Cumhurbaşkanı kaç yıl için seçilir?",
+    "options": ["4 yıl", "5 yıl", "6 yıl", "7 yıl"],
+    "answer": 1
+  },
+  {
+    "q": "Adliye mahkemelerinin kararlarını son inceleyen en yüksek mahkeme aşağıdakilerden hangisidir?",
+    "options": ["Danıştay", "Yargıtay", "Anayasa Mahkemesi", "Uyuşmazlık Mahkemesi"],
+    "answer": 1
+  },
+  {
+    "q": "Yargıtay üyelerini aşağıdakilerden hangisi seçer?",
+    "options": ["Cumhurbaşkanı", "TBMM", "HSK", "Yargıtay Genel Kurulu"],
+    "answer": 2
+  },
+  {
+    "q": "Yargıtay üyelerinin görev süresi kaç yıldır?",
+    "options": ["6 yıl", "8 yıl", "10 yıl", "12 yıl"],
+    "answer": 3
+  },
+  {
+    "q": "Yargıtay Cumhuriyet Başsavcısını aşağıdakilerden hangisi seçer?",
+    "options": ["HSK", "Cumhurbaşkanı", "Yargıtay Genel Kurulu", "Adalet Bakanlığı"],
+    "answer": 1
+  },
+  {
+    "q": "İdari yargının en yüksek mahkeme aşağıdakilerden hangisidir?",
+    "options": ["Yargıtay", "Danıştay", "Anayasa Mahkemesi", "Uyuşmazlık Mahkemesi"],
+    "answer": 1
+  },
+  {
+    "q": "Danıştay üyelerini aşağıdakilerden hangisi seçer?",
+    "options": ["Tamamını Cumhurbaşkanı", "Tamamını HSK", "3/4'ünü HSK", "1/4'ünü HSK"],
+    "answer": 2
+  },
+  {
+    "q": "Danıştay üyelerinin görev süresi kaç yıldır?",
+    "options": ["6 yıl", "8 yıl", "10 yıl", "12 yıl"],
+    "answer": 3
+  },
+  {
+    "q": "Danıştay Başkanını aşağıdakilerden hangisi atar?",
+    "options": ["Cumhurbaşkanı", "Danıştay Genel Kurulu", "HSK", "TBMM"],
+    "answer": 1
+  },
+  {
+    "q": "Adli ve idari yargı mercileri arasındaki görev uyuşmazlıklarını kesin olarak çözen mahkeme aşağıdakilerden hangisidir?",
+    "options": ["Yargıtay", "Danıştay", "Uyuşmazlık Mahkemesi", "Anayasa Mahkemesi"],
+    "answer": 2
+  },
+  {
+    "q": "Uyuşmazlık Mahkemesi başkanını aşağıdakilerden hangisi seçer?",
+    "options": ["TBMM", "Anayasa Mahkemesi", "Cumhurbaşkanı", "HSK"],
+    "answer": 1
+  },
+  {
+    "q": "Uyuşmazlık Mahkemesi üyeleri aşağıdakilerden hangilerinden oluşur?",
+    "options": ["Yargıtay ve Danıştay üyeleri", "Anayasa Mahkemesi ve Yargıtay üyeleri", "Danıştay ve Sayıştay üyeleri", "Yargıtay ve Sayıştay üyeleri"],
+    "answer": 0
+  },
+  {
+    "q": "Uyuşmazlık Mahkemesi başkanının görev süresi kaç yıldır?",
+    "options": ["4 yıl", "6 yıl", "8 yıl", "12 yıl"],
+    "answer": 0
+  },
+  {
+    "q": "Hâkim ve savcıların atama, terfi ve disiplin işlemlerini yürüten kurul aşağıdakilerden hangisidir?",
+    "options": ["Yargıtay", "Danıştay", "HSK", "Anayasa Mahkemesi"],
+    "answer": 2
+  },
+  {
+    "q": "HSK kaç üyeden oluşur?",
+    "options": ["11 üye", "13 üye", "15 üye", "17 üye"],
+    "answer": 1
+  },
+  {
+    "q": "HSK üyeleri nasıl belirlenir?",
+    "options": ["Tamamını Cumhurbaşkanı seçer", "2'si doğal üye, 4'ünü Cumhurbaşkanı, 7'sini TBMM seçer", "Tamamını TBMM seçer", "Tamamını HSK seçer"],
+    "answer": 1
+  },
+  {
+    "q": "HSK Başkanı aşağıdakilerden hangisidir?",
+    "options": ["Adalet Bakanı", "Yargıtay Başkanı", "Danıştay Başkanı", "Cumhurbaşkanı"],
+    "answer": 0
+  },
+  {
+    "q": "HSK üyelerinin görev süresi kaç yıldır?",
+    "options": ["2 yıl", "4 yıl", "6 yıl", "8 yıl"],
+    "answer": 1
+  },
+  {
+    "q": "HSK kararlarına karşı yargı yolu ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": ["Hiçbir şekilde yargı yolu açılamaz", "Sadece meslekten çıkarma kararlarına karşı yargı yolu açıktır", "Tüm kararlara karşı yargı yolu açıktır", "Sadece atama kararlarına karşı yargı yolu açıktır"],
+    "answer": 1
+  },
+  {
+    "q": "Kamu idarelerinin gelir ve giderlerini TBMM adına denetleyen kurum aşağıdakilerden hangisidir?",
+    "options": ["Danıştay", "Sayıştay", "Yargıtay", "Anayasa Mahkemesi"],
+    "answer": 1
+  },
+  {
+    "q": "Sayıştay kararlarına karşı kaç gün içinde karar düzeltilmesi istenebilir?",
+    "options": ["10 gün", "15 gün", "20 gün", "30 gün"],
+    "answer": 1
+  },
+  {
+    "q": "Sayıştay aşağıdakilerden hangisine bağlıdır?",
+    "options": ["Yürütme organına", "TBMM'ye", "Cumhurbaşkanına", "Adalet Bakanlığına"],
+    "answer": 1
+  },
+  {
+    "q": "Bir siyasi parti en az kaç kişiyle kurulur?",
+    "options": ["20 kişi", "30 kişi", "40 kişi", "50 kişi"],
+    "answer": 1
+  },
+  {
+    "q": "Siyasi partilerin mali denetimini aşağıdakilerden hangisi yapar?",
+    "options": ["Yargıtay", "Danıştay", "Anayasa Mahkemesi", "Sayıştay"],
+    "answer": 2
+  },
+  {
+    "q": "Siyasi partilerin mali denetiminde Anayasa Mahkemesi aşağıdakilerden hangisinden yardım alır?",
+    "options": ["Yargıtay", "Danıştay", "Sayıştay", "HSK"],
+    "answer": 2
+  },
+  {
+    "q": "Siyasi partilere kapatma davasını aşağıdakilerden hangisi açar?",
+    "options": ["Yargıtay Cumhuriyet Başsavcısı", "Adalet Bakanlığı", "Cumhurbaşkanı", "TBMM"],
+    "answer": 0
+  },
+  {
+    "q": "Siyasi partilerin kapatılmasına aşağıdakilerden hangisi karar verir?",
+    "options": ["TBMM", "Yargıtay", "Anayasa Mahkemesi", "Danıştay"],
+    "answer": 2
+  },
+  {
+    "q": "Bir siyasi partinin hazine yardımı alabilmesi için en az yüzde kaç oy alması gerekir?",
+    "options": ["%3", "%5", "%7", "%10"],
+    "answer": 0
+  },
+  {
+    "q": "Anayasa Mahkemesi kaç üyeden oluşur?",
+    "options": ["13 üye", "15 üye", "17 üye", "19 üye"],
+    "answer": 1
+  },
+  {
+    "q": "AYM Başkanı ve Başkanvekilleri kaç yıl süreyle seçilir?",
+    "options": ["2 yıl", "4 yıl", "6 yıl", "8 yıl"],
+    "answer": 1
+  },
+  {
+    "q": "AYM üyelerinin görev süresi kaç yıldır?",
+    "options": ["8 yıl", "10 yıl", "12 yıl", "14 yıl"],
+    "answer": 2
+  },
+  {
+    "q": "AYM üyeliği için aynı kişi tekrar seçilebilir mi?",
+    "options": ["Evet, tekrar seçilebilir", "Hayır, tekrar seçilemez", "Sadece bir kez daha seçilebilir", "Sadece Başkan tekrar seçilebilir"],
+    "answer": 1
+  },
+  {
+    "q": "AYM Genel Kurulu en az kaç üyenin katılımıyla toplanır?",
+    "options": ["8 üye", "10 üye", "12 üye", "15 üye"],
+    "answer": 1
+  },
+  {
+    "q": "Adli yargıda son inceleme mercii aşağıdakilerden hangisidir?",
+    "options": ["Yargıtay", "Danıştay", "Anayasa Mahkemesi", "Uyuşmazlık Mahkemesi"],
+    "answer": 0
+  },
+  {
+    "q": "Yargıtay üyeleri ne kadar süre görev yapar?",
+    "options": ["12 yıl", "Emeklilik yaşına kadar", "10 yıl", "8 yıl"],
+    "answer": 1
+  },
+  {
+    "q": "Danıştay Başkanı nasıl seçilir?",
+    "options": ["Cumhurbaşkanı tarafından atanır", "Danıştay Genel Kurulu tarafından 4 yıl için seçilir", "HSK tarafından seçilir", "TBMM tarafından seçilir"],
+    "answer": 1
+  },
+  {
+    "q": "Yargı kolları arasındaki uyuşmazlıkları çözen mahkeme aşağıdakilerden hangisidir?",
+    "options": ["Yargıtay", "Danıştay", "Uyuşmazlık Mahkemesi", "Anayasa Mahkemesi"],
+    "answer": 2
+  },
+  {
+    "q": "HSK üyelerinin görev süresi kaç yıldır?",
+    "options": ["2 yıl", "4 yıl", "6 yıl", "8 yıl"],
+    "answer": 1
+  },
+  {
+    "q": "HSK'nın hangi kararlarına karşı yargı yolu açıktır?",
+    "options": ["Hiçbir kararına", "Tüm kararlarına", "Sadece meslekten çıkarma kararlarına", "Sadece atama kararlarına"],
+    "answer": 2
+  },
+  {
+    "q": "Sayıştay aşağıdakilerden hangisine bağlıdır?",
+    "options": ["TBMM'ye", "Cumhurbaşkanlığına", "Adalet Bakanlığına", "Başbakanlığa"],
+    "answer": 0
+  },
+  {
+    "q": "Sayıştay'ın temel görevi nedir?",
+    "options": ["Kamu idarelerini denetlemek", "Siyasi partileri denetlemek", "Yargı kararlarını denetlemek", "İdari işlemleri denetlemek"],
+    "answer": 0
+  },
+  {
+    "q": "TBMM'de siyasi parti grubu kaç milletvekili ile kurulur?",
+    "options": ["10 milletvekili", "15 milletvekili", "20 milletvekili", "25 milletvekili"],
+    "answer": 2
+  },
+  {
+    "q": "Cumhurbaşkanı adayı gösterebilmek için bir siyasi parti ne yapmalıdır?",
+    "options": ["TBMM'de grup kurmuş olmalı veya son seçimde %5 oy almış olmalı", "Sadece TBMM'de grup kurmuş olmalı", "Sadece son seçimde %3 oy almış olmalı", "Sadece son seçimde %7 oy almış olmalı"],
+    "answer": 0
+  },
+  {
+    "q": "Yargıtay Cumhuriyet Başsavcısı ve vekilini aşağıdakilerden hangisi seçer?",
+    "options": ["Cumhurbaşkanı", "HSK", "Yargıtay Genel Kurulu", "TBMM"],
+    "answer": 0
+  },
+  {
+    "q": "Uyuşmazlık Mahkemesi başkanını aşağıdakilerden hangisi seçer?",
+    "options": ["Anayasa Mahkemesi", "Cumhurbaşkanı", "TBMM", "HSK"],
+    "answer": 0
+  },
+  {
+    "q": "HSK'nın doğal üyeleri aşağıdakilerden hangileridir?",
+    "options": ["Adalet Bakanı ve Adalet Bakan Yardımcısı", "Yargıtay Başkanı ve Danıştay Başkanı", "Cumhurbaşkanı ve TBMM Başkanı", "Anayasa Mahkemesi Başkanı ve Yargıtay Başkanı"],
+    "answer": 0
+  },
+  {
+    "q": "TBMM aşağıdaki organlardan hangisidir?",
+    "options": ["Yürütme organı", "Yasama organı", "Yargı organı", "Denetleme organı"],
+    "answer": 1
+  },
+  {
+    "q": "Temel haklar nasıl sınırlandırılabilir?",
+    "options": ["Kanunla", "Yönetmelikle", "Tüzükle", "Genelgeyle"],
+    "answer": 0
+  },
+  {
+    "q": "Türkiye Cumhuriyeti Anayasası hangi yılda kabul edilmiştir?",
+    "options": ["1961", "1971", "1982", "1992"],
+    "answer": 2
+  },
+  {
+    "q": "Anayasada değişiklik teklifini kim yapabilir?",
+    "options": ["Sadece Cumhurbaşkanı", "Sadece TBMM üyeleri", "TBMM üye tamsayısının en az beşte biri", "TBMM üye tamsayısının en az üçte biri"],
+    "answer": 2
+  },
+  {
+    "q": "Egemenlik kayıtsız şartsız kime aittir?",
+    "options": ["TBMM'ye", "Cumhurbaşkanına", "Türk halkına", "Anayasa Mahkemesine"],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisi devletin nitelikleri arasında yer almaz?",
+    "options": ["Laiklik", "Sosyal devlet", "Cumhuriyet", "Monarşi"],
+    "answer": 3
+  },
+  {
+    "q": "Cumhurbaşkanının aşağıdaki yetkilerden hangisi vardır?",
+    "options": ["TBMM'yi feshetmek", "Anayasa Mahkemesini kapatmak", "Yargıtay üyelerini doğrudan atamak", "Kanunları yürürlükten kaldırmak"],
+    "answer": 0
+  }
+]
