@@ -25,19 +25,9 @@
     "answer": 3
   },
   {
-    "q": "Soru: Devletin temel amaç ve görevleri hangi maddede düzenlenmiştir?",
-    "options": ["Madde 2", "Madde 5", "Madde 6", "Madde 7"],
-    "answer": 1
-  },
-  {
     "q": "Soru: Cumhurbaşkanının görevlerinden hangisi değildir?",
     "options": ["Kanunları yayımlamak", "Bakanları atamak", "TBMM'yi feshetmek", "Uluslararası anlaşmaları onaylamak"],
     "answer": 2
-  },
-  {
-    "q": "Soru: Anayasa'da eşitlik ilkesi hangi maddede yer alır?",
-    "options": ["Madde 10", "Madde 11", "Madde 12", "Madde 13"],
-    "answer": 0
   },
   {
     "q": "Soru: Devletin temel organlarından biri olmayan hangisidir?",
@@ -45,28 +35,13 @@
     "answer": 3
   },
   {
-    "q": "Soru: Anayasaya aykırı kanun hükümleri hangi maddede düzenlenmiştir?",
-    "options": ["Madde 11", "Madde 12", "Madde 13", "Madde 14"],
-    "answer": 0
-  },
-  {
     "q": "Soru: Temel hak ve hürriyetlerin sınırlanmasına aykırı olan hangisidir?",
     "options": ["Kanunla sınırlama", "Anayasaya aykırı sınırlama", "Demokratik toplum düzenine aykırı sınırlama", "Kamu güvenliği gerekçesiyle sınırlama"],
     "answer": 1
   },
   {
-    "q": "Soru: Cumhurbaşkanının görev ve yetkileri hangi maddede düzenlenmiştir?",
-    "options": ["Madde 104", "Madde 105", "Madde 106", "Madde 107"],
-    "answer": 0
-  },
-  {
     "q": "Soru: Yasama yetkisini kullanma yetkisi kime aittir?",
     "options": ["Cumhurbaşkanı", "TBMM", "Bakanlar Kurulu", "Anayasa Mahkemesi"],
-    "answer": 1
-  },
-  {
-    "q": "Soru: Anayasa Mahkemesi üyelerinin sayısı kaçtır?",
-    "options": ["9", "11", "13", "15"],
     "answer": 1
   },
   {
@@ -497,11 +472,6 @@
   {
     "q": "Aşağıdakilerden hangisi Cumhurbaşkanının görevlerinden biridir?",
     "options": ["Yasama yetkisini kullanmak", "Kanunları yürütmek", "Yargı kararlarını onaylamak", "Anayasa Mahkemesi başkanını atamak"],
-    "answer": 1
-  },
-  {
-    "q": "Türkiye'nin başkenti aşağıdakilerden hangisidir?",
-    "options": ["İstanbul", "Ankara", "İzmir", "Bursa"],
     "answer": 1
   },
   {
