@@ -1,4 +1,3 @@
-```json
 [
   {"q": "Yasama yetkisi TBMM'dedir.", "a": true},
   {"q": "Yasama yapma yetkisi TBMM'dedir.", "a": true},
@@ -249,4 +248,3 @@
   {"q": "WTO, uluslararası ticareti düzenleyen ve serbestleştirmeyi hedefleyen bir örgüttür.", "a": true},
   {"q": "OECD, ekonomik kalkınma ve işbirliğiini teşvik eden uluslararası bir örgüttür.", "a": true}
 ]
-```
