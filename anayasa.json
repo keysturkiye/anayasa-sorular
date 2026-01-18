@@ -1,5 +1,325 @@
 [
   {
+    "q": "I. Anayasada belirtilen normların anayasaya uygunluk denetimini yapmak II. Bazı kişileri göreviyle ilgili suçlardan dolayı Yüce Divan sıfatıyla yargılamak III. Siyasi partilerin kapatılması davalarına bakmak Yukarıdakilerden hangileri Anayasa Mahkemesinin görevleri arasında yer alır?",
+    "options": ["Yalnız I", "I ve II", "I ve III", "II ve III", "I, II ve III"],
+    "answer": 4
+  },
+  {
+    "q": "I. Partinin ideolojisinin toplum düzenine uymaması II. Partinin program ve tüzüğünün anayasaya aykırı olması III. Partinin yabancılardan maddi yardım alması Yukarıdakilerden hangileri siyasi partilerin kapatılma sebepleri arasında yer alır?",
+    "options": ["Yalnız I", "I ve II", "I ve III", "II ve III", "I, II ve III"],
+    "answer": 3
+  },
+  {
+    "q": "Anayasa Mahkemesinin siyasi partilerin kapatılmasına ya da devlet yardımından yoksun bırakılmasına karar verilebilmesi için toplantıya katılan Üyelerin kaçının oy çokluğu aranır?",
+    "options": ["1/2'sinin", "1/3'ünün", "1/4'ünün", "2/3'ünün", "1/6'sının"],
+    "answer": 3
+  },
+  {
+    "q": "Siyasi partilerin mali denetimini aşağıdaki mercilerden hangisi yapar?",
+    "options": ["Sayıştay", "Anayasa Mahkemesi", "Danıştay", "Yargıtay", "Devlet Denetleme Kurulu"],
+    "answer": 1
+  },
+  {
+    "q": "Bir milletvekilinin üyeliğine; istifa, devamsızlık, Üyelikle bağdaşmayan bir işin devam ettirilmesi hallerinde TBMM kararı ile son verilmesi durumunda, üyeliğin düşmesi kararının alınmasından itibaren kaç gün içinde Anayasa Mahkemesine iptal başvurusunda bulunulabilir?",
+    "options": ["3", "5", "7", "10", "15"],
+    "answer": 2
+  },
+  {
+    "q": "Anayasa Mahkemesi üyeleri kaç yıl için seçilirler?",
+    "options": ["5", "7", "10", "12", "15"],
+    "answer": 3
+  },
+  {
+    "q": "Anayasa Mahkemesinin somut norm denetiminde işin esasına girerek verdiği ret kararının Resmî Gazete'de yayımlanmasından sonra kaç yıl geçmedikçe aynı kanun hükmünün Anayasa'ya aykırılığı iddiasıyla tekrar başvuruda bulunulamaz?",
+    "options": ["3", "5", "7", "10", "15"],
+    "answer": 1
+  },
+  {
+    "q": "Anayasa Mahkemesinin kararlarının niteliğine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": ["Anayasa Mahkemesinin kararları kesindir.", "İptal kararları ivedi hâllerde gerekçesi yazılmadan açıklanabilir.", "Anayasa Mahkemesi, bir kanun hükmünü iptal ederken kanun koyucu gibi hareketle yeni bir uygulamaya yol açacak biçimde hüküm tesis edemez.", "İptal kararının yürürlüğe girişinin ertelendiği durumlarda TBMM, iptal kararının ortaya çıkardığı hukuki boşluğu dolduracak kanun teklifini öncelikle görüşüp karara bağlar.", "İptal kararı geriye yürüyemez."],
+    "answer": 0
+  },
+  {
+    "q": "Yargıtay üyeleri aşağıdaki mercilerin hangisi tarafından seçilir?",
+    "options": ["Hâkimler ve Savcılar Kurulu", "Yüksek Seçim Kurulu", "Danıştay", "Sayıştay", "Cumhurbaşkanı"],
+    "answer": 4
+  },
+  {
+    "q": "İdari yargıda 'istinaf' kanun yoluna başvuru aşağıdakilerden hangisine yapılır?",
+    "options": ["Yargıtay", "Danıştay", "Bölge adliye mahkemesi", "Bölge idare mahkemesi", "İdare mahkemesi"],
+    "answer": 3
+  },
+  {
+    "q": "I. Hâkimler ve savcılar azlolunamazlar. II. Kendileri isteseler bile Anayasa'da gösterilen yaştan önce emekliye ayrılamazlar. III. Bir mahkemenin veya kadronun kaldırılması sebebiyle de olsa aylık, ödenek ve diğer özlük haklarından yoksun bırakılamazlar. Hâkimlik ve savcılık teminatı ile ilgili olarak yukarıdakilerden hangileri doğrudur?",
+    "options": ["Yalnız I", "Yalnız II", "I ve III", "II ve III", "I ve II"],
+    "answer": 2
+  },
+  {
+    "q": "I. Uyuşmazlık Mahkemesi II. Sayıştay III. Danıştay Yukarıdakilerden hangileri yüksek mahkemeler arasında yer alır?",
+    "options": ["Yalnız I", "I ve II", "I ve III", "II ve III", "I, II ve III"],
+    "answer": 4
+  },
+  {
+    "q": "Anayasa Mahkemesinin üye sayısı aşağıdakilerden hangisidir?",
+    "options": ["11", "13", "15", "17", "22"],
+    "answer": 2
+  },
+  {
+    "q": "2010 Anayasa değişikliğine göre, Anayasa Mahkemesi üyeleri kaç yıl için seçilirler?",
+    "options": ["4", "5", "8", "10", "12"],
+    "answer": 4
+  },
+  {
+    "q": "Aşağıdakilerden hangisi bir ilk derece mahkemesi değildir?",
+    "options": ["Sulh hukuk mahkemesi", "Asliye hukuk mahkemesi", "İdare mahkemesi", "Bölge adliye mahkemesi", "Asliye ceza mahkemesi"],
+    "answer": 3
+  },
+  {
+    "q": "İdari makamların, idare hukuku alanındaki faaliyetlerinden doğan uyuşmazlıkların çözümlendiği yargı kolu aşağıdakilerden hangisidir?",
+    "options": ["Adli yargı", "Uyuşmazlık yargısı", "Hesap yargısı", "İdari yargı", "Anayasa yargısı"],
+    "answer": 3
+  },
+  {
+    "q": "İdare ve vergi mahkemelerinin tek hâkimle verdiği kararlara karşı itiraz, aşağıdakilerden hangisine yapılır?",
+    "options": ["Ağır ceza mahkemesi", "Danıştay", "Bölge adliye mahkemesi", "Uyuşmazlık mahkemesi", "Bölge idare mahkemesi"],
+    "answer": 4
+  },
+  {
+    "q": "Uyuşmazlık Mahkemesi bir başkanla birlikte kaç asıl ve kaç yedek üyeden oluşur?",
+    "options": ["12 asıl - 12 yedek", "10 asıl-10 yedek", "8 asıl-4 yedek", "17 asıl - 4 yedek", "6 asıl 6 yedek"],
+    "answer": 2
+  },
+  {
+    "q": "I. Cumhurbaşkanı II. Meclis üye tam sayısının 1/5'i tutarındaki milletvekili III. Siyasi parti grupları Yukarıdakilerden hangileri kanunların esas yönünden aykırılığı gerekçesi ile Anayasa Mahkemesine iptal davası açmaya yetkilidir?",
+    "options": ["Yalnız I", "Yalnız II", "I ve II", "I ve III", "I, II ve III"],
+    "answer": 4
+  },
+  {
+    "q": "Hâkimler ve Savcılar idari görevleri açısından aşağıdakilerden hangisine bağlılardır?",
+    "options": ["Cumhurbaşkanı yardımcısı", "Hâkimler ve Savcılar Kurulu", "Anayasa Mahkemesi", "Cumhurbaşkanı", "Adalet Bakanlığı"],
+    "answer": 3
+  },
+  {
+    "q": "Aşağıdakilerden hangisi vergi mahkemelerinin görev alanına girmez?",
+    "options": ["Vergiler", "Harçlar", "Resimler", "Kamulaştırma bedeli", "Şerefiyeler"],
+    "answer": 3
+  },
+  {
+    "q": "İdari yargı kolunun genel görevli mahkemesi aşağıdakilerden hangisidir?",
+    "options": ["Danıştay", "İdare mahkemeleri", "Vergi mahkemeleri", "Disiplin mahkemeleri", "Bölge idare mahkemeleri"],
+    "answer": 1
+  },
+  {
+    "q": "Aşağıdakilerden hangisi 2017 Anayasa değişikliği ile Yüce Divanda yargılanacaklar arasına eklenmiştir?",
+    "options": ["Genelkurmay Başkanı", "Adalet Bakanı", "Kara Kuvvetleri Komutanı", "Cumhurbaşkanı yardımcıları", "TBMM Başkanı"],
+    "answer": 3
+  },
+  {
+    "q": "Aşağıdakilerden hangisi mali yargının görev alanı dışındadır?",
+    "options": ["Sosyal Güvenlik Kurumu", "Türkiye İş Kurumu", "Belediyeler", "Türk Silahlı Kuvvetlerinin idari malları", "Yargı organları"],
+    "answer": 0
+  },
+  {
+    "q": "İdari yargı kolunun yüksek mahkemesi olan ve aynı zamanda merkeze yardımcı kuruluş sıfatı taşıyan mahkeme aşağıdakilerden hangisidir?",
+    "options": ["Danıştay", "Sayıştay", "İdare Mahkemesi", "Anayasa Mahkemesi", "Uyuşmazlık Mahkemesi"],
+    "answer": 0
+  },
+  {
+    "q": "Adli yargı koluna mensup mahkemelerin verdiği kararlara karşı temyiz mercisi aşağıdakilerden hangisidir?",
+    "options": ["Yargıtay", "Anayasa Mahkemesi", "Danıştay", "Bölge adliye mahkemesi", "Sayıştay"],
+    "answer": 0
+  },
+  {
+    "q": "Aşağıdakilerden hangisi Anayasa Mahkemesinin yargısal denetimi kapsamında değildir?",
+    "options": ["Meclis İç Tüzüğü", "Bütçe kanunu", "Cumhurbaşkanlığı Kararnamesi", "Milletvekilliğinin düşürülmesine yönelik itiraz", "Uluslararası antlaşmalar"],
+    "answer": 1
+  },
+  {
+    "q": "Danıştay ile ilgili olarak aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": ["İdari yargının en yüksek mahkemesidir.", "İdari kurumlarla yaşanılan ve idari işlemlere dayanan bedel uyuşmazlığı davalarına bakar.", "İdare mahkemelerinin üç hâkimle verdiği kararlara karşı itiraz mercisidir.", "Başkanı kendi genel kurulunca kendi üyeleri arasından seçilir.", "Aynı zamanda merkeze yardımcı kuruluş sıfatı taşır."],
+    "answer": 2
+  },
+  {
+    "q": "Uyuşmazlık Mahkemesi Başkanı aşağıdakilerden hangisi tarafından seçilir?",
+    "options": ["Cumhurbaşkanı", "Yüksek mahkemelerin başkanları", "Anayasa Mahkemesi", "Hâkimler ve Savcılar Kurulu", "TBMM"],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisi adli yargı sisteminin temyiz mahkemesidir?",
+    "options": ["Danıştay", "Anayasa Mahkemesi", "Sayıştay", "Yargıtay", "Bölge adliye mahkemesi"],
+    "answer": 3
+  },
+  {
+    "q": "Hâkimler ve Savcılar Kurulunun kaç üyesi Cumhurbaşkanı tarafından seçilir?",
+    "options": ["3", "4", "7", "10", "13"],
+    "answer": 1
+  },
+  {
+    "q": "Aşağıdakilerden hangisi yüksek mahkemeler arasında sayılamaz?",
+    "options": ["Uyuşmazlık Mahkemesi", "Yargıtay", "Danıştay", "Anayasa Mahkemesi", "Sayıştay"],
+    "answer": 4
+  },
+  {
+    "q": "Yargıtay ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "options": ["Adliye mahkemeleri tarafından verilen kararların son inceleme yeridir.", "Üyeleri ve başsavcısı, HSK tarafından seçilir.", "Üyelerinin görev süresi on iki yıldır.", "Organları; Hukuk Genel Kurulu, Ceza Genel Kurulu ve Büyük Genel Kuruldur.", "Başkanı, genel kurul tarafından gizli oy ile seçilir."],
+    "answer": 1
+  },
+  {
+    "q": "Sayıştay ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "options": ["Tüm üyelerini TBMM seçer.", "Denetimlerini TBMM adına yapar.", "Kararları kesindir.", "Mali denetim alanındaki yüksek mahkemedir.", "Anayasal bir kurumdur."],
+    "answer": 0
+  },
+  {
+    "q": "Aşağıdakilerden hangisi Sayıştayın görevleri arasında yer almaz?",
+    "options": ["Siyasi partilerin mali denetimini yapmak", "Sosyal güvenlik kurumlarının bütün gelir ve giderlerini denetlemek", "Mahalli idarelerin hesap ve işlemlerini denetlemek", "Merkezi yönetim bütçesi kapsamındaki kamu idarelerinin mallarını denetlemek", "Mahalli idarelerin hesap ve işlemlerini kesin hükme bağlamak"],
+    "answer": 0
+  },
+  {
+    "q": "Hâkimler ve Savcılar Kurulu üyeliklerinden her hangi bir neden ile boşalma olması durumunda yeni üye seçimi kaç gün içinde yapılmalıdır?",
+    "options": ["10", "15", "30", "45", "60"],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisinin tüm üyeleri TBMM tarafından seçilir?",
+    "options": ["Yargıtay", "Danıştay", "Sayıştay", "Uyuşmazlık Mahkemesi", "Anayasa Mahkemesi"],
+    "answer": 2
+  },
+  {
+    "q": "Soyut norm denetimi ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "options": ["Kanunun uygulandığı herhangi bir somut olay yoktur.", "Dileyen herkes tarafından soyut norm denetimi talep edilebilir.", "Bu denetim yolu iptal davası aracılığıyla yapılır.", "Kanun maddesinin anayasaya aykırılığı iddiasıyla açılan bir davadır.", "Anayasa'da belirtilen şartlar altında bu yola başvurulabilir."],
+    "answer": 1
+  },
+  {
+    "q": "Hâkimler ve Savcılar Kuruluna aşağıdakilerden hangisi içinden üye seçilmez?",
+    "options": ["Yargıtay", "Danıştay", "Serbest avukatlar", "YÖK üyeleri", "Öğretim üyeleri"],
+    "answer": 4
+  },
+  {
+    "q": "1982 Anayasası'na göre, Cumhurbaşkanı aşağıdakilerin hangisi içinden Anayasa Mahkemesine doğrudan üye seçmez?",
+    "options": ["1. sınıf hâkim ve savcılar", "Üst düzey kamu yöneticileri", "Serbest avukatlar", "Anayasa Mahkemesi raportörleri", "Öğretim üyeleri"],
+    "answer": 2
+  },
+  {
+    "q": "1982 Anayasası'na göre, TBMM tarafından Hâkimler ve Savcılar Kuruluna kaç üye seçilmektedir?",
+    "options": ["3", "4", "7", "8", "9"],
+    "answer": 4
+  },
+  {
+    "q": "Aşağıdakilerden hangisinin Anayasa Mahkemesinde kanunlara yönelik şekil denetimine dayalı iptal davası açma hakkı vardır?",
+    "options": ["Ana muhalefet partisi Meclis grubu", "İktidar partisi Meclis grubu", "TBMM Başkanı", "Yargıtay Cumhuriyet Başsavcısı", "Meclis üye tam sayısının 1/5'i"],
+    "answer": 4
+  },
+  {
+    "q": "Anayasa Mahkemesi üyelerinin görev süresi aşağıdakilerden hangisidir?",
+    "options": ["4 yıl", "5 yıl", "8 yıl", "10 yıl", "12 yıl"],
+    "answer": 4
+  },
+  {
+    "q": "Aşağıdakilerden hangisi Anayasa Mahkemesinin görevlerinden biri değildir?",
+    "options": ["Siyasi partilerin kapatılması", "Kanunların şekil açısından iptali", "Yüce Divan sıfatı ile yargılama", "Siyasi partilerin mali denetimi", "Anayasa değişikliklerinin esas yönünden iptali"],
+    "answer": 1
+  },
+  {
+    "q": "Aşağıdakilerden hangisi somut norm denetimi yoluyla Anayasa Mahkemesine başvuramaz?",
+    "options": ["Ağır ceza mahkemesi", "Hâkimler ve Savcılar Kurulu", "Asliye ceza mahkemesi", "İdare mahkemesi", "Vergi mahkemesi"],
+    "answer": 1
+  },
+  {
+    "q": "Aşağıdakilerden hangisi somut norm denetimine konu edilebilir?",
+    "options": ["Kıyafet yönetmeliği", "Fizik ve kimliğin tespiti hakkında yönetmelik", "Türk Ceza Kanunu'nun 147. maddesi", "Meclis İç Tüzüğü", "Anayasa değişikliği"],
+    "answer": 2
+  },
+  {
+    "q": "1982 Anayasası'na göre, Yargıtay üyelerini aşağıdakilerden hangisi seçer?",
+    "options": ["Cumhurbaşkanı", "TBMM", "Hâkimler ve Savcılar Kurulu", "Adalet Bakanlığı", "Anayasa Mahkemesi"],
+    "answer": 0
+  },
+  {
+    "q": "Aşağıdakilerden hangisi görülmekte olan bir davada uygulanacak kanunun Anayasa'ya aykırılığı iddiasıyla somut norm denetimine başvuramaz?",
+    "options": ["Davanın savcısı", "Davanın hâkimi", "Hâkim takdire şayan görürse davalı taraf", "Hâkim takdire şayan görürse davacı taraf", "Hâkim takdire şayan görürse davanın taraflarının vekilleri"],
+    "answer": 1
+  },
+  {
+    "q": "İtiraz davası işleyiş usulü ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "options": ["Mahkeme, hükmü Anayasa'ya aykırı bulursa dosyayı Anayasa Mahkemesine gönderir.", "Anayasa Mahkemesi, öngörülen süre içinde kararını vermezse bu süre 3 ay daha uzatılır.", "Anayasa Mahkemesi karar verene kadar davanın görüldüğü mahkeme, dosyayı bekletici mesele yapar.", "Anayasa Mahkemesi, itiraz davasını ret kararı verirse hâkim, mevcut kanun hükmüyle kararını verir.", "Hâkim, karar verdikten sonra Anayasa Mahkemesi kanun hükmünü iptal etse bile sonuçlanmış davayı etkilemez."],
+    "answer": 3
+  },
+  {
+    "q": "Anayasa Mahkemesi, itiraz davasında dosya kendine ulaştıktan sonra ne kadar zaman içinde kararını açıklar?",
+    "options": ["1 yıl", "3 ay", "6 ay", "5 ay", "1 ay"],
+    "answer": 2
+  },
+  {
+    "q": "Anayasa Mahkemesinde görülen itiraz başvurularında 'on yıl yasağı' ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "options": ["Anayasa Mahkemesinin itiraz davasını ret kararının üzerinden on yıl geçmedikçe aynı kanun hükmü için tekrar itiraz yoluna gidilemez.", "İlk ret kararı, iptal davası sonucu verilmiş ise bu durumda on yıl yasağı geçerli değildir.", "On yıl yasağı tüm mevzuatları kapsar.", "Her durumda itiraz davası sonuçları Resmi Gazete'de yayımlanır.", "Ortaya çıkan sonuç, objektiftir yani herkesi kapsar."],
+    "answer": 3
+  },
+  {
+    "q": "Aşağıdakilerden hangisi Türk yargı sisteminde yetkili mahkemelerden biri değildir?",
+    "options": ["Bölge idare mahkemesi", "Ticaret mahkemesi", "Asliye hukuk mahkemesi", "Sulh ceza mahkemesi", "İcra mahkemesi"],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisi Anayasa Mahkemesinin görevleri arasında yer alır?",
+    "options": ["Yönetmeliklerin yargısal denetimini yapmak", "Anayasa değişikliklerinin esas yönünden yargısal denetimini yapmak", "Bireysel başvuruları sonuçlandırmak", "Siyasi partilerin kurulmasına izin vermek", "Danıştay üyelerinin bir kısmını seçmek"],
+    "answer": 2
+  },
+  {
+    "q": "Hâkimler ve Savcılar Kurulunun aşağıdaki kararlarından hangisine karşı, yargı yolu açıktır?",
+    "options": ["Bir yerde mahkeme kurulması teklifini karara bağlamak", "Hâkimlere disiplin cezası vermek", "Hâkimleri yükseltmek ve birinci sınıfa ayırma kararı vermek", "Hâkimleri görevden uzaklaştırmak", "Hâkimleri meslekten ihraç etmek"],
+    "answer": 4
+  },
+  {
+    "q": "Sayıştaya ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": ["Siyasi partilerin mali denetimini yapar.", "Mahkeme olmasa da Anayasa'da yargı bölümünde düzenlenmiştir.", "Üyelerinin tamamı TBMM tarafından seçilir.", "Kararları kesindir, aleyhine yargı yoluna gidilemez.", "Mali denetim kuruludur."],
+    "answer": 0
+  },
+  {
+    "q": "Aşağıdakilerden hangisi idari yargı alanında görev yapan mahkemelerden biridir?",
+    "options": ["İcra mahkemesi", "Vergi mahkemesi", "Bölge adliye mahkemesi", "Uyuşmazlık Mahkemesi", "Yargıtay"],
+    "answer": 3
+  },
+  {
+    "q": "Anayasa Mahkemesinin aşağıdaki kararlarından hangisine toplantıya katılanlar en az üçte iki çoğunlukla karar verebilir?",
+    "options": ["Kanunların şekil yönünden iptali", "Kanunların esas yönünden iptali", "Bireysel başvuru sonucunda verdiği karar", "Siyasi partilerin devlet yardımından yoksun bırakılması kararı", "Milletvekilliğinin düşürülmesi kararına karşı yapılan itiraz sonunda verdiği karar"],
+    "answer": 1
+  },
+  {
+    "q": "İtiraz yolu (somut norm denetimi) aşağıdaki normlardan hangisinin herhangi bir maddesi için işletilebilir?",
+    "options": ["Anayasa", "Cumhurbaşkanlığı Kararnamesi", "TBMM İç Tüzüğü", "Yönetmelik", "Genelge"],
+    "answer": 1
+  },
+  {
+    "q": "Aşağıdakilerden hangisi Anayasa Mahkemesi tarafından Yüce Divan sıfatıyla yargılanabileceklerden biridir?",
+    "options": ["Milletvekilleri", "Bakan yardımcıları", "Danıştay Başsavcısı", "Bölge adliye mahkemesi hâkimleri", "Jandarma Genel Komutanı"],
+    "answer": 0
+  },
+  {
+    "q": "Aşağıdaki normlardan hangisi için dava açma süresi diğerlerinden farklıdır?",
+    "options": ["Kanunların şekil yönünden denetimi", "Kanunların esas yönünden denetimi", "Cumhurbaşkanlığı Kararnamelerinin şekil yönünden denetimi", "Cumhurbaşkanlığı Kararnamelerinin esas yönünden denetimi", "TBMM İç Tüzüğü'nün şekil yönünden denetimi"],
+    "answer": 4
+  },
+  {
+    "q": "Aşağıdakilerden hangisi Anayasa Mahkemesinin denetimine tabi işlemler arasında yer alır?",
+    "options": ["İnkılap Kanunları", "Yönetmelikler", "Milletlerarası antlaşmalar", "Cumhurbaşkanı kararları", "TBMM İç Tüzüğü"],
+    "answer": 4
+  },
+  {
+    "q": "Danıştay başkanını aşağıdakilerden hangisi seçer?",
+    "options": ["Cumhurbaşkanı", "Hâkimler ve Savcılar Kurulu", "Mahkemenin kendi üyeleri", "Anayasa Mahkemesi üyeleri", "Adalet Bakanı"],
+    "answer": 2
+  },
+  {
+    "q": "Cumhurbaşkanı, Yargıtay Cumhuriyet başsavcısını Yargıtay Büyük Genel Kurulunun gösterdiği kaç aday içinden seçer?",
+    "options": ["3", "4", "5", "6", "7"],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisinin Anayasa Mahkemesine üye seçiminde herhangi bir rolü yoktur?",
+    "options": ["Yargıtay", "Danıştay", "Sayıştay", "Devlet Denetleme Kurulu", "Yükseköğretim Kurulu"],
+    "answer": 3
+  },
+  {
     "q": "Soru: Türkiye Cumhuriyeti Anayasası hangi yıl kabul edilmiştir?",
     "options": ["1924", "1961", "1982", "2001"],
     "answer": 2
@@ -210,7 +530,7 @@
     "answer": 1
   },
   {
-    "q": "Soru: AYM üyelerinin görev süresi hangi süredir?",
+    "q": "Soru: AYM üyelerinin görev süresi kaç yıldır?",
     "options": ["6 yıl", "8 yıl", "10 yıl", "12 yıl"],
     "answer": 3
   },
@@ -327,17 +647,7 @@
   {
     "q": "Soru: Cumhurbaşkanı seçimleri kaç yılda bir yapılır?",
     "options": ["5", "6", "7", "8"],
-    "answer": 2
-  },
-  {
-    "q": "Soru: Anayasada belirtilen laiklik ilkesi hangi maddede yer alır?",
-    "options": ["Madde 2", "Madde 4", "Madde 10", "Madde 12"],
     "answer": 0
-  },
-  {
-    "q": "Soru: Cumhurbaşkanı, bakanları atarken kimin onayını alır?",
-    "options": ["Hiçbiri", "TBMM", "Danıştay", "Anayasa Mahkemesi"],
-    "answer": 1
   },
   {
     "q": "Soru: Türkiye Cumhuriyeti Anayasası hangi sistemle yönetilir?",
