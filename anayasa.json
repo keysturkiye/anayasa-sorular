@@ -682,7 +682,7 @@
   {
     "q": "Soru: Cumhurbaşkanı hangi durumlarda TBMM'yi feshedebilir?",
     "options": ["Hükümet istifa ederse", "Her zaman", "Savaşta", "Hiçbir zaman"],
-    "answer": 0
+    "answer": 3
   },
   {
     "q": "Soru: Türkiye Cumhuriyeti'nin resmi dini hangisidir?",
