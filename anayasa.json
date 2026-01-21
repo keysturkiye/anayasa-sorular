@@ -165,11 +165,6 @@
     "answer": 1
   },
   {
-    "q": "Sayıştay ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
-    "options": ["Tüm üyelerini TBMM seçer.", "Denetimlerini TBMM adına yapar.", "Kararları kesindir.", "Mali denetim alanındaki yüksek mahkemedir.", "Anayasal bir kurumdur."],
-    "answer": 4
-  },
-  {
     "q": "Aşağıdakilerden hangisi Sayıştayın görevleri arasında yer almaz?",
     "options": ["Siyasi partilerin mali denetimini yapmak", "Sosyal güvenlik kurumlarının bütün gelir ve giderlerini denetlemek", "Mahalli idarelerin hesap ve işlemlerini denetlemek", "Merkezi yönetim bütçesi kapsamındaki kamu idarelerinin mallarını denetlemek", "Mahalli idarelerin hesap ve işlemlerini kesin hükme bağlamak"],
     "answer": 0
@@ -762,7 +757,7 @@
   {
     "q": "Aşağıdakilerden hangisi olağanüstü hal ilanını gerektirmez?",
     "options": ["Doğal afet", "Ekonomik kriz", "Salgın hastalık", "Savaş tehdidi"],
-    "answer": 3
+    "answer": 1
   },
   {
     "q": "Anayasa değişikliğinin iptali için başvuru süresi kaç gündür?",
