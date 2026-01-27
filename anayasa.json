@@ -507,7 +507,7 @@
   {
     "q": "Soru: Anayasa Mahkemesi üyeleri ne kadar süre görev yapar?",
     "options": ["6 yıl", "8 yıl", "10 yıl", "12 yıl"],
-    "answer": 2
+    "answer": 3
   },
   {
     "q": "Soru: Anayasa Mahkemesi üyelerinin yaş sınırı kaçtır?",
@@ -555,11 +555,6 @@
     "answer": 3
   },
   {
-    "q": "Soru: Cumhurbaşkanının TBMM'yi feshetme yetkisi hangi durumla sınırlıdır?",
-    "options": ["Hiçbir şekilde", "Sadece seçim döneminde", "Hükümet istifa ederse", "Anayasa Mahkemesi izniyle"],
-    "answer": 2
-  },
-  {
     "q": "Soru: Anayasaya göre siyasi partilerin kapatılması hangi organ tarafından yapılır?",
     "options": ["Cumhurbaşkanı", "TBMM", "Anayasa Mahkemesi", "Danıştay"],
     "answer": 2
@@ -568,11 +563,6 @@
     "q": "Soru: Cumhurbaşkanının atadığı bakanlar hangi organın onayına tabidir?",
     "options": ["Hiçbiri", "TBMM", "Danıştay", "Yargıtay"],
     "answer": 1
-  },
-  {
-    "q": "Soru: Anayasa değişiklikleri hangi süreçle yürürlüğe girer?",
-    "options": ["TBMM kararıyla", "Cumhurbaşkanı kararıyla", "Referandumla", "Anayasa Mahkemesi kararıyla"],
-    "answer": 2
   },
   {
     "q": "Soru: Temel hak ve özgürlüklerin korunmasında hangi organ yetkilidir?",
@@ -1055,8 +1045,102 @@
     "answer": 3
   },
   {
-    "q": "Cumhurbaşkanının aşağıdaki yetkilerden hangisi vardır?",
-    "options": ["TBMM'yi feshetmek", "Anayasa Mahkemesini kapatmak", "Yargıtay üyelerini doğrudan atamak", "Kanunları yürürlükten kaldırmak"],
-    "answer": 0
-  }
+      "q": "Soru: Aşağıdakilerden hangisi sınırlı ehliyetsizlerin tek başına yapabilecekleri işlemlerden biri değildir?",
+      "options": [
+        "Bağışlamanın kabulü",
+        "Kefil Olmak",
+        "Nişanlanma",
+        "Soy bağının reddi",
+        "Ergin kılınmayı talep etme"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Soru: Gaiplik kararı vermeye yetkili mahkeme aşağıdakilerden hangisinde doğru verilmiştir?",
+      "options": [
+        "Asliye Hukuk Mahkemesi",
+        "Aile Mahkemesi",
+        "Sulh Hukuk Mahkemesi",
+        "İdare Mahkemesi",
+        "Ticaret Mahkemesi"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Soru: Aşağıdakilerden hangisi hukukun bağlayıcı kaynakları arasında yer almaz?",
+      "options": [
+        "Kanun",
+        "Örf ve Adet Hukuku",
+        "İçtihatı Birleştirme Kararları",
+        "Yargısal İçtihatlar",
+        "Yönetmelikler"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Soru: Aşağıdakilerden hangisi sosyal devletin amaçlarından biridir?",
+      "options": [
+        "Yasaların Anayasa’ya uygunluğunu sağlamak",
+        "İdarenin mali denetimini yapmak",
+        "Vatandaşlara fırsat eşitliği sağlamak",
+        "Siyasi partilerin iktidar yarışını eşit bir ortamda yapmalarını sağlamak",
+        "Seçimlerin yargı organlarının gözetim ve denetimi altında yapılmasını sağlamak"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Soru: 1982 Anayasası’na göre meclis soruşturmasına ilişkin aşağıda verilen bilgilerden hangisi yanlıştır?",
+      "options": [
+        "Cumhurbaşkanı yardımcısı ve bakanların görevleriyle ilgili cezai sorumluluklarının araştırılmasını sağlayan denetim aracıdır.",
+        "TBMM üye tam sayısının salt çoğunluğunun vereceği önerge soruşturma açılması istenebilir.",
+        "TBMM üye sayısının beşte üçünün açık oyuyla soruşturma açılmasına karar verebilir.",
+        "Soruşturmayı 15 kişilik özel bir komisyon yürütür.",
+        "Soruşturma raporu 2 ay içerisinde Meclis Başkanlığına sunulur."
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Soru: 1982 Anayasası’na göre Devlet Denetleme Kurulu aşağıda verilen kurumlardan hangisini denetleyemez?",
+      "options": [
+        "Kamu kurumu niteliğindeki meslek kuruluşları",
+        "Kamuya yararlı vakıf ve dernekler",
+        "Yargı organları",
+        "Her düzeydeki işçi ve iş veren üst kuruluşları",
+        "Türk Silahlı Kuvvetleri"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Soru: Aşağıdakilerden hangisi doğrudan halk tarafından seçilmez?",
+      "options": [
+        "Muhtar",
+        "İhtiyar Heyeti",
+        "Belediye Başkanı",
+        "Belediye Encümeni",
+        "Belediye Meclisi"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Soru: Aşağıdan verilenlerden hangisi Türkiye Cumhuriyeti Merkez teşkilatı içinde yer almaz?",
+      "options": [
+        "Cumhurbaşkanlığı",
+        "Bakanlıklar",
+        "İl Genel İdaresi",
+        "İl Özel İdaresi",
+        "İlçe Genel Meclisi"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Soru: Merkezden yönetimin sakıncalarını azaltmak için il yönetiminde kullanılan merkez adına karar alma yetkisine ne ad verilir?",
+      "options": [
+        "Yetki genişliği",
+        "Kanunsuz Emir",
+        "Yerindelik",
+        "Liyakat",
+        "Yerinden yönetim"
+      ],
+      "answer": 0
+    },
 ]
