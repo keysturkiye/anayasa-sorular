@@ -1,0 +1,1175 @@
+ [
+{q:"Türkiye’de saltanatın kaldırılması hangi tarihte yapılmıştır?", options:["29 Ekim 1923","1 Kasım 1922","10 Kasım 1938","23 Nisan 1920"], answer:1},
+{q:"Mustafa Kemal Atatürk’ün Samsun’a çıkışı hangi tarihtir?", options:["19 Mayıs 1919","15 Mayıs 1919","18 Mayıs 1919","20 Mayıs 1919"], answer:0},
+{q:"TBMM’nin açılması hangi gündür?", options:["23 Nisan 1920","24 Nisan 1920","25 Nisan 1920","22 Nisan 1920"], answer:0},
+{q:"Misak-ı Millî kararları hangi kongrede alınmıştır?", options:["Erzurum","Sivas","Amasya","Balıkesir"], answer:1},
+{q:"Ankara’nın başkent ilan edilmesi hangi yılda gerçekleşmiştir?", options:["1922","1923","1924","1925"], answer:1},
+{q:"Lozan Antlaşması hangi yılda imzalanmıştır?", options:["1922","1923","1924","1925"], answer:2},
+{q:"Halifeliğin kaldırılması hangi tarihli kararla yapılmıştır?", options:["3 Mart 1924","1 Kasım 1922","29 Ekim 1923","24 Temmuz 1923"], answer:0},
+{q:"İzmir İktisat Kongresi hangi yılda düzenlenmiştir?", options:["1921","1922","1923","1924"], answer:3},
+{q:"Medeni Kanun TBMM’de kabul edildiği yıl hangisidir?", options:["1924","1925","1926","1927"], answer:2},
+{q:"Tekke ve zaviyelerin kapatılması hangi kanunla yapılmıştır?", options:["Law 677","Law 431","Law 612","Law 428"], answer:3},
+{q:"Şapka Kanunu kaç yılında kabul edilmiştir?", options:["1923","1924","1925","1928"], answer:3},
+{q:"Latin harflerinin kabulü hangi tarihte gerçekleşmiştir?", options:["1 Kasım 1928","1 Kasım 1929","29 Ekim 1928","29 Ekim 1929"], answer:0},
+{q:"Kadınlara seçme ve seçilme hakkı hangi yıl verilmiştir?", options:["1930","1933","1934","1935"], answer:2},
+{q:"İzmir İktisat Kongresinde en çok hangi konu ön plana çıkmıştır?", options:["Tarım reformu","Sanayileşme","Ekonomik bağımsızlık","Eğitim reformu"], answer:2},
+{q:"Türkiye’de çok partili hayata geçişin ilk adımı hangi yıl atılmıştır?", options:["1938","1945","1950","1946"], answer:3},
+{q:"Montrö Boğazlar Sözleşmesi hangi yıl imzalanmıştır?", options:["1934","1935","1936","1937"], answer:1},
+{q:"Takriri Sükûn Kanunu hangi olay sonrası çıkarılmıştır?", options:["1925 Şeyh Sait İsyanı","1923 Terakkiperver Cumhuriyet Fırkası","1926 Menemen Olayı","1930 Serbest Cumhuriyet Fırkası"], answer:0},
+{q:"Köy Enstitüleri hangi yıl açılmıştır?", options:["1935","1936","1940","1942"], answer:1},
+{q:"Türk tarihinin çağdaşlaşma süreci hangi ilkeyi vurgular?", options:["Milliyetçilik","Bağımsızlık","Laiklik","Ulusal egemenlik"], answer:3},
+{q:"“Onuncu Yıl” nutku hangi yılda okunmuştur?", options:["1933","1934","1935","1936"], answer:1},
+{q:"1921 Anayasası’nın diğer adı nedir?", options:["Teşkilat-ı Esasiye Kanunu","Misak-ı Millî","
+ Anayasa Kanunu","Teşkilat-ı Esasi"], answer:3},
+{q:"1924 Anayasası ile hangi kurum kaldırılmıştır?", options:["Halifelik","Saltanat","Şer’iye ve Evkaf Vekâleti","İrtica"], answer:2},
+{q:"Türkiye Cumhuriyeti’nde ilk parti hangisidir?", options:["Serbest Fırka","Cumhuriyet Halk Fırkası","Terakkiperver Cumhuriyet Fırkası","Demokrat Parti"], answer:2},
+{q:"Balkan Paktı hangi yıl imzalanmıştır?", options:["1930","1933","1934","1936"], answer:3},
+{q:"1928 yılında çıkarılan Türk Harfleri Kanunu’nun amacı nedir?", options:["Okur-yazarlığı artırmak","Çok partili rejimi hızlandırmak","Dini kurumları zayıflatmak","Kapitalizmi geliştirmek"], answer:0},
+{q:"II. Dünya Savaşı sonrası Türkiye’nin çok partili hayata geçmesinde hangi ülke örnek olmuştur?", options:["ABD","SSCB","İngiltere","Fransa"], answer:2},
+{q:"Balkan Paktı’nın amacı nedir?", options:["Ekonomik işbirliği","Bölgesel savunma","Kültürel değişim","Tarım politikası"], answer:1},
+{q:"1930’da kurulan Serbest Cumhuriyet Fırkası ne kadar süre sonra kapatılmıştır?", options:["15 gün","3 ay","6 ay","1 yıl"], answer:1},
+{q:"10 Kasım 1938’de Atatürk’ün vefatının ardından TBMM ne yapmıştır?", options:["İstiklal Marşı kabul edildi","Meclis tatil edildi","Milli matem ilan edildi","Anayasa değiştirildi"], answer:2},
+{q:"Lozan Antlaşması’nın onaylanmasıyla hangi ordu görevi sona ermiştir?", options:["Kuvâ-yı Millîye","Düzenli Ordu","Kuvâ-yı Inzibâtiye","Düşman işgali"], answer:0},
+{q:"Türkiye Cumhuriyeti’nde 'Milli egemenlik' ilkesinin anayasal ifadesi hangi yılda yapılmıştır?", options:["1921","1923","1924","1937"], answer:2},
+{q:"Çağdaşlaşma hamlesi kapsamında kadınlara hangi alanda öncelik verilmiştir?", options:["Ekonomi","Eğitim","Siyaset","Spor"], answer:1},
+{q:"“Onuncu Yıl Marşı” hangi gelişmeyi kutlamak için yazılmıştır?", options:["Cumhuriyetin 5. yılı","Türk ordusunun zaferi","Cumhuriyetin 10. yılı","TBMM’nin 10. yılı"], answer:2},
+{q:"Ankara Hukuk Fakültesi’nin kuruluş yılı hangisidir?", options:["1925","1926","1927","1928"], answer:1},
+{q:"“Kadınlar milletvekili seçilebilir” düzenlemesi hangi tarihte hayata geçmiştir?", options:["1930","1933","1934","1935"], answer:2},
+{q:"Türkiye’nin NATO’ya üyelik gerçekleşmesi hangi yıldadır?", options:["1947","1949","1952","1955"], answer:2},
+ {
+     "q": "Mustafa Kemal Atatürk Artık İstanbul Anadolu'ya hâkim değil, tabi olmak zorundadır. sözünü nerede söylemiştir?",
+     "options": ["Erzurum Kongresi", "Amasya Genelgesi", "Sivas Kongresi", "Havza Genelgesi"],
+     "answer": 1
+   },
+   {
+     "q": "Osmanlı Devleti'nin resmen yok sayıldığı durum hangisidir?",
+     "options": ["Misak-ı Milli'nin kabulü", "Mudanya Ateşkesi", "Saltanatın kaldırılması", "Cumhuriyetin ilanı"],
+     "answer": 2
+   },
+   {
+     "q": "Ulusal sınırlar içinde vatan bir bütündür, bölünemez. maddesi nerede kabul edilmiştir?",
+     "options": ["TBMM'nin açılışı", "Amasya Görüşmesi", "Sivas Kongresi", "Erzurum Kongresi"],
+     "answer": 3
+   },
+   {
+     "q": "TBMM'nin çıkardığı ilk kanun hangisidir?",
+     "options": ["İstiklal Marşı Kanunu", "Teşkilat-ı Esasiye Kanunu", "Ağnam Vergisi Kanunu", "Hıyanet-i Vataniye Kanunu"],
+     "answer": 2
+   },
+   {
+     "q": "Taraf değiştiren ilk devlet hangisidir?",
+     "options": ["İtalya", "Avusturya", "Almanya", "Bulgaristan"],
+     "answer": 0
+   },
+   {
+     "q": "Osmanlı Devleti'nin fiilen yok sayıldığı antlaşma hangisidir?",
+     "options": ["Sevr Antlaşması", "Lozan Antlaşması", "Mudanya Ateşkesi", "Mondros Ateşkes Antlaşması"],
+     "answer": 3
+   },
+   {
+     "q": "Amasya Görüşmesi'ne İstanbul Hükûmeti adına kim katılmıştır?",
+     "options": ["Ali Fuat Paşa", "Mustafa Kemal", "Rauf Orbay", "Salih Paşa"],
+     "answer": 3
+   },
+   {
+     "q": "Vilayet-i Sitte içinde olmayan il hangisidir?",
+     "options": ["Muş", "Erzurum", "Bitlis", "Van"],
+     "answer": 0
+   },
+   {
+     "q": "İstanbul Hükûmeti ilk kez ne zaman eleştirilmiştir?",
+     "options": ["Erzurum Kongresi", "Sivas Kongresi", "TBMM'nin açılışı", "Amasya Genelgesi"],
+     "answer": 3
+   },
+   {
+     "q": "Hangi antlaşmayla Meriç Nehri sınır kabul edilmiştir?",
+     "options": ["Londra Antlaşması", "Lozan Antlaşması", "Balkan Antlaşması", "İstanbul Antlaşması (1913)"],
+     "answer": 3
+   },
+   {
+     "q": "Mustafa Kemal, İstanbul'un işgali üzerine hangi sözü söylemiştir?",
+     "options": ["Ya istiklal ya ölüm", "Egemenlik kayıtsız şartsız milletindir", "Ordular, hedefiniz Akdeniz'dir", "Geldikleri gibi giderler"],
+     "answer": 3
+   },
+   {
+     "q": "Hattı müdafaa yoktur, sathı müdafaa vardır. sözü hangi savaşta söylenmiştir?",
+     "options": ["İnönü Savaşı", "Sakarya Meydan Muharebesi", "Kütahya-Eskişehir", "Büyük Taarruz"],
+     "answer": 1
+   },
+   {
+     "q": "TBMM'nin imzaladığı ilk uluslararası antlaşma hangisidir?",
+     "options": ["Moskova Antlaşması", "Lozan Antlaşması", "Kars Antlaşması", "Gümrü Antlaşması"],
+     "answer": 3
+   },
+   {
+     "q": "Mustafa Kemal askerlik görevinden hangi olaydan sonra istifa etmiştir?",
+     "options": ["Sivas Kongresi", "TBMM'nin açılışı", "Amasya Genelgesi", "Erzurum Kongresi"],
+     "answer": 3
+   },
+   {
+     "q": "Osmanlı Devleti'nin imzaladığı son antlaşma hangisidir?",
+     "options": ["Lozan Antlaşması", "Sevr Antlaşması", "Mondros Antlaşması", "Mudanya Ateşkesi"],
+     "answer": 1
+   },
+   {
+     "q": "Hangisi II. Mahmut döneminde olmamıştır?",
+     "options": ["Takvim-i Vekayi'nin çıkarılması", "Sekban-ı Cedid'in kurulması", "Yeniçeri Ocağı'nın kaldırılması", "Tanzimat Fermanı"],
+     "answer": 3
+   },
+   {
+     "q": "Sivas Kongresi'nde Batı Cephesi komutanlığına kim atanmıştır?",
+     "options": ["Refet Bele", "Rauf Orbay", "İsmet İnönü", "Ali Fuat Cebesoy"],
+     "answer": 3
+   },
+   {
+     "q": "Doğu Cephesi'nin Şark Fatihi olarak bilinen komutanı kimdir?",
+     "options": ["Fevzi Çakmak", "Mustafa Kemal", "Kâzım Karabekir", "Rauf Orbay"],
+     "answer": 2
+   },
+   {
+     "q": "Doğu Cephesi'nde imzalanmayan antlaşma hangisidir?",
+     "options": ["Gümrü Antlaşması", "Kars Antlaşması", "Moskova Antlaşması", "İstanbul Antlaşması"],
+     "answer": 3
+   },
+   {
+     "q": "Amasya Genelgesi'ni telgrafla onaylayan komutanlar arasında kim vardır?",
+     "options": ["Rauf Orbay", "Cemal Paşa", "Refet Bele", "Ali Fuat Paşa"],
+     "answer": 1
+   },
+   {
+     "q": "Birinci Dünya Savaşı'na son katılan devlet hangisidir?",
+     "options": ["İtalya", "Japonya", "İngiltere", "Yunanistan"],
+     "answer": 3
+   },
+   {
+     "q": "Osmanlı Devleti'nin hukuken yok sayıldığı antlaşma hangisidir?",
+     "options": ["Moskova Antlaşması", "Mondros Ateşkesi", "Saltanatın kaldırılması", "Mudanya Ateşkes Antlaşması"],
+     "answer": 3
+   },
+   {
+     "q": "Türkiye Cumhuriyeti'nin ilk elçilik açtığı ülke hangisidir?",
+     "options": ["Fransa", "İngiltere", "Sovyet Rusya", "İtalya"],
+     "answer": 2
+   },
+   {
+     "q": "Amasya Genelgesi'ni kaleme alan kişi kimdir?",
+     "options": ["Ali Fuat Cebesoy", "Rauf Orbay", "Refet Bele", "Cevat Abbas Bey"],
+     "answer": 3
+   },
+   {
+     "q": "Hangisi azınlıklar tarafından kurulan cemiyet değildir?",
+     "options": ["Teali İslam Cemiyeti", "Etniki Eterya", "Mavri Mira", "Pontus Rum"],
+     "answer": 0
+   },
+   {
+     "q": "Kurtuluş Savaşı resmen hangi antlaşma ile sona ermiştir?",
+     "options": ["Lozan Antlaşması", "Mudanya", "Uşi", "Mondros"],
+     "answer": 0
+   },
+   {
+     "q": "İtilaf Devletleri ilk kez görüş ayrılığına nerede düşmüştür?",
+     "options": ["Lozan Antlaşması", "Mudanya Ateşkesi", "Londra Konferansı", "Paris Barış Konferansı"],
+     "answer": 3
+   },
+   {
+     "q": "Hangi antlaşma ile Doğu sınırı kesinlik kazanmıştır?",
+     "options": ["Gümrü", "Moskova", "Ankara", "Kars Antlaşması"],
+     "answer": 3
+   },
+   {
+     "q": "Mustafa Kemal ilk siyasi başarısını nerede elde etmiştir?",
+     "options": ["Bingazi", "1. Balkan Savaşı", "Derne ve Tobruk", "Trablusgarp"],
+     "answer": 2
+   },
+   {
+     "q": "Mustafa Kemal'in Fethi Bey ile İstanbul'da çıkardığı gazete hangisidir?",
+     "options": ["Takvim-i Vekayi", "İrade-i Milliye", "Hâkimiyet-i Milliye", "Minber"],
+     "answer": 3
+   },
+   {
+     "q": "İstiklal Marşı'nın bestecisi kimdir?",
+     "options": ["Abdülhalik Renda", "Mehmet Akif Ersoy", "Ali Fuat Cebesoy", "Osman Zeki Üngör"],
+     "answer": 3
+   },
+   {
+     "q": "İşgaller mitinglerle nerede protesto edilmiştir?",
+     "options": ["Amasya Görüşmesi", "Amasya Genelgesi", "Atatürk'ün Samsun'a çıkışı", "Havza Genelgesi"],
+     "answer": 3
+   },
+   {
+     "q": "Misak-ı Milli'den ilk verilen taviz hangisidir?",
+     "options": ["Musul", "Hatay", "Kıbrıs", "Batum"],
+     "answer": 3
+   },
+   {
+     "q": "Kanal Cephesi Komutanı kimdir?",
+     "options": ["Davut Paşa", "Rauf Orbay", "Mustafa Kemal", "Cemal Paşa"],
+     "answer": 3
+   },
+   {
+     "q": "Lale Devri'ne son veren olay nedir?",
+     "options": ["Nizam-ı Cedit", "Islahat Fermanı", "Sened-i İttifak", "Patrona Halil Ayaklanması"],
+     "answer": 3
+   },
+   {
+     "q": "Hamdolsun İstanbul'u kurtardık. sözü hangi savaştan sonra söylemiştir?",
+     "options": ["Büyük Taarruz", "Çanakkale Savaşı", "Kafkas Cephesi", "Sakarya Savaşı"],
+     "answer": 1
+   },
+   {
+     "q": "Amasya Görüşmesi'ne Temsil Heyeti adına kim katılmıştır?",
+     "options": ["Salih Paşa", "Ali Rıza Paşa", "İsmet İnönü", "Mustafa Kemal"],
+     "answer": 3
+   },
+   {
+     "q": "I. Balkan Savaşı'na son veren antlaşma hangisidir?",
+     "options": ["Mudanya", "Moskova", "Uşi", "Londra Antlaşması"],
+     "answer": 3
+   },
+   {
+     "q": "Mustafa Kemal'e İstanbul'un işgalini kim haber vermiştir?",
+     "options": ["Manastırlı Hamdi Bey", "Ali Rıza Paşa", "Cevat Paşa", "Tahsin Bey"],
+     "answer": 0
+   },
+   {
+     "q": "TBMM'yi ve Misak-ı Milli'yi tanıyan ilk devlet hangisidir?",
+     "options": ["Fransa", "İtalya", "Almanya", "Ermenistan"],
+     "answer": 3
+   },
+   {
+     "q": "İşgallere karşı ilk direniş Fransızlara nerede başlamıştır?",
+     "options": ["Adana", "Kerkük", "Dörtyol", "Musul"],
+     "answer": 2
+   },
+   {
+     "q": "I. Dünya Savaşı'ndan en zararlı çıkan devlet hangisidir?",
+     "options": ["İngiltere", "Almanya", "Japonya", "ABD"],
+     "answer": 1
+   },
+   {
+     "q": "Mebusan Meclisi'nin derhal toplanması kararı nerede alınmıştır?",
+     "options": ["Sivas Kongresi", "Erzurum Kongresi", "Havza Genelgesi", "Amasya Genelgesi"],
+     "answer": 3
+   },
+   {
+     "q": "Ordular, ilk hedefiniz Akdeniz'dir, ileri! emri hangi savaşta verilmiştir?",
+     "options": ["Çanakkale", "Sakarya", "Kütahya-Eskişehir", "Büyük Taarruz"],
+     "answer": 3
+   },
+   {
+     "q": "Aşağıdakilerden hangisi yararlı cemiyetlerden değildir?",
+     "options": ["Gizli Karakol Cemiyeti", "Trakya Paşaeli Cemiyeti", "Kars İslam Cemiyeti", "Sulh ve Selamet-i Osmaniye Cemiyeti"],
+     "answer": 3
+   },
+   {
+     "q": "İngilizler ve Araplarla hangi cephede savaşılmıştır?",
+     "options": ["Suriye-Filistin Cephesi", "Çanakkale Cephesi", "Hicaz-Yemen Cephesi", "Irak Cephesi"],
+     "answer": 2
+   },
+   {
+     "q": "Dünya tarihinde ilk kez uçak hangi savaşta kullanılmıştır?",
+     "options": ["Sakarya Meydan Muharebesi", "II. Balkan Savaşı", "I. Balkan Savaşı", "Trablusgarp Savaşı"],
+     "answer": 3
+   },
+   {
+     "q": "Manda ve himaye kabul edilemez. kararı ilk kez nerede alınmıştır?",
+     "options": ["Balıkesir Kongresi", "Amasya Genelgesi", "Sivas Kongresi", "Erzurum Kongresi"],
+     "answer": 3
+   },
+   {
+     "q": "Kurtuluş Savaşı resmen hangi belgeyle başlamıştır?",
+     "options": ["Amasya Görüşmesi", "Amasya Genelgesi", "Sivas Kongresi", "Erzurum Kongresi"],
+     "answer": 1
+   },
+   {
+     "q": "Ben size taarruzu değil, ölmeyi emrediyorum. sözü hangi savaşta söylenmiştir?",
+     "options": ["Suriye-Filistin Cephesi", "Çanakkale Savaşı", "Kafkasya Cephesi", "Sakarya Meydan Muharebesi"],
+     "answer": 1
+   },
+   {
+     "q": "Mustafa Kemal aşağıdaki cephelerden hangisinde savaşmamıştır?",
+     "options": ["Suriye-Filistin", "Kanal", "Çanakkale", "Kafkasya"],
+     "answer": 1
+   },
+   {
+     "q": "Aşağıdakilerden hangisi İtilaf Devleti değildir?",
+     "options": ["Fransa", "Almanya", "İngiltere", "Rusya"],
+     "answer": 1
+   },
+   {
+     "q": "Osmanlı Devleti'nin ilk ve son anayasası nedir?",
+     "options": ["Tanzimat Fermanı", "Meclis-i Mebusan", "Vak'a-i Hayriye", "Kanun-i Esasi"],
+     "answer": 3
+   },
+   {
+     "q": "Kurtuluş Savaşı'nın ilk genelgesi aşağıdakilerden hangisidir?",
+     "options": ["Amasya Görüşmesi", "Havza Genelgesi", "Amasya Genelgesi", "Erzurum Kongresi"],
+     "answer": 1
+   },
+   {
+     "q": "III. Selim döneminde yapılan ilk ıslahat aşağıdakilerden hangisidir?",
+     "options": ["Islahat Fermanı", "Kanun-i Esasi", "Nizam-ı Cedid", "Tanzimat Fermanı"],
+     "answer": 2
+   },
+   {
+     "q": "Aşağıdakilerden hangisi İttifak Devleti değildir?",
+     "options": ["Bulgaristan", "İngiltere", "Osmanlı Devleti", "Almanya"],
+     "answer": 1
+   },
+   {
+     "q": "Amasya Genelgesi'ni telgrafla onaylayan kişiler kimlerdir?",
+     "options": ["Mustafa Kemal ve İsmet İnönü", "İsmet İnönü ve Ali Fethi Okyar", "Ali Fuat ve Refet Bey", "Kazım Karabekir ve Cemal Paşa"],
+     "answer": 3
+   },
+   {
+     "q": "Amasya Genelgesi'nde imzası olmayan kişiler kimlerdir?",
+     "options": ["Ali Fethi Okyar ve Kazım Karabekir", "Cevat Abbas ve Cemal Paşa", "İsmet İnönü ve Ali Fethi Okyar", "İsmet İnönü ve Kazım Karabekir"],
+     "answer": 2
+   },
+   {
+     "q": "Tekâlif-i Milliye Emirleri hangi savaş sırasında çıkarılmıştır?",
+     "options": ["II. İnönü Savaşı", "Sakarya Meydan Muharebesi", "Kütahya-Eskişehir Savaşı", "Büyük Taarruz"],
+     "answer": 2
+   },
+   {
+     "q": "Mustafa Kemal, Ankara'nın merkez seçilmesiyle açılacak meclisin çalışmalarını yakından izlemek için Ankara'ya geldiğinde hangi gazeteyi çıkarmıştır?",
+     "options": ["Minber", "Takvim-i Vakayi", "İrade-i Milliye", "Hakimiyet-i Milliye"],
+     "answer": 3
+   },
+   {
+     "q": "Lozan Barış Antlaşması'nda TBMM'yi kim temsil etmiştir?",
+     "options": ["Bekir Sami", "Mustafa Kemal", "İsmet İnönü", "Kazım Karabekir"],
+     "answer": 2
+   },
+   {
+     "q": "Azınlıklara verilen ayrıcalıklara ilk kez nerede karşı çıkılmıştır?",
+     "options": ["Amasya Genelgesi", "Sivas Kongresi", "Amasya Görüşmesi", "Erzurum Kongresi"],
+     "answer": 3
+   },
+   {
+     "q": "Mondros Ateşkes Antlaşması'na Osmanlı Devleti adına kim katılmıştır?",
+     "options": ["Mustafa Kemal", "Amiral Calthorpe", "Cemal Paşa", "Rauf Orbay"],
+     "answer": 3
+   },
+   {
+     "q": "I. Dünya Savaşı'ndan sonra kurulan yeni devletlerden hangisi bu dönemde kurulmamıştır?",
+     "options": ["Yugoslavya", "Polonya", "Arnavutluk", "Çekoslovakya"],
+     "answer": 2
+   },
+   {
+     "q": "Osmanlı Devleti, I. Dünya Savaşı'ndan hangi antlaşma ile çekilmiştir?",
+     "options": ["Mudanya", "Trablusgarp", "İstanbul", "Mondros"],
+     "answer": 3
+   },
+   {
+     "q": "Aşağıdakilerden hangisi bir savunma cephesidir?",
+     "options": ["Suriye-Filistin","Kafkas", "Galiçya", "Kanal"],
+     "answer": 0
+   },
+   {
+     "q": "Son Osmanlı Mebusan Meclisi'nde kurulan grup hangisidir?",
+     "options": ["Hürriyet ve İtilaf", "İttihat ve Terakki", "Müdafaa-i Hukuk", "Felah-ı Vatan"],
+     "answer": 3
+   },
+   {
+     "q": "İsmet İnönü hangi savaştan sonra generalliğe terfi etmiştir?",
+     "options": ["II. İnönü", "Sakarya", "Büyük Taarruz", "I. İnönü"],
+     "answer": 3
+   },
+   {
+     "q": "Her türlü etki ve denetimden uzak milli bir heyet kurulmalıdır. kararı (Temsil Heyeti) ilk kez nerede alınmıştır?",
+     "options": ["Amasya Genelgesi", "Erzurum Kongresi", "Sivas Kongresi", , "Havza Genelgesi"],
+     "answer": 1
+   },
+   {
+     "q": "Osmanlı Devleti'nin ilk resmi gazetesi aşağıdakilerden hangisidir?",
+     "options": ["Minber", "Sözcü", "Takvim-i Vakayi", "İrade-i Milliye"],
+     "answer": 2
+   },
+   {
+     "q": "Mustafa Kemal'in Şam'da görevliyken kurduğu cemiyet hangisidir?",
+     "options": ["Hürriyet ve İtilaf", "Vak'a-i Hayriye", "Milli Kongre", "Vatan ve Hürriyet"],
+     "answer": 3
+   },
+   {
+     "q": "Misak-ı Milli'den üçüncü olarak verilen taviz aşağıdakilerden hangisidir?",
+     "options": ["Batum", "Kars", "Hatay", "Musul"],
+     "answer": 3
+   },
+   {
+     "q": "Toplantı amacı ve aldığı kararlar bakımından ulusal nitelikte olan kongre hangisidir?",
+     "options": ["Amasya Genelgesi", "Balıkesir Kongresi", "Erzurum Kongresi", "Sivas Kongresi"],
+     "answer": 3
+   },
+   {
+     "q": "Kuvayi Milliye'nin en etkili olduğu cephe aşağıdakilerden hangisidir?",
+     "options": ["Güney", "Doğu", "Batı", "Kuzey"],
+     "answer": 0
+   },
+   {
+     "q": "I. Dünya Savaşı'ndan ilk ayrılan devlet hangisidir?",
+     "options": ["Almanya", "Fransa", "Japonya", "İtalya"],
+     "answer": 2
+   },
+   {
+         "q": "ABD’nin Anadolu’ya bakışını değiştiren ve Ermeni iddialarını çürüten rapor aşağıdakilerden hangisidir?",
+         "options": ["Dr. Esat Işık Raporu", "General Harbord Raporu", "Amiral Bristol Raporu", "Sandler Raporu"],
+         "answer": 2
+       },
+       {
+         "q": "İtilaf Devletleri ilk kez hangi toplantıda görüş ayrılığı yaşamıştır?",
+         "options": ["Londra Konferansı", "Paris Barış Konferansı", "San Remo Konferansı", "Sevr Görüşmeleri"],
+         "answer": 1
+       },
+       {
+         "q": "Mustafa Kemal, askerlik görevinden tamamen ne zaman istifa etmiştir?",
+         "options": ["Havza Genelgesi sonrası", "Amasya Genelgesi sonrası", "Erzurum Kongresi sırasında", "Sivas Kongresi öncesi"],
+         "answer": 2
+       },
+       {
+         "q": "Batı Cephesi’nin oluşumuna katkı sağlayan kongre hangisidir?",
+         "options": ["Balıkesir Kongresi", "Alaşehir Kongresi", "Erzurum Kongresi", "Sivas Kongresi"],
+         "answer": 1
+       },
+       {
+         "q": "Mustafa Kemal, İzmir’in işgaline karşı ilk protestoyu nerede başlatmıştır?",
+         "options": ["Amasya", "Havza", "Ankara", "İzmir"],
+         "answer": 1
+       },
+       {
+         "q": "Kurtuluş Savaşı’nın amacı, gerekçesi ve yöntemi ilk kez hangi belgede belirtilmiştir?",
+         "options": ["Amasya Genelgesi", "Havza Genelgesi", "Erzurum Kongresi", "Sivas Kongresi"],
+         "answer": 0
+       },
+       {
+         "q": "Milli bilinci uyandırmak ve işgallere karşı halkı harekete geçirmek amacıyla yayımlanan belge hangisidir?",
+         "options": ["Amasya Genelgesi", "Havza Genelgesi", "Misak-ı Milli", "Samsun Raporu"],
+         "answer": 1
+       },
+       {
+         "q": "“İstanbul, Anadolu’ya hâkim değil, tabi olmak zorundadır.” sözü hangi gelişme sonrası söylenmiştir?",
+         "options": ["Amasya Genelgesi", "Sivas Kongresi", "Erzurum Kongresi", "Havza Genelgesi"],
+         "answer": 0
+       },
+       {
+         "q": "Kuvâ-yi Milliye birlikleri arasında komuta birliği kurulması yönündeki ilk adım nerede atılmıştır?",
+         "options": ["Erzurum Kongresi", "Sivas Kongresi", "Balıkesir Kongresi", "Alaşehir Kongresi"],
+         "answer": 1
+       },
+       {
+         "q": "Millet egemenliğine dayalı yeni bir devlet kurulacağının ilk işareti nerede verilmiştir?",
+         "options": ["Amasya Genelgesi", "Erzurum Kongresi", "Sivas Kongresi", "Misak-ı Milli"],
+         "answer": 0
+       },
+       {
+         "q": "İstanbul Hükümeti’nin görevini yapamadığı ve işgallere sessiz kaldığı ilk kez hangi belgede belirtilmiştir?",
+         "options": ["Sivas Kongresi", "Amasya Görüşmeleri", "Erzurum Kongresi", "Amasya Genelgesi"],
+         "answer": 3
+       },
+       {
+         "q": "Mustafa Kemal, Amasya Görüşmeleri sonrasında yapılan seçimlerde hangi ilden milletvekili seçilmiştir?",
+         "options": ["Ankara", "İzmir", "Erzurum", "Amasya"],
+         "answer": 2
+       },
+       {
+         "q": "Erzurum Kongresi’nde kurulan Temsil Heyeti’nin görevi hangi gelişme sonrası sona ermiştir?",
+         "options": ["Amasya Görüşmeleri", "1. TBMM’nin açılması", "Osmanlı Meclis-i Mebusan’ın toplanması", "Bilecik Görüşmeleri"],
+         "answer": 1
+       },
+       {
+         "q": "Osmanlı Hükümeti, Temsil Heyeti’ni resmen hangi gelişme ile tanımıştır?",
+         "options": ["Sivas Kongresi", "Amasya Görüşmeleri", "Bilecik Görüşmeleri", "Ankara’ya geliş"],
+         "answer": 1
+       },
+       {
+         "q": "Osmanlı Mebusan Meclisi’nin son toplantısında kabul ettiği karar hangisidir?",
+         "options": ["Misak-ı Milli", "Teşkilat-ı Esasiye", "Hıyanet-i Vataniye", "Başkomutanlık Yasası"],
+         "answer": 0
+       },
+       {
+         "q": "Sivas Kongresi sonunda Batı Cephesi Komutanlığı’na kim atanmıştır?",
+         "options": ["İsmet İnönü", "Ali Fuat Cebesoy", "Kazım Karabekir", "Rauf Orbay"],
+         "answer": 1
+       },
+       {
+         "q": "Amasya Genelgesi’ni hazırlayan veya onaylayanlar arasında kim yer almamıştır?",
+         "options": ["Rauf Orbay", "Ali Fuat Cebesoy", "Cemal Paşa", "İsmet İnönü"],
+         "answer": 3
+       },
+       {
+         "q": "Osmanlı Mebusan Meclisi’nin son toplantısında alınan karar hangisidir?",
+         "options": ["Teşkilat-ı Esasiye", "Misak-ı Milli", "Başkomutanlık", "Hıyanet-i Vataniye"],
+         "answer": 1
+       },
+       {
+         "q": "Temsil Heyeti’nin varlığını ilk kez resmen tanıyan Osmanlı Hükümeti hangisidir?",
+         "options": ["Damat Ferit Paşa Hükümeti", "Ali Rıza Paşa Hükümeti", "Tevfik Paşa Hükümeti", "Salih Paşa Hükümeti"],
+         "answer": 1
+       },
+       {
+         "q": "Mustafa Kemal, askerlikten ayrıldıktan sonra bir sivil olarak yaptığı ilk faaliyet hangisidir?",
+         "options": ["Amasya Genelgesi’ni yayımlamak", "İrade-i Milliye Gazetesi’ni çıkarmak", "Erzurum Kongresi’ne katılmak", "Tekâlif-i Milliye Emirleri’ni yayınlamak"],
+         "answer": 2
+       },
+       {
+         "q": "Millî Mücadele döneminde halkı bilgilendirmek ve birlik oluşturmak amacıyla yayımlanan ilk gazete aşağıdakilerden hangisidir?",
+         "options": ["Hakimiyeti Milliye", "İrade-i Milliye", "Tasvir-i Efkar", "Ceride-i Resmiye"],
+         "answer": 1
+       },
+       {
+         "q": "Millî sınırlar içinde, Osmanlı yönetimi dışında bir hükümet kurulması fikri ilk kez nerede dile getirilmiştir?",
+         "options": ["Havza Genelgesi", "Erzurum Kongresi", "Sivas Kongresi", "1. TBMM"],
+         "answer": 1
+       },
+       {
+         "q": "Kapitülasyonların kaldırılmasına yönelik ilk resmi karar nerede alınmıştır?",
+         "options": ["Sivas Kongresi", "Erzurum Kongresi", "Misak-ı Milli", "1. Türkiye Büyük Millet Meclisi"],
+         "answer": 1
+       },
+       {
+         "q": "Aşağıdaki konulardan hangisi Misak-ı Milli kararlarında yer almasına rağmen Erzurum ve Sivas Kongresi kararlarında bulunmaz?",
+         "options": ["Azınlıkların durumu", "Ulusal sınırların belirlenmesi", "Boğazlar, Osmanlı borçları ve kapitülasyonlar", "Dış politika ilkeleri"],
+         "answer": 2
+       },
+       {
+         "q": "Kurtuluş Savaşı sürecinde Osmanlı Mebusan Meclisi’nin aldığı son karar aşağıdakilerden hangisidir?",
+         "options": ["Teşkilat-ı Esasiye", "Misak-ı Milli", "Amasya Görüşmeleri", "Sivas Kongresi"],
+         "answer": 1
+       },
+       {
+           "q": "Doğu Cephesi’nde Ermenilere karşı yapılan savaşlar sonucunda imzalanan antlaşma hangisidir?",
+           "options": ["Kars Antlaşması", "Moskova Antlaşması", "Gümrü Antlaşması", "Batum Antlaşması"],
+           "answer": 2
+         },
+         {
+           "q": "Gümrü Antlaşması Türkiye’nin imzaladığı ilk uluslararası antlaşmadır. Bu antlaşma kimlerle yapılmıştır?",
+           "options": ["Gürcistan", "Ermenistan", "Azerbaycan", "Rusya"],
+           "answer": 1
+         },
+         {
+           "q": "Gümrü Antlaşması ile hangi bölge Türkiye’ye bırakılmıştır?",
+           "options": ["Kars", "Ardahan", "Iğdır", "Batum"],
+           "answer": 2
+         },
+         {
+           "q": "Doğu Cephesi’nde Türk kuvvetlerinin başında hangi komutan bulunmaktaydı?",
+           "options": ["Kazım Karabekir", "Ali Fuat Cebesoy", "İsmet İnönü", "Refet Bele"],
+           "answer": 0
+         },
+         {
+           "q": "Doğu Cephesi’nde kazanılan başarılar sonrası hangi devlet ile iyi ilişkiler kurulmuştur?",
+           "options": ["İngiltere", "İtalya", "Sovyet Rusya", "Yunanistan"],
+           "answer": 2
+         },
+         {
+           "q": "Moskova Antlaşması hangi iki devlet arasında imzalanmıştır?",
+           "options": ["Türkiye - Gürcistan", "Türkiye - Sovyet Rusya", "Türkiye - Ermenistan", "Türkiye - Azerbaycan"],
+           "answer": 1
+         },
+         {
+           "q": "Moskova Antlaşması’na göre Türkiye-Sovyet sınırı hangi antlaşma esas alınarak belirlenmiştir?",
+           "options": ["Brest-Litovsk", "Berlin", "Gümrü", "Lozan"],
+           "answer": 2
+         },
+         {
+           "q": "Kars Antlaşması hangi devletlerle imzalanmıştır?",
+           "options": ["Sovyet Rusya, Azerbaycan, Gürcistan, Ermenistan", "İngiltere, Fransa, İtalya, Yunanistan", "Bulgaristan, Romanya, Rusya, İran", "Suriye, Irak, Lübnan, Fransa"],
+           "answer": 0
+         },
+         {
+           "q": "Kars Antlaşması ile Türkiye’nin doğu sınırı hangi devletlerle kesinleşmiştir?",
+           "options": ["İran ve Irak", "Suriye ve Gürcistan", "Ermenistan ve Gürcistan", "Azerbaycan ve İran"],
+           "answer": 2
+         },
+         {
+           "q": "Doğu Cephesi’nin kapanması sonrası elde edilen askerî güç nereye aktarılmıştır?",
+           "options": ["Batı Cephesi", "Güney Cephesi", "İç Ayaklanmalar", "Karadeniz Bölgesi"],
+           "answer": 0
+         },
+         {
+           "q": "Güney Cephesi’nde Fransızlara karşı mücadelede halk direnişine öncülük eden şehir hangisidir?",
+           "options": ["Maraş", "Urfa", "Antep", "Adana"],
+           "answer": 2
+         },
+         {
+           "q": "Antep, Urfa ve Maraş halkı hangi ülkenin işgaline karşı direniş göstermiştir?",
+           "options": ["İngiltere", "İtalya", "Fransa", "Yunanistan"],
+           "answer": 2
+         },
+         {
+           "q": "Maraş’ın kurtuluşu anısına şehre TBMM tarafından hangi unvan verilmiştir?",
+           "options": ["Gazi", "Kahraman", "Şanlı", "Fedakâr"],
+           "answer": 1
+         },
+         {
+           "q": "Urfa halkı işgale karşı gösterdiği direnişten dolayı hangi unvanla onurlandırılmıştır?",
+           "options": ["Gazi", "Şanlı", "Kahraman", "Mücahit"],
+           "answer": 2
+         },
+         {
+           "q": "Antep halkının kahramanlık mücadelesinden sonra şehre verilen unvan hangisidir?",
+           "options": ["Gazi", "Kahraman", "Şanlı", "Onurlu"],
+           "answer": 0
+         },
+         {
+           "q": "Güney Cephesi’nde Fransızlar hangi antlaşma ile Anadolu’dan çekilmeyi kabul etmiştir?",
+           "options": ["Moskova Antlaşması", "Ankara Antlaşması", "Kars Antlaşması", "Gümrü Antlaşması"],
+           "answer": 1
+         },
+         {
+           "q": "Ankara Antlaşması, TBMM ile hangi devlet arasında imzalanmıştır?",
+           "options": ["İngiltere", "Fransa", "İtalya", "Yunanistan"],
+           "answer": 1
+         },
+         {
+           "q": "Ankara Antlaşması ile Hatay ve İskenderun bölgeleri hangi devlete bırakılmıştır?",
+           "options": ["İngiltere", "Fransa", "Suriye", "İtalya"],
+           "answer": 2
+         },
+         {
+           "q": "Güney Cephesi’nde başarıya ulaşılmasında en önemli faktör hangisidir?",
+           "options": ["Halk direnişi", "Dış yardımlar", "İngiliz desteği", "TBMM ordusunun takviyesi"],
+           "answer": 0
+         },
+         {
+           "q": "Batı Cephesi’nde Yunan kuvvetlerine karşı ilk savaş hangisidir?",
+           "options": ["I. İnönü Savaşı", "Kütahya-Eskişehir Savaşı", "I. Uşak Muharebesi", "Gediz Muharebesi"],
+           "answer": 0
+         },
+         {
+           "q": "I. İnönü Savaşı’nın kazanılması TBMM’ye hangi alanda en fazla güç kazandırmıştır?",
+           "options": ["Askerî", "Siyasi", "Ekonomik", "Diplomatik"],
+           "answer": 1
+         },
+         {
+           "q": "I. İnönü Savaşı sonrası imzalanan antlaşma hangisidir?",
+           "options": ["Gümrü", "Moskova", "Londra Konferansı", "Ankara Antlaşması"],
+           "answer": 2
+         },
+         {
+           "q": "I. İnönü Savaşı’ndan sonra İtilaf Devletleri TBMM’yi hangi toplantıya davet etmiştir?",
+           "options": ["Paris Barış Konferansı", "Londra Konferansı", "San Remo Konferansı", "Sevr Görüşmeleri"],
+           "answer": 1
+         },
+         {
+           "q": "Batı Cephesi’nin komutanı kimdir?",
+           "options": ["Kazım Karabekir", "İsmet İnönü", "Ali Fuat Cebesoy", "Rauf Orbay"],
+           "answer": 1
+         },
+         {
+           "q": "II. İnönü Savaşı’nın sonucu aşağıdakilerden hangisidir?",
+           "options": ["Yunan ilerleyişi durdurulmuştur", "Sevr Antlaşması imzalanmıştır", "İstanbul Hükümeti güç kazanmıştır", "TBMM dağılmıştır"],
+           "answer": 0
+         },
+         {
+           "q": "Kütahya-Eskişehir Savaşları sonucunda TBMM ne kararı almıştır?",
+           "options": ["Başkomutanlık Kanunu", "Sakarya Meydan Muharebesi", "Ordunun Sakarya Nehri’nin doğusuna çekilmesi", "Ankara Antlaşması"],
+           "answer": 2
+         },
+         {
+           "q": "Sakarya Meydan Muharebesi’nden önce Mustafa Kemal’e verilen yetki aşağıdakilerden hangisidir?",
+           "options": ["Başkomutanlık yetkisi", "Meclis Başkanlığı", "Genelkurmay Başkanlığı", "Maliye Bakanlığı"],
+           "answer": 0
+         },
+         {
+           "q": "Sakarya Meydan Muharebesi’nin sonunda hangi gelişme yaşanmıştır?",
+           "options": ["Yunan ordusu geri çekildi", "Ankara işgal edildi", "TBMM dağıldı", "İzmir kaybedildi"],
+           "answer": 0
+         },
+         {
+           "q": "Sakarya Savaşı sonrası imzalanan antlaşma hangisidir?",
+           "options": ["Moskova Antlaşması", "Kars Antlaşması", "Ankara Antlaşması", "Mudanya Ateşkesi"],
+           "answer": 2
+         },
+         {
+           "q": "Büyük Taarruz öncesi ordunun hazırlık süreci hangi şehirde tamamlanmıştır?",
+           "options": ["Afyon", "Kütahya", "Ankara", "Eskişehir"],
+           "answer": 0
+         },
+         {
+           "q": "Büyük Taarruz’un başlamasıyla Mustafa Kemal’in söylediği ünlü söz hangisidir?",
+           "options": ["Ordular! İlk hedefiniz Akdeniz’dir, ileri!", "Ya istiklal ya ölüm!", "Geldikleri gibi giderler!", "Milletin bağımsızlığını yine millet kurtaracaktır!"],
+           "answer": 0
+         },
+         {
+           "q": "Büyük Taarruz’un sonunda Yunan ordusu hangi savaşta kesin olarak yenilmiştir?",
+           "options": ["Sakarya Meydan Muharebesi", "Dumlupınar Savaşı", "I. İnönü Savaşı", "Kütahya-Eskişehir Savaşı"],
+           "answer": 1
+         },
+         {
+           "q": "Büyük Taarruz’un kazanılmasından sonra imzalanan ateşkes hangisidir?",
+           "options": ["Mudanya Ateşkes Antlaşması", "Ankara Antlaşması", "Kars Antlaşması", "Lozan Antlaşması"],
+           "answer": 0
+         },
+         {
+           "q": "Mudanya Ateşkes Antlaşması ile hangi bölge savaş yapılmadan Türk ordusuna bırakılmıştır?",
+           "options": ["İzmir", "Doğu Trakya", "Antep", "Kars"],
+           "answer": 1
+         },
+         {
+               "q": "Havza Genelgesi'nin amacı aşağıdakilerden hangisidir?",
+               "options": ["Halkı işgallere karşı uyarmak", "Saltanatı güçlendirmek", "İtilaf Devletleriyle anlaşmak", "Yeni bir hükümet kurmak"],
+               "answer": 0
+             },
+             {
+               "q": "Havza Genelgesi hangi ilde yayımlanmıştır?",
+               "options": ["Amasya", "Samsun", "Erzurum", "Sivas"],
+               "answer": 1
+             },
+             {
+               "q": "Havza Genelgesi’ni kim yayımlamıştır?",
+               "options": ["Mustafa Kemal Paşa", "Kazım Karabekir", "Rauf Orbay", "Ali Fuat Cebesoy"],
+               "answer": 0
+             },
+             {
+               "q": "Havza Genelgesi’nin önemi nedir?",
+               "options": ["İşgallere karşı ilk genel direniş çağrısıdır", "Cumhuriyet ilan edilmiştir", "Yeni anayasa hazırlanmıştır", "Saltanat kaldırılmıştır"],
+               "answer": 0
+             },
+             {
+               "q": "Amasya Genelgesi’nin yayımlandığı yer neresidir?",
+               "options": ["Amasya", "Erzurum", "Sivas", "Ankara"],
+               "answer": 0
+             },
+             {
+               "q": "Amasya Genelgesi'nin tarihi aşağıdakilerden hangisidir?",
+               "options": ["22 Haziran 1919", "19 Mayıs 1919", "23 Temmuz 1919", "4 Eylül 1919"],
+               "answer": 0
+             },
+             {
+               "q": "Amasya Genelgesi'ni kimler imzalamıştır?",
+               "options": ["Mustafa Kemal, Rauf Orbay, Refet Bele, Ali Fuat Cebesoy", "İsmet İnönü ve Fevzi Çakmak", "Kazım Karabekir ve Enver Paşa", "Talat Paşa ve Cemal Paşa"],
+               "answer": 0
+             },
+             {
+               "q": "Erzurum Kongresi'nin başkanı kimdir?",
+               "options": ["Mustafa Kemal Paşa", "Kazım Karabekir", "Ali Fuat Cebesoy", "Fevzi Çakmak"],
+               "answer": 0
+             },
+             {
+               "q": "Sivas Kongresi’nin başkanı kimdir?",
+               "options": ["Mustafa Kemal Paşa", "Rauf Orbay", "Kazım Karabekir", "İsmet İnönü"],
+               "answer": 0
+             },
+             {
+               "q": "Sivas Kongresi’nde kurulan gazetenin adı nedir?",
+               "options": ["İrade-i Milliye", "Hakimiyeti Milliye", "Ceride-i Resmiye", "Tasvir-i Efkar"],
+               "answer": 0
+             },
+
+             {
+               "q": "Amasya Genelgesi’nde millet temsilcileri nerede toplanmaya çağrılmıştır?",
+               "options": ["Erzurum", "Sivas", "Ankara", "İstanbul"],
+               "answer": 1
+             },
+             {
+               "q": "Erzurum Kongresi hangi illerin temsilcileriyle toplanmıştır?",
+               "options": ["Doğu Anadolu illeri", "Batı Anadolu illeri", "Karadeniz illeri", "İç Anadolu illeri"],
+               "answer": 1
+             },
+             {
+               "q": "Sivas Kongresi'nin en önemli özelliği nedir?",
+               "options": ["Ulusal bir kongre olması", "Yalnızca yerel olması", "İstanbul’da yapılması", "Saltanata bağlı kalması"],
+               "answer": 1
+             },
+             {
+               "q": "Amasya Genelgesi’ne göre ulusal egemenliği kim sağlayacaktır?",
+               "options": ["Milletin azim ve kararı", "İstanbul Hükümeti", "İtilaf Devletleri", "Padişah"],
+               "answer": 1
+             },
+             {
+               "q": "Sivas Kongresi’nin toplandığı tarih nedir?",
+               "options": ["4 Eylül 1919", "23 Temmuz 1919", "22 Haziran 1919", "11 Kasım 1918"],
+               "answer": 1
+             },
+             {
+               "q": "Havza Genelgesi’nin ardından yapılan halk mitinglerinin amacı neydi?",
+               "options": ["İşgalleri protesto etmek", "Hilafeti savunmak", "İngiliz mandasını istemek", "TBMM’yi açmak"],
+               "answer": 1
+             },
+             {
+               "q": "Amasya Görüşmeleri’nde ne kararlaştırılmıştır?",
+               "options": ["Seçimlerin yapılması", "Hilafetin kaldırılması", "Cumhuriyetin ilanı", "Saltanatın güçlendirilmesi"],
+               "answer": 1
+             },
+             {
+               "q": "Erzurum Kongresi’nin toplanma amacı aşağıdakilerden hangisidir?",
+               "options": ["Doğu illerini savunmak", "Batı illerini korumak", "Meclis açmak", "Cumhuriyet ilan etmek"],
+               "answer": 1
+             },
+             {
+               "q": "Erzurum Kongresi kararları arasında hangisi yer almaz?",
+               "options": ["Milli sınırlar içinde vatan bir bütündür", "Saltanat kaldırılmıştır", "Azınlıklara ayrıcalık verilmeyecektir", "Manda reddedilmiştir"],
+               "answer": 1
+             },
+             {
+               "q": "Sivas Kongresi sonucunda ne olmuştur?",
+               "options": ["Temsil Heyeti ülke genelini temsil eder hale gelmiştir", "Cumhuriyet ilan edilmiştir", "Anayasa hazırlanmıştır", "Saltanat kaldırılmıştır"],
+               "answer": 1
+             },
+
+             {
+               "q": "Amasya Genelgesi’nin en önemli sonucu aşağıdakilerden hangisidir?",
+               "options": ["Milli Mücadele’nin gerekçesi açıklanmıştır", "Saltanat kaldırılmıştır", "Cumhuriyet ilan edilmiştir", "İtilaflarla anlaşılmıştır"],
+               "answer": 2
+             },
+             {
+               "q": "Erzurum Kongresi’ne kim başkanlık etmiştir?",
+               "options": ["Mustafa Kemal Paşa", "Kazım Karabekir", "Rauf Orbay", "Fevzi Çakmak"],
+               "answer": 2
+             },
+             {
+               "q": "Sivas Kongresi’nde alınan kararlarla hangi anlayış pekişmiştir?",
+               "options": ["Ulusal birlik ve bağımsızlık", "Saltanat", "Mandacılık", "Hilafet"],
+               "answer": 2
+             },
+             {
+               "q": "Erzurum Kongresi’nde kurulan Temsil Heyeti’nin başkanı kimdir?",
+               "options": ["Kazım Karabekir", "Fevzi Çakmak", "Mustafa Kemal Paşa", "Ali Fuat Cebesoy"],
+               "answer": 2
+             },
+             {
+               "q": "Sivas Kongresi’nde alınan kararlar hangi belgeyle benzerlik gösterir?",
+               "options": ["Amasya Genelgesi", "Lozan Antlaşması", "Mudanya Ateşkesi", "Gümrü Antlaşması"],
+               "answer": 2
+             },
+             {
+               "q": "Havza Genelgesi sonrası İstanbul Hükümeti Mustafa Kemal’i neden geri çağırmıştır?",
+               "options": ["İşgalleri protesto ettiği için", "Seçim istediği için", "Ankara’ya geçtiği için", "Hilafeti eleştirdiği için"],
+               "answer": 2
+             },
+             {
+               "q": "Amasya Genelgesi ile halk ilk defa neye çağrılmıştır?",
+               "options": ["Kongreye katılmaya", "İsyan etmeye", "Anayasa yapmaya", "Hilafeti korumaya"],
+               "answer": 2
+             },
+             {
+               "q": "Erzurum Kongresi’nden sonra alınan kararlardan biri aşağıdakilerden hangisidir?",
+               "options": ["Temsil Heyeti oluşturulmuştur", "Hilafet kaldırılmıştır", "Cumhuriyet ilan edilmiştir", "TBMM açılmıştır"],
+               "answer": 2
+             },
+             {
+               "q": "Sivas Kongresi’nde alınan kararların tüm ülke adına geçerli olması neyi gösterir?",
+               "options": ["Milli birliğin sağlanmaya başladığını", "Saltanatın güçlendiğini", "Mandayı kabul ettiklerini", "İtilaflarla uzlaştıklarını"],
+               "answer": 2
+             },
+
+             {
+               "q": "Havza Genelgesi’nde halktan ne istenmiştir?",
+               "options": ["İşgalleri protesto eden mitingler düzenlemeleri", "Vergi vermemeleri", "İstanbul’a göç etmeleri", "Orduya katılmaları"],
+               "answer": 3
+             },
+             {
+               "q": "Amasya Genelgesi’nde alınan kararlar hangi yönetim anlayışını ortaya koymuştur?",
+               "options": ["Milli egemenlik", "Saltanat", "Meşrutiyet", "Hilafet"],
+               "answer": 3
+             },
+             {
+               "q": "Erzurum Kongresi'nde alınan 'manda ve himaye kabul olunamaz' kararı neyi gösterir?",
+               "options": ["Bağımsızlık ilkesine bağlı kalındığını", "İtilaflarla uzlaşıldığını", "Saltanatın korunduğunu", "Hilafetin güçlendiğini"],
+               "answer": 3
+             },
+             {
+               "q": "Sivas Kongresi sonunda hangi örgüt tek çatı altında birleşmiştir?",
+               "options": ["Müdafaa-i Hukuk Cemiyetleri", "İttihat ve Terakki", "Hürriyet ve İtilaf", "Hilafet Cemiyeti"],
+               "answer": 3
+             },
+             {
+               "q": "Amasya Genelgesi'nin bir sonucu olarak aşağıdakilerden hangisi söylenebilir?",
+               "options": ["Milli irade ön plana çıkmıştır", "İstanbul’un direnişi artmıştır", "Saltanat pekişmiştir", "İtilaf işgali sona ermiştir"],
+               "answer": 3
+             },
+             {
+               "q": "Erzurum Kongresi sonrası Temsil Heyeti’nin merkezi neresidir?",
+               "options": ["Sivas", "Erzurum", "Ankara", "İstanbul"],
+               "answer": 3
+             },
+             {
+               "q": "Sivas Kongresi’nin sonunda alınan kararlarla hangi ilke güçlenmiştir?",
+               "options": ["Milli egemenlik", "Saltanat", "Meşrutiyet", "Hilafet"],
+               "answer": 3
+             },
+             {
+               "q": "Amasya Genelgesi'nde ilk kez hangi kavram açıkça vurgulanmıştır?",
+               "options": ["Milli egemenlik", "Hilafet", "Saltanat", "Cumhuriyet"],
+               "answer": 3
+             },
+             {
+               "q": "Erzurum Kongresi hangi ilde yapılmıştır?",
+               "options": ["Erzurum", "Sivas", "Amasya", "Ankara"],
+               "answer": 0
+             },
+             {
+               "q": "Sivas Kongresi’nden sonra alınan kararlar hangi belgeye temel oluşturmuştur?",
+               "options": ["Misak-ı Milli", "Lozan Antlaşması", "Gümrü Antlaşması", "Moskova Antlaşması"],
+               "answer": 3
+             },
+             {
+               "q": "Havza Genelgesi hangi olayın ardından yayımlanmıştır?",
+               "options": ["İzmir’in işgali", "Amasya Görüşmeleri", "TBMM’nin açılması", "Sakarya Meydan Muharebesi"],
+               "answer": 3
+             },
+             {
+               "q": "Sivas Kongresi’nin ardından temsil heyeti hangi şehre gitmiştir?",
+               "options": ["Ankara", "Erzurum", "Samsun", "Amasya"],
+               "answer": 3
+             },
+             {
+               "q": "Erzurum ve Sivas kongrelerinin ortak yönü aşağıdakilerden hangisidir?",
+               "options": ["Her ikisinde de vatanın bütünlüğü savunulmuştur", "Saltanatın korunması kararlaştırılmıştır", "İtilaflarla anlaşma yapılmıştır", "Hilafete bağlılık vurgulanmıştır"],
+               "answer": 3
+             },
+             {
+               "q": "Sivas Kongresi’nde alınan kararlar aşağıdakilerden hangisine zemin hazırlamıştır?",
+               "options": ["TBMM’nin açılmasına", "Hilafetin kaldırılmasına", "Saltanatın güçlenmesine", "İngiliz mandasına"],
+               "answer": 3
+             },
+             {
+               "q": "Amasya Genelgesi’nin hazırlanmasında kim etkili olmuştur?",
+               "options": ["Mustafa Kemal Paşa", "Fevzi Çakmak", "İsmet İnönü", "Kazım Karabekir"],
+               "answer": 3
+             },
+             {
+                 "q": "Kurtuluş Savaşı döneminde İstanbul’da kurulan yararlı cemiyetlerden biri hangisidir?",
+                 "options": ["Trakya-Paşaeli Müdafaa-i Hukuk Cemiyeti", "Hürriyet ve İtilaf Fırkası", "Kuvâ-yi İnzibatiye", "Wilson Prensipleri Cemiyeti"],
+                 "answer": 0
+               },
+               {
+                 "q": "İzmir’in Yunanlılar tarafından işgaline karşı kurulmuş cemiyet hangisidir?",
+                 "options": ["Reddi İlhak Cemiyeti", "İngiliz Muhipleri Cemiyeti", "Sulh ve Selamet Cemiyeti", "Teali İslam Cemiyeti"],
+                 "answer": 0
+               },
+               {
+                 "q": "Doğu Anadolu’da Ermeni tehlikesine karşı kurulan cemiyet aşağıdakilerden hangisidir?",
+                 "options": ["Vilayet-i Şarkiye Müdafaa-i Hukuk Cemiyeti", "Kilikyalılar Cemiyeti", "İngiliz Muhipleri Cemiyeti", "Teali İslam Cemiyeti"],
+                 "answer": 0
+               },
+               {
+                 "q": "Kurtuluş Savaşı sırasında Türk halkının bağımsızlık düşüncesini güçlendiren cemiyetler ne adla anılmıştır?",
+                 "options": ["Yararlı cemiyetler", "Zararlı cemiyetler", "Hilafetçi topluluklar", "Mandacı dernekler"],
+                 "answer": 0
+               },
+               {
+                 "q": "Trakya-Paşaeli Müdafaa-i Hukuk Cemiyeti hangi amaçla kurulmuştur?",
+                 "options": ["Trakya’yı işgale karşı savunmak", "İngiliz mandasını kabul ettirmek", "Hilafeti korumak", "Cumhuriyet ilan etmek"],
+                 "answer": 0
+               },
+               {
+                 "q": "Mondros Ateşkesi'nden sonra Osmanlı Devleti’nin bütünlüğünü korumak isteyen cemiyet hangisidir?",
+                 "options": ["Sulh ve Selamet-i Osmaniye Cemiyeti", "İngiliz Muhipleri Cemiyeti", "Teali İslam Cemiyeti", "Wilson Prensipleri Cemiyeti"],
+                 "answer": 0
+               },
+               {
+                 "q": "Kilikyalılar Cemiyeti hangi bölgede kurulmuştur?",
+                 "options": ["Adana ve çevresi", "Trakya", "Karadeniz", "Ege"],
+                 "answer": 0
+               },
+               {
+                 "q": "Anadolu’daki Türk halkını İngiliz mandası altına sokmak isteyen cemiyet hangisidir?",
+                 "options": ["İngiliz Muhipleri Cemiyeti", "Teali İslam Cemiyeti", "Kilikyalılar Cemiyeti", "Trakya-Paşaeli Cemiyeti"],
+                 "answer": 0
+               },
+               {
+                 "q": "Hristiyan azınlıkların desteğiyle Türklerin bağımsızlık isteğini kırmak isteyen cemiyet hangisidir?",
+                 "options": ["Pontus Rum Cemiyeti", "Kuvâ-yi Milliye", "Trakya-Paşaeli Cemiyeti", "Reddi İlhak Cemiyeti"],
+                 "answer": 0
+               },
+               {
+                 "q": "Kurtuluş Savaşı döneminde Anadolu’da zararlı cemiyetlerin ortak amacı aşağıdakilerden hangisidir?",
+                 "options": ["Ulusal direnişi zayıflatmak", "Vatanı savunmak", "TBMM’yi desteklemek", "Bağımsızlığı sağlamak"],
+                 "answer": 0
+               },
+
+               {
+                 "q": "Wilson Prensipleri Cemiyeti’nin amacı aşağıdakilerden hangisidir?",
+                 "options": ["Amerikan mandasını savunmak", "Hilafeti korumak", "Bağımsızlığı sağlamak", "Ermenilere karşı savaşmak"],
+                 "answer": 1
+               },
+               {
+                 "q": "Teali İslam Cemiyeti’nin kuruluş amacı neydi?",
+                 "options": ["Hilafet ve saltanatı korumak", "Türk milliyetçiliğini savunmak", "İngilizlere karşı koymak", "Cumhuriyet kurmak"],
+                 "answer": 1
+               },
+               {
+                 "q": "İngiliz Muhipleri Cemiyeti’nin önde gelen üyelerinden biri aşağıdakilerden hangisidir?",
+                 "options": ["Sait Molla", "Kazım Karabekir", "Rauf Orbay", "İsmet İnönü"],
+                 "answer": 1
+               },
+               {
+                 "q": "Rumların bağımsız devlet kurma hedefiyle oluşturduğu cemiyetin adı nedir?",
+                 "options": ["Pontus Rum Cemiyeti", "Reddi İlhak Cemiyeti", "Trakya-Paşaeli Cemiyeti", "Kuvâ-yi Milliye"],
+                 "answer": 1
+               },
+               {
+                 "q": "Ermenilerin Doğu Anadolu’da devlet kurma amacıyla oluşturduğu örgüt aşağıdakilerden hangisidir?",
+                 "options": ["Hınçak ve Taşnak", "Reddi İlhak", "Kuvâ-yi Milliye", "Kilikyalılar"],
+                 "answer": 1
+               },
+               {
+                 "q": "Sulh ve Selamet-i Osmaniye Cemiyeti neyi savunmuştur?",
+                 "options": ["Osmanlı bütünlüğünü ve padişahı", "Cumhuriyeti", "Bağımsız Anadolu’yu", "TBMM’yi"],
+                 "answer": 1
+               },
+               {
+                 "q": "Kurtuluş Savaşı’nda Müslüman halkı din üzerinden etkileyip ulusal direnişi zayıflatmak isteyen cemiyet hangisidir?",
+                 "options": ["Teali İslam Cemiyeti", "Reddi İlhak Cemiyeti", "Trakya-Paşaeli Cemiyeti", "Kilikyalılar Cemiyeti"],
+                 "answer": 1
+               },
+               {
+                 "q": "Karadeniz bölgesinde bir Rum devleti kurmayı amaçlayan zararlı cemiyet aşağıdakilerden hangisidir?",
+                 "options": ["Pontus Rum Cemiyeti", "Vilayet-i Şarkiye Cemiyeti", "Kuvâ-yi Milliye", "Kilikyalılar"],
+                 "answer": 1
+               },
+               {
+                 "q": "Azınlıkların faaliyetleri hangi amaca hizmet etmiştir?",
+                 "options": ["İşgalleri meşrulaştırmak", "Milli birliği sağlamak", "Halkı örgütlemek", "Hilafeti kaldırmak"],
+                 "answer": 1
+               },
+               {
+                 "q": "Yararlı cemiyetlerin ortak amacı aşağıdakilerden hangisidir?",
+                 "options": ["Vatanı işgallerden kurtarmak", "Hilafeti güçlendirmek", "İngiliz mandasını kabul etmek", "TBMM’yi dağıtmak"],
+                 "answer": 1
+               },
+
+               {
+                 "q": "Doğu Anadolu’daki Türkleri örgütleyen cemiyetin merkezi nerededir?",
+                 "options": ["Erzurum", "İstanbul", "Ankara", "Sivas"],
+                 "answer": 2
+               },
+               {
+                 "q": "Milli Mücadele sırasında halkı bilinçlendirmek için kurulan cemiyetlerin çoğu nerede doğmuştur?",
+                 "options": ["İzmir ve çevresi", "İstanbul", "Doğu Anadolu", "Trakya"],
+                 "answer": 2
+               },
+               {
+                 "q": "Kurtuluş Savaşı döneminde Türklerin haklarını savunmak amacıyla yabancı basına bilgi veren cemiyet aşağıdakilerden hangisidir?",
+                 "options": ["Trakya-Paşaeli Cemiyeti", "Kuvâ-yi İnzibatiye", "İngiliz Muhipleri", "Sulh ve Selamet"],
+                 "answer": 2
+               },
+               {
+                 "q": "Yararlı cemiyetler hangi ilkenin halkta gelişmesini sağlamıştır?",
+                 "options": ["Milli birlik ve dayanışma", "Hilafet bağlılığı", "İngiliz hayranlığı", "Manda düşüncesi"],
+                 "answer": 2
+               },
+               {
+                 "q": "Mondros Ateşkesi sonrası kurulan yararlı cemiyetlerin ortak özelliği nedir?",
+                 "options": ["Halk tarafından kurulmaları", "İngiltere tarafından desteklenmeleri", "Hilafeti savunmaları", "TBMM’yi kapatmaları"],
+                 "answer": 2
+               },
+               {
+                 "q": "Zararlı cemiyetlerin ortak özelliği aşağıdakilerden hangisidir?",
+                 "options": ["Milli direnişi zayıflatmak", "Kuvâ-yi Milliye’yi güçlendirmek", "Bağımsızlık sağlamak", "Ulusal birlik oluşturmak"],
+                 "answer": 2
+               },
+               {
+                 "q": "Azınlık cemiyetlerinin faaliyetleri sonucunda Türk halkı ne yapmıştır?",
+                 "options": ["Milli cemiyetler kurmuştur", "İşgalleri desteklemiştir", "Teslim olmuştur", "Mandayı kabul etmiştir"],
+                 "answer": 2
+               },
+               {
+                 "q": "Teali İslam Cemiyeti aşağıdaki bölgelerden hangisinde daha etkili olmuştur?",
+                 "options": ["İstanbul", "Sivas", "Ankara", "İzmir"],
+                 "answer": 2
+               },
+               {
+                 "q": "İzmir’in işgaliyle birlikte halkın örgütlenmesini sağlayan cemiyet hangisidir?",
+                 "options": ["Reddi İlhak Cemiyeti", "Teali İslam Cemiyeti", "Pontus Rum Cemiyeti", "İngiliz Muhipleri Cemiyeti"],
+                 "answer": 2
+               },
+               {
+                 "q": "Zararlı cemiyetlerin destek aldığı devletler genellikle hangi gruptadır?",
+                 "options": ["İtilaf Devletleri", "Merkez Devletleri", "Balkan Birliği", "Kafkas İttifakı"],
+                 "answer": 2
+               },
+
+               {
+                 "q": "Kurtuluş Savaşı döneminde Türklerin çıkarlarını savunan cemiyetler genel olarak neyi amaçlamıştır?",
+                 "options": ["Vatanın bütünlüğünü korumak", "Hilafeti kaldırmak", "İşgal bölgelerini paylaşmak", "Manda sistemini kurmak"],
+                 "answer": 3
+               },
+               {
+                 "q": "İngiliz Muhipleri Cemiyeti’nin en önemli özelliği nedir?",
+                 "options": ["İngiliz korumasını istemesi", "Bağımsızlık için savaşması", "Anadolu’yu savunması", "Cumhuriyet fikrini yayması"],
+                 "answer": 3
+               },
+               {
+                 "q": "Rumların Pontus Devleti kurma planı en çok hangi bölgede etkili olmuştur?",
+                 "options": ["Karadeniz", "Doğu Anadolu", "Trakya", "İzmir"],
+                 "answer": 3
+               },
+               {
+                 "q": "Ermenilerin Doğu Anadolu’da yürüttüğü faaliyetlere karşı Türk halkı hangi cemiyet çatısında birleşmiştir?",
+                 "options": ["Vilayet-i Şarkiye Müdafaa-i Hukuk Cemiyeti", "Pontus Rum Cemiyeti", "İngiliz Muhipleri Cemiyeti", "Hınçak Cemiyeti"],
+                 "answer": 3
+               },
+               {
+                 "q": "Yararlı cemiyetlerin çalışmaları daha sonra hangi örgüt altında birleştirilmiştir?",
+                 "options": ["Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti", "İngiliz Muhipleri Cemiyeti", "Teali İslam Cemiyeti", "Pontus Rum Cemiyeti"],
+                 "answer": 3
+               },
+               {
+                 "q": "Zararlı cemiyetlerin amacı Türk halkı üzerinde nasıl bir etki yaratmaktı?",
+                 "options": ["Direnişi kırmak ve teslimiyeti sağlamak", "Bağımsızlığı artırmak", "Milli birliği güçlendirmek", "TBMM’yi desteklemek"],
+                 "answer": 3
+               },
+               {
+                 "q": "Anadolu’daki yararlı cemiyetlerin dağınıklığını ortadan kaldıran gelişme aşağıdakilerden hangisidir?",
+                 "options": ["Sivas Kongresi", "Lozan Antlaşması", "Mudanya Ateşkesi", "Amasya Görüşmeleri"],
+                 "answer": 3
+               },
+               {
+                 "q": "Cemiyetlerin basın-yayın faaliyetleri hangi amaçla yapılmıştır?",
+                 "options": ["Halkı bilinçlendirmek ve işgallere karşı koymak", "Mandayı yaymak", "Saltanatı güçlendirmek", "Hilafeti yaymak"],
+                 "answer": 3
+               },
+               {
+                 "q": "Kurtuluş Savaşı sürecinde zararlı cemiyetlerin faaliyetlerini önleyen güç kimdir?",
+                "options": ["TBMM Hükümeti", "İngiltere", "Yunanistan", "Fransa"],
+                 "answer": 3
+               },
+               {
+                 "q": "Teali İslam Cemiyeti hangi devlete yakın politikalar izlemiştir?",
+                 "options": ["İngiltere", "Fransa", "İtalya", "Almanya"],
+                 "answer": 3
+               },
+             {
+               "q": "Sivas Kongresi’nin toplanma amacı aşağıdakilerden hangisidir?",
+               "options": ["Tüm vatanın savunmasını ortaklaştırmak", "Yeni anayasa yapmak", "Saltanatı güçlendirmek", "TBMM’yi dağıtmak"],
+               "answer": 3
+             },
+         {
+           "q": "Mudanya Ateşkes Antlaşması TBMM adına kim tarafından imzalanmıştır?",
+           "options": ["Kazım Karabekir", "İsmet İnönü", "Fevzi Çakmak", "Rauf Orbay"],
+           "answer": 1
+         },
+         {
+           "q": "Lozan Antlaşması hangi ateşkesin ardından imzalanmıştır?",
+           "options": ["Gümrü", "Mudanya", "Ankara", "Moskova"],
+           "answer": 1
+         },
+         {
+           "q": "Lozan Antlaşması ile Türkiye’nin bağımsızlığı hangi devletler tarafından tanınmıştır?",
+           "options": ["Yalnız İngiltere", "Yalnız Fransa", "İtilaf Devletleri", "Balkan Devletleri"],
+           "answer": 2
+         },
+   {
+     "q": "Misak-ı Milli'den ikinci olarak verilen taviz aşağıdakilerden hangisidir?",
+     "options": ["Batum", "Kıbrıs", "Musul", "Hatay"],
+     "answer": 3
+   },
+   {
+     "q": "Siz orada sadece düşmanı değil, milletin makus talihini de yendiniz. sözü Atatürk tarafından ne zaman söylenmiştir?",
+     "options": ["Sakarya Meydan Muharebesi", "I. İnönü Savaşı", "II. İnönü Savaşı", "Çanakkale Savaşı"],
+     "answer": 2
+   },
+   {
+     "q": "TBMM'yi tanıyan ilk İslam ülkesi hangisidir?",
+     "options": ["Afganistan", "Almanya", "İtalya", "Ermenistan"],
+     "answer": 0
+   },
+   {
+     "q": "Vatanın bütünlüğü ve milletin bağımsızlığı tehlikededir. kararı hangi belgede yer almıştır?",
+     "options": ["Erzurum Kongresi", "Sivas Kongresi", "Amasya Görüşmesi", "Amasya Genelgesi"],
+     "answer": 3
+   }
+]
