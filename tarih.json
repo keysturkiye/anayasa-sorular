@@ -1,4 +1,4 @@
- [
+  [
   {
     "q": "Türkiye’de saltanatın kaldırılması hangi tarihte yapılmıştır?",
     "options": ["29 Ekim 1923", "1 Kasım 1922", "10 Kasım 1938", "23 Nisan 1920"],
@@ -179,7 +179,7 @@
     "options": ["1947", "1949", "1952", "1955"],
     "answer": 2
   },
- {
+  {
      "q": "Mustafa Kemal Atatürk Artık İstanbul Anadolu'ya hâkim değil, tabi olmak zorundadır. sözünü nerede söylemiştir?",
      "options": ["Erzurum Kongresi", "Amasya Genelgesi", "Sivas Kongresi", "Havza Genelgesi"],
      "answer": 1
