@@ -1,4 +1,4 @@
-const sorular = [
+[
 {
     "q":"İdarî işlerde, fen ve sanat kollarında görev yapan; kanuna göre subaylara muadil ve özel bir silsileye tâbi bulunan asker kimdir?",
     "options":["Astsubay","Askerî Memur","Subay","Uzman Erbaş"],
