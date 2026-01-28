@@ -705,11 +705,6 @@
     "answer": 2
   },
   {
-    "q": "Soru : Deneme testi ne amaçla yapılır?",
-    "options": ["Hazırlık", "Dinlenme", "Ödül", "Hiçbiri"],
-    "answer": 0
-  },
-  {
     "q": "Aşağıdakilerden hangisi 1982 Anayasası başlangıç metninde düzenlenen temel ilkelerden biri değildir?",
     "options": ["Milli egemenlik", "Laiklik", "Atatürk milliyetçiliği", "Kuvvetler birliği"],
     "answer": 3
@@ -870,11 +865,6 @@
     "answer": 0
   },
   {
-    "q": "HSK üyelerinin görev süresi kaç yıldır?",
-    "options": ["2 yıl", "4 yıl", "6 yıl", "8 yıl"],
-    "answer": 1
-  },
-  {
     "q": "HSK kararlarına karşı yargı yolu ile ilgili aşağıdakilerden hangisi doğrudur?",
     "options": ["Hiçbir şekilde yargı yolu açılamaz", "Sadece meslekten çıkarma kararlarına karşı yargı yolu açıktır", "Tüm kararlara karşı yargı yolu açıktır", "Sadece atama kararlarına karşı yargı yolu açıktır"],
     "answer": 1
@@ -968,11 +958,6 @@
     "q": "Yargı kolları arasındaki uyuşmazlıkları çözen mahkeme aşağıdakilerden hangisidir?",
     "options": ["Yargıtay", "Danıştay", "Uyuşmazlık Mahkemesi", "Anayasa Mahkemesi"],
     "answer": 2
-  },
-  {
-    "q": "HSK üyelerinin görev süresi kaç yıldır?",
-    "options": ["2 yıl", "4 yıl", "6 yıl", "8 yıl"],
-    "answer": 1
   },
   {
     "q": "HSK'nın hangi kararlarına karşı yargı yolu açıktır?",
