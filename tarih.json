@@ -1,41 +1,184 @@
  [
-{q:"Türkiye’de saltanatın kaldırılması hangi tarihte yapılmıştır?", options:["29 Ekim 1923","1 Kasım 1922","10 Kasım 1938","23 Nisan 1920"], answer:1},
-{q:"Mustafa Kemal Atatürk’ün Samsun’a çıkışı hangi tarihtir?", options:["19 Mayıs 1919","15 Mayıs 1919","18 Mayıs 1919","20 Mayıs 1919"], answer:0},
-{q:"TBMM’nin açılması hangi gündür?", options:["23 Nisan 1920","24 Nisan 1920","25 Nisan 1920","22 Nisan 1920"], answer:0},
-{q:"Misak-ı Millî kararları hangi kongrede alınmıştır?", options:["Erzurum","Sivas","Amasya","Balıkesir"], answer:1},
-{q:"Ankara’nın başkent ilan edilmesi hangi yılda gerçekleşmiştir?", options:["1922","1923","1924","1925"], answer:1},
-{q:"Lozan Antlaşması hangi yılda imzalanmıştır?", options:["1922","1923","1924","1925"], answer:2},
-{q:"Halifeliğin kaldırılması hangi tarihli kararla yapılmıştır?", options:["3 Mart 1924","1 Kasım 1922","29 Ekim 1923","24 Temmuz 1923"], answer:0},
-{q:"İzmir İktisat Kongresi hangi yılda düzenlenmiştir?", options:["1921","1922","1923","1924"], answer:3},
-{q:"Medeni Kanun TBMM’de kabul edildiği yıl hangisidir?", options:["1924","1925","1926","1927"], answer:2},
-{q:"Tekke ve zaviyelerin kapatılması hangi kanunla yapılmıştır?", options:["Law 677","Law 431","Law 612","Law 428"], answer:3},
-{q:"Şapka Kanunu kaç yılında kabul edilmiştir?", options:["1923","1924","1925","1928"], answer:3},
-{q:"Latin harflerinin kabulü hangi tarihte gerçekleşmiştir?", options:["1 Kasım 1928","1 Kasım 1929","29 Ekim 1928","29 Ekim 1929"], answer:0},
-{q:"Kadınlara seçme ve seçilme hakkı hangi yıl verilmiştir?", options:["1930","1933","1934","1935"], answer:2},
-{q:"İzmir İktisat Kongresinde en çok hangi konu ön plana çıkmıştır?", options:["Tarım reformu","Sanayileşme","Ekonomik bağımsızlık","Eğitim reformu"], answer:2},
-{q:"Türkiye’de çok partili hayata geçişin ilk adımı hangi yıl atılmıştır?", options:["1938","1945","1950","1946"], answer:3},
-{q:"Montrö Boğazlar Sözleşmesi hangi yıl imzalanmıştır?", options:["1934","1935","1936","1937"], answer:1},
-{q:"Takriri Sükûn Kanunu hangi olay sonrası çıkarılmıştır?", options:["1925 Şeyh Sait İsyanı","1923 Terakkiperver Cumhuriyet Fırkası","1926 Menemen Olayı","1930 Serbest Cumhuriyet Fırkası"], answer:0},
-{q:"Köy Enstitüleri hangi yıl açılmıştır?", options:["1935","1936","1940","1942"], answer:1},
-{q:"Türk tarihinin çağdaşlaşma süreci hangi ilkeyi vurgular?", options:["Milliyetçilik","Bağımsızlık","Laiklik","Ulusal egemenlik"], answer:3},
-{q:"“Onuncu Yıl” nutku hangi yılda okunmuştur?", options:["1933","1934","1935","1936"], answer:1},
-{q:"1921 Anayasası’nın diğer adı nedir?", options:["Teşkilat-ı Esasiye Kanunu","Misak-ı Millî","
- Anayasa Kanunu","Teşkilat-ı Esasi"], answer:3},
-{q:"1924 Anayasası ile hangi kurum kaldırılmıştır?", options:["Halifelik","Saltanat","Şer’iye ve Evkaf Vekâleti","İrtica"], answer:2},
-{q:"Türkiye Cumhuriyeti’nde ilk parti hangisidir?", options:["Serbest Fırka","Cumhuriyet Halk Fırkası","Terakkiperver Cumhuriyet Fırkası","Demokrat Parti"], answer:2},
-{q:"Balkan Paktı hangi yıl imzalanmıştır?", options:["1930","1933","1934","1936"], answer:3},
-{q:"1928 yılında çıkarılan Türk Harfleri Kanunu’nun amacı nedir?", options:["Okur-yazarlığı artırmak","Çok partili rejimi hızlandırmak","Dini kurumları zayıflatmak","Kapitalizmi geliştirmek"], answer:0},
-{q:"II. Dünya Savaşı sonrası Türkiye’nin çok partili hayata geçmesinde hangi ülke örnek olmuştur?", options:["ABD","SSCB","İngiltere","Fransa"], answer:2},
-{q:"Balkan Paktı’nın amacı nedir?", options:["Ekonomik işbirliği","Bölgesel savunma","Kültürel değişim","Tarım politikası"], answer:1},
-{q:"1930’da kurulan Serbest Cumhuriyet Fırkası ne kadar süre sonra kapatılmıştır?", options:["15 gün","3 ay","6 ay","1 yıl"], answer:1},
-{q:"10 Kasım 1938’de Atatürk’ün vefatının ardından TBMM ne yapmıştır?", options:["İstiklal Marşı kabul edildi","Meclis tatil edildi","Milli matem ilan edildi","Anayasa değiştirildi"], answer:2},
-{q:"Lozan Antlaşması’nın onaylanmasıyla hangi ordu görevi sona ermiştir?", options:["Kuvâ-yı Millîye","Düzenli Ordu","Kuvâ-yı Inzibâtiye","Düşman işgali"], answer:0},
-{q:"Türkiye Cumhuriyeti’nde 'Milli egemenlik' ilkesinin anayasal ifadesi hangi yılda yapılmıştır?", options:["1921","1923","1924","1937"], answer:2},
-{q:"Çağdaşlaşma hamlesi kapsamında kadınlara hangi alanda öncelik verilmiştir?", options:["Ekonomi","Eğitim","Siyaset","Spor"], answer:1},
-{q:"“Onuncu Yıl Marşı” hangi gelişmeyi kutlamak için yazılmıştır?", options:["Cumhuriyetin 5. yılı","Türk ordusunun zaferi","Cumhuriyetin 10. yılı","TBMM’nin 10. yılı"], answer:2},
-{q:"Ankara Hukuk Fakültesi’nin kuruluş yılı hangisidir?", options:["1925","1926","1927","1928"], answer:1},
-{q:"“Kadınlar milletvekili seçilebilir” düzenlemesi hangi tarihte hayata geçmiştir?", options:["1930","1933","1934","1935"], answer:2},
-{q:"Türkiye’nin NATO’ya üyelik gerçekleşmesi hangi yıldadır?", options:["1947","1949","1952","1955"], answer:2},
+  {
+    "q": "Türkiye’de saltanatın kaldırılması hangi tarihte yapılmıştır?",
+    "options": ["29 Ekim 1923", "1 Kasım 1922", "10 Kasım 1938", "23 Nisan 1920"],
+    "answer": 1
+  },
+  {
+    "q": "Mustafa Kemal Atatürk’ün Samsun’a çıkışı hangi tarihtir?",
+    "options": ["19 Mayıs 1919", "15 Mayıs 1919", "18 Mayıs 1919", "20 Mayıs 1919"],
+    "answer": 0
+  },
+  {
+    "q": "TBMM’nin açılması hangi gündür?",
+    "options": ["23 Nisan 1920", "24 Nisan 1920", "25 Nisan 1920", "22 Nisan 1920"],
+    "answer": 0
+  },
+  {
+    "q": "Misak-ı Millî kararları hangi kongrede alınmıştır?",
+    "options": ["Erzurum", "Sivas", "Amasya", "Balıkesir"],
+    "answer": 1
+  },
+  {
+    "q": "Ankara’nın başkent ilan edilmesi hangi yılda gerçekleşmiştir?",
+    "options": ["1922", "1923", "1924", "1925"],
+    "answer": 1
+  },
+  {
+    "q": "Lozan Antlaşması hangi yılda imzalanmıştır?",
+    "options": ["1922", "1923", "1924", "1925"],
+    "answer": 2
+  },
+  {
+    "q": "Halifeliğin kaldırılması hangi tarihli kararla yapılmıştır?",
+    "options": ["3 Mart 1924", "1 Kasım 1922", "29 Ekim 1923", "24 Temmuz 1923"],
+    "answer": 0
+  },
+  {
+    "q": "İzmir İktisat Kongresi hangi yılda düzenlenmiştir?",
+    "options": ["1921", "1922", "1923", "1924"],
+    "answer": 3
+  },
+  {
+    "q": "Medeni Kanun TBMM’de kabul edildiği yıl hangisidir?",
+    "options": ["1924", "1925", "1926", "1927"],
+    "answer": 2
+  },
+  {
+    "q": "Tekke ve zaviyelerin kapatılması hangi kanunla yapılmıştır?",
+    "options": ["Law 677", "Law 431", "Law 612", "Law 428"],
+    "answer": 3
+  },
+  {
+    "q": "Şapka Kanunu kaç yılında kabul edilmiştir?",
+    "options": ["1923", "1924", "1925", "1928"],
+    "answer": 3
+  },
+  {
+    "q": "Latin harflerinin kabulü hangi tarihte gerçekleşmiştir?",
+    "options": ["1 Kasım 1928", "1 Kasım 1929", "29 Ekim 1928", "29 Ekim 1929"],
+    "answer": 0
+  },
+  {
+    "q": "Kadınlara seçme ve seçilme hakkı hangi yıl verilmiştir?",
+    "options": ["1930", "1933", "1934", "1935"],
+    "answer": 2
+  },
+  {
+    "q": "İzmir İktisat Kongresinde en çok hangi konu ön plana çıkmıştır?",
+    "options": ["Tarım reformu", "Sanayileşme", "Ekonomik bağımsızlık", "Eğitim reformu"],
+    "answer": 2
+  },
+  {
+    "q": "Türkiye’de çok partili hayata geçişin ilk adımı hangi yıl atılmıştır?",
+    "options": ["1938", "1945", "1950", "1946"],
+    "answer": 3
+  },
+  {
+    "q": "Montrö Boğazlar Sözleşmesi hangi yıl imzalanmıştır?",
+    "options": ["1934", "1935", "1936", "1937"],
+    "answer": 1
+  },
+  {
+    "q": "Takriri Sükûn Kanunu hangi olay sonrası çıkarılmıştır?",
+    "options": ["1925 Şeyh Sait İsyanı", "1923 Terakkiperver Cumhuriyet Fırkası", "1926 Menemen Olayı", "1930 Serbest Cumhuriyet Fırkası"],
+    "answer": 0
+  },
+  {
+    "q": "Köy Enstitüleri hangi yıl açılmıştır?",
+    "options": ["1935", "1936", "1940", "1942"],
+    "answer": 1
+  },
+  {
+    "q": "Türk tarihinin çağdaşlaşma süreci hangi ilkeyi vurgular?",
+    "options": ["Milliyetçilik", "Bağımsızlık", "Laiklik", "Ulusal egemenlik"],
+    "answer": 3
+  },
+  {
+    "q": "“Onuncu Yıl” nutku hangi yılda okunmuştur?",
+    "options": ["1933", "1934", "1935", "1936"],
+    "answer": 1
+  },
+  {
+    "q": "1921 Anayasası’nın diğer adı nedir?",
+    "options": ["Teşkilat-ı Esasiye Kanunu", "Misak-ı Millî", "Anayasa Kanunu", "Teşkilat-ı Esasi"],
+    "answer": 3
+  },
+  {
+    "q": "1924 Anayasası ile hangi kurum kaldırılmıştır?",
+    "options": ["Halifelik", "Saltanat", "Şer’iye ve Evkaf Vekâleti", "İrtica"],
+    "answer": 2
+  },
+  {
+    "q": "Türkiye Cumhuriyeti’nde ilk parti hangisidir?",
+    "options": ["Serbest Fırka", "Cumhuriyet Halk Fırkası", "Terakkiperver Cumhuriyet Fırkası", "Demokrat Parti"],
+    "answer": 2
+  },
+  {
+    "q": "Balkan Paktı hangi yıl imzalanmıştır?",
+    "options": ["1930", "1933", "1934", "1936"],
+    "answer": 3
+  },
+  {
+    "q": "1928 yılında çıkarılan Türk Harfleri Kanunu’nun amacı nedir?",
+    "options": ["Okur-yazarlığı artırmak", "Çok partili rejimi hızlandırmak", "Dini kurumları zayıflatmak", "Kapitalizmi geliştirmek"],
+    "answer": 0
+  },
+  {
+    "q": "II. Dünya Savaşı sonrası Türkiye’nin çok partili hayata geçmesinde hangi ülke örnek olmuştur?",
+    "options": ["ABD", "SSCB", "İngiltere", "Fransa"],
+    "answer": 2
+  },
+  {
+    "q": "Balkan Paktı’nın amacı nedir?",
+    "options": ["Ekonomik işbirliği", "Bölgesel savunma", "Kültürel değişim", "Tarım politikası"],
+    "answer": 1
+  },
+  {
+    "q": "1930’da kurulan Serbest Cumhuriyet Fırkası ne kadar süre sonra kapatılmıştır?",
+    "options": ["15 gün", "3 ay", "6 ay", "1 yıl"],
+    "answer": 1
+  },
+  {
+    "q": "10 Kasım 1938’de Atatürk’ün vefatının ardından TBMM ne yapmıştır?",
+    "options": ["İstiklal Marşı kabul edildi", "Meclis tatil edildi", "Milli matem ilan edildi", "Anayasa değiştirildi"],
+    "answer": 2
+  },
+  {
+    "q": "Lozan Antlaşması’nın onaylanmasıyla hangi ordu görevi sona ermiştir?",
+    "options": ["Kuvâ-yı Millîye", "Düzenli Ordu", "Kuvâ-yı Inzibâtiye", "Düşman işgali"],
+    "answer": 0
+  },
+  {
+    "q": "Türkiye Cumhuriyeti’nde 'Milli egemenlik' ilkesinin anayasal ifadesi hangi yılda yapılmıştır?",
+    "options": ["1921", "1923", "1924", "1937"],
+    "answer": 2
+  },
+  {
+    "q": "Çağdaşlaşma hamlesi kapsamında kadınlara hangi alanda öncelik verilmiştir?",
+    "options": ["Ekonomi", "Eğitim", "Siyaset", "Spor"],
+    "answer": 1
+  },
+  {
+    "q": "“Onuncu Yıl Marşı” hangi gelişmeyi kutlamak için yazılmıştır?",
+    "options": ["Cumhuriyetin 5. yılı", "Türk ordusunun zaferi", "Cumhuriyetin 10. yılı", "TBMM’nin 10. yılı"],
+    "answer": 2
+  },
+  {
+    "q": "Ankara Hukuk Fakültesi’nin kuruluş yılı hangisidir?",
+    "options": ["1925", "1926", "1927", "1928"],
+    "answer": 1
+  },
+  {
+    "q": "“Kadınlar milletvekili seçilebilir” düzenlemesi hangi tarihte hayata geçmiştir?",
+    "options": ["1930", "1933", "1934", "1935"],
+    "answer": 2
+  },
+  {
+    "q": "Türkiye’nin NATO’ya üyelik gerçekleşmesi hangi yıldadır?",
+    "options": ["1947", "1949", "1952", "1955"],
+    "answer": 2
+  },
  {
      "q": "Mustafa Kemal Atatürk Artık İstanbul Anadolu'ya hâkim değil, tabi olmak zorundadır. sözünü nerede söylemiştir?",
      "options": ["Erzurum Kongresi", "Amasya Genelgesi", "Sivas Kongresi", "Havza Genelgesi"],
