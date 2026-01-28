@@ -1,0 +1,4873 @@
+const sorular = [
+{
+    "q":"İdarî işlerde, fen ve sanat kollarında görev yapan; kanuna göre subaylara muadil ve özel bir silsileye tâbi bulunan asker kimdir?",
+    "options":["Astsubay","Askerî Memur","Subay","Uzman Erbaş"],
+    "answer":1
+  },
+  {
+    "q":"Hususi kanununa göre Silahlı Kuvvetlere intisap eden, asteğmenden mareşale (Büyük Amirale) kadar rütbeleri haiz olan asker kimdir?",
+    "options":["Astsubay","Askerî Memur","Subay","Erbaş"],
+    "answer":2
+  },
+  {
+    "q":"Tüzükler, kararnameler, yönetmelikler, talimnamelerin ve talimatların hükümlerine ne denir?",
+    "options":["Hizmet","Vazife","Nizam","Emir"],
+    "answer":2
+  },
+  {
+    "q":"Kanunlarla nizamlarda yapılması veyahut yapılmaması yazılmış olan hususlarla, amir tarafından yazı veya sözle emredilen veya yasak edilen işlere ne denir?",
+    "options":["Nizam","Emir","Hizmet","Vazife"],
+    "answer":2
+  },
+  {
+    "q":"Hizmetin icabettirdiği şeyi yapmak ve menettiği şeyi yapmamaktır. Bu tanım aşağıdakilerden hangisine aittir?",
+    "options":["Emir","Hizmet","Vazife","Nizam"],
+    "answer":2
+  },
+  {
+    "q":"Hizmete ait bir talep veya yasağın sözle, yazı ile ve sair surette ifadesine ne denir?",
+    "options":["Nizam","Vazife","Emir","Hizmet"],
+    "answer":2
+  },
+  {
+    "q":"Aşağıdakilerden hangisi tüzükler, kararnameler, yönetmelikler, talimnameler ve talimatların hükümlerini ifade eder?",
+    "options":["Emir","Hizmet","Vazife","Nizam"],
+    "answer":3
+  },
+  {
+    "q":"Amir tarafından yazı veya sözle emredilen ya da yasak edilen işler aşağıdaki kavramlardan hangisi ile ifade edilir?",
+    "options":["Emir","Nizam","Vazife","Hizmet"],
+    "answer":3
+  },
+  {
+    "q":"Hizmetin gerektirdiğini yapmak ve yasakladığını yapmamak hangi kavramdır?",
+    "options":["Emir","Hizmet","Nizam","Vazife"],
+    "answer":3
+  },
+  {
+    "q":"Hizmete ait bir talep veya yasağın ifade edilmesi aşağıdaki kavramlardan hangisine girer?",
+    "options":["Vazife","Hizmet","Emir","Nizam"],
+    "answer":2
+  },
+  {
+    "q":"Makam ve memuriyet itibariyle emretmek salahiyetini haiz kimseye ne denir?",
+    "options":["Üst","Amir","Ast","Maiyet"],
+    "answer":1
+  },
+  {
+    "q":"Bir amirin emri altında bulunan kişilere ne ad verilir?",
+    "options":["Üst","Ast","Maiyet","Kıta"],
+    "answer":2
+  },
+  {
+    "q":"Rütbe veya kıdem büyüklüğünü ifade eden kavram aşağıdakilerden hangisidir?",
+    "options":["Makam","Üst","Amir","Kıta"],
+    "answer":1
+  },
+  {
+    "q":"Üstün rütbece veya kıdemce aşağısında bulunan kimseye ne denir?",
+    "options":["Amir","Üst","Ast","Maiyet"],
+    "answer":2
+  },
+  {
+    "q":"Her amirin Silahlı Kuvvetlerde temsil ettiği mevkiye ne ad verilir?",
+    "options":["Kıta","Karargâh","Makam","Teşkilat"],
+    "answer":2
+  },
+  {
+    "q":"Görevin yapılması için taktik ve idari birlikleri kapsayan ve bir kumanda altında toplanan teşkilata ne denir?",
+    "options":["Karargâh","Askerî Kurum","Kıta","İdari Birlik"],
+    "answer":2
+  },
+  {
+    "q":"Belli bir kuruluş ve kadrosu olup asli görevi muharebe hareketleri olan teşkilat aşağıdakilerden hangisidir?",
+    "options":["İdari Birlik","Taktik Birlik","Karargâh","Askerî Kurum"],
+    "answer":1
+  },
+  {
+    "q":"Belli bir kuruluş ve kadrosu olup asli görevi hizmet hareketleri olan teşkilata ne denir?",
+    "options":["Taktik Birlik","Kıta","İdari Birlik","Karargâh"],
+    "answer":2
+  },
+  {
+    "q":"Kumandan veya amirlerin kıta veya kurumlarının sevk ve idaresinde yardımcı olan teşkilata ne denir?",
+    "options":["Kıta","Karargâh","Askerî Kurum","Taktik Birlik"],
+    "answer":1
+  },
+  {
+    "q":"Okul, ordu evi, dikim evi, fabrika, tersane, askerlik şubesi, ikmal merkezi ve depo gibi tesislere ne ad verilir?",
+    "options":["Kıta","Karargâh","İdari Birlik","Askerî Kurum"],
+    "answer":3
+  },
+  {
+    "q":"Aşağıdakilerden hangisi askerî kurum kapsamına girmez?",
+    "options":["Ordu evi","Fabrika","Tugay","Askerlik şubesi"],
+    "answer":2
+  },
+  {
+    "q":"Karargâhlar ne ile tespit edilir?",
+    "options":["Talimatla","Kanunla","Bir kuruluş ve kadro ile","Emirle"],
+    "answer":2
+  },
+  {
+      "q":"Kanunlara, nizamlara ve amirlere mutlak bir itaat ile astın ve üstün hukukuna riayet edilmesine ne denir?",
+      "options":["Emir","Hizmet","Disiplin","Vazife"],
+      "answer":2
+    },
+    {
+      "q":"Aşağıdakilerden hangisi disiplinin tanımıdır?",
+      "options":[
+        "Sadece amirlere itaat etmek",
+        "Kanunlara, nizamlara ve amirlere mutlak bir itaat ve astın ve üstün hukukuna riayet etmek",
+        "Yalnızca yazılı kurallara uymak",
+        "Sadece astların uyması gereken kurallar"
+      ],
+      "answer":1
+    },
+    {
+        "q":"Amir, emirlerini kime verebilir?",
+        "options":[
+          "Sadece kendi rütbesindekilere",
+          "Sadece subaylara",
+          "Maiyetindeki her şahsa",
+          "Sadece astsubaylara"
+        ],
+        "answer":2
+      },
+      {
+        "q":"Amirin aşağıdaki görevlerinden hangisi doğrudur?",
+        "options":[
+          "Vazifelerin yapılmasını takip etmez",
+          "Vazifelerin zamanında ve tam olarak yapılıp yapılmadığını takip eder ve yapılmasını temin eder",
+          "Sadece rapor hazırlar",
+          "Yalnızca ceza verir"
+        ],
+        "answer":1
+      },
+      {
+        "q":"Amir aşağıdakilerden hangisini yapamaz?",
+        "options":[
+          "Hizmetle ilgili emir vermek",
+          "Maiyetine hizmetle münasebeti olmayan emir vermek",
+          "Vazifelerin yerine getirilmesini takip etmek",
+          "Disiplini sağlamak"
+        ],
+        "answer":1
+      },
+      {
+        "q":"Amir, astından aşağıdakilerden hangisini talep edemez?",
+        "options":[
+          "Hizmetin gereğini yapmasını",
+          "Görevle ilgili emirleri yerine getirmesini",
+          "Hususi bir menfaat sağlamasını",
+          "Disipline uygun davranmasını"
+        ],
+        "answer":2
+      },
+      {
+        "q":"Amir aşağıdakilerden hangisini yapamaz?",
+        "options":[
+          "Hediye kabul etmek",
+          "Disiplin cezası vermek",
+          "Maiyetine emir vermek",
+          "Vazifeleri takip etmek"
+        ],
+        "answer":0
+      },
+      {
+        "q":"Amirin maiyetine karşı temel tutumu nasıl olmalıdır?",
+        "options":[
+          "Taraflı davranmalıdır",
+          "Sert ve cezalandırıcı olmalıdır",
+          "Bitaraflık ve hakkaniyeti muhafaza etmelidir",
+          "Sadece kıdeme göre davranmalıdır"
+        ],
+        "answer":2
+      },
+      {
+        "q":"Amir, maiyetine karşı hangi duyguları vermekle yükümlüdür?",
+        "options":[
+          "Korku ve çekingenlik",
+          "Hürmet ve itimat",
+          "Rekabet",
+          "Kaygı"
+        ],
+        "answer":1
+      },
+      {
+        "q":"Amirin, maiyetinin hangi durumlarını daima nezaret ve himayesi altında bulundurması gerekir?",
+        "options":[
+          "Sadece bedeni durumlarını",
+          "Sadece ahlaki durumlarını",
+          "Ahlaki, ruhi ve bedeni hallerini",
+          "Sadece görev durumlarını"
+        ],
+        "answer":2
+      },
+      {
+        "q":"Amir, maiyetine hangi durumda disiplin cezası verir?",
+        "options":[
+          "Kişisel anlaşmazlıklarda",
+          "Disiplini bozan fiil ve hareketlerde",
+          "Hizmet dışı özel hayatta",
+          "Sadece amirin takdirine göre"
+        ],
+        "answer":1
+      },
+      {
+        "q":"Disiplin cezalarının mahiyeti ve verilme usulü neye göre belirlenir?",
+        "options":[
+          "Amirin keyfi kararına göre",
+          "Talimatnamelere göre",
+          "Hususi kanunda belirtilen hallere göre",
+          "Genel örf ve adetlere göre"
+        ],
+        "answer":2
+      },
+      {
+          "q":"Disipline aykırı gördüğü her hâle müdahaleye ve emir vermeye kim görevlidir?",
+          "options":["Sadece amir","Sadece subay","Her üst","Disiplin amiri"],
+          "answer":2
+        },
+        {
+          "q":"Aşağıdakilerden hangisi disipline aykırı bir durum karşısında her üstün yetki ve görevleri arasındadır?",
+          "options":[
+            "Görmezden gelmek",
+            "Sadece rapor tutmak",
+            "Müdahale etmek ve emir vermek",
+            "Üst amirin gelmesini beklemek"
+          ],
+          "answer":2
+        },
+        {
+          "q":"Disipline aykırı bir hâl gören üst ne yapmalıdır?",
+          "options":[
+            "Müdahale eder ve emir verir",
+            "Sadece durumu not eder",
+            "Yetkisi olmadığı için karışmaz",
+            "Astlara bırakır"
+          ],
+          "answer":0
+        },
+        {
+            "q":"Her asker resmî ve şahsî işlerinden dolayı müracaatını nasıl yapar?",
+            "options":[
+              "Doğrudan en üst makama",
+              "Sadece yazılı olarak",
+              "En yakın amirinden başlayarak silsile yoluyla söz veya yazı ile",
+              "Sadece sözlü olarak"],
+            "answer":2
+          },
+          {
+            "q":"Askerî müracaatlar hangi yol izlenerek yapılır?",
+            "options":[
+              "Doğrudan komutanlığa",
+              "Hiyerarşik silsile yoluyla",
+              "Arkadaş aracılığıyla",
+              "Sivil makamlara"],
+            "answer":1
+          },
+          {
+            "q":"Müracaatlar nasıl sonuçlandırılır?",
+            "options":[
+              "Sadece kayıt altına alınır",
+              "Takip ve tahkik edilerek karara bağlanır",
+              "Üst makama iletilmeden bekletilir",
+              "Sözlü olarak reddedilir"],
+            "answer":1
+          },
+          {
+            "q":"Müracaatların sonucu müracaat sahibine en geç ne kadar sürede bildirilmelidir?",
+            "options":["15 gün","1 ay","2 ay","3 ay"],
+            "answer":1
+          },
+          {
+              "q":"Bir askerin, kanun ve nizamlardan doğan hak ve salahiyetlerinin haksız olarak ihlal edildiğini düşünmesi hâlinde hangi hakkı vardır?",
+              "options":["İtiraz hakkı","Şikayet hakkı","Toplu müracaat hakkı","Görevden ayrılma hakkı"],
+              "answer":1
+            },
+            {
+              "q":"Şikayet, kural olarak kime yapılır?",
+              "options":["Doğrudan en üst amire","En yakın amire","Sivil makamlara","Disiplin kuruluna"],
+              "answer":1
+            },
+            {
+              "q":"Şikayet edilen kişi en yakın amir ise şikayet nasıl yapılır?",
+              "options":["Şikayet yapılamaz","Aynı amire tekrar yapılır","Bir derece üstündeki amire yapılır","Toplu dilekçe ile yapılır"],
+              "answer":2
+            },
+            {
+              "q":"Sözlü yapılan şikayetler nasıl tespit edilir?",
+              "options":["Tanıkla","Noterle","Zabıtla","Dilekçe ile"],
+              "answer":2
+            },
+            {
+              "q":"Toplu olarak şikayetle ilgili doğru ifade hangisidir?",
+              "options":["Serbesttir","Şarta bağlıdır","Yasaktır","Sadece yazılı yapılabilir"],
+              "answer":2
+            },
+            {
+              "q":"Aynı olay birden fazla askerin şikayetine konu olursa nasıl hareket edilir?",
+              "options":["Toplu şikayet edilir","Bir kişi temsil eder","Her biri ayrı ayrı şikayet eder","Şikayet edilmez"],
+              "answer":2
+            },
+            {
+              "q":"Şikayet reddedildiğinde, şikayetçiye sırf bu nedenle ne yapılır?",
+              "options":["Disiplin cezası verilir","Uyarı yapılır","Ceza verilmez","Görev yeri değiştirilir"],
+              "answer":2
+            },
+            {
+              "q":"Şikayet sırasında suç işleyen veya disiplin ihlalinde bulunan asker için ne olur?",
+              "options":["Sorumluluğu olmaz","Şikayet geçersiz sayılır","Ayrıca sorumlu olur","Sadece uyarılır"],
+              "answer":2
+            },
+            {
+              "q":"Şikayetler ve itirazlar nasıl sonuçlandırılır?",
+              "options":["Bekletilir","Tahkik edilerek karara bağlanır","Sözlü olarak reddedilir","Sadece kayıt altına alınır"],
+              "answer":1
+            },
+            {
+              "q":"Şikayet ve itirazların sonucu en geç ne kadar sürede bildirilmelidir?",
+              "options":["15 gün","1 ay","2 ay","3 ay"],
+              "answer":1
+            },
+            {
+              "q":"Şikayet üzerine karar verme yetkisi kime aittir?",
+              "options":[
+                "Garnizon komutanına",
+                "Şikayet edilen amire",
+                "Disiplin cezası verme yetkisine sahip ilk disiplin amirine",
+                "Genelkurmay Başkanlığına"],
+              "answer":2
+            },
+            {
+              "q":"Şikayet üzerine verilen karara karşı hangi yolla itiraz edilebilir?",
+              "options":[
+                "Yargı yoluyla",
+                "Basın yoluyla",
+                "Mertebeler silsilesi yoluyla üst amirlere",
+                "Doğrudan MSB’ye"],
+              "answer":2
+            },
+            {
+              "q":"Disiplinin muhafazası ve hizmette gelişmenin sağlanması için hangi yollara başvurulur?",
+              "options":["Sadece ceza","Sadece mükafat","Mükafat ve ceza tedbirlerine","Uyarı ve ikaza"],
+              "answer":2
+            },
+            {
+              "q":"Mükafat ve ceza tedbirleri neye göre alınır?",
+              "options":["Amirin takdirine göre","Örf ve adetlere göre","Kanun ve nizamlara göre","Talimatlara göre"],
+              "answer":2
+            },
+            {
+              "q":"Askerlerin izin işleri hangi esaslara göre düzenlenir?",
+              "options":["Amirin takdirine göre","Hususi kanunlara ve nizamlara göre","Birlik içi uygulamalara göre","Sivil mevzuata göre"],
+              "answer":1
+            },
+            {
+              "q":"Bir asker vazifesinin bulunmayı gerektirdiği yerden izinsiz ayrılabilir mi?",
+              "options":["Gündüz ayrılabilir","Gece ayrılabilir","Hayır, ayrılamaz","Sadece hafta sonu ayrılabilir"],
+              "answer":2
+            },
+            {
+              "q":"Nöbetçi veya vazifeli olmayan subay, askerî memur ve astsubaylar ne zaman vazife mahallinden ayrılabilir?",
+              "options":[
+                "Mesai başlamadan önce",
+                "Mesai veya eğitimin bitiminde",
+                "Gece yoklamasından sonra",
+                "Her zaman"
+              ],
+              "answer":1
+            },
+            {
+              "q":"Karargâh ve kurumlarda günlük vazife müddeti en az kaç saattir?",
+              "options":["4","5","6","8"],
+              "answer":2
+            },
+
+    {
+    "q":"Kanun ve nizamlarda yapılması veya yapılmaması gereken işler hangi kavramla ifade edilir?",
+    "options":["Emir","Hizmet","Vazife","Nizam"],
+    "answer":2
+  },
+  {
+    "q":"Hizmete ilişkin bir isteğin, yasağın veya görevin sözle, yazıyla veya başka bir şekilde bildirilmesine ne ad verilir?",
+    "options":["Amir","Emir","Vazife","Nizam"],
+    "answer":1
+  },
+  {
+    "q":"Bir makam veya memuriyet dolayısıyla emretme yetkisine sahip olan kişiye ne denir?",
+    "options":["Üst","Amir","Ast","Kumandan"],
+    "answer":1
+  },
+  {
+    "q":"Rütbe veya kıdem olarak daha büyük konumda bulunan kişiye ne denir?",
+    "options":["Ast","Üst","Erbaş","Maiyet"],
+    "answer":1
+  },
+  {
+    "q":"Asıl görevi muharebe olan, belirli kadro ve kuruluşu bulunan birlik türü aşağıdakilerden hangisidir?",
+    "options":["İdari Birlik","Karargâh","Taktik Birlik","Askerî Kurum"],
+    "answer":2
+  },
+  {
+    "q":"Disiplin aşağıdaki seçeneklerden hangisiyle en doğru şekilde tanımlanır?",
+    "options":[
+      "Sadece amirlere itaattir.",
+      "Kanunlara, nizamlara ve amirlere mutlak itaat; astın ve üstün haklarına riayet etmektir.",
+      "Sadece savaş zamanı uyulması gereken kurallardır.",
+      "Sadece astların uyması gereken kurallardır."
+    ],
+    "answer":1
+  },
+  {
+    "q":"Aşağıdakilerden hangisi astın görevleri arasında yer almaz?",
+    "options":[
+      "Amir ve üstüne hürmet göstermek zorundadır.",
+      "Verilen emri zamanında yapmak zorundadır.",
+      "Verilen emri kendi isteğine göre değiştirebilir.",
+      "İtaati zayıflatan davranışlar cezalandırılır."
+    ],
+    "answer":2
+  },
+  {
+    "q":"Bir amir aşağıdaki durumlardan hangisinde bulunamaz?",
+    "options":[
+      "Hizmetle ilgili emir vermek",
+      "Astından menfaat sağlayacak bir istekte bulunmak",
+      "Verilen görevlerin yapılıp yapılmadığını denetlemek",
+      "Maiyetinin ahlaki durumunu gözetmek"
+    ],
+    "answer":1
+  },
+  {
+    "q":"Bir emir yapılması imkânsız hâle gelirse ast ne yapmalıdır?",
+    "options":[
+      "Bekler hiçbir şey yapmaz.",
+      "Emri tamamen iptal eder.",
+      "Sorumluluk alarak emri şartlara göre değiştirir ve ilk fırsatta amirine bildirir.",
+      "Sadece üst amire haber verir."
+    ],
+    "answer":2
+  },
+  {
+    "q":"Emirler normal şartlarda nasıl iletilir?",
+    "options":["Doğrudan en ast personele","Hiyerarşi (silsile) yoluyla","Yalnızca sözlü","Toplu duyuru ile"],
+    "answer":1
+  },
+  {
+    "q":"Üst amirden önceki emre aykırı yeni bir emir alınırsa ne yapılmalıdır?",
+    "options":[
+      "İlk emir uygulanır.",
+      "Yeni amire önceki emir bildirilir; ısrar ederse yeni emir uygulanır ve ilk amire bilgi verilir.",
+      "Hiçbir emir uygulanmaz.",
+      "Ast kendi kararını verir."
+    ],
+    "answer":1
+  },
+  {
+    "q":"Fesat, kargaşa veya isyan çıktığında düzeni sağlama görevi kimdedir?",
+    "options":["Garnizon komutanında","Yalnız subaylarda","Her üstte","Sadece en üst komutanda"],
+    "answer":2
+  },
+  {
+    "q":"Asker, resmî veya özel işlerinde müracaatını kime yapar?",
+    "options":["Genelkurmay Başkanlığına","En yakın amirine","Milli Savunma Baanlığına","Askerî mahkemelere"],
+    "answer":1
+  },
+  {
+    "q":"Müracaatlara cevap en geç ne kadar sürede verilir?",
+    "options":["15 günü geçemez","1 ayı geçemez.","2 ayayı geçemez.","3 ayı geçemez."],
+    "answer":1
+  },
+  {
+    "q":"Aşağıdakilerden hangisi kesin olarak yasaktır?",
+    "options":["Yazılı müracaat","Sözlü müracaat","Toplu müracaat","Bireysel şikayet"],
+    "answer":2
+  },
+  {
+    "q":"Haklarının haksız şekilde ihlal edildiğini düşünen bir asker hangi hakkı kullanabilir?",
+    "options":["İstifa hakkı","Şikayet hakkı","Toplu direniş hakkı","Amirini görevden alma hakkı"],
+    "answer":1
+  },
+  {
+    "q":"Şikayet en yakın amire yapılır. Ancak şikayet o amirle ilgiliyse ne yapılır?",
+    "options":["Vazgeçilir.","Yargıya gidilir.","Bir üst amire yapılır.","Toplu şikayet yapılır."],
+    "answer":2
+  },
+  {
+    "q":"Sözlü yapılan şikayetler hangi yöntemle kayıt altına alınır?",
+    "options":["Noter tasdikiyle","Zabıt (tutanak) ile","Görüntülü kayıtla","Şahit huzurunda"],
+    "answer":1
+  },
+  {
+    "q":"Aynı konuda birden fazla asker şikayetçi ise nasıl işlem yapılır?",
+    "options":["Toplu dilekçe verilir.","Bir kişi temsil eder.","Her biri ayrı ayrı başvurur.","Şikayet edilmez."],
+    "answer":2
+  },
+  {
+      "q":"Her asker resmî ve şahsî işlerinden dolayı müracaatını nasıl yapar?",
+      "options":[
+        "Doğrudan en üst amire",
+        "Sadece yazılı olarak",
+        "En yakın amirinden başlayarak silsile yoluyla söz veya yazı ile",
+        "Sivil makamlara"
+      ],
+      "answer":2
+    },
+      {
+        "q":"Bir asker, kanun ve nizamlardan doğan hak ve salahiyetlerinin haksız olarak ihlal edildiğini düşünürse hangi hakkı kullanabilir?",
+        "options":["İzin hakkı","Şikayet hakkı","Toplu müracaat hakkı","Görevden ayrılma hakkı"],
+        "answer":1
+      },
+      {
+        "q":"Aşağıdakilerden hangisi askerin şikayet hakkını kullanabileceği durumlardan biridir?",
+        "options":[
+          "Hak ve salahiyetlerinin haksız olarak ihlal edilmesi",
+          "Emrin zor gelmesi",
+          "Görev yerini beğenmemesi",
+          "Kişisel isteğinin yerine getirilmemesi"
+        ],
+        "answer":0
+      },
+      {
+        "q":"Bir asker, haklarının ihlal edildiğini kesin olarak bilmesi dışında hangi durumda da şikayet hakkına sahiptir?",
+        "options":[
+          "Sadece yazılı belge varsa",
+          "İhlal edildiğini zannetmesi halinde",
+          "Arkadaşları da şikayet ederse",
+          "Üstü izin verirse"
+        ],
+        "answer":1
+      },
+      {
+        "q":"Askerin şikayet hakkı hangi alanları kapsar?",
+        "options":[
+          "Sadece hizmete ait işleri",
+          "Sadece şahsi işleri",
+          "Hizmete ve zati işlere ait hak ve salahiyetleri",
+          "Sadece disiplin cezalarını"
+        ],
+        "answer":2
+      },
+      {
+        "q":"Aşağıdakilerden hangisi askerin şikayet hakkını kullanmasının hukuki dayanağıdır?",
+        "options":[
+          "Amirin izni",
+          "Kanun ve nizamlar",
+          "Gelenekler",
+          "Birlik içi uygulamalar"
+        ],
+        "answer":1
+      },
+      {
+        "q":"Bir askerin şikayet hakkını kullanabilmesi için aşağıdakilerden hangisi yeterlidir?",
+        "options":[
+          "İhlalin mutlaka ispatlanması",
+          "İhlalin gerçekleşmiş olması",
+          "Haklarının ihlal edildiğini düşünmesi",
+          "Birden fazla kişinin şikayetçi olması"
+        ],
+        "answer":2
+      },
+    {
+      "q":"Şikayet kural olarak hangi şekilde ve kime yapılır? (Madde 27)",
+      "options":[
+        "Sadece yazılı olarak doğrudan üst makama",
+        "Söz veya yazı ile en yakın amire",
+        "Sadece sözlü olarak disiplin kuruluna",
+        "Toplu dilekçe ile komutanlığa"
+      ],
+      "answer":1
+    },
+    {
+      "q":"Bir asker, şikayet edeceği kişi en yakın amiri ise nasıl hareket etmelidir? (Madde 27)",
+      "options":[
+        "Şikayet hakkını kullanamaz",
+        "Aynı amire tekrar şikayet eder",
+        "Bir derece üstündeki amire şikayet eder",
+        "Toplu şikayet yoluna gider"
+      ],
+      "answer":2
+    },
+    {
+      "q":"Şikayet edilen amir ile ilgili aşağıdaki uygulamalardan hangisi doğrudur? (Madde 27)",
+      "options":[
+        "Şikayet edilen amir atlanmaz",
+        "Şikayet edilen her amir geçilir",
+        "Sadece ilk amir geçilir",
+        "Şikayet edilen amire bilgi verilmez"
+      ],
+      "answer":1
+    },
+    {
+      "q":"Sözlü olarak yapılan şikayetler nasıl kayıt altına alınır? (Madde 27)",
+      "options":[
+        "Tanık beyanı ile",
+        "Yazılı dilekçeye çevrilerek",
+        "Zabıt (tutanak) ile",
+        "Resmî raporla"
+      ],
+      "answer":2
+    },
+    {
+      "q":"Şikayet usulü ile ilgili aşağıdaki ifadelerden hangisi yanlıştır? (Madde 27)",
+      "options":[
+        "Şikayet söz veya yazı ile yapılabilir",
+        "Şikayet en yakın amire yapılır",
+        "Sözlü şikayetler kayıt altına alınmaz",
+        "Şikayet edilen amir geçilir"
+      ],
+      "answer":2
+    },
+  {
+    "q":"Toplu olarak şikayet ile ilgili aşağıdaki ifadelerden hangisi doğrudur? (Madde 28)",
+    "options":[
+      "Serbesttir",
+      "Şarta bağlıdır",
+      "Yasaktır",
+      "Sadece yazılı yapılabilir"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Bir veya aynı hadise birden fazla askerin şikayetine konu olursa nasıl hareket edilmelidir? (Madde 28)",
+    "options":[
+      "Toplu dilekçe verilir",
+      "Bir kişi diğerlerini temsilen şikayet eder",
+      "Her biri ayrı ayrı ve yalnız başına şikayet eder",
+      "Şikayet edilmez"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Aşağıdakilerden hangisi Madde 28’e göre yasaktır? (Madde 28)",
+    "options":[
+      "Bireysel şikayet",
+      "Aynı olay için ayrı ayrı şikayet",
+      "Toplu şikayet",
+      "Sözlü şikayet"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Birden fazla askerin aynı olaydan dolayı şikayetçi olması hâlinde doğru uygulama hangisidir? (Madde 28)",
+    "options":[
+      "Toplu şikayet yapılır",
+      "Bir üst amir belirlenir",
+      "Her asker şikayet hakkını ayrı ayrı kullanır",
+      "Şikayet hakkı düşer"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Şikayet usulü ile ilgili aşağıdaki ifadelerden hangisi yanlıştır? (Madde 28)",
+    "options":[
+      "Toplu şikayet yasaktır",
+      "Her asker şikayet hakkını tek başına kullanabilir",
+      "Aynı olay için birden fazla kişi tek dilekçe verebilir",
+      "Bireysel şikayet mümkündür"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Şikayet reddedildiği takdirde, şikayetçiye sırf bu nedenle ne yapılır? (Madde 29)",
+    "options":[
+      "Disiplin cezası verilir",
+      "Uyarı yapılır",
+      "Ceza verilmez",
+      "Görev yeri değiştirilir"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Şikayet reddedilmesine rağmen şikayetçinin sorumlu tutulabileceği durum aşağıdakilerden hangisidir? (Madde 29)",
+    "options":[
+      "Şikayetin kabul edilmemesi",
+      "Şikayet sırasında suç işlemesi",
+      "Şikayetin yazılı yapılması",
+      "Şikayetin sözlü yapılması"
+    ],
+    "answer":1
+  },
+  {
+    "q":"Aşağıdakilerden hangisi Madde 29’a göre doğrudur? (Madde 29)",
+    "options":[
+      "Reddedilen her şikayet ceza gerektirir",
+      "Şikayet eden her asker sorumlu tutulur",
+      "Şikayet reddedilse bile suç veya disiplin ihlali varsa sorumluluk doğar",
+      "Şikayet eden askere mutlaka uyarı verilir"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Bir asker şikayet ederken disiplin tecavüzünde bulunursa ne olur? (Madde 29)",
+    "options":[
+      "Şikayet geçersiz sayılır",
+      "Sorumluluğu olmaz",
+      "Sadece şikayet reddedilir",
+      "Ayrıca mesul olur"
+    ],
+    "answer":3
+  },
+  {
+    "q":"Şikayet hakkının kullanılması ile ceza ilişkisi hakkında aşağıdakilerden hangisi yanlıştır? (Madde 29)",
+    "options":[
+      "Şikayet reddedilmesi tek başına ceza sebebi değildir",
+      "Şikayet sırasında suç işlenirse sorumluluk doğar",
+      "Şikayet eden asker her durumda cezalandırılır",
+      "Disiplin tecavüzü varsa ayrıca mesuliyet vardır"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Şikayetler ve itirazlar hangi şekilde sonuçlandırılır? (Madde 30)",
+    "options":[
+      "Bekletilerek",
+      "Sadece kayıt altına alınarak",
+      "Tahkik olunarak bir karara bağlanarak",
+      "Doğrudan reddedilerek"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Şikayet ve itirazların sonucu kime bildirilir? (Madde 30)",
+    "options":[
+      "Sadece şikayet olunana",
+      "Sadece disiplin amirine",
+      "Şikayet edene ve lüzum görülürse şikayet olunana",
+      "Sadece yazılı müracaat yapanlara"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Şikayet ve itirazların neticesi en geç ne kadar sürede bildirilmelidir? (Madde 30)",
+    "options":[
+      "15 gün",
+      "1 ay",
+      "2 ay",
+      "3 ay"
+    ],
+    "answer":1
+  },
+  {
+    "q":"Şikayet ve itirazların bildirim süresiyle ilgili aşağıdakilerden hangisi doğrudur? (Madde 30)",
+    "options":[
+      "Süre sınırı yoktur",
+      "En kısa sürede bildirilir ancak bir ayı geçemez",
+      "Sadece kabul edilenler bildirilir",
+      "Sadece yazılı olanlar bildirilir"
+    ],
+    "answer":1
+  },
+  {
+    "q":"Adli tahkikata konu olan şikayet ve itirazlarda hangi hükümler uygulanır? (Madde 30)",
+    "options":[
+      "İç Hizmet Kanunu hükümleri",
+      "Talimatname hükümleri",
+      "Ceza ve Usul kanunlarındaki hükümler",
+      "Amirin takdiri"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Şikayet ve itiraz usulüyle ilgili aşağıdaki ifadelerden hangisi yanlıştır? (Madde 30)",
+    "options":[
+      "Şikayetler tahkik edilmeden sonuçlandırılabilir",
+      "Neticesi mümkün olan en kısa zamanda bildirilir",
+      "Bildirim süresi hiçbir halde bir ayı geçemez",
+      "Adli tahkikata konu olanlar için ceza usul hükümleri saklıdır"
+    ],
+    "answer":0
+  },
+  {
+    "q":"Bir şikayet üzerine karar verme selahiyeti kime aittir? (Madde 31)",
+    "options":[
+      "Garnizon komutanına",
+      "Şikayet edilen amire",
+      "Şikayetin müstenit olduğu vaka hakkında disiplin cezası verme yetkisine sahip ilk disiplin amirine",
+      "Genelkurmay Başkanlığına"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Şikayet üzerine karar vermeye yetkili olan disiplin amiri hangisidir? (Madde 31)",
+    "options":[
+      "En üst disiplin amiri",
+      "İlk disiplin amiri",
+      "Birlik komutanı",
+      "Şikayet edilen amir"
+    ],
+    "answer":1
+  },
+  {
+    "q":"Aşağıdakilerden hangisi şikayet üzerine karar verme yetkisine sahiptir? (Madde 31)",
+    "options":[
+      "Şikayet olunan her amir",
+      "Disiplin cezası vermeye yetkisi olmayan amir",
+      "Disiplin cezası vermeye yetkili ilk disiplin amiri",
+      "Sivil makamlar"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Şikayet üzerine verilen karara karşı kimler itiraz edebilir? (Madde 31)",
+    "options":[
+      "Sadece şikayet eden",
+      "Sadece şikayet olunan",
+      "Hem şikayet eden hem de şikayet olunan",
+      "Sadece disiplin amiri"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Şikayet üzerine verilen karara karşı itiraz hangi yolla yapılır? (Madde 31)",
+    "options":[
+      "Doğrudan yargı yoluyla",
+      "Basın yoluyla",
+      "Mertebeler silsilesi yolu ile daha yüksek amirlere",
+      "Disiplin kuruluna"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Madde 31’e göre aşağıdaki ifadelerden hangisi yanlıştır? (Madde 31)",
+    "options":[
+      "Karar verme yetkisi ilk disiplin amirine aittir",
+      "Şikayet eden karara itiraz edebilir",
+      "Şikayet olunan karara itiraz edemez",
+      "İtirazlar üst amirlere yapılır"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Askerlerin izin işleri hangi esaslara göre düzenlenir? (Madde 33)",
+    "options":[
+      "Hususi kanunlara ve nizamlara göre",
+      "Amirin takdirine göre",
+      "Birlik içi uygulamalara göre",
+      "Genel örf ve adetlere göre"
+    ],
+    "answer":0
+  },
+  {
+    "q":"Vazifenin bulunmayı icap ettirdiği yerden izinsiz olarak asker ne zaman ayrılabilir? (Madde 33)",
+    "options":[
+      "Sadece gündüz",
+      "Hiçbir zaman",
+      "Sadece gece",
+      "Hafta sonları"
+    ],
+    "answer":1
+  },
+  {
+    "q":"Nöbetçi veya vazifeli olmayan subay, askerî memur ve astsubaylar ne zaman vazife mahallinden ayrılabilir? (Madde 33)",
+    "options":[
+      "Gece yoklamasından sonra",
+      "Kalk borusundan sonra",
+      "Günlük mesai veya eğitimin bitiminde",
+      "İzin belgesi aldıklarında"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Subay sınıf okullarında temel eğitimde bulunan subayların gece izinli ayrılmaları neye göre belirlenir? (Madde 33)",
+    "options":[
+      "Birlik komutanının emrine göre",
+      "İç Hizmet Kanunu’na göre",
+      "Genelkurmay talimatına göre",
+      "Eğitim ve öğretim programlarına göre düzenlenecek yönetmeliğe göre"
+    ],
+    "answer":3
+  },
+  {
+    "q":"Kıta, karargâh ve kurumlarda günlük çalışma saatleri hangi ölçütlere göre belirlenir? (Madde 33)",
+    "options":[
+      "Mevsim, iklim, ahval ve hizmetin özelliklerine göre",
+      "Sabit saat esasına göre",
+      "Personel sayısına göre",
+      "Merkezi emirle"
+    ],
+    "answer":0
+  },
+  {
+    "q":"Kıtalarda umumi mesai ve hizmet zamanı ne zaman başlar? (Madde 33)",
+    "options":[
+      "Sabah içtimasında",
+      "Kalk borusunda",
+      "Gün doğumunda",
+      "Komutan emriyle"
+    ],
+    "answer":1
+  },
+  {
+    "q":"Kıtalarda umumi mesai ve hizmet zamanı ne zaman sona erer? (Madde 33)",
+    "options":[
+      "Akşam yemeğinden sonra",
+      "Mesai bitiminde",
+      "Gece yoklamasından sonra",
+      "İçtima sonrası"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Karargâh ve kurumlarda günlük vazife müddeti en az kaç saattir? (Madde 33)",
+    "options":[
+      "4 saat",
+      "5 saat",
+      "8 saat",
+      "6 saat"
+    ],
+    "answer":3
+  },
+    {
+      "q":"Silahlı Kuvvetler mensupları hizmet esnasında hangi kıyafeti giymek zorundadır? (Madde 34)",
+      "options":["Üniforma","Sivil elbise","Serbest kıyafet","Talimatla belirlenen kıyafet"],
+      "answer":0
+    },
+    {
+      "q":"Hususi vazifeler sebebiyle hizmet esnasında sivil elbise giyilmesi neye bağlıdır? (Madde 34)",
+      "options":["Kanuna","Amirin müsaadesine","Talimatnameye","Kişisel tercihe"],
+      "answer":1
+    },
+    {
+      "q":"Aşağıdaki yerlerden hangisine askerler üniforma ile giremez? (Madde 34)",
+      "options":["Kışla","Karargâh","Bar ve meyhaneler","Resmî tören alanları"],
+      "answer":2
+    },
+    {
+      "q":"Subay, askerî memur ve astsubaylar vazife dışında hangi kıyafeti giyebilir? (Madde 34)",
+      "options":["Sadece üniforma","Spor kıyafet","Görev kıyafeti","Sivil elbise"],
+      "answer":3
+    },
+    {
+      "q":"Sivil elbise ile vazife yerine giriş ve çıkışlar ne ile düzenlenir? (Madde 34)",
+      "options":["Talimatname ile","Kanunla","Amir emriyle","Örf ve adetle"],
+      "answer":0
+    },
+    {
+      "q":"Subay ve astsubaylar hizmet dışında zati tabancalarını nasıl taşıyabilir? (Madde 34)",
+      "options":["Açık şekilde","Göze görünmeyecek şekilde","Sadece resmî elbise ile","Taşıyamaz"],
+      "answer":1
+    },
+    {
+      "q":"Üniformanın şekilleri kim tarafından tespit edilir? (Madde 34)",
+      "options":["Genelkurmay Başkanlığı","Kuvvet Komutanlıkları","Millî Savunma Bakanlığı","İçişleri Bakanlığı"],
+      "answer":2
+    },
+    {
+      "q":"Kıyafet kapsamında el, yüz ve saç düzeninde esas olan ilke nedir? (Madde 34)",
+      "options":["Serbestlik","Gelenek","Şıklık","Sadelik"],
+      "answer":3
+    },
+    {
+      "q":"Favori, sakal ve bıyık ile ilgili istisnaları kim belirler? (Madde 34)",
+      "options":["Genelkurmay Başkanlığı","Millî Savunma Bakanlığı","Amir","Kuvvet Komutanlığı"],
+      "answer":0
+    },
+    {
+      "q":"Askerî kimlik kartı neyi gösteren resmî belgedir? (Madde 34/A)",
+      "options":["Görev yerini","TSK personeli olduğunu ve kimliğini","Rütbesini","Birliğini"],
+      "answer":1
+    },
+    {
+      "q":"Türk Silahlı Kuvvetleri mensupları askerî kimlik kartlarını kural olarak nasıl taşır? (Madde 34/A)",
+      "options":["Sadece resmî kıyafetle","Sadece nöbette","Resmî ve sivil olarak üzerlerinde","Taşıma zorunluluğu yoktur"],
+      "answer":2
+    },
+    {
+      "q":"TSK personeline ait kişisel veriler nerede muhafaza edilir? (Madde 34/A)",
+      "options":["Sivil arşivlerde","Birlik kasalarında","Sadece personel dosyasında","Personel bilgi sistemlerinde ve özlük dosyalarında"],
+      "answer":3
+    },
+    {
+      "q":"Aşağıdakilerden hangisinin posta gönderileri amirince denetlenebilir? (Madde 34/A)",
+      "options":["Erbaş ve erler","Subaylar","Astsubaylar","Uzman erbaşlar"],
+      "answer":0
+    },
+    {
+      "q":"Posta gönderileri denetimi kapsamında yer alan grup hangisidir? (Madde 34/A)",
+      "options":["Uzman erbaşlar","Askerî öğrenciler","Subaylar","Sivil personel"],
+      "answer":1
+    },
+  {
+    "q":"Silahlı Kuvvetlerin yurt dışından gelecek tehdit ve tehlikelere karşı temel görevi nedir? (Madde 35)",
+    "options":[
+      "Türk vatanını savunmak",
+      "İç güvenliği sağlamak",
+      "Sınır ticaretini düzenlemek",
+      "Doğal afetlere müdahale etmek"
+    ],
+    "answer":0
+  },
+  {
+    "q":"Silahlı Kuvvetlerin askerî gücü muhafaza etmesi ve güçlendirmesinin temel amacı aşağıdakilerden hangisidir? (Madde 35)",
+    "options":[
+      "Eğitim seviyesini artırmak",
+      "Caydırıcılık sağlamak",
+      "Uluslararası ticareti geliştirmek",
+      "Savunma sanayii kurmak"
+    ],
+    "answer":1
+  },
+  {
+    "q":"Türk Silahlı Kuvvetlerinin yurt dışında görev yapabilmesi hangi şartla mümkündür? (Madde 35)",
+    "options":[
+      "Cumhurbaşkanı kararıyla",
+      "Genelkurmay emriyle",
+      "Türkiye Büyük Millet Meclisi kararıyla",
+      "NATO kararıyla"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Silahlı Kuvvetlerin uluslararası alandaki görevlerinden biri aşağıdakilerden hangisidir? (Madde 35)",
+    "options":[
+      "Uluslararası ticareti denetlemek",
+      "Siyasi anlaşmalar yapmak",
+      "Ekonomik kalkınmayı sağlamak",
+      "Uluslararası barışın sağlanmasına yardımcı olmak"
+    ],
+    "answer":3
+  },
+  {
+    "q":"Aşağıdakilerden hangisi Silahlı Kuvvetlerin Madde 35’te belirtilen görevleri arasında yer alır? (Madde 35)",
+    "options":[
+      "Askerî gücü muhafaza ve güçlendirmek",
+      "İç güvenlik hizmetlerini yürütmek",
+      "Sivil yönetimi denetlemek",
+      "Yerel yönetimleri düzenlemek"
+    ],
+    "answer":0
+  },
+  {
+    "q":"Silahlı Kuvvetlerin görevleriyle ilgili aşağıdaki ifadelerden hangisi doğrudur? (Madde 35)",
+    "options":[
+      "Yalnızca yurt içinde görev yapar",
+      "Sadece savaş hâlinde görevlidir",
+      "Yurt dışı görevleri için TBMM kararı gerekir",
+      "Uluslararası barış görevleri yasaktır"
+    ],
+    "answer":2
+  },
+    {
+      "q":"Silahlı Kuvvetler hangi sanatı öğrenmek ve öğretmekle vazifelidir? (Madde 36)",
+      "options":[
+        "Harp sanatını",
+        "Siyaset sanatını",
+        "İdare sanatını",
+        "Diplomasi sanatını"
+      ],
+      "answer":0
+    },
+    {
+      "q":"Harp sanatını öğrenmek ve öğretmek görevi kime aittir? (Madde 36)",
+      "options":[
+        "Millî Savunma Bakanlığına",
+        "Silahlı Kuvvetlere",
+        "Genelkurmay Başkanlığına",
+        "Kuvvet Komutanlıklarına"
+      ],
+      "answer":1
+    },
+    {
+      "q":"Silahlı Kuvvetlerin harp sanatını yerine getirebilmesi için aşağıdakilerden hangisi yapılır? (Madde 36)",
+      "options":[
+        "Sadece eğitim planları hazırlanır",
+        "Sivil kurumlarla iş birliği yapılır",
+        "Gerekli tesisler ve teşkiller kurulur",
+        "Uluslararası anlaşmalar imzalanır"
+      ],
+      "answer":2
+    },
+    {
+      "q":"Harp sanatının öğrenilmesi ve öğretilmesi için hangi işlem uygulanır? (Madde 36)",
+      "options":[
+        "Sadece talimat yayımlanır",
+        "Personel serbest bırakılır",
+        "Görev devri yapılır",
+        "Gerekli tedbirler alınır"
+      ],
+      "answer":3
+    },
+    {
+      "q":"Aşağıdakilerden hangisi Madde 36’ya göre Silahlı Kuvvetlerin görevleri arasındadır? (Madde 36)",
+      "options":[
+        "Harp sanatını öğrenmek ve öğretmek",
+        "İç güvenliği sağlamak",
+        "Siyasi eğitim vermek",
+        "Ekonomik kalkınmayı yürütmek"
+      ],
+      "answer":0
+    },
+    {
+      "q":"Silahlı Kuvvetlerin harp sanatı görevini yerine getirmesi için hangi unsurlar oluşturulur? (Madde 36)",
+      "options":[
+        "Sadece personel kadroları",
+        "Tesisler ve teşkiller",
+        "Sivil komisyonlar",
+        "Uluslararası heyetler"
+      ],
+      "answer":1
+    },
+    {
+      "q":"Silahlı Kuvvetlere katılan her asker hangi yükümlülüğü yerine getirir? (Madde 37)",
+      "options":[
+        "Asker andı içer",
+        "Görev belgesi alır",
+        "Silah teslim alır",
+        "Eğitim programına başlar"
+      ],
+      "answer":0
+    },
+    {
+      "q":"Asker andında asker hangi değerlere doğruluk ve muhabbetle hizmet edeceğine söz verir? (Madde 37)",
+      "options":[
+        "Komutanlarına ve birliğine",
+        "Milletine ve cumhuriyetine",
+        "Devlet büyüklerine",
+        "Uluslararası kuruluşlara"
+      ],
+      "answer":1
+    },
+    {
+      "q":"Asker andında aşağıdakilerden hangisine itaat edileceği belirtilmiştir? (Madde 37)",
+      "options":[
+        "Siyasi kararlara",
+        "Uluslararası anlaşmalara",
+        "Kanunlara, nizamlara ve amirlere",
+        "Örf ve adetlere"
+      ],
+      "answer":2
+    },
+    {
+      "q":"Asker, andında askerliğin namusu ve Türk Sancağının şanını neyle kıyaslamaktadır? (Madde 37)",
+      "options":[
+        "Görevle",
+        "Şerefle",
+        "Canından aziz bilerek",
+        "Hukukla"
+      ],
+      "answer":3
+    },
+    {
+      "q":"Asker andında asker hangi şartlarda hayatını feda edeceğini belirtir? (Madde 37)",
+      "options":[
+        "Vatan, cumhuriyet ve vazife uğrunda",
+        "Savaş emri geldiğinde",
+        "Komutan emrettiğinde",
+        "Seferberlik ilan edildiğinde"
+      ],
+      "answer":0
+    },
+    {
+      "q":"Asker andında görev yapılacak ortamlar nasıl ifade edilmiştir? (Madde 37)",
+      "options":[
+        "Sadece savaşta",
+        "Karada, denizde ve havada",
+        "Yurt içinde",
+        "Yurt dışında"
+      ],
+      "answer":1
+    },
+    {
+      "q":"Asker andı hangi zamanları kapsayacak şekilde edilmiştir? (Madde 37)",
+      "options":[
+        "Sadece savaş zamanında",
+        "Eğitim süresince",
+        "Barışta ve savaşta",
+        "Görev süresince"
+      ],
+      "answer":2
+    },
+    {
+      "q":"Asker andı hangi teminatla yapılmaktadır? (Madde 37)",
+      "options":[
+        "Hukuk üzerine",
+        "Devlet adına",
+        "Vicdan üzerine",
+        "Namus üzerine"
+      ],
+      "answer":3
+    },
+   {
+     "q":"Sancak, Silahlı Kuvvetler için neyi temsil eder? (Madde 38)",
+     "options":[
+       "Şeref timsalini",
+       "Komuta yetkisini",
+       "Birlik armasını",
+       "Askerî disiplini"
+     ],
+     "answer":0
+   },
+   {
+     "q":"Sancağın muhafazası Silahlı Kuvvetler açısından nasıl bir görevdir? (Madde 38)",
+     "options":[
+       "İdari bir görev",
+       "Mukaddes bir vazife",
+       "Geçici bir sorumluluk",
+       "Sadece savaş zamanı görev"
+     ],
+     "answer":1
+   },
+   {
+     "q":"Sancak ile ilgili aşağıdaki ifadelerden hangisi doğrudur? (Madde 38)",
+     "options":[
+       "Zorunlu hallerde terk edilebilir",
+       "Sadece barış zamanında korunur",
+       "Hiçbir sebep ve bahane ile terk edilemez",
+       "Sadece törenlerde kullanılır"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Aşağıdaki birliklerden hangisine yönetmeliğe göre sancak verilir? (Madde 38)",
+     "options":[
+       "Hudut alayları",
+       "Taburlar",
+       "Bölükler",
+       "Kuruluşunda alay teşkilatı bulunmayan tugaylar"
+     ],
+     "answer":3
+   },
+   {
+     "q":"Kuruluşunda alay teşkilatı bulunmayan hangi birliklere sancak verilir? (Madde 38)",
+     "options":[
+       "Her tugaya",
+       "Sadece hudut alaylarına",
+       "Sadece deniz birliklerine",
+       "Sadece hava birliklerine"
+     ],
+     "answer":0
+   },
+   {
+     "q":"Sancak verilmesi hususu hangi esaslara göre yapılır? (Madde 38)",
+     "options":[
+       "Kanunla",
+       "Yönetmeliğe göre",
+       "Amir emriyle",
+       "Geleneklere göre"
+     ],
+     "answer":1
+   },
+   {
+     "q":"Alay teşkilatı bulunan birlikler için sancak verilmesi nasıl düzenlenmiştir? (Madde 38)",
+     "options":[
+       "Sancak verilmez",
+       "Sadece kara birliklerine verilir",
+       "Deniz ve hava eşidi birlikler hariçtir",
+       "Her alaya sancak verilir"
+     ],
+     "answer":3
+   },
+   {
+     "q":"Sancak ile ilgili aşağıdaki ifadelerden hangisi yanlıştır? (Madde 38)",
+     "options":[
+       "Sancak Silahlı Kuvvetlerin şeref timsalidir",
+       "Sancağın muhafazası mukaddes bir vazifedir",
+       "Bazı durumlarda sancak terk edilebilir",
+       "Belirli tugay ve alaylara sancak verilir"
+     ],
+     "answer":2
+   },
+    {
+      "q":"Askerin bakımı, sağlığı, yedirilmesi, giydirilmesi ve barındırılması hangi nitelikteki vazifelerdendir? (Madde 40)",
+      "options":[
+        "En mühim vazifelerdendir",
+        "İkincil vazifelerdendir",
+        "Sadece idari vazifelerdendir",
+        "Geçici vazifelerdendir"
+      ],
+      "answer":0
+    },
+    {
+      "q":"Askerin bakım ve ihtiyaçlarının karşılanmasında hangi anlayış esas alınmalıdır? (Madde 40)",
+      "options":[
+        "Tasarruf",
+        "Dikkat ve itina",
+        "Hızlı uygulama",
+        "İnisiyatif"
+      ],
+      "answer":1
+    },
+    {
+      "q":"Madde 40’a göre aşağıdakilerden hangisi askerin temel ihtiyaçları arasında yer alır? (Madde 40)",
+      "options":[
+        "Terfi edilmesi",
+        "Eğlence imkânı",
+        "Barındırılması",
+        "Görev yerinin değiştirilmesi"
+      ],
+      "answer":2
+    },
+    {
+      "q":"Askerin moralinin yüksek tutulması Madde 40’a göre nasıl değerlendirilir? (Madde 40)",
+      "options":[
+        "İsteğe bağlı bir uygulama",
+        "Sadece savaş zamanı gerekli",
+        "İkincil bir görev",
+        "En mühim vazifelerden biridir"
+      ],
+      "answer":3
+    },
+    {
+      "q":"Aşağıdakilerden hangisi Madde 40’ta birlikte sayılan hususlardan biridir? (Madde 40)",
+      "options":[
+        "Sağlığının sağlanması",
+        "Disiplin cezası verilmesi",
+        "Nöbet hizmeti",
+        "Eğitim planlaması"
+      ],
+      "answer":0
+    },
+    {
+      "q":"Madde 40’a göre askerin yedirilmesi ve giydirilmesi hangi kapsamda değerlendirilir? (Madde 40)",
+      "options":[
+        "Lojistik destek",
+        "Bakım ve refahın sağlanması",
+        "İdari düzenleme",
+        "Mali sorumluluk"
+      ],
+      "answer":1
+    },
+    {
+      "q":"Aşağıdakilerden hangisi askerin moralinin yüksek tutulmasına doğrudan etki eden unsurlardan biridir? (Madde 40)",
+      "options":[
+        "Görev süresinin uzatılması",
+        "Ceza uygulamaları",
+        "Barınma şartlarının sağlanması",
+        "Rütbe bekleme süresi"
+      ],
+      "answer":2
+    },
+    {
+      "q":"Madde 40’a göre askerin bakım ve refahına ilişkin görevler nasıl yerine getirilmelidir? (Madde 40)",
+      "options":[
+        "Asgari seviyede",
+        "Sadece talep halinde",
+        "İmkânlar ölçüsünde",
+        "Dikkat ve itina ile"
+      ],
+      "answer":3
+    },
+   {
+     "q":"Erbaş ve erlere askerlikle ilgili bilgilerin yanında hangi eğitimler de verilir? (Madde 41)",
+     "options":[
+       "Okuyup yazma ve genel kültür bilgileri",
+       "Sadece askerî disiplin eğitimi",
+       "Meslek edindirme kursları",
+       "Yalnızca beden eğitimi"
+     ],
+     "answer":0
+   },
+   {
+     "q":"Madde 41’e göre erbaş ve erlere aşağıdakilerden hangisi öğretilir? (Madde 41)",
+     "options":[
+       "Siyasi bilgiler",
+       "Yurt ve hayata ait genel kültür bilgileri",
+       "Uluslararası hukuk",
+       "Yönetmelik hazırlama"
+     ],
+     "answer":1
+   },
+   {
+     "q":"Erbaş ve erlere verilen eğitimlerin kapsamı aşağıdakilerden hangisini içerir? (Madde 41)",
+     "options":[
+       "Sadece askerî görev bilgileri",
+       "Sadece okuma yazma",
+       "Askerliğe ait bilgiler yanında okuma yazma ve genel kültür",
+       "Yalnızca meslekî eğitim"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Madde 41’e göre erbaş ve erlerin eğitimi hangi anlayışla düzenlenmiştir? (Madde 41)",
+     "options":[
+       "Yalnız askerî ihtiyaçlar",
+       "Sadece savaş hazırlığı",
+       "Teknik uzmanlaşma",
+       "Askerlik bilgileriyle birlikte temel eğitim ve genel kültür kazandırma"
+     ],
+     "answer":3
+   },
+  {
+    "q":"Her asker, vazife ve hizmet icabı kendisine tevdi edilen Devlet malı ile ilgili hangi sorumluluğa sahiptir? (Madde 42)",
+    "options":[
+      "Bakım, korunma ve muhafazasından sorumludur",
+      "Sadece kullanımından sorumludur",
+      "Sadece zimmet kayıtlarından sorumludur",
+      "Sorumluluğu yoktur"
+    ],
+    "answer":0
+  },
+  {
+    "q":"Madde 42’ye göre askerin Devlet malı ile ilgili sorumluluğu hangi durumlarda doğar? (Madde 42)",
+    "options":[
+      "Sadece barış zamanında",
+      "Vazife ve hizmet icabı kullanmak veya muhafaza etmek üzere tevdi edilmesi halinde",
+      "Sadece savaş zamanında",
+      "Yazılı emir verilmesi halinde"
+    ],
+    "answer":1
+  },
+  {
+    "q":"Aşağıdakilerden hangisi Madde 42 kapsamındaki Devlet malı sorumluluğuna girer? (Madde 42)",
+    "options":[
+      "Kişisel eşyalar",
+      "Özel mülkler",
+      "Tevdi edilen askerî malzemeler",
+      "Sivil kurum eşyaları"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Yükümlü erbaş ve erlerden askerî araç kullananlar hangi durumda araç kazası nedeniyle oluşan zarardan sorumlu tutulur? (Madde 42)",
+    "options":[
+      "Her kazada",
+      "Basit kusur halinde",
+      "Talimat dışı kullanımda",
+      "Kast veya ağır kusur nedeniyle mahkûm olmaları halinde"
+    ],
+    "answer":3
+  },
+  {
+    "q":"Yükümlü erbaş ve erlerin askerî araç kullanımı sırasında meydana gelen zararla ilgili aşağıdakilerden hangisi doğrudur? (Madde 42)",
+    "options":[
+      "Her durumda zararı tazmin ederler",
+      "Kural olarak zararı tazminle sorumlu olmazlar",
+      "Sadece maddi hasarı öderler",
+      "Komutan emrine göre sorumlu olurlar"
+    ],
+    "answer":1
+  },
+  {
+    "q":"Madde 42’ye göre askerî araç kazalarında tazmin sorumluluğunun istisnası hangi hâldir? (Madde 42)",
+    "options":[
+      "Araç eskiyse",
+      "Hava şartları kötüyse",
+      "Kast veya ağır kusur bulunması",
+      "Gece meydana gelmesi"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Aşağıdakilerden hangisi Madde 42’ye göre yanlıştır? (Madde 42)",
+    "options":[
+      "Her asker tevdi edilen Devlet malından sorumludur",
+      "Devlet malının bakım ve muhafazası askerin vazifesidir",
+      "Askerî araç kullanan erbaş ve erler her durumda zararı tazmin eder",
+      "Kast veya ağır kusur halinde sorumluluk doğabilir"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Devlet malının korunması ve muhafazası Madde 42’ye göre nasıl değerlendirilir? (Madde 42)",
+    "options":[
+      "İsteğe bağlı",
+      "İkincil görev",
+      "Geçici sorumluluk",
+      "Askerin sorumluluğunda olan bir vazife"
+    ],
+    "answer":3
+  },
+    {
+      "q":"Türk Silahlı Kuvvetleri mensupları aşağıdakilerden hangisini yapamaz? (Madde 43)",
+      "options":[
+        "Siyasi faaliyette bulunmak",
+        "Askerî eğitim görmek",
+        "Hizmet içi görev yapmak",
+        "Meslekî eğitim almak"
+      ],
+      "answer":0
+    },
+    {
+      "q":"TSK mensuplarının siyasi faaliyetlerle ilgili yasakları arasında hangisi yer alır? (Madde 43)",
+      "options":[
+        "Siyasi partiye üye olmak",
+        "Spor faaliyetlerine katılmak",
+        "Bilimsel çalışmalara katılmak",
+        "Meslekî görev yürütmek"
+      ],
+      "answer":1
+    },
+    {
+      "q":"Silahlı Kuvvetler mensupları hangi tür cemiyet ve kulüplere girebilir? (Madde 43)",
+      "options":[
+        "Her türlü dernek",
+        "Siyasi partiler",
+        "Millî Savunma Bakanlığınca adları yayımlanan siyasi olmayan cemiyetler ve spor kulüplerinin faal olmayan üyelikleri",
+        "Uluslararası siyasi kuruluşlar"
+      ],
+      "answer":2
+    },
+    {
+      "q":"Siyasi olmayan cemiyet veya spor kulübüne giren TSK mensupları ne yapmakla yükümlüdür? (Madde 43)",
+      "options":[
+        "Her yıl izin almak",
+        "Komutanına sözlü bildirim yapmak",
+        "Hiçbir bildirimde bulunmamak",
+        "Durumunu en kısa zamanda Millî Savunma Bakanlığına bildirmek"
+      ],
+      "answer":3
+    },
+    {
+      "q":"TSK mensupları kendi birlikleri içinde hangi faaliyeti yapabilir? (Madde 43)",
+      "options":[
+        "Amatör askerî spor kulüpleri kurmak",
+        "Siyasi dernek kurmak",
+        "Sendika oluşturmak",
+        "Meslek odası kurmak"
+      ],
+      "answer":0
+    },
+    {
+      "q":"Amatör askerî spor kulüplerinin kurulması için hangi makamdan izin alınır? (Madde 43)",
+      "options":[
+        "Genelkurmay Başkanlığı",
+        "Millî Savunma Bakanlığı",
+        "İçişleri Bakanlığı",
+        "Kuvvet Komutanlığı"
+      ],
+      "answer":1
+    },
+    {
+      "q":"Silahlı Kuvvetler mensupları meslek kuruluşlarıyla ilgili aşağıdakilerden hangisini yapamaz? (Madde 43)",
+      "options":[
+        "Mesleğini icra etmek",
+        "Meslekî eğitim vermek",
+        "Kanunla kurulan meslek kuruluşlarına üye olmak",
+        "Bilimsel çalışmalara katılmak"
+      ],
+      "answer":2
+    },
+    {
+      "q":"Askerî kimlik, görev, belge veya bunlara ait görsel ve işitsel materyallerin yayınlanmasıyla ilgili hangisi doğrudur? (Madde 43)",
+      "options":[
+        "Kişisel hesaplardan serbesttir",
+        "Sadece yazılı basında yayımlanabilir",
+        "Komutan izni yeterlidir",
+        "Millî Savunma Bakanlığınca yetki verilen durumlar hariç yasaktır"
+      ],
+      "answer":3
+    },
+  {
+    "q":"Askerler hangi şartlarda birbirlerini selamlamakla yükümlüdür? (Madde 44)",
+    "options":[
+      "Her zaman ve her yerde",
+      "Sadece resmî törenlerde",
+      "Sadece görev sırasında",
+      "Sadece üstlerine karşı"
+    ],
+    "answer":0
+  },
+  {
+    "q":"Askerî selamlaşma ile ilgili aşağıdaki ifadelerden hangisi doğrudur? (Madde 44)",
+    "options":[
+      "İsteğe bağlıdır",
+      "Zorunludur",
+      "Sadece barış zamanında yapılır",
+      "Sadece kapalı alanlarda yapılır"
+    ],
+    "answer":1
+  },
+  {
+    "q":"Selamlaşmanın uygulanış şekli nerede gösterilmiştir? (Madde 44)",
+    "options":[
+      "İç Hizmet Kanunu’nda",
+      "Yönetmelikte",
+      "Talimatnamede",
+      "Amir emrinde"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Askerî selamlaşmanın amacıyla ilgili aşağıdakilerden hangisi Madde 44’e uygundur? (Madde 44)",
+    "options":[
+      "Sosyal nezaket sağlamak",
+      "Gelenekleri sürdürmek",
+      "Disiplin ve saygıyı göstermek",
+      "Rütbe farkını kaldırmak"
+    ],
+    "answer":3
+  },
+    {
+      "q":"Garnizon kavramı aşağıdakilerden hangisini ifade eder? (Madde 45)",
+      "options":[
+        "İçinde ve civarında kıta, karargâh veya askerî kurum bulunan meskûn yerleri",
+        "Sadece askerî birliklerin bulunduğu alanları",
+        "Tatbikat yapılan sahaları",
+        "Geçici konuşlanma bölgelerini"
+      ],
+      "answer":0
+    },
+    {
+      "q":"Bir yerin garnizon sayılabilmesi için aşağıdakilerden hangisinin bulunması gerekir? (Madde 45)",
+      "options":[
+        "Sadece askerî personel",
+        "Kıta, karargâh veya askerî kurum",
+        "Sadece karakol",
+        "Yalnızca eğitim alanı"
+      ],
+      "answer":1
+    },
+    {
+      "q":"Garnizonların hudutları hangi esaslara göre belirlenir? (Madde 45)",
+      "options":[
+        "Kanunla",
+        "Amirin takdiriyle",
+        "Talimatnamede belirtilen esaslara göre",
+        "Yerel yönetim kararıyla"
+      ],
+      "answer":2
+    },
+    {
+      "q":"Aşağıdakilerden hangisi Madde 45’e göre garnizon hudutlarını belirlemeye yetkilidir? (Madde 45)",
+      "options":[
+        "Belediyeler",
+        "Valilikler",
+        "Kuvvet Komutanlıkları",
+        "Talimatnamede gösterilen esaslar"
+      ],
+      "answer":3
+    },
+  {
+    "q":"Garnizon komutanlığı görevinin hangi kıta komutanı veya kurum amiri tarafından yapılacağı kim tarafından düzenlenir? (Madde 46)",
+    "options":[
+      "Millî Savunma Bakanlığı",
+      "Genelkurmay Başkanlığı",
+      "Kuvvet Komutanlıkları",
+      "Garnizon Komutanı"
+    ],
+    "answer":0
+  },
+  {
+    "q":"Garnizon komutanlığı görevi kural olarak kim tarafından yürütülür? (Madde 46)",
+    "options":[
+      "En kıdemli subay",
+      "Millî Savunma Bakanlığınca belirlenen kıta komutanı veya kurum amiri",
+      "Vali",
+      "Belediye başkanı"
+    ],
+    "answer":1
+  },
+  {
+    "q":"Garnizon komutanlığı görevinin yürütülmesi amacıyla hangi işlem yapılabilir? (Madde 46)",
+    "options":[
+      "Sivil birimler kurulabilir",
+      "Geçici görevlendirmeler yapılır",
+      "Garnizondaki birlikler kaldırılır",
+      "Garnizonda bulunan kıta, karargâh ve kurumlar dışında kadro ve teşkiller oluşturulabilir"
+    ],
+    "answer":3
+  },
+  {
+    "q":"Garnizon komutanlığı görevinin yürütülmesi için oluşturulabilecek kadro ve teşkiller hangi makamca oluşturulur? (Madde 46)",
+    "options":[
+      "Garnizon Komutanlığı",
+      "Kuvvet Komutanlığı",
+      "İçişleri Bakanlığı",
+      "Millî Savunma Bakanlığı"
+    ],
+    "answer":3
+  },
+  {
+    "q":"Aşağıdakilerden hangisi Madde 46’ya göre yanlıştır? (Madde 46)",
+    "options":[
+      "Garnizon komutanlığı görevi MSB tarafından düzenlenir",
+      "Bu görev için ilave kadro ve teşkiller oluşturulabilir",
+      "Garnizon komutanı her zaman en kıdemli subaydır",
+      "Kadro ve teşkiller garnizondaki mevcut birlikler dışında da oluşturulabilir"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Garnizon komutanlığı görevinin belirlenmesinde esas yetki hangi kuruma aittir? (Madde 46)",
+    "options":[
+      "Millî Savunma Bakanlığı",
+      "Genelkurmay Başkanlığı",
+      "Kuvvet Komutanlığı",
+      "Valilik"
+    ],
+    "answer":0
+  },
+  {
+    "q":"Garnizon kumandanı, garnizona dahil hangi birlik ve kurumların disiplin amiridir? (Madde 47)",
+    "options":[
+      "Sadece kendi kıtasının",
+      "Sadece karargâhların",
+      "Garnizona dahil bütün kıta ve askerî kurumların",
+      "Sadece askerî kurumların"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Garnizon Komutanlığına ait hizmetler ve sivil makamlarla ilişkiler hangi makamlarca hazırlanacak yönetmelikte gösterilir? (Madde 47)",
+    "options":[
+      "Genelkurmay Başkanlığı",
+      "Millî Savunma Bakanlığı",
+      "İçişleri Bakanlığı",
+      "Millî Savunma ve İçişleri Bakanlıkları müştereken"
+    ],
+    "answer":3
+  },
+  {
+    "q":"Cumhurbaşkanı ve Devlet büyüklerinin garnizona gelişlerinde alınacak güvenlik önlemleri nerede düzenlenir? (Madde 47)",
+    "options":[
+      "Talimatnamede",
+      "Millî Savunma ve İçişleri Bakanlıklarınca müştereken çıkarılan yönetmelikte",
+      "Garnizon Komutanının emriyle",
+      "Valilik genelgesinde"
+    ],
+    "answer":1
+  },
+  {
+    "q":"Koruma hizmeti ile görevlendirilen asker kişiler hangi sıfat ve yetkilere sahiptir? (Madde 47)",
+    "options":[
+      "Sadece nöbetçi yetkilerine",
+      "Polis yetkilerine",
+      "Karakol, karakol nöbetçisi ve devriye sıfat ve yetkilerine",
+      "Sadece inzibat yetkilerine"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Koruma görevlileri hangi hallerde silah kullanmaya yetkilidir? (Madde 47)",
+    "options":[
+      "Sadece amir emriyle",
+      "Bu Kanun, 2559 sayılı Polis Vazife ve Selahiyet Kanunu ve diğer kanunlarda öngörülen şartların gerçekleşmesi halinde",
+      "Her şüpheli durumda",
+      "Sadece uyarı amacıyla"
+    ],
+    "answer":1
+  },
+  {
+    "q":"Koruma görevlilerinin, korudukları kişiye yönelik silahlı saldırı teşebbüsü halinde davranışı nasıl olmalıdır? (Madde 47)",
+    "options":[
+      "Uyarı yaparak bekler",
+      "Amirinden emir alır",
+      "Havaya ateş eder",
+      "Doğruca ve duraksamadan hedefe ateş edebilir"
+    ],
+    "answer":3
+  },
+  {
+    "q":"Aşağıdakilerden hangisi Madde 47’ye göre yanlıştır? (Madde 47)",
+    "options":[
+      "Garnizon kumandanı tüm kıta ve askerî kurumların disiplin amiridir",
+      "Koruma görevlileri devriye yetkilerine sahiptir",
+      "Koruma görevlileri hiçbir durumda doğrudan hedefe ateş edemez",
+      "Garnizon Komutanlığına ait hizmetler yönetmelikle düzenlenir"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Garnizonda bulunan emekli veya muvazzaf askerî şahısların güvenliklerine ilişkin hususlar nerede düzenlenir? (Madde 47)",
+    "options":[
+      "İç Hizmet Talimatnamesinde",
+      "Valilik emirlerinde",
+      "Millî Savunma ve İçişleri Bakanlıklarınca müştereken hazırlanacak yönetmelikte",
+      "Garnizon Komutanının yazılı emrinde"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Büyük garnizonlar aşağıdaki hangi yerleri kapsar? (Madde 48)",
+    "options":[
+      "Sadece tugayların bulunduğu yerleri",
+      "Tümen ve eşidi askerî kurumlar ile daha büyük kıta ve kurumların bulunduğu yerleri",
+      "Sadece karargâhların bulunduğu yerleri",
+      "Sadece sınır birliklerinin bulunduğu yerleri"
+    ],
+    "answer":1
+  },
+  {
+    "q":"Büyük garnizonlarda garnizon kumandanı hangi yetkiye sahiptir? (Madde 48)",
+    "options":[
+      "Görevi tamamen bırakmaya",
+      "Garnizon kumandanlığını devretmeye",
+      "Sadece disiplin yetkisini devretmeye",
+      "Sivil makamlara devretmeye"
+    ],
+    "answer":1
+  },
+  {
+    "q":"Garnizon kumandanı, garnizon kumandanlığını kime devredebilir? (Madde 48)",
+    "options":[
+      "En kıdemsiz subaya",
+      "Sivil bir makama",
+      "Rütbece kendisinden sonra gelen kıta kumandanlarından birine",
+      "Herhangi bir astsubaya"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Madde 48’e göre garnizon kumandanlığının devri hangi şartta mümkündür? (Madde 48)",
+    "options":[
+      "Her garnizonda",
+      "Sadece küçük garnizonlarda",
+      "Sadece sefer hâlinde",
+      "Büyük garnizonlarda"
+    ],
+    "answer":3
+  },
+  {
+    "q":"Aşağıdakilerden hangisi Madde 48’e göre yanlıştır? (Madde 48)",
+    "options":[
+      "Büyük garnizonlarda devir mümkündür",
+      "Devir, rütbece kendisinden sonra gelene yapılabilir",
+      "Devir sadece sivil makam onayıyla yapılır",
+      "Devir yetkisi garnizon kumandanına aittir"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Garnizon kumandanlığının devri ile ilgili doğru ifade hangisidir? (Madde 48)",
+    "options":[
+      "Her zaman zorunludur",
+      "Sadece savaş zamanında yapılır",
+      "Kanunen yasaktır",
+      "Garnizon kumandanının takdirine bağlıdır"
+    ],
+    "answer":3
+  },
+    {
+      "q":"Garnizon kumandanları, garnizona ait her türlü hususta hangi makamlara bağlıdır? (Madde 49)",
+      "options":[
+        "Valiliklere",
+        "Millî Savunma Bakanlığına",
+        "Mıntıkasında bulundukları tümen, kolordu ve ordu (Deniz ve Havada eşidi) kumandanlıklarına",
+        "Genelkurmay Başkanlığına"
+      ],
+      "answer":2
+    },
+    {
+      "q":"Madde 49’a göre garnizon kumandanlarının bağlılığı hangi kapsamı içerir? (Madde 49)",
+      "options":[
+        "Sadece disiplin işlerini",
+        "Sadece idarî işleri",
+        "Sadece eğitim faaliyetlerini",
+        "Garnizona ait her türlü hususu"
+      ],
+      "answer":3
+    },
+    {
+      "q":"Garnizon kumandanlarının bağlı olduğu komutanlıklar hangi kritere göre belirlenir? (Madde 49)",
+      "options":[
+        "Kuvvet komutanlığına göre",
+        "Bulundukları mıntıkaya göre",
+        "Rütbe kıdemine göre",
+        "Personel sayısına göre"
+      ],
+      "answer":1
+    },
+    {
+      "q":"Deniz ve hava kuvvetlerinde garnizon kumandanlarının bağlılığı hangi şekilde değerlendirilir? (Madde 49)",
+      "options":[
+        "Kara kuvvetleri esas alınır",
+        "Sivil makamlar esas alınır",
+        "Deniz ve havada eşidi komutanlıklara bağlıdır",
+        "Doğrudan MSB’ye bağlıdır"
+      ],
+      "answer":2
+    },
+    {
+      "q":"Aşağıdakilerden hangisi Madde 49’a göre yanlıştır? (Madde 49)",
+      "options":[
+        "Garnizon kumandanları mıntıkalarındaki üst askerî komutanlıklara bağlıdır",
+        "Bağlılık garnizona ait her türlü hususu kapsar",
+        "Garnizon kumandanları doğrudan valiye bağlıdır",
+        "Deniz ve havada eşidi komutanlıklar dikkate alınır"
+      ],
+      "answer":2
+    },
+    {
+      "q":"Madde 49’a göre garnizon kumandanlarının bağlılık ilişkisi neyi ifade eder? (Madde 49)",
+      "options":[
+        "Sadece emir alma yetkisini",
+        "Sivil-asker ilişkilerini",
+        "Disiplin cezası verme yetkisini",
+        "Askerî hiyerarşi içindeki üstlük-astlık bağını"
+      ],
+      "answer":3
+    },
+      {
+        "q":"Yukarıdaki maddelerde belirtilen hükümler dışında veya istisnai hallerde garnizon kumandanlığı görevinin kim tarafından yapılacağını kim düzenler? (Madde 50)",
+        "options":[
+          "Genelkurmay Başkanlığı",
+          "Kuvvet Komutanlıkları",
+          "Millî Savunma Bakanlığı",
+          "Garnizon Komutanı"
+        ],
+        "answer":2
+      },
+      {
+        "q":"Madde 50’ye göre garnizon kumandanlığı görevinin belirlenmesi hangi durumlarda Millî Savunma Bakanlığınca düzenlenir? (Madde 50)",
+        "options":[
+          "Her garnizonda",
+          "Sadece küçük garnizonlarda",
+          "Savaş hâlinde",
+          "Yukarıdaki maddelerde belirtilen hükümler dışında veya istisnai hallerde"
+        ],
+        "answer":3
+      },
+      {
+        "q":"İstisnai hallerde garnizon kumandanlığı görevi kime verilebilir? (Madde 50)",
+        "options":[
+          "Herhangi bir subaya",
+          "Bir kıta kumandanına veya kurum amirine",
+          "Sivil bir makama",
+          "Valiye"
+        ],
+        "answer":1
+      },
+      {
+        "q":"Madde 50’nin düzenleme alanı aşağıdakilerden hangisidir? (Madde 50)",
+        "options":[
+          "Garnizon kumandanının disiplin yetkileri",
+          "Garnizon sınırlarının belirlenmesi",
+          "Garnizon kumandanlığının istisnai durumlarda kim tarafından yürütüleceği",
+          "Koruma hizmetlerinin yürütülmesi"
+        ],
+        "answer":2
+      },
+      {
+        "q":"Aşağıdakilerden hangisi Madde 50’ye göre yanlıştır? (Madde 50)",
+        "options":[
+          "İstisnai hallerde düzenleme yetkisi MSB’ye aittir",
+          "Her durumda garnizon kumandanlığı en kıdemli komutana verilir",
+          "Düzenleme kıta kumandanı veya kurum amiri için yapılabilir",
+          "Madde 50, önceki maddeler dışındaki durumları kapsar"
+        ],
+        "answer":1
+      },
+      {
+        "q":"Madde 50 ile aşağıdakilerden hangisi amaçlanmıştır? (Madde 50)",
+        "options":[
+          "Sivil makamların yetkisini artırmak",
+          "Her garnizonda tek tip uygulama yapmak",
+          "Olağan dışı durumlarda yetki karmaşasını önlemek",
+          "Garnizon kumandanlığını kaldırmak"
+        ],
+        "answer":3
+      },
+  {
+    "q":"Askerin barındırıldığı ve hizmet gördüğü tek bina veya toplu halde bulunan binalar ile bunların müştemilatı ve arazisine ne denir? (Madde 51)",
+    "options":[
+      "Konak",
+      "Ordugâh",
+      "Kışla",
+      "Garnizon"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Karargâhlar, askerî kurumlar ve Deniz Kuvvetleri teşkilatındaki gemiler hangi kapsamda değerlendirilir? (Madde 51)",
+    "options":[
+      "Konak",
+      "Kışla",
+      "Ordugâh",
+      "Garnizon"
+    ],
+    "answer":1
+  },
+  {
+    "q":"Askerlerin hazar ve seferde muvakkat bir zaman için meskûn yerlerde yerleşmesine ne denir? (Madde 51)",
+    "options":[
+      "Ordugâh",
+      "Kışla",
+      "Konak",
+      "Garnizon"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Askerlerin geçici bir süre açıkta çadır, baraka veya zeminliklerde yerleştirildiği saha aşağıdakilerden hangisidir? (Madde 51)",
+    "options":[
+      "Kışla",
+      "Konak",
+      "Garnizon",
+      "Ordugâh"
+    ],
+    "answer":3
+  },
+  {
+    "q":"Aşağıdakilerden hangisi Madde 51’e göre kışla kapsamında değerlendirilir? (Madde 51)",
+    "options":[
+      "Sivil lojmanlar",
+      "Askerî gemiler",
+      "Belediye binaları",
+      "Emniyet müdürlükleri"
+    ],
+    "answer":1
+  },
+  {
+    "q":"Madde 51’e göre aşağıdakilerden hangisi yanlıştır? (Madde 51)",
+    "options":[
+      "Kışla tek bina veya bina topluluğundan oluşabilir",
+      "Askerî gemiler kışla sayılabilir",
+      "Konak açık arazide çadırla yapılan yerleşmedir",
+      "Ordugâh açık arazide geçici yerleşme alanıdır"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Açık arazide çadır veya barakalarla yapılan geçici askerî yerleşme hangi kavramla ifade edilir? (Madde 51)",
+    "options":[
+      "Garnizon",
+      "Konak",
+      "Kışla",
+      "Ordugâh"
+    ],
+    "answer":3
+  },
+  {
+    "q":"Madde 51’e göre konak ile ordugâh arasındaki temel fark aşağıdakilerden hangisidir? (Madde 51)",
+    "options":[
+      "Konak açık arazidedir",
+      "Ordugâh meskûn yerlerdedir",
+      "Konak meskûn yerlerde, ordugâh açık arazidedir",
+      "İkisi de aynı anlamdadır"
+    ],
+    "answer":2
+  },
+    {
+      "q":"Müstakil olarak bir kışla, konak veya ordugâhta bulunan bir kıta veya askerî kurumun kumandanı hangi görevi de yürütür? (Madde 52)",
+      "options":[
+        "Sadece disiplin amirliğini",
+        "Kışla, konak veya ordugâh kumandanlığını",
+        "Garnizon kumandanlığını",
+        "Sivil makam temsilciliğini"
+      ],
+      "answer":1
+    },
+    {
+      "q":"Tek başına bulunan bir kıta veya askerî kurumun kumandanı aynı zamanda hangi sıfatı taşır? (Madde 52)",
+      "options":[
+        "Garnizon kumandanı",
+        "Nöbetçi amir",
+        "Kışla, konak veya ordugâh kumandanı",
+        "Karakol amiri"
+      ],
+      "answer":2
+    },
+    {
+      "q":"Muhtelif birlik ve kurumların bir arada bulunduğu kışla, konak ve ordugâhlarda kumandanlık kime aittir? (Madde 52)",
+      "options":[
+        "En kıdemli astsubaya",
+        "En büyük rütbeli kumandan veya amire",
+        "En eski birliğin kumandanına",
+        "Garnizon kumandanına"
+      ],
+      "answer":1
+    },
+    {
+      "q":"Madde 52’ye göre aşağıdakilerden hangisi doğrudur? (Madde 52)",
+      "options":[
+        "Her kışlada ayrı bir kumandan bulunur",
+        "Kışla kumandanlığı sivil makamca belirlenir",
+        "Muhtelif birliklerde kumandanlık kura ile belirlenir",
+        "En büyük rütbeli kumandan kumandanlığı üstlenir"
+      ],
+      "answer":3
+    },
+    {
+      "q":"Aşağıdakilerden hangisi Madde 52’ye göre yanlıştır? (Madde 52)",
+      "options":[
+        "Müstakil bir birlikte kumandan aynı zamanda kışla kumandanıdır",
+        "Birden fazla birlik varsa en büyük rütbeli kumandan yetkilidir",
+        "Kumandanlık görevi sivil makama devredilebilir",
+        "Konak ve ordugâhlar da bu kapsamdadır"
+      ],
+      "answer":2
+    },
+    {
+      "q":"Madde 52’nin temel amacı aşağıdakilerden hangisidir? (Madde 52)",
+      "options":[
+        "Kumandan sayısını artırmak",
+        "Sivil-asker ilişkilerini düzenlemek",
+        "Komuta belirsizliğini önlemek",
+        "Garnizon kumandanlığını kaldırmak"
+      ],
+      "answer":3
+    },
+  {
+    "q":"Her kışlada kışla binaları ve teçhizatının daima iyi halde bulunmasını sağlamakla görevli personele ne ad verilir? (Madde 53)",
+    "options":[
+      "Kışla kumandanı",
+      "Karakol amiri",
+      "Kışla subayı",
+      "Nöbetçi amir"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Kışla subayı hangi rütbe grubundan olabilir? (Madde 53)",
+    "options":[
+      "Sadece subay",
+      "Sadece astsubay",
+      "Subay veya astsubay",
+      "Er veya erbaş"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Kışla subayının temel görevi aşağıdakilerden hangisidir? (Madde 53)",
+    "options":[
+      "Disiplin cezaları vermek",
+      "Kışla binaları ve teçhizatının iyi halde bulunmasını sağlamak",
+      "Nöbet çizelgesi hazırlamak",
+      "Garnizon güvenliğini sağlamak"
+    ],
+    "answer":1
+  },
+  {
+    "q":"Kışla subaylığı görevinin kim tarafından yapılacağı kadrolarda ve talimatlarda belirtilmemişse bu görevi kim verir? (Madde 53)",
+    "options":[
+      "Garnizon kumandanı",
+      "Millî Savunma Bakanlığı",
+      "Kışla kumandanı",
+      "En kıdemli subay"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Kadrolarda belirtilmeyen durumlarda kışla subaylığı görevi kime verilebilir? (Madde 53)",
+    "options":[
+      "Herhangi bir personele",
+      "Sadece en kıdemli subaya",
+      "Kışla kumandanının emrindeki subay veya astsubaylardan birine",
+      "Sivil personele"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Aşağıdakilerden hangisi Madde 53’e göre yanlıştır? (Madde 53)",
+    "options":[
+      "Her kışlada kışla subayı bulunur",
+      "Kışla subayı bina ve teçhizattan sorumludur",
+      "Kışla subayı sadece erbaşlardan seçilir",
+      "Görev gerekirse kışla kumandanınca verilir"
+    ],
+    "answer":2
+  },
+    {
+      "q":"Tümen (dahil) ve daha yukarı kıta kumandanları hangi görevi devredebilir? (Madde 54)",
+      "options":[
+        "Garnizon kumandanlığını",
+        "Kışla kumandanlığı görevini",
+        "Disiplin amirliğini",
+        "Nöbet amirliğini"
+      ],
+      "answer":1
+    },
+    {
+      "q":"Madde 54’e göre kışla kumandanlığı görevi kim tarafından devredilebilir? (Madde 54)",
+      "options":[
+        "Her rütbedeki kumandan",
+        "Sadece alay kumandanları",
+        "Tümen (dahil) ve daha yukarı kıta kumandanları ile eşidi kurum amirleri",
+        "Sadece garnizon kumandanları"
+      ],
+      "answer":2
+    },
+    {
+      "q":"Kışla kumandanlığı görevi kime devredilebilir? (Madde 54)",
+      "options":[
+        "Sivil makama",
+        "Herhangi bir astsubaya",
+        "En kıdemli personele",
+        "Rütbece kendisinden sonra gelen birine"
+      ],
+      "answer":3
+    },
+    {
+      "q":"Aşağıdakilerden hangisi Madde 54’e göre doğrudur? (Madde 54)",
+      "options":[
+        "Kışla kumandanlığı her zaman devredilir",
+        "Devir sadece savaş hâlinde yapılır",
+        "Devir, rütbece üst olana yapılır",
+        "Devir yetkisi belirli üst kademe kumandanlara aittir"
+      ],
+      "answer":3
+    },
+    {
+      "q":"Aşağıdakilerden hangisi Madde 54’e göre yanlıştır? (Madde 54)",
+      "options":[
+        "Tümen dahil üst kademe kumandanlar devir yapabilir",
+        "Devir edilen kişi rütbece daha sonra gelen biridir",
+        "Kışla kumandanlığı sivil makama devredilebilir",
+        "Eşidi kurum amirleri de bu yetkiye sahiptir"
+      ],
+      "answer":2
+    },
+    {
+      "q":"Madde 54’ün temel amacı aşağıdakilerden hangisidir? (Madde 54)",
+      "options":[
+        "Kışla kumandanlığını kaldırmak",
+        "Komuta görevlerinde esneklik sağlamak",
+        "Disiplin yetkisini sınırlandırmak",
+        "Sivil-asker ilişkilerini düzenlemek"
+      ],
+      "answer":1
+    },
+      {
+        "q":"Kıta, karargâh ve kurumlarda günde kaç defa yoklama yapılır? (Madde 55)",
+        "options":[
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "answer":2
+      },
+      {
+        "q":"Günlük yoklamalardan hangileri Madde 55’te açıkça belirtilmiştir? (Madde 55)",
+        "options":[
+          "Sabah – Öğle – Akşam",
+          "Sabah – Akşam – Gece",
+          "Öğle – Akşam – Gece",
+          "Sabah – Öğle – Gece"
+        ],
+        "answer":1
+      },
+      {
+        "q":"Madde 55’e göre yoklamalar hangi birlik ve kurumlarda yapılır? (Madde 55)",
+        "options":[
+          "Sadece kıtalarda",
+          "Sadece karargâhlarda",
+          "Sadece askerî kurumlarda",
+          "Kıta, karargâh ve kurumlarda"
+        ],
+        "answer":3
+      },
+      {
+        "q":"Yoklamalar hangi hususları anlamak ve tespit etmek amacıyla yapılır? (Madde 55)",
+        "options":[
+          "Sadece personel disiplinini",
+          "İnsan ve hayvan mevcutları ile silah, malzeme ve eşya durumunu",
+          "Sadece silah sayısını",
+          "Sadece personel izin durumunu"
+        ],
+        "answer":1
+      },
+      {
+        "q":"Yoklamaların şekli ve yapılış tarzı nerede gösterilmiştir? (Madde 55)",
+        "options":[
+          "İç Hizmet Kanunu’nda",
+          "Yönetmelikte",
+          "Talimatnamede",
+          "Amir emrinde"
+        ],
+        "answer":2
+      },
+      {
+        "q":"Aşağıdakilerden hangisi Madde 55’e göre yanlıştır? (Madde 55)",
+        "options":[
+          "Yoklamalar günde üç defa yapılır",
+          "Gece yoklaması yapılır",
+          "Yoklamalar sadece personel için yapılır",
+          "Yoklama şekli talimatnamede gösterilir"
+        ],
+        "answer":2
+      },
+    {
+      "q":"Muayyen yoklamalar dışında ilave yoklama hangi durumda yapılabilir? (Madde 56)",
+      "options":[
+        "Her zaman",
+        "Kışla kumandanı isterse",
+        "Kati bir lüzum görülürse",
+        "Garnizon kumandanı emrederse"
+      ],
+      "answer":2
+    },
+    {
+      "q":"Muayyen yoklamalar dışında yoklama yapılması kimin emrine bağlıdır? (Madde 56)",
+      "options":[
+        "Garnizon kumandanının",
+        "Kışla kumandanının",
+        "Nöbetçi amirin",
+        "Birlik komutanının"
+      ],
+      "answer":1
+    },
+    {
+      "q":"Madde 56’ya göre ilave yoklama hangi yoklamalara ek olarak yapılır? (Madde 56)",
+      "options":[
+        "Gece yoklamasına",
+        "Sadece sabah yoklamasına",
+        "Sadece akşam yoklamasına",
+        "Muayyen yoklamalara"
+      ],
+      "answer":3
+    },
+    {
+      "q":"Aşağıdakilerden hangisi Madde 56’ya göre yanlıştır? (Madde 56)",
+      "options":[
+        "İlave yoklama yapılabilir",
+        "İlave yoklama kışla kumandanının emriyle yapılır",
+        "İlave yoklama her durumda zorunludur",
+        "Muayyen yoklamalar dışında da yoklama yapılabilir"
+      ],
+      "answer":2
+    },
+    {
+      "q":"Madde 56’ya göre ilave yoklamanın yapılabilmesi için gerekli şart aşağıdakilerden hangisidir? (Madde 56)",
+      "options":[
+        "Nöbetçi amirin talebi",
+        "Kışla kumandanının izni",
+        "Kati bir lüzum görülmesi",
+        "Talimatname hükmü"
+      ],
+      "answer":2
+    },
+    {
+      "q":"Muayyen yoklamalar haricinde yapılan yoklamalar hangi emirle başlatılır? (Madde 56)",
+      "options":[
+        "Talimatname ile",
+        "Yazılı yönetmelik ile",
+        "Kışla kumandanının emri ile",
+        "Garnizon komutanlığı emri ile"
+      ],
+      "answer":2
+    },
+   {
+     "q":"Önleme araması hangi amaçla yapılır? (Madde 56/A)",
+     "options":[
+       "Disiplin sağlamak",
+       "Tehlikenin veya suç işlenmesinin önlenmesi",
+       "İdari soruşturma yapmak",
+       "Ceza vermek"
+     ],
+     "answer":1
+   },
+   {
+     "q":"Önleme araması hangi karar veya emir üzerine yapılabilir? (Madde 56/A)",
+     "options":[
+       "Sadece birlik komutanının sözlü emriyle",
+       "Sulh ceza hâkimi kararıyla veya gecikmesinde sakınca bulunan hallerde yazılı emirle",
+       "Valilik onayıyla",
+       "Savcının sözlü talimatıyla"
+     ],
+     "answer":1
+   },
+   {
+     "q":"Gecikmesinde sakınca bulunan hâllerde verilen yazılı emir en geç kaç saat içinde hâkim onayına sunulmalıdır? (Madde 56/A)",
+     "options":[
+       "12 saat",
+       "24 saat",
+       "48 saat",
+       "72 saat"
+     ],
+     "answer":1
+   },
+   {
+     "q":"Önleme araması askerî mahallerde hangi unsurları kapsar? (Madde 56/A)",
+     "options":[
+       "Sadece üst aramasını",
+       "Sadece araçları",
+       "Üst, araç, özel kâğıtlar ve eşyayı",
+       "Sadece eşyaları"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Önleme aramasının sonucu nasıl bildirilir? (Madde 56/A)",
+     "options":[
+       "Sözlü olarak",
+       "Elektronik posta ile",
+       "Tutanakla, kararı veya emri veren makama",
+       "Günlük emirle"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Önleme araması hangi yerlerde yapılamaz? (Madde 56/A)",
+     "options":[
+       "Askerî mahallerde",
+       "Araçlarda",
+       "Konutta ve yerleşim yerlerinde",
+       "Birlik girişlerinde"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Önleme aramasına ilişkin usul ve esaslar kim tarafından düzenlenir? (Madde 56/A)",
+     "options":[
+       "Genelkurmay Başkanlığı",
+       "İçişleri Bakanlığı",
+       "Millî Savunma Bakanlığı",
+       "Adalet Bakanlığı"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Askerî mahallere giren veya çıkan herkes hangi kontrolden geçmek zorundadır? (Madde 56/B)",
+     "options":[
+       "Elle arama",
+       "Duyarlı kapı",
+       "Üst araması",
+       "X-Ray kontrolü"
+     ],
+     "answer":1
+   },
+   {
+     "q":"Duyarlı kapının ikaz vermesi hâlinde hangi işlem yapılır? (Madde 56/B)",
+     "options":[
+       "Doğrudan içeri alınır",
+       "Sadece kimlik kontrolü yapılır",
+       "Metal dedektörle kontrol edilir",
+       "Gözle kontrol yapılır"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Şüphe hâlinde veya teknik cihazların bulunmadığı yerlerde kontrol nasıl yapılır? (Madde 56/B)",
+     "options":[
+       "Hâkim kararıyla",
+       "Yazılı emirle",
+       "Herhangi bir emir veya karar olmaksızın elle",
+       "Sadece kamera ile"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Teknik cihazların ikazı sürerse kişi askerî mahallere hangi şartla girebilir? (Madde 56/B)",
+     "options":[
+       "Doğrudan",
+       "Amir izniyle",
+       "Elle kontrolü kabul ederse",
+       "Ertesi gün"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Askerî mahallerde kontrol işlemlerine ilişkin usul ve esaslar kim tarafından düzenlenir? (Madde 56/B)",
+     "options":[
+       "Valilik",
+       "Genelkurmay Başkanlığı",
+       "Millî Savunma Bakanlığı",
+       "İçişleri Bakanlığı"
+     ],
+     "answer":2
+   },
+  {
+    "q":"Türk Silahlı Kuvvetleri sağlık işlerinde esas alınan temel husus aşağıdakilerden hangisidir? (Madde 57)",
+    "options":[
+      "Sadece tedavi hizmetleri",
+      "Askerlerin fizik ve moral durumlarının takibi ile koruyucu ve askerî sağlık hizmetlerinin yürütülmesi",
+      "Sadece hastane hizmetleri",
+      "Sadece savaş yaralılarının tedavisi"
+    ],
+    "answer":1
+  },
+  {
+    "q":"TSK sağlık hizmetlerinin yerine getirilmesinden kimler sorumludur? (Madde 57)",
+    "options":[
+      "Sadece askerî hastaneler",
+      "Sadece tabipler",
+      "Kıta komutanları, karargâh veya askerî kurum amirleri ile bunların tabipleri",
+      "Millî Savunma Bakanlığı"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Türk Silahlı Kuvvetleri sağlık teşkillerindeki sağlık hizmetleri hangi standartlara göre yürütülür? (Madde 57)",
+    "options":[
+      "Askerî talimatlara göre",
+      "Uluslararası askerî standartlara göre",
+      "Ulusal sağlık mevzuatında yer alan hizmet standartlarına göre",
+      "Valilik talimatlarına göre"
+    ],
+    "answer":2
+  },
+  {
+    "q":"TSK sağlık hizmetlerinin ulusal sağlık mevzuatına göre yürütülmesinde hangi durum istisna tutulmuştur? (Madde 57)",
+    "options":[
+      "Barış zamanı",
+      "Sefer hâli",
+      "Harekât ihtiyaçları",
+      "Eğitim faaliyetleri"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Madde 57’ye göre aşağıdakilerden hangisi saklı tutulmuştur? (Madde 57)",
+    "options":[
+      "657 sayılı Devlet Memurları Kanunu",
+      "926 sayılı TSK Personel Kanunu",
+      "5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu",
+      "5237 sayılı Türk Ceza Kanunu"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Aşağıdakilerden hangisi Madde 57’ye göre yanlıştır? (Madde 57)",
+    "options":[
+      "Askerlerin moral durumlarının takibi sağlık işlerinin kapsamındadır",
+      "Koruyucu sağlık hizmetleri esas alınır",
+      "Sağlık hizmetlerinden sadece tabipler sorumludur",
+      "Harekât ihtiyaçları istisna oluşturur"
+    ],
+    "answer":2
+  },
+   {
+     "q":"Türk Silahlı Kuvvetlerinde koruyucu sağlık hizmetleri kapsamında aşağıdakilerden hangisi yer alır? (Madde 58)",
+     "options":[
+       "Estetik cerrahi",
+       "Çevre sağlığı",
+       "Sadece tedavi hizmetleri",
+       "Yalnız ameliyatlar"
+     ],
+     "answer":1
+   },
+   {
+     "q":"Aşağıdakilerden hangisi koruyucu sağlık hizmetleri kapsamında sayılan konulardan biridir? (Madde 58)",
+     "options":[
+       "Adli tıp hizmetleri",
+       "Bağışıklama",
+       "Hukuki danışmanlık",
+       "İdari soruşturma"
+     ],
+     "answer":1
+   },
+   {
+     "q":"Tütün ve madde kullanımının önlenmesi hangi hizmet kapsamında değerlendirilir? (Madde 58)",
+     "options":[
+       "Tedavi edici sağlık hizmetleri",
+       "Askerî lojistik",
+       "Koruyucu sağlık hizmetleri",
+       "Rehabilitasyon hizmetleri"
+     ],
+     "answer":2
+   },
+   {
+     "q":"İş sağlığı ve güvenliği ile okul sağlığı hangi kapsamda yer alır? (Madde 58)",
+     "options":[
+       "Askerî eğitim hizmetleri",
+       "Koruyucu sağlık hizmetleri",
+       "Tedavi edici sağlık hizmetleri",
+       "İdari hizmetler"
+     ],
+     "answer":1
+   },
+   {
+     "q":"Askerî sağlık hizmetleri kapsamında aşağıdakilerden hangisi yer alır? (Madde 58)",
+     "options":[
+       "Sadece çevre sağlığı",
+       "Göreve uyarlık ve elverişlilik kontrolleri",
+       "Sadece hijyen denetimleri",
+       "Yalnız aşılama"
+     ],
+     "answer":1
+   },
+   {
+     "q":"Periyodik veya zorunlu sağlık kontrolleri hangi hizmet grubuna girer? (Madde 58)",
+     "options":[
+       "Koruyucu sağlık hizmetleri",
+       "Askerî sağlık hizmetleri",
+       "İdari hizmetler",
+       "Sosyal hizmetler"
+     ],
+     "answer":1
+   },
+   {
+     "q":"Sağlık raporu kontrolü Madde 58’e göre hangi kapsamda değerlendirilir? (Madde 58)",
+     "options":[
+       "Koruyucu sağlık hizmetleri",
+       "Askerî eğitim",
+       "Askerî sağlık hizmetleri",
+       "Lojistik hizmetler"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Tıbbi tehditlerin önlenmesi ve ortadan kaldırılması hangi hizmete dahildir? (Madde 58)",
+     "options":[
+       "Koruyucu sağlık hizmetleri",
+       "Askerî sağlık hizmetleri",
+       "Sosyal hizmetler",
+       "Personel işleri"
+     ],
+     "answer":1
+   },
+   {
+     "q":"Tahliye, tedavi ve sağlık lojistiği hangi hizmet kapsamında yer alır? (Madde 58)",
+     "options":[
+       "Koruyucu sağlık hizmetleri",
+       "İdari hizmetler",
+       "Askerî sağlık hizmetleri",
+       "Eğitim hizmetleri"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Aşağıdakilerden hangisi Madde 58’e göre yanlıştır? (Madde 58)",
+     "options":[
+       "Koruyucu sağlık hizmetleri sağlıklı beslenmeyi kapsar",
+       "Askerî sağlık hizmetleri sadece tedaviden ibarettir",
+       "Fiziksel performansın artırılması koruyucu sağlık kapsamındadır",
+       "Periyodik kontroller askerî sağlık hizmetlerindendir"
+     ],
+     "answer":1
+   },
+   {
+     "q":"Madde 59’a göre aşağıdaki personel gruplarından hangisi sağlık kontrollerine tabi tutulabilir? (Madde 59)",
+     "options":[
+       "Sadece subay ve astsubaylar",
+       "Sadece erbaş ve erler",
+       "Subay, astsubay, uzman jandarma, sivil personel, askerî öğrenciler, erbaş ve erler ile adayları",
+       "Sadece askerî öğrenciler"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Madde 59’a göre personel hangi hususlar açısından sağlık kontrolüne tabi tutulur? (Madde 59)",
+     "options":[
+       "Disiplin yönünden",
+       "Göreve uyarlık ve elverişlilik açısından",
+       "Sadece fiziksel yeterlilik açısından",
+       "Sadece psikolojik durum açısından"
+     ],
+     "answer":1
+   },
+   {
+     "q":"Periyodik veya zorunlu sağlık kontrolleri Madde 59’a göre hangi kapsamda yapılır? (Madde 59)",
+     "options":[
+       "Talimatnameye göre",
+       "Amir takdirine göre",
+       "Yönetmelikle belirlenen usul ve esaslar çerçevesinde",
+       "Valilik emrine göre"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Madde 59’a göre aşağıdakilerden hangisi sağlık kontrolleri arasında yer alır? (Madde 59)",
+     "options":[
+       "Disiplin soruşturması",
+       "Göreve uyarlık ve elverişlilik kontrolleri",
+       "Sicil değerlendirmesi",
+       "Eğitim yeterlilik sınavı"
+     ],
+     "answer":1
+   },
+   {
+     "q":"Sağlık raporu kontrolü Madde 59’a göre hangi personele uygulanabilir? (Madde 59)",
+     "options":[
+       "Sadece subaylara",
+       "Sadece erbaş ve erlere",
+       "Sadece sivil personele",
+       "Madde kapsamında sayılan tüm personele ve adaylarına"
+     ],
+     "answer":3
+   },
+   {
+     "q":"Aşağıdakilerden hangisi Madde 59’a göre yanlıştır? (Madde 59)",
+     "options":[
+       "Sağlık kontrolleri yönetmelikle belirlenir",
+       "Aday personel sağlık kontrollerine tabi tutulabilir",
+       "Sağlık kontrolleri sadece göreve başlamadan önce yapılır",
+       "Periyodik kontroller yapılabilir"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Kıta, karargâh ve askerî kurum tabipleri nerede gösterilir? (Madde 60)",
+     "options":[
+       "Talimatnamede",
+       "Yönetmelikte",
+       "Kadrolarda",
+       "Günlük emirde"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Kadroda gösterilen tabip mevcut değilse ilk olarak hangi yola başvurulur? (Madde 60)",
+     "options":[
+       "Sağlık Bakanlığından tabip istenir",
+       "En yakın sivil hastaneye sevk edilir",
+       "Aynı yerdeki diğer kıta, karargâh veya askerî kurumlarda görevli tabip görevlendirilir",
+       "Özel hastanelerden hizmet alınır"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Sağlık Bakanlığı hangi durumda tabip görevlendirebilir? (Madde 60)",
+     "options":[
+       "Her zaman",
+       "Sadece savaş hâlinde",
+       "Kadroda tabip bulunmadığında",
+       "Talep olmadan"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Tabip görevlendirilmesinin mümkün olmadığı hâllerde sağlık hizmetleri nasıl yürütülür? (Madde 60)",
+     "options":[
+       "Sadece askerî hastanelerden",
+       "En yakın resmî sağlık hizmet sunucusundan veya SGK ile sözleşmeli sağlık hizmet sunucularından",
+       "Yalnızca özel hastanelerden",
+       "Sivil doktorlardan bireysel olarak"
+     ],
+     "answer":1
+   },
+   {
+     "q":"Sağlık hizmetinin yürütülmesinde başvurulabilecek yerlerden biri hangisidir? (Madde 60)",
+     "options":[
+       "Belediye sağlık merkezleri",
+       "Özel klinikler",
+       "Sosyal Güvenlik Kurumu ile sözleşmeli sağlık hizmet sunucuları",
+       "Sadece askerî revirler"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Aşağıdakilerden hangisi yanlıştır? (Madde 60)",
+     "options":[
+       "Tabipler kadrolarda gösterilir",
+       "Kadroda tabip yoksa başka askerî birimden tabip görevlendirilebilir",
+       "Tabip bulunamazsa hiçbir şekilde sağlık hizmeti verilemez",
+       "Gerekirse SGK ile sözleşmeli sağlık hizmet sunucularından yararlanılır"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Subay, astsubay, uzman jandarma, uzman erbaş ve sivil personel hastalıklarını kime bildirmekle yükümlüdür? (Madde 61)",
+     "options":[
+       "Sağlık Bakanlığına",
+       "Doğrudan hastaneye",
+       "Bizzat veya başka bir vasıta ile amirlerine",
+       "Garnizon komutanlığına"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Amirler, hastalığını bildiren personeli öncelikle nereye gönderir? (Madde 61)",
+     "options":[
+       "En yakın sivil hastaneye",
+       "Kendi kıta, karargâh veya askerî kurumlarının tabiplerine",
+       "Özel sağlık kuruluşlarına",
+       "Askerî hastanelere"
+     ],
+     "answer":1
+   },
+   {
+     "q":"Acil durumlarda hangi kanun hükümleri saklı tutulur? (Madde 61)",
+     "options":[
+       "657 sayılı Kanun",
+       "926 sayılı Kanun",
+       "5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu",
+       "5237 sayılı Türk Ceza Kanunu"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Birinci basamak ve üst basamak muayene ve tedavilerin safahat ve sonuçları kime bildirilir? (Madde 61)",
+     "options":[
+       "Sadece tabiplere",
+       "Sadece Sağlık Bakanlığına",
+       "Bizzat veya başka bir vasıta ile amirlere",
+       "Yalnız personel dosyasına"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Üst basamak sağlık hizmet sunucularına sevk işlemleri hangi esaslara göre yürütülür? (Madde 61)",
+     "options":[
+       "Askerî talimatlara göre",
+       "Amir takdirine göre",
+       "5510 sayılı Kanun esaslarına göre",
+       "Yönetmelik hükümlerine göre"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Muayene ve tedavi sonucunun TSK görevlerine uyarlık bakımından takibi kimler tarafından yapılır? (Madde 61)",
+     "options":[
+       "Sadece Sağlık Bakanlığı",
+       "Sadece askerî tabipler",
+       "Kıta komutanları, karargâh veya askerî kurum amirleri ile bunların tabipleri",
+       "Yalnız disiplin amirleri"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Gerektiğinde sağlık durumunun kontrolü hangi madde kapsamında yapılır? (Madde 61)",
+     "options":[
+       "Madde 57",
+       "Madde 58",
+       "Madde 59",
+       "Madde 60"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Aşağıdakilerden hangisi Madde 61’e göre yanlıştır? (Madde 61)",
+     "options":[
+       "Personel hastalığını amirine bildirmek zorundadır",
+       "Amirler personeli öncelikle kendi kurum tabibine gönderir",
+       "Üst basamak sevkleri 5510 sayılı Kanuna göre yapılır",
+       "Hastalık bilgileri sadece tabipler arasında paylaşılır"
+     ],
+     "answer":3
+   },
+   {
+     "q":"Hastalanan öğrenciler ile erbaş ve erler hastalıklarını kime ve ne zaman bildirmekle yükümlüdür? (Madde 62)",
+     "options":[
+       "Tabibe, uygun zamanda",
+       "Amirlerine derhâl",
+       "Sağlık Bakanlığına yazılı olarak",
+       "Nöbetçi subaya mesai sonunda"
+     ],
+     "answer":1
+   },
+   {
+     "q":"Hasta olan öğrenciler ile erbaş ve erler vizite zamanında kime gösterilir? (Madde 62)",
+     "options":[
+       "Nöbetçi tabibe",
+       "En yakın sivil hastaneye",
+       "Kıta, karargâh veya askerî kurum tabibine",
+       "Garnizon tabibine"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Mesai saati haricinde hastalanan öğrenciler ile erbaş ve erler kime gösterilir? (Madde 62)",
+     "options":[
+       "Birlik komutanına",
+       "Nöbetçi tabibe",
+       "Kurum amirine",
+       "Sivil hekime"
+     ],
+     "answer":1
+   },
+   {
+     "q":"Acil hâllerde hastalar nasıl sevk edilir veya hangi sistemden yararlanılır? (Madde 62)",
+     "options":[
+       "Sadece askerî hastanelere",
+       "Doğrudan en yakın askerî veya sivil sağlık teşkiline ya da ulusal acil sağlık sistemine",
+       "Önce kurum tabibine",
+       "Sadece özel hastanelere"
+     ],
+     "answer":1
+   },
+   {
+     "q":"Hastalığını bildirmediği tespit edilen öğrenciler ile erbaş ve erleri muayene veya kontrole göndermeye kim yetkilidir? (Madde 62)",
+     "options":[
+       "Sadece tabipler",
+       "Sadece garnizon komutanı",
+       "Amirler",
+       "Sağlık Bakanlığı"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Üst basamak sağlık hizmet sunucularına sevk edilen öğrenciler ile erbaş ve erler muayene ve tedavi sonuçlarını kime bildirir? (Madde 62)",
+     "options":[
+       "Sadece amirlerine",
+       "Sadece tabibe",
+       "Amirlerine ve kıta, karargâh veya askerî kurum tabibine",
+       "Sadece sağlık kuruluşuna"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Muayene ve tedavi sonucunun TSK görevlerine uyarlık bakımından takibi kimler tarafından yapılır? (Madde 62)",
+     "options":[
+       "Sadece askerî tabipler",
+       "Sadece birlik komutanı",
+       "Kıta komutanları, karargâh veya askerî kurum amirleri ile bunların tabipleri",
+       "Sivil sağlık kuruluşları"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Erbaş ve erler için ilaç, optik ve sağlık hizmeti fark ücretleri hangi bütçelerden karşılanır? (Madde 62)",
+     "options":[
+       "Sosyal Güvenlik Kurumu bütçesinden",
+       "Millî Savunma Bakanlığı, Jandarma Genel Komutanlığı veya Sahil Güvenlik Komutanlığı bütçesinden",
+       "Belediye bütçesinden",
+       "Kişinin kendisi tarafından"
+     ],
+     "answer":1
+   },
+   {
+     "q":"Tedavileri süresince ödenmesi gereken yol ücretleri ve gündelikler hangi kurumların bütçesinden karşılanır? (Madde 62)",
+     "options":[
+       "Sağlık Bakanlığı",
+       "Sosyal Güvenlik Kurumu",
+       "Millî Savunma Bakanlığı, Jandarma Genel Komutanlığı veya Sahil Güvenlik Komutanlığı",
+       "Valilikler"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Terhis sonrası tedavisine devam edileceklerin hastanelere sevkleri kim tarafından sağlanır? (Madde 62)",
+     "options":[
+       "Sağlık Bakanlığı",
+       "Birlik komutanlığı",
+       "Askerlik şubeleri",
+       "Sosyal Güvenlik Kurumu"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Refakatçinin yol ücreti ve gündeliği hangi esaslara göre ödenir? (Madde 62)",
+     "options":[
+       "Özel araç ücretlerine göre",
+       "Şehirlerarası karayolu toplu taşıma ücretleri ve en düşük dereceli devlet memuru gündeliği esas alınarak",
+       "Kurum takdirine göre",
+       "Sabit tarife ile"
+     ],
+     "answer":1
+   },
+   {
+     "q":"Aşağıdakilerden hangisi Madde 62’ye göre yanlıştır? (Madde 62)",
+     "options":[
+       "Hastalanan erbaş ve erler durumu amirlerine derhâl bildirir",
+       "Mesai dışında hasta olanlar nöbetçi tabibe gösterilir",
+       "Hastalık bildirmeyenler muayeneye gönderilemez",
+       "Acil hâllerde ulusal acil sağlık sisteminden yararlanılabilir"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Görevli oldukları yerden başka bir yerde hastalanan personel hastalığını kime haber verir? (Madde 63)",
+     "options":[
+       "Doğrudan Sağlık Bakanlığına",
+       "En yakın kıta komutanlığına veya karargâh ya da askerî kurum amirliğine",
+       "Sadece garnizon komutanlığına",
+       "Yalnız sivil hastaneye"
+     ],
+     "answer":1
+   },
+   {
+     "q":"Hastalığı bildirilen personelin muayene ve tedavisi için sevki kim tarafından sağlanır? (Madde 63)",
+     "options":[
+       "Garnizon komutanlığı tarafından",
+       "Sağlık Bakanlığı tarafından",
+       "Kıta komutanı veya karargâh ya da askerî kurum amiri tarafından",
+       "Sivil sağlık kuruluşu tarafından"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Hastalanan personelin durumu hangi makamlara bildirilir? (Madde 63)",
+     "options":[
+       "Sadece personelin birliğine",
+       "Sadece garnizon komutanlığına",
+       "Personelin kıta, karargâh veya kurumuna ve mahallin garnizon komutanlığına",
+       "Sadece Sağlık Bakanlığına"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Garnizon komutanlığı veya askerî birliğin bulunmadığı yerlerde hastalananlar ne yapar? (Madde 63)",
+     "options":[
+       "En yakın askerî birliğe gider",
+       "Sivil sağlık hizmet sunucularına müracaat eder",
+       "İzne çıkarılır",
+       "Birliğine dönene kadar bekler"
+     ],
+     "answer":1
+   },
+   {
+     "q":"Garnizon veya askerî kurum bulunmayan yerde hastalananlar hangi bilgileri ne zaman bildirir? (Madde 63)",
+     "options":[
+       "Sadece hastalık bilgisini, uygun zamanda",
+       "Tedavi safahat ve sonuçlarını amirlerine mümkün olan en kısa sürede",
+       "Sadece tedavi sonucunu tabibe",
+       "Hiçbir bildirim yapmaz"
+     ],
+     "answer":1
+   },
+   {
+     "q":"İzindeyken hastalanan subay, astsubay, uzman jandarma, uzman erbaşlar ve sivil personel nasıl hareket eder? (Madde 63)",
+     "options":[
+       "Sadece askerî sağlık kuruluşlarına gider",
+       "Birinci fıkradaki esaslara uymak zorundadır",
+       "Tercihlerine göre askerî veya sivil sağlık hizmet sunucularına müracaat edebilir",
+       "Sadece sivil hastanelere gider"
+     ],
+     "answer":2
+   },
+   {
+     "q":"İzindeyken hastalanan subay, astsubay, uzman jandarma, uzman erbaşlar ve sivil personel hangi yükümlülüğe sahiptir? (Madde 63)",
+     "options":[
+       "Hiçbir bildirim yapmaz",
+       "Durumlarını ve tedavi safahat ve sonuçlarını amirlerine mümkün olan en kısa sürede bildirir",
+       "Sadece tabibe bilgi verir",
+       "İzin bitiminde rapor sunar"
+     ],
+     "answer":1
+   },
+   {
+     "q":"İzindeyken hastalanan erbaş ve erler ile öğrenciler için hangi hüküm uygulanır? (Madde 63)",
+     "options":[
+       "İzindeki subaylar gibi serbesttirler",
+       "Birinci fıkra hükümleri uygulanır",
+       "Hiçbir bildirim zorunluluğu yoktur",
+       "Sadece sivil hastaneye başvururlar"
+     ],
+     "answer":1
+   },
+   {
+     "q":"Aşağıdakilerden hangisi Madde 63’e göre yanlıştır? (Madde 63)",
+     "options":[
+       "Görev yeri dışında hastalananlar durumu askerî makamlara bildirir",
+       "Askerî birlik olmayan yerde hastalananlar sivil sağlık kuruluşuna gider",
+       "İzindeki tüm personel birinci fıkra hükümlerine tabidir",
+       "Tedavi safahat ve sonuçları amire bildirilir"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Acil vakalarda hasta nereye müracaat eder? (Madde 64)",
+     "options":[
+       "Sadece askerî hastaneye",
+       "En yakın askerî veya sivil sağlık hizmet sunucusuna",
+       "Kurum tabibine",
+       "Garnizon komutanlığına"
+     ],
+     "answer":1
+   },
+   {
+     "q":"Acil vakada hasta, sağlık kuruluşuna müracaat ettikten sonra hangi yükümlülüğü yerine getirir? (Madde 64)",
+     "options":[
+       "Raporu dosyasına koyar",
+       "Hiçbir bildirim yapmaz",
+       "Durumunu mümkün olan en kısa sürede amirine bildirir",
+       "Sadece tabibe bilgi verir"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Genel sağlık sigortalısı sayılmayan TSK mensuplarının muayene ve tedavi masrafları kim tarafından karşılanır? (Madde 65)",
+     "options":[
+       "Sosyal Güvenlik Kurumu",
+       "Kişinin kendisi",
+       "Millî Savunma Bakanlığı, Jandarma Genel Komutanlığı veya Sahil Güvenlik Komutanlığı",
+       "Sağlık Bakanlığı"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Genel sağlık sigortası kapsamındaki sağlık hizmetlerinden bakmakla yükümlü olunan kişi sıfatıyla yararlanamayanların nakil ve sevk giderleri hangi bütçeden karşılanır? (Madde 65)",
+     "options":[
+       "Belediye bütçesinden",
+       "Sosyal Güvenlik Kurumu bütçesinden",
+       "Millî Savunma Bakanlığı, Jandarma Genel Komutanlığı veya Sahil Güvenlik Komutanlığı bütçesinden",
+       "Kişisel bütçeden"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Hangi durumlarda askerî birlik veya kurum envanterindeki ilaç ve tıbbi sarf malzemesi personel tedavisinde kullanılabilir? (Madde 65)",
+     "options":[
+       "Her zaman",
+       "Sadece barış zamanında",
+       "İlaç temininin ve sevklerin güç veya emniyetsiz olduğu görev ve harekât şartlarında",
+       "Sadece eğitim faaliyetlerinde"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Askerî birlik envanterindeki ilaç ve tıbbi sarf malzemesi hangi görevler sırasında kullanılabilir? (Madde 65)",
+     "options":[
+       "Sadece iç hizmet görevlerinde",
+       "Terörle mücadele, sınır ötesi harekâtlar, uluslararası barışı destekleme faaliyetleri gibi görevlerde",
+       "Sadece karargâh görevlerinde",
+       "İzin dönemlerinde"
+     ],
+     "answer":1
+   },
+   {
+     "q":"Bu kapsamda kullanılan ilaç ve tıbbi sarf malzemesi için personelden hangi işlem yapılır? (Madde 65)",
+     "options":[
+       "Katılım payı alınır",
+       "Sonradan ücret tahsil edilir",
+       "Herhangi bir ücret veya katılım payı alınmaz",
+       "SGK’ya fatura edilir"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Envanterdeki ilaç ve tıbbi sarf malzemesinin kullanımına ilişkin usul ve esaslar kim tarafından belirlenir? (Madde 65)",
+     "options":[
+       "Sağlık Bakanlığı",
+       "Genelkurmay Başkanlığı",
+       "Millî Savunma Bakanlığı",
+       "İçişleri Bakanlığı"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Subay, astsubay, uzman jandarma, sivil personel, askerî öğrenciler ile erbaş ve erlerin yurt içinde veya yurt dışında vefatı hâlinde cenaze giderleri hangi kurumların bütçesinden karşılanır? (Madde 66)",
+     "options":[
+       "Sosyal Güvenlik Kurumu",
+       "Sağlık Bakanlığı",
+       "Millî Savunma Bakanlığı, Jandarma Genel Komutanlığı veya Sahil Güvenlik Komutanlığı",
+       "Belediyeler"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Cenazenin talep edilen yere nakil giderleri hangi kurumlarca ödenir? (Madde 66)",
+     "options":[
+       "Aile tarafından",
+       "Sosyal Güvenlik Kurumu tarafından",
+       "Millî Savunma Bakanlığı, Jandarma Genel Komutanlığı veya Sahil Güvenlik Komutanlığı tarafından",
+       "Valilikler tarafından"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Yurt dışında bulunan personelin hangi yakınlarının vefatı hâlinde cenazenin yurda getirilme giderleri ödenir? (Madde 66)",
+     "options":[
+       "Sadece eşinin",
+       "Eş, üst soy, alt soy, kardeşler, evlat edinen, evlatlık ve üvey çocukların",
+       "Sadece anne ve babasının",
+       "Sadece çocuklarının"
+     ],
+     "answer":1
+   },
+   {
+     "q":"Askerlik hizmetini yapmakta iken vefat eden erbaş ve erlerin mezar yapım giderleri nasıl karşılanır? (Madde 66)",
+     "options":[
+       "Aile tarafından",
+       "Belediye tarafından",
+       "Birinci fıkraya göre ayrıca ödenir",
+       "Sosyal Güvenlik Kurumu tarafından"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Askerî veya sivil sağlık hizmet sunucuları tarafından düzenlenen sağlık raporları neticesinde yapılacak işlemler nasıl belirlenir? (Madde 67)",
+     "options":[
+       "Kanunla",
+       "Talimatname ile",
+       "Yönetmelikle",
+       "Amir emriyle"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Sağlık raporları ve diğer sağlık kayıtları nerelerde muhafaza edilir? (Madde 67)",
+     "options":[
+       "Sadece sağlık kuruluşlarında",
+       "Sadece özlük dosyalarında",
+       "Personel ve sağlık bilgi sistemleri ile özlük dosyalarında",
+       "Sadece elektronik ortamda"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Aşağıdakilerden hangisi Madde 66’ya göre yanlıştır? (Madde 66)",
+     "options":[
+       "Cenaze giderleri ilgili kurum bütçesinden karşılanır",
+       "Cenazenin nakil giderleri ödenir",
+       "Yurt dışındaki personelin sadece eşinin cenazesi yurda getirilir",
+       "Vefat eden erbaş ve erlerin mezar yapım giderleri ödenir"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Aşağıdakilerden hangisi Madde 67’ye göre doğrudur? (Madde 67)",
+     "options":[
+       "Sağlık raporları yalnızca askerî sağlık kuruluşlarınca düzenlenir",
+       "Sağlık raporları sadece geçici olarak saklanır",
+       "Sağlık raporlarına ilişkin işlemler yönetmelikle belirlenir",
+       "Sağlık kayıtları kişisel arşivlerde tutulur"
+     ],
+     "answer":2
+   },
+  {
+    "q":"Yurtiçinde tedavilerinin mümkün olmadığı tespit edilen personelin yurt dışına tedavi amacıyla gönderilebilmesi hangi kurul raporuna bağlıdır? (Madde 68)",
+    "options":[
+      "Sağlık Bakanlığı Yüksek Kurulu",
+      "Gülhane Askerî Tıp Akademisi Profesörler Kurulu",
+      "Millî Savunma Bakanlığı Sağlık Kurulu",
+      "Sosyal Güvenlik Kurumu Sağlık Kurulu"
+    ],
+    "answer":1
+  },
+  {
+    "q":"Yurt dışı tedaviye gönderilecek personel için düzenlenen rapor hangi makamın onayı ile kesinlik kazanır? (Madde 68)",
+    "options":[
+      "Genelkurmay Başkanlığı",
+      "Cumhurbaşkanlığı",
+      "Millî Savunma Bakanlığı veya İçişleri Bakanlığı",
+      "Sağlık Bakanlığı"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Yurt dışına tedavi için gönderilen personelin harcırah ve tedavi giderleri kim tarafından karşılanır? (Madde 68)",
+    "options":[
+      "Sosyal Güvenlik Kurumu",
+      "Sağlık Bakanlığı",
+      "Millî Savunma Bakanlığı, Jandarma Genel Komutanlığı veya Sahil Güvenlik Komutanlığı",
+      "Personelin kendisi"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Sürekli veya geçici görevle yurt dışında bulunan subay ve astsubaylar hastalanmaları hâlinde nerede muayene ve tedavi olabilirler? (Madde 68)",
+    "options":[
+      "Sadece askerî hastanelerde",
+      "Türkiye’deki sağlık kuruluşlarında",
+      "Bulundukları ülkedeki sağlık kurum ve kuruluşlarında",
+      "Yalnızca konsolosluklarda"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Yurt dışında yapılan muayene ve tedavi masraflarının ödenebilmesi için hangi şart aranır? (Madde 68)",
+    "options":[
+      "Sözlü beyan yeterlidir",
+      "Faturaların askeri ataşelik veya konsolosluklarca tasdik edilmesi gerekir",
+      "Sadece sağlık raporu yeterlidir",
+      "Yerel hastane onayı yeterlidir"
+    ],
+    "answer":1
+  },
+  {
+    "q":"Yurt dışında ayakta veya meskende yapılan tedavilerde ilaç bedelinin ne kadarı hasta tarafından ödenir? (Madde 68)",
+    "options":[
+      "%10",
+      "%20",
+      "%30",
+      "%50"
+    ],
+    "answer":1
+  },
+  {
+    "q":"Aşağıdaki hastalıklardan hangisi ilaç bedeline katılma yükümlülüğü dışında bırakılmıştır? (Madde 68)",
+    "options":[
+      "Grip",
+      "Diyabet",
+      "Kanser",
+      "Astım"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Tatbikat ve manevralarda ilaç bedeline katılma yükümlülüğü kime uygulanmaz? (Madde 68)",
+    "options":[
+      "Sivil personele",
+      "Askerî personele",
+      "Askerî öğrenciler hariç herkese",
+      "Yalnız erbaş ve erlere"
+    ],
+    "answer":1
+  },
+  {
+    "q":"Dış memleketlerdeki tedavi süresi en fazla ne kadar olabilir? (Madde 68)",
+    "options":[
+      "1 yıl",
+      "2 yıl",
+      "3 yıl",
+      "6 ay"
+    ],
+    "answer":1
+  },
+  {
+    "q":"Yurt dışındaki tedavi süresi altı ayı geçtiğinde hangi işlem yapılır? (Madde 68)",
+    "options":[
+      "Tedavi otomatik uzatılır",
+      "Yeni rapor alınarak dış temsilcilikler aracılığıyla ilgili makamlara gönderilir",
+      "Tedavi sona erdirilir",
+      "Sadece konsolosluğa bilgi verilir"
+    ],
+    "answer":1
+  },
+   {
+     "q":"Yabancı devletlerin silahlı kuvvetler mensupları ve bakmakla yükümlü oldukları kişiler hangi esaslara göre sağlık hizmetlerinden yararlandırılır? (Madde 70)",
+     "options":[
+       "Türk iç mevzuatına göre",
+       "5510 sayılı Kanun hariç tutularak",
+       "Uluslararası antlaşmalar ve ikili anlaşmalar hükümlerine göre",
+       "Millî Savunma Bakanlığı talimatlarına göre"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Yabancı askerlerin sağlık hizmetlerinden yararlandırılmasında hangi kanunun hükümleri saklı tutulmuştur? (Madde 70)",
+     "options":[
+       "657 sayılı Devlet Memurları Kanunu",
+       "926 sayılı Türk Silahlı Kuvvetleri Personel Kanunu",
+       "5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu",
+       "5434 sayılı Emekli Sandığı Kanunu"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Kıta, karargâh ve askerî kurumlarda tüketime sunulan içme ve kullanma suları nasıl olmalıdır? (Madde 70/B)",
+     "options":[
+       "Sadece klorlanmış",
+       "Sağlığa uygun ve temiz",
+       "Sivil standartlara uygun",
+       "Yerel idarelerce onaylı"
+     ],
+     "answer":1
+   },
+   {
+     "q":"Askerî birliklerde tüketime sunulan gıda maddeleri nasıl temin edilir? (Madde 70/B)",
+     "options":[
+       "Piyasa denetimi olmadan",
+       "Sadece yerel tedarikçilerden",
+       "Muayenesi yapılarak güvenilir şekilde",
+       "Belediye izniyle"
+     ],
+     "answer":2
+   },
+   {
+     "q":"İçme ve kullanma suları ile gıda maddelerine ilişkin kontrol ve denetim faaliyetlerini hangi teşkilat yürütür? (Madde 70/B)",
+     "options":[
+       "Sağlık Bakanlığı",
+       "Millî Savunma Bakanlığı",
+       "Türk Silahlı Kuvvetleri gıda kontrol teşkillerince",
+       "İçişleri Bakanlığı"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Gıda ve su güvenliğine ilişkin usul ve esaslar hangi düzenleme ile belirlenir? (Madde 70/B)",
+     "options":[
+       "Kanunla",
+       "Talimatname ile",
+       "Yönetmelik ile",
+       "Genelge ile"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Aşağıdakilerden hangisi Madde 70/B’ye göre yanlıştır? (Madde 70/B)",
+     "options":[
+       "İçme suları sağlığa uygun olmalıdır",
+       "Gıdalar muayene edilerek temin edilir",
+       "Gıda denetimleri sivil firmalarca yapılır",
+       "Kontrol ve denetimler TSK gıda kontrol teşkillerince yürütülür"
+     ],
+     "answer":2
+   },
+  {
+    "q":"Silahlı Kuvvetlere ait hayvanların bakımı, barındırılması, beslenmesi, sağlığı ve eğitimi hangi esaslara göre yerine getirilir? (Madde 71)",
+    "options":[
+      "Amir takdirine göre",
+      "Sivil mevzuata göre",
+      "Nizamlara uygun olarak",
+      "Talimatnameye gerek olmaksızın"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Hastalanan hayvanlar derhâl kime bildirilir? (Madde 72)",
+    "options":[
+      "Kıta komutanına",
+      "En yakın askerî sağlık kuruluşuna",
+      "Kıta, karargâh, kurum veya garnizonda görevli TSK mensubu veteriner hekime",
+      "Belediye veterinerine"
+    ],
+    "answer":2
+  },
+  {
+    "q":"TSK mensubu veteriner hekim veya yeterli tedavi ünitesi bulunmayan yerlerde hasta hayvanların muayene ve tedavisi öncelikle nerede yapılır? (Madde 72)",
+    "options":[
+      "Özel hayvan kliniklerinde",
+      "Bölgedeki askerî hayvan kliniklerinde",
+      "Belediye barınaklarında",
+      "Sivil veteriner muayenehanelerinde"
+    ],
+    "answer":1
+  },
+  {
+    "q":"Askerî hayvan kliniğinin bulunmadığı durumlarda hasta hayvanların muayene ve tedavisi hangi sırayla yapılabilir? (Madde 72)",
+    "options":[
+      "Özel klinikler → belediye → üniversite",
+      "Kamu veya üniversite veteriner hekimleri ya da hayvan hastaneleri",
+      "Sadece özel veterinerler",
+      "Yalnızca belediye veterinerleri"
+    ],
+    "answer":1
+  },
+  {
+    "q":"Askerî hayvan klinikleri, kamu veya üniversite veterinerleri de bulunmazsa nasıl bir yol izlenir? (Madde 72)",
+    "options":[
+      "Hayvan sevk edilmez",
+      "Muayene ve tedavi hizmeti temin edilir",
+      "Hayvan görevden çıkarılır",
+      "Sivil idareye devredilir"
+    ],
+    "answer":1
+  },
+  {
+    "q":"Hasta hayvanların yem, tedavi, yer ve malzeme giderleri hangi bütçelerden karşılanır? (Madde 72)",
+    "options":[
+      "Sağlık Bakanlığı bütçesinden",
+      "Belediye bütçesinden",
+      "Millî Savunma Bakanlığı, Jandarma Genel Komutanlığı veya Sahil Güvenlik Komutanlığı bütçesinden",
+      "Hayvan sahibinin kendisinden"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Aşağıdakilerden hangisi Madde 72’ye göre yanlıştır? (Madde 72)",
+    "options":[
+      "Hastalanan hayvanlar derhâl bildirilir",
+      "Tedavi öncelikle askerî hayvan kliniklerinde yapılır",
+      "Giderler personel tarafından karşılanır",
+      "Gerekirse tedavi hizmeti temin edilebilir"
+    ],
+    "answer":2
+  },
+   {
+     "q":"Görev yapabilirlik yeteneklerini kaybeden hizmet hayvanlarıyla ilgili hangi hususlar yeniden sahiplenme yapılıncaya kadar karşılanır? (Madde 73)",
+     "options":[
+       "Sadece yem giderleri",
+       "Yem, tedavi, yer ve malzeme giderleri",
+       "Yalnızca barınma giderleri",
+       "Sadece tedavi giderleri"
+     ],
+     "answer":1
+   },
+   {
+     "q":"Görev yapabilirlik yeteneklerini kaybeden hizmet hayvanlarının bakımı ve refahı hangi süreyi kapsar? (Madde 73)",
+     "options":[
+       "Görevden ayrıldıkları ana kadar",
+       "Tedavi süresi boyunca",
+       "Yeniden sahiplenme yapılıncaya kadar",
+       "Sadece emeklilik tarihine kadar"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Hizmet hayvanlarının yeniden sahiplenme sürecine kadar olan giderleri hangi kurumların bütçesinden karşılanır? (Madde 73)",
+     "options":[
+       "Belediyeler",
+       "Sağlık Bakanlığı",
+       "Millî Savunma Bakanlığı, Jandarma Genel Komutanlığı veya Sahil Güvenlik Komutanlığı",
+       "Hayvanı sahiplenen kişi"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Aşağıdakilerden hangisi Madde 73 kapsamında karşılanan giderler arasında yer almaz? (Madde 73)",
+     "options":[
+       "Yem giderleri",
+       "Tedavi giderleri",
+       "Eğitim giderleri",
+       "Yer ve malzeme giderleri"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Madde 73’e göre hizmet hayvanlarının bakım ve refah giderlerinin karşılanmasında esas alınan durum aşağıdakilerden hangisidir? (Madde 73)",
+     "options":[
+       "Hayvanın yaşının ilerlemesi",
+       "Görev yapabilirlik yeteneklerini kaybetmesi",
+       "Geçici hastalık geçirmesi",
+       "Görev yerinin değişmesi"
+     ],
+     "answer":1
+   },
+   {
+     "q":"Hangi rütbe sahibinin hangi birlik ve askerî kurumda ne gibi vazife alacağı nerede tespit edilir? (Madde 74)",
+     "options":[
+       "Talimatnamede",
+       "Kanunda",
+       "Kadrolarda",
+       "Amir emriyle"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Her rütbe sahibinin kanunlar, nizamlar ve amirler tarafından kendisine yüklenen vazifelerle ilgili temel sorumluluğu aşağıdakilerden hangisidir? (Madde 75)",
+     "options":[
+       "Sadece öğrenmek",
+       "Öğrenmek, öğretmek ve eksiksiz yapmak",
+       "Yalnızca astlara devretmek",
+       "Sadece denetlemek"
+     ],
+     "answer":1
+   },
+   {
+     "q":"Her rütbe sahibinin daima ve her yerde tesis ve muhafaza etmekle yükümlü olduğu temel unsur aşağıdakilerden hangisidir? (Madde 75)",
+     "options":[
+       "Eğitim",
+       "Hiyerarşi",
+       "Disiplin",
+       "Nizam"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Rütbe sahiplerinin maiyetine yönelik aşağıdaki görevlerden hangisi Madde 75 kapsamında yer alır? (Madde 75)",
+     "options":[
+       "Maiyetin sadece disiplin cezasını vermek",
+       "Maiyeti yetiştirmek ve astın şahsi teşebbüsünü geliştirmek",
+       "Maiyeti sadece denetlemek",
+       "Maiyete görev vermemek"
+     ],
+     "answer":1
+   },
+   {
+     "q":"Rütbe sahiplerinin kendilerine teslim edilen aşağıdakilerden hangisini korumakla yükümlü olduğu Madde 75’te açıkça belirtilmiştir? (Madde 75)",
+     "options":[
+       "Sadece silah ve mühimmat",
+       "Sadece askerî yapılar",
+       "Silah, araç, gereç, askerî eşya, yapılar, ağaçlar ve hayvanlar",
+       "Yalnızca personel"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Her rütbe sahibinin Madde 75’e göre belirlenen vazifeleri hangi düzenleme ile gösterilir? (Madde 75)",
+     "options":[
+       "Kanun",
+       "Yönetmelik",
+       "Talimatname",
+       "Genelge"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Aşağıdakilerden hangisi Madde 75’e göre rütbe sahiplerinin görevleri arasında yer almaz? (Madde 75)",
+     "options":[
+       "Disiplini tesis ve muhafaza etmek",
+       "Maiyeti yetiştirmek",
+       "Astın şahsi teşebbüsünü geliştirmek",
+       "Siyasi faaliyet yürütmek"
+     ],
+     "answer":3
+   },
+   {
+     "q":"Askerlikte müşterek hizmetlerin yapılmasını ve devamını sağlamak amacıyla, belli bir sıra ve süre ile yapılan hizmete ne ad verilir? (Madde 76)",
+     "options":[
+       "Vazife",
+       "Nöbet",
+       "Devriye",
+       "Karakol"
+     ],
+     "answer":1
+   },
+   {
+     "q":"Nöbet hizmetinin yapılması için görevlendirilen şahsa ne denir? (Madde 76)",
+     "options":[
+       "Amir",
+       "Devriye",
+       "Nöbetçi",
+       "Karakol"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Aşağıdakilerden hangileri nöbet hizmeti yapabilir? (Madde 76)",
+     "options":[
+       "Sadece subaylar",
+       "Subay, askerî memur, astsubay, askerî öğrenci, erbaş ve erler",
+       "Sadece erbaş ve erler",
+       "Yalnız sivil personel"
+     ],
+     "answer":1
+   },
+   {
+     "q":"Silahlı Kuvvetler Teşkilatı içinde vazifeli sivil şahısların nöbet hizmeti yapabilmesi hangi maddeye göre mümkündür? (Madde 76)",
+     "options":[
+       "Madde 74",
+       "Madde 75",
+       "Madde 76",
+       "Madde 78"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Nöbet hizmetine tabi tutulacak personelin kimler olacağı ve nöbetin yapılış şekli ne ile belirlenir? (Madde 77)",
+     "options":[
+       "Kanunla",
+       "Talimatname ile",
+       "Yönetmelikle",
+       "Amir emriyle"
+     ],
+     "answer":1
+   },
+   {
+     "q":"Hazarda ve seferde emniyet, muhafaza, disiplin ve gözetleme maksatlarıyla bir amir emrinde bulunan silahlı asker grubuna ne denir? (Madde 78)",
+     "options":[
+       "Devriye",
+       "Nöbetçi",
+       "Karakol",
+       "Hazır kıta"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Bir karakoldan çıkarılan, belli bir talimatı ve mıntakası bulunan silahlı tek veya çift er ya da erbaşa ne ad verilir? (Madde 78)",
+     "options":[
+       "Devriye",
+       "Karakol nöbetçisi",
+       "Nöbetçi",
+       "Karakol"
+     ],
+     "answer":1
+   },
+   {
+     "q":"Hazarda ve seferde, belirli bir mıntakada gezerek görev yapan çift veya daha fazla silahlı askere ne denir? (Madde 78)",
+     "options":[
+       "Karakol",
+       "Nöbetçi",
+       "Devriye",
+       "Hazır kıta"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Aşağıdakilerden hangisi karakol nöbetçisinin ayırt edici özelliğidir? (Madde 78)",
+     "options":[
+       "Bir amir emrinde silahlı asker grubudur",
+       "Gezerek görev yapar",
+       "Belli bir talimatı ve mıntakası vardır",
+       "Sadece gece görev yapar"
+     ],
+     "answer":2
+   },
+     {
+       "q":"Her askerî kıta ve kıtası bulunan karargâh ve askerî kurumlar hangi birimi çıkarmakla yükümlüdür? (Madde 79)",
+       "options":[
+         "Hazır kıta",
+         "İleri karakol",
+         "Nizam karakolu",
+         "Devriye"
+       ],
+       "answer":2
+     },
+     {
+       "q":"Nizam karakolu hangi komuta altında kurulur? (Madde 79)",
+       "options":[
+         "Erbaş kumandasında",
+         "Sivil amir kumandasında",
+         "Subay veya astsubay kumandasında",
+         "Garnizon komutanı kumandasında"
+       ],
+       "answer":2
+     },
+     {
+       "q":"Nizam karakolunun temel görevi aşağıdakilerden hangisidir? (Madde 79)",
+       "options":[
+         "Uzak emniyet sağlamak",
+         "Yakın emniyet, gözetleme, muhafaza ve disiplin sağlamak",
+         "Sadece devriye çıkarmak",
+         "Sadece kışla içi güvenlik sağlamak"
+       ],
+       "answer":1
+     },
+     {
+       "q":"Uzak emniyet sağlama görevi hangi birliklere aittir? (Madde 79)",
+       "options":[
+         "Nizam karakollarına",
+         "Devriyelere",
+         "İleri karakollara",
+         "Hazır kıtaya"
+       ],
+       "answer":2
+     },
+     {
+       "q":"Nizam karakolunun kuvveti neye göre hesaplanır? (Madde 79)",
+       "options":[
+         "Mevcuttaki asker sayısına göre",
+         "Çıkaracağı devriye ve karakol nöbetçilerinin adedine göre",
+         "Kışlanın büyüklüğüne göre",
+         "Garnizon komutanının takdirine göre"
+       ],
+       "answer":1
+     },
+     {
+       "q":"Nizam karakolu personeli hangi durumda bulunur? (Madde 79)",
+       "options":[
+         "Sivil kıyafetli ve silahsız",
+         "Hizmet kıyafetli ve silahsız",
+         "Seferî teçhizatlı ve silahlı",
+         "Sadece gece silahlı"
+       ],
+       "answer":2
+     },
+     {
+       "q":"Bir kışla, konak veya ordugâhta farklı sınıflardan birlikler bulunuyorsa nizam karakol vazifesi nasıl yapılır? (Madde 79)",
+       "options":[
+         "Sabit bir birlik tarafından",
+         "Garnizon komutanı tarafından",
+         "Kumandanın tertibi üzerine münavebe ile",
+         "Sadece en kıdemli birlik tarafından"
+       ],
+       "answer":2
+     },
+     {
+       "q":"Kıtası olmayan karargâh ve askerî kurumların karakol nöbetçisi ve devriyeleri nereden temin edilir? (Madde 79)",
+       "options":[
+         "Hazır kıtadan",
+         "Garnizon komutanlığından",
+         "O mevkideki en yakın nizam karakolundan",
+         "İleri karakollardan"
+       ],
+       "answer":2
+     },
+  {
+    "q":"Karakol hizmetinde bulunan personel, kendi mıntakaları dâhilinde asker ve sivil şahısları hangi tür yakalama ile yakalayabilir? (Madde 80)",
+    "options":[
+      "Kesin yakalama",
+      "Adlî tutuklama",
+      "Muvakkat yakalama",
+      "Disiplin hapsi"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Bir cürüm işlerken veya cürmü işledikten sonra kovalanırken yakalama hangi maksatla yapılır? (Madde 80)",
+    "options":[
+      "Disiplin maksadıyla",
+      "Adlî takibat maksadıyla",
+      "Muhafaza maksadıyla",
+      "Gözetleme maksadıyla"
+    ],
+    "answer":1
+  },
+  {
+    "q":"Karakolun muhafazası altındaki insan ve eşyanın korunması için yakalama hangi maksatla yapılır? (Madde 80)",
+    "options":[
+      "Adlî takibat maksadıyla",
+      "Disiplin maksadıyla",
+      "Muhafaza ve emniyet maksadıyla",
+      "Eğitim maksadıyla"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Karakola, karakol nöbetçisine veya devriyeye tecavüz eden bir şahsın fiillerinin önlenmesi için hangi durumda muvakkat yakalama yapılır? (Madde 80)",
+    "options":[
+      "Her durumda",
+      "Sadece savcı emriyle",
+      "Ancak fiillere devamın muvakkat yakalama ile önlenmesi mümkünse",
+      "Yalnız sivil şahıslarda"
+    ],
+    "answer":2
+  },
+  {
+    "q":"İzinsiz kıtası dışında rastlanan asker hangi maksatla muvakkaten yakalanabilir? (Madde 80)",
+    "options":[
+      "Adlî takibat maksadıyla",
+      "Muhafaza maksadıyla",
+      "Disiplin maksadıyla",
+      "Eğitim maksadıyla"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Karakol, karakol nöbetçileri ve devriyeler muvakkat yakalamayı kimin emriyle yapabilirler? (Madde 81)",
+    "options":[
+      "Herhangi bir subayın emriyle",
+      "Savcının emriyle",
+      "Karakol amiri veya bağlı oldukları kıta, karargâh ve askerî kurumun nöbetçi amirinin emriyle",
+      "Garnizon komutanının emriyle"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Madde 80 kapsamında aşağıdakilerden hangisi muvakkat yakalama sebebi değildir? (Madde 80)",
+    "options":[
+      "Cürüm işlerken yakalanan şahıs",
+      "Karakola hakaret eden ve fiiline devam eden şahıs",
+      "İzinsiz kıtası dışında rastlanan asker",
+      "Sadece şüpheli görülen sivil şahıs"
+    ],
+    "answer":3
+  },
+  {
+    "q":"Karakol ve devriyelerin muvakkat yakalama yetkisi hangi sınır içinde kullanılır? (Madde 80)",
+    "options":[
+      "Türkiye genelinde",
+      "Sadece kışla içinde",
+      "Kendi mıntakaları dâhilinde",
+      "Garnizon hudutları dışında"
+    ],
+    "answer":2
+  },
+   {
+     "q":"Muvakkat yakalama işlemi aşağıdakilerden hangisiyle yapılır? (Madde 82)",
+     "options":[
+       "Sadece sözlü ihtar ile",
+       "Şahsın vücudu üzerine el koymak veya silahla dokunmak ve yakalandığının bildirilmesiyle",
+       "Kelepçe takılmasıyla",
+       "Yazılı tutanak düzenlenmesiyle"
+     ],
+     "answer":1
+   },
+   {
+     "q":"Muvakkat yakalanan şahıs kaçmaya teşebbüs ederse hangi husus kendisine derhâl bildirilir? (Madde 82)",
+     "options":[
+       "Disiplin cezası verileceği",
+       "Adlî makama sevk edileceği",
+       "Silah kullanılacağı",
+       "Gözaltı süresinin uzatılacağı"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Muvakkat yakalanan şahsın üzerinden hangi işlemler yapılır? (Madde 82)",
+     "options":[
+       "Sadece kimlik kontrolü yapılır",
+       "Silah ve sair aletler alınır",
+       "Sadece üst araması yapılır",
+       "Hiçbir eşya alınmaz"
+     ],
+     "answer":1
+   },
+   {
+     "q":"Muvakkat yakalanan şahıs hangi durumda salahiyetli askerî veya adlî makamlara teslim edilir? (Madde 82)",
+     "options":[
+       "Her durumda",
+       "Disiplin suçu varsa",
+       "Adlî takibatı mucip bir sebep varsa",
+       "Şahıs sivil ise"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Adlî takibatı gerektiren bir sebep yoksa muvakkat yakalanan şahıs ne zaman serbest bırakılır? (Madde 82)",
+     "options":[
+       "Aynı gün",
+       "Yakalandıktan 24 saat sonra",
+       "En geç muvakkat yakalandığının ertesi günü",
+       "Savcı talimatıyla"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Aşağıdakilerden hangisi Madde 82’ye göre yanlıştır? (Madde 82)",
+     "options":[
+       "Muvakkat yakalama fizikî temasla yapılabilir",
+       "Kaçmaya teşebbüste silah kullanılacağı bildirilir",
+       "Yakalananın üzerindeki silahlar alınır",
+       "Muvakkat yakalanan herkes mutlaka adlî makama sevk edilir"
+     ],
+     "answer":3
+   },
+   {
+     "q":"Askerler hangi görevlerde görevlendirildiklerinde silah kullanmaya yetkilidirler? (Madde 87)",
+     "options":[
+       "Eğitim ve tatbikatlarda",
+       "Karakol, karakol nöbetçisi, devriye, nakliyat muhafazası ve asayiş görevlerinde",
+       "Sadece savaş hâlinde",
+       "Yalnız kışla içinde"
+     ],
+     "answer":1
+   },
+   {
+     "q":"Hizmet esnasında müessir fiil ile taarruza uğranılması veya tehlikeli tehdit ile mukavemet edilmesi hâlinde silah hangi amaçla kullanılır? (Madde 87)",
+     "options":[
+       "Cezalandırmak için",
+       "Dağıtmak için",
+       "Taarruz ve mukavemeti gidermek için",
+       "Gözdağı vermek için"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Silahını bırakmaya davet edildiği hâlde bu davete uymayan veya tekrar silah almaya davranan kişiye karşı silah hangi maksatla kullanılır? (Madde 87)",
+     "options":[
+       "İtaati sağlamak için",
+       "Yakalamayı ertelemek için",
+       "Sadece korkutmak için",
+       "Doğrudan etkisiz hâle getirmek için"
+     ],
+     "answer":0
+   },
+   {
+     "q":"Muvakkaten yakalanan bir şahıs kaçmaya teşebbüs eder ve dur emrine uymazsa hangi şartla silah kullanılabilir? (Madde 87)",
+     "options":[
+       "Her durumda",
+       "Savcı izniyle",
+       "Başka türlü ele geçirilmesi mümkün değilse",
+       "Sadece gece vakti"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Silah kullanılması için Madde 87’ye göre aranan temel şart aşağıdakilerden hangisidir? (Madde 87)",
+     "options":[
+       "Üstten emir gelmesi",
+       "Başka çare kalmaması veya zaruret olması",
+       "Olayın kamuoyuna yansıması",
+       "Şahsın sivil olması"
+     ],
+     "answer":1
+   },
+   {
+     "q":"Şahıs veya topluluk silahsız ise silah kullanmadan önce hangi işlem yapılır? (Madde 87)",
+     "options":[
+       "Doğrudan ateş edilir",
+       "Yazılı emir beklenir",
+       "Gerekli uyarı yapılarak silah kullanılacağı ihtar edilir",
+       "Karakola teslim edilir"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Silah kullanma tarzına göre aşağıdakilerden hangisi doğrudur? (Madde 87)",
+     "options":[
+       "Silah kullanmak her zaman ateş etmektir",
+       "Önce hedef gözetilerek ateş edilir",
+       "Ateş etmek son çaredir",
+       "Uyarı yapılmadan ateş edilir"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Ateş etme sıralaması Madde 87’ye göre nasıl başlar? (Madde 87)",
+     "options":[
+       "Doğrudan hedefe ateş",
+       "Ayağa ateş",
+       "Havaya ihtar ateşi",
+       "Hedef gözetilmeksizin ateş"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Ateş emri verilmemiş olsa bile asker hangi durumda silah kullanabilir? (Madde 87)",
+     "options":[
+       "Hiçbir durumda",
+       "Sadece komutan izniyle",
+       "Olayın şartlarını bizzat takdir ederek",
+       "Yalnız sivil şahıslara karşı"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Madde 87 hükümlerine göre silah kullanan askere ve ateş emri veren komutana hangi durumda sorumluluk yüklenmez? (Madde 87)",
+     "options":[
+       "Her durumda",
+       "Talimatnameye aykırıysa",
+       "Olayın şartları içinde maddeye uygun hareket edilmişse",
+       "Sivil yaralanmışsa"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Silah kullanma yetkisini haiz olduğu hâlde bu yetkiyi zamanında ve yerinde kullanmayan asker hakkında ne yapılır? (Madde 88)",
+     "options":[
+       "Hiçbir işlem yapılmaz",
+       "Takdirname verilir",
+       "Fiilin mahiyetine göre cezalandırılır",
+       "Sadece uyarılır"
+     ],
+     "answer":2
+   },
+   {
+     "q":"87. maddede sayılan haller dışında, hizmete ait bir vazifede mukavemeti bertaraf etmek için silah kullanmak zorunlu olursa asker için durum nedir? (Madde 89)",
+     "options":[
+       "Silah kullanması yasaktır",
+       "Silah kullanmaya salahiyetli ve vazifelidir",
+       "Yalnız komutan kullanabilir",
+       "Sadece savcı izniyle kullanabilir"
+     ],
+     "answer":1
+   },
+   {
+     "q":"87 ve 89. maddelerdeki haller dışında her asker hangi durumda silah kullanmaya yetkilidir? (Madde 90)",
+     "options":[
+       "Asayiş görevi sırasında",
+       "Nöbet hizmetinde",
+       "Meşru müdafaa hâlinde",
+       "Karakol hizmetinde"
+     ],
+     "answer":2
+   },
+  {
+    "q":"Garnizonlarda askerî disiplinin muhafazası, önleyici zabıta, adliye ve askerî trafik vazifeleri kime aittir? (Madde 91)",
+    "options":[
+      "Merkez kumandanına",
+      "Kıta kumandanlarına",
+      "Garnizon kumandanlarına",
+      "İnzıbat subayına"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Garnizon kumandanları, Madde 91’de belirtilen vazifeleri hangi teşkilat marifetiyle yürütür? (Madde 91)",
+    "options":[
+      "İnzıbat kuvvetleri",
+      "Karakol teşkilatı",
+      "Merkez kumandanlıkları",
+      "Hazır kıta"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Merkez kumandanlıkları büyük garnizonlarda nasıl oluşturulur? (Madde 91)",
+    "options":[
+      "Garnizon kumandanının emriyle",
+      "Talimatnameye göre",
+      "Kadrolarla tespit ve teşkil edilerek",
+      "Geçici görevlendirme ile"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Merkez kumandanlığı bulunmayan garnizonlarda garnizon kumandanı kimi merkez kumandanı olarak tayin edebilir? (Madde 91)",
+    "options":[
+      "Rütbece kendisine denk bir subayı",
+      "Rütbece kendisinden bir veya en fazla iki derece ast olan bir subayı",
+      "Herhangi bir astsubayı",
+      "En kıdemli erbaşı"
+    ],
+    "answer":1
+  },
+  {
+    "q":"Merkez kumandanlığı teşkiline lüzum görülmeyen küçük garnizonlarda bu vazifeler kim tarafından yerine getirilir? (Madde 91)",
+    "options":[
+      "Sadece merkez kumandanı tarafından",
+      "İnzıbat subayı veya astsubayı, buna da imkân yoksa bizzat garnizon kumandanı tarafından",
+      "Kıta kumandanları tarafından",
+      "Hazır kıta tarafından"
+    ],
+    "answer":1
+  },
+  {
+    "q":"Merkez kumandanlığı kadro ile teşkil edilmemiş garnizonlarda, verilen subay, astsubay, erbaş ve erlerden oluşan kuvvete ne ad verilir? (Madde 91)",
+    "options":[
+      "Hazır kuvvet",
+      "Nizam karakolu",
+      "İnzıbat kuvveti",
+      "Asayiş birliği"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Askerî inzıbat kuvveti mensupları hangi ayırt edici unsuru taşırlar? (Madde 91)",
+    "options":[
+      "Özel kimlik kartı",
+      "Silahlı kuvvet rozeti",
+      "Silahlı Kuvvetler Kıyafet Kararnamesinde tespit edilen hususi işareti",
+      "Merkez kumandanı bandını"
+    ],
+    "answer":2
+  },
+  {
+    "q":"İnzıbat kuvvetinin miktarı belirlenirken aşağıdakilerden hangisi dikkate alınır? (Madde 91)",
+    "options":[
+      "Sadece garnizon nüfusu",
+      "Garnizon içindeki kıta ve müessese miktarı, şehrin genişliği ve vazifelerin ehemmiyeti",
+      "Yalnız kıta sayısı",
+      "Sadece garnizon kumandanının takdiri"
+    ],
+    "answer":1
+  },
+    {
+      "q":"Askerî inzibat erbaş ve erleri, vazife esnasında diğer erbaş ve erlere karşı hangi sıfat ve yetkilere sahiptir? (Madde 92)",
+      "options":[
+        "Devriye sıfatı",
+        "Nöbetçi sıfatı",
+        "Karakol sıfatı ve karakolların kanunî salahiyet ve mesuliyetleri",
+        "İleri karakol sıfatı"
+      ],
+      "answer":2
+    },
+    {
+      "q":"Fakülte ve yüksek okul öğrencileri ile harp okulu öğrencilerine hangi personel gibi muamele olunur? (Madde 92)",
+      "options":[
+        "Astsubaylar gibi",
+        "Erbaşlar gibi",
+        "Subaylar gibi",
+        "Askerî öğrenciler gibi"
+      ],
+      "answer":2
+    },
+    {
+      "q":"Astsubay meslek yüksek okulu öğrencileri ile astsubay nasbedilmek üzere temel askerlik eğitimine tâbi tutulanlara hangi statüde muamele edilir? (Madde 92)",
+      "options":[
+        "Subaylar gibi",
+        "Erbaşlar gibi",
+        "Astsubaylar gibi",
+        "Sivil personel gibi"
+      ],
+      "answer":2
+    },
+    {
+      "q":"Subay, askerî memur ve astsubaylar hakkında askerî inzibat vazifeleri kural olarak kimler tarafından yapılabilir? (Madde 92)",
+      "options":[
+        "Her rütbeden askerî inzibat personeli",
+        "Yalnız polis ve jandarma",
+        "Üst veya aynı rütbedeki inzibat subay ve astsubayları",
+        "Sadece garnizon komutanı"
+      ],
+      "answer":2
+    },
+    {
+      "q":"O mahalde salahiyetli bir inzibat subayı veya astsubayı yoksa askerî inzibat vazifesini kim yerine getirir? (Madde 92)",
+      "options":[
+        "En kıdemli erbaş",
+        "Vakaya şahit olan üst veya aynı rütbedeki subay, askerî memur veya astsubay",
+        "Merkez kumandanı",
+        "Karakol nöbetçisi"
+      ],
+      "answer":1
+    },
+    {
+      "q":"Ağır cezayı müstelzim meşhut cürüm hâlinde subay, askerî memur ve astsubayları yakalamaya kimler yetkilidir? (Madde 92)",
+      "options":[
+        "Yalnız askerî inzibatlar",
+        "Sadece üst rütbeli subaylar",
+        "Askerî inzibatlar, polisler, jandarmalar ve herkes",
+        "Sadece Cumhuriyet savcısı"
+      ],
+      "answer":2
+    },
+    {
+      "q":"Ağır cezayı müstelzim meşhut cürüm hâlinde yakalanan askerler nasıl muhafaza edilir? (Madde 92)",
+      "options":[
+        "Doğrudan cezaevine gönderilir",
+        "Sivil kolluğa teslim edilir",
+        "Salahiyetli inzibat gelinceye kadar olay yerinde tutulur veya en yakın askerî inzibat karakoluna ya da askerî makamlara teslim edilir",
+        "Birliğine geri gönderilir"
+      ],
+      "answer":2
+    },
+    {
+      "q":"Türk Ceza Kanunu ve Terörle Mücadele Kanunu kapsamındaki suçlarda yakalanan asker kişi kime teslim edilir? (Madde 92)",
+      "options":[
+        "Askerî inzibat karakoluna",
+        "Garnizon komutanına",
+        "Cumhuriyet savcısının talimatı ile adlî kolluk görevlilerine",
+        "Birlik komutanına"
+      ],
+      "answer":2
+    },
+   {
+     "q":"Üniformalı veya sivil elbiseli subay, askerî memur ve astsubaylar ağır cezalı cürümler dışındaki suçlarda polis veya jandarma tarafından nereye davet edilir? (Madde 93)",
+     "options":[
+       "Cumhuriyet savcılığına",
+       "En yakın askerî makama veya inzibat karakoluna",
+       "Doğrudan cezaevine",
+       "Garnizon komutanlığına"
+     ],
+     "answer":1
+   },
+   {
+     "q":"Ağır cezalı cürümler dışındaki suçlarda askerî şahsın polis veya jandarmanın davetine karşı yükümlülüğü nedir? (Madde 93)",
+     "options":[
+       "İsterse kabul eder",
+       "Üstünden izin alır",
+       "Bu daveti kabule mecburdur",
+       "Sadece yazılı daveti kabul eder"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Madde 93 kapsamındaki askerî şahıslar hakkında hazırlık tahkikatını kim yürütür? (Madde 93)",
+     "options":[
+       "Askerî inzibat subayı",
+       "Polis veya jandarma",
+       "Cumhuriyet müddeiumumileri veya salahiyetli askerî adlî hâkimler",
+       "Birlik komutanı"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Hazırlık tahkikatı tamamlanıncaya kadar askerî şahıslar nerede tutulur? (Madde 93)",
+     "options":[
+       "Sivil cezaevinde",
+       "Karakolda",
+       "Askerî makamlarca nezaret altında",
+       "Ev hapsinde"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Türk Ceza Kanunu ve Terörle Mücadele Kanunu kapsamına giren suçlarda askerî şahıs hakkında hangi işlem yapılır? (Madde 93)",
+     "options":[
+       "Askerî makama teslim edilir",
+       "İnzibat karakolunda tutulur",
+       "Cumhuriyet savcısının talimatı ile adlî kolluk görevlilerine teslim edilir",
+       "Birlik komutanına teslim edilir"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Aşağıdakilerden hangisi Madde 93’e göre yanlıştır? (Madde 93)",
+     "options":[
+       "Askerî şahıs daveti kabule mecburdur",
+       "Hazırlık tahkikatı askerî makamlarca yapılır",
+       "TCK ve TMK kapsamındaki suçlarda adlî kolluğa teslim edilir",
+       "Ağır cezalı suçlar dışındaki hallerde askerî makama davet edilir"
+     ],
+     "answer":1
+   },
+  {
+    "q":"Askerî inzibatların kuvveti herhangi bir vakada yetersiz kalırsa ilk olarak hangi yerden yardım istenir? (Madde 94)",
+    "options":[
+      "En yakın polis merkezinden",
+      "Garnizon komutanlığından",
+      "En yakın askerî kıtadan",
+      "Cumhuriyet savcılığından"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Acele ve tehirinde tehlike bulunan hallerde askerî inzibatlar hangi kuvvetlere müracaat edebilir? (Madde 94)",
+    "options":[
+      "Sadece askerî kıtalara",
+      "Yalnız polis kuvvetlerine",
+      "Polis ve jandarma kuvvetlerine",
+      "Sivil idare amirlerine"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Askerî inzibatlar tarafından yapılan yardım talepleri karşısında polis ve jandarmaların durumu nedir? (Madde 94)",
+    "options":[
+      "Takdirlerine göre yardım ederler",
+      "Sadece yazılı talep varsa yardım ederler",
+      "Yardımda bulunurlar",
+      "Yetkileri yoktur"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Polis ve jandarmalar tarafından askerî inzibatlara yapılan yardım talepleri nasıl karşılanır? (Madde 94)",
+    "options":[
+      "Valilik onayı ile",
+      "Savcı talimatı ile",
+      "Askerî inzibatlarca yerine getirilir",
+      "Garnizon komutanı uygun görürse"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Madde 94’e göre askerî inzibatlar ile polis ve jandarma arasındaki yardım ilişkisi nasıl tanımlanır? (Madde 94)",
+    "options":[
+      "Tek taraflı",
+      "Şarta bağlı",
+      "Karşılıklı",
+      "Sınırlı"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Aşağıdakilerden hangisi Madde 94’e göre yanlıştır? (Madde 94)",
+    "options":[
+      "Askerî inzibat yetersiz kalırsa askerî kıtadan yardım istenir",
+      "Acil hallerde polis ve jandarmaya başvurulabilir",
+      "Polis ve jandarma yardım taleplerini reddedebilir",
+      "Askerî inzibatlar da polis ve jandarmaya yardım eder"
+    ],
+    "answer":2
+  },
+  {
+    "q":"İnzibat er ve erbaşları hangi personele karşı muvakkat yakalama salahiyetine sahiptir? (Madde 95)",
+    "options":[
+      "Sivil şahıslara",
+      "Subaylara",
+      "Diğer er ve erbaşlara",
+      "Astsubaylara"
+    ],
+    "answer":2
+  },
+  {
+    "q":"İnzibat subay ve astsubayları aşağıdakilerden hangilerine karşı muvakkat yakalama yetkisine sahiptir? (Madde 95)",
+    "options":[
+      "Sadece er ve erbaşlara",
+      "Yalnız sivil şahıslara",
+      "Aynı veya ast rütbedeki subay, askerî memur, astsubaylar ile er ve erbaşlara",
+      "Sadece üst rütbelilere"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Bütün askerî inzibatlar aşağıdakilerden hangilerine karşı muvakkat yakalama salahiyetini haizdir? (Madde 95)",
+    "options":[
+      "Sadece asker kişilere",
+      "Yalnız er ve erbaşlara",
+      "Sivil şahıslara",
+      "Sadece astsubaylara"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Aşağıdakilerden hangisi askerî inzibatların muvakkat yakalama yapabileceği hâllerden biridir? (Madde 95)",
+    "options":[
+      "Eğitim faaliyetleri sırasında",
+      "Askerî disiplini bozan hâllerde",
+      "İzin talebinde bulunulduğunda",
+      "Nöbet değişimi sırasında"
+    ],
+    "answer":1
+  },
+  {
+    "q":"Adlî bir vazifenin yerine getirilmesi sırasında askerî inzibatların sahip olduğu yetki aşağıdakilerden hangisidir? (Madde 95)",
+    "options":[
+      "Sadece uyarı yapmak",
+      "Muvakkat yakalama",
+      "Kalıcı tutuklama",
+      "Disiplin cezası vermek"
+    ],
+    "answer":1
+  },
+  {
+    "q":"Askerî inzibatlar vazifelerini ifa esnasında veya vazifelerinden dolayı tecavüz ya da hakarete maruz kalırlarsa hangi yetkiyi kullanabilirler? (Madde 95)",
+    "options":[
+      "Sadece rapor tutma",
+      "Silah kullanma",
+      "Muvakkat yakalama",
+      "Garnizon komutanına bildirme"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Madde 95’e göre muvakkat yakalama yapılabilecek hâllerden biri aşağıdakilerden hangisidir? (Madde 95)",
+    "options":[
+      "Kişisel anlaşmazlık",
+      "Askerî disiplini bozan hâller",
+      "Görev dışı sivil tartışmalar",
+      "İzin dönüşü gecikmesi"
+    ],
+    "answer":1
+  },
+  {
+    "q":"Madde 95 kapsamında muvakkat yakalananlar hakkında hangi maddeye göre işlem yapılır? (Madde 95)",
+    "options":[
+      "Madde 80",
+      "Madde 81",
+      "Madde 82",
+      "Madde 87"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Aşağıdakilerden hangisi Madde 95’e göre yanlıştır? (Madde 95)",
+    "options":[
+      "İnzibat erleri diğer er ve erbaşları yakalayabilir",
+      "İnzibat subayları üst rütbeli subayları yakalayabilir",
+      "Askerî disiplini bozan hâllerde muvakkat yakalama yapılabilir",
+      "Muvakkat yakalananlara Madde 82 hükümleri uygulanır"
+    ],
+    "answer":1
+  },
+  {
+    "q":"Askerî inzibatlar vazifeli bulundukları zamanda hangi maddelerde belirtilen silah kullanma salahiyetlerini haizdirler? (Madde 96)",
+    "options":[
+      "Sadece 87 nci madde",
+      "87, 88 ve 89 uncu maddeler",
+      "88 ve 90 ıncı maddeler",
+      "Sadece 90 ıncı madde"
+    ],
+    "answer":1
+  },
+  {
+    "q":"Askerî inzibatlar her türlü ahvalde hangi maddeye göre silah kullanma salahiyetine sahiptir? (Madde 96)",
+    "options":[
+      "Madde 87",
+      "Madde 88",
+      "Madde 89",
+      "Madde 90"
+    ],
+    "answer":3
+  },
+  {
+    "q":"Aşağıdakilerden hangisi askerî inzibatların silah kullanma yetkisine ilişkin doğru bir ifadedir? (Madde 96)",
+    "options":[
+      "Sadece nöbet sırasında silah kullanabilirler",
+      "Yalnız amir emriyle silah kullanabilirler",
+      "Vazifeli oldukları zamanda 87, 88 ve 89 uncu maddelere göre silah kullanabilirler",
+      "Silah kullanma yetkileri yoktur"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Askerî inzibatların askeri disiplini muhafaza, önleyici zabıta ve adliye vazifeleri hangi belgelerle gösterilir? (Madde 97)",
+    "options":[
+      "Kanun ve tüzüklerle",
+      "Yönetmeliklerle",
+      "Talimatname ve talimatlarla",
+      "Emir ve genelgelerle"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Aşağıdakilerden hangisi askerî inzibatların görevleri arasında yer alır? (Madde 97)",
+    "options":[
+      "Askerî disiplini muhafaza",
+      "Siyasi faaliyetleri denetleme",
+      "Terfi işlemlerini yürütme",
+      "Atama işlemlerini yapma"
+    ],
+    "answer":0
+  },
+  {
+    "q":"Askerî inzibatların askerî trafik vazifeleri hangi şekilde belirlenir? (Madde 97)",
+    "options":[
+      "Kanunla doğrudan",
+      "Garnizon komutanı takdiriyle",
+      "Talimatname ve talimatlarla",
+      "Polis mevzuatına göre"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Aşağıdakilerden hangisi Madde 96 ve 97’ye göre yanlıştır?",
+    "options":[
+      "Askerî inzibatlar Madde 90’a göre her durumda silah kullanabilir",
+      "Askerî inzibatların görevleri talimatname ile belirlenir",
+      "Askerî inzibatlar 87, 88 ve 89 uncu maddelere göre silah kullanabilir",
+      "Askerî inzibatların görev alanı siyasi faaliyetleri kapsar"
+    ],
+    "answer":3
+  },
+  {
+    "q":"Türk Silahlı Kuvvetleri personelinin sosyal ve moral ihtiyaçlarını karşılamak amacıyla hangi tesisler kurulabilir? (Madde 98)",
+    "options":[
+      "Sadece orduevleri",
+      "Orduevi ve bağlı şubeler, askerî gazinolar, kışla gazinoları ve vardiya yatakhaneleri",
+      "Sivil sosyal tesisler",
+      "Sadece askerî gazinolar"
+    ],
+    "answer":1
+  },
+  {
+    "q":"Orduevi, askerî gazino, kışla gazinosu ve vardiya yatakhanelerinin kurulabilmesi hangi makamın iznine bağlıdır? (Madde 98)",
+    "options":[
+      "Maliye Bakanlığının iznine",
+      "Garnizon komutanının iznine",
+      "Millî Savunma Bakanlığının iznine",
+      "Cumhurbaşkanının iznine"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Madde 98’e göre bu tesislerin kurulmasındaki temel amaç aşağıdakilerden hangisidir? (Madde 98)",
+    "options":[
+      "Askerî disiplin sağlamak",
+      "Sosyal ve moral ihtiyaçları karşılamak ve dayanışmayı artırmak",
+      "Eğitim faaliyetlerini yürütmek",
+      "Askerî inzibat görevlerini yerine getirmek"
+    ],
+    "answer":1
+  },
+  {
+    "q":"Orduevi ve askerî gazinoların kadro, kuruluş, idare ve işletme esasları hangi düzenleme ile belirlenir? (Madde 98)",
+    "options":[
+      "Talimatname ile",
+      "Kanunla",
+      "Yönetmelik ile",
+      "Genelge ile"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Bu tesislere ilişkin yönetmelik hangi bakanlığın uygun görüşü üzerine çıkarılır? (Madde 98)",
+    "options":[
+      "İçişleri Bakanlığı",
+      "Millî Savunma Bakanlığı",
+      "Maliye Bakanlığı",
+      "Çalışma ve Sosyal Güvenlik Bakanlığı"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Orduevi ve askerî gazinolarda aşağıdakilerden hangisi yönetmelikle düzenlenen hususlar arasında yer alır? (Madde 98)",
+    "options":[
+      "Askerî disiplin cezaları",
+      "Üye aidatı ve kart ücreti",
+      "Nöbet hizmetleri",
+      "Askerî inzibat yetkileri"
+    ],
+    "answer":1
+  },
+  {
+    "q":"Orduevi, askerî gazino, kışla gazinosu ve vardiya yatakhanelerinin hangi giderleri genel bütçeden karşılanabilir? (Madde 98)",
+    "options":[
+      "Her türlü giderleri",
+      "Yönetmelikle belirlenen giderleri",
+      "Merkezî yönetim bütçe kanunu ile belirlenen giderleri",
+      "Sadece personel giderleri"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Aşağıdakilerden hangisi Madde 98’e göre yanlıştır? (Madde 98)",
+    "options":[
+      "Bu tesisler sosyal ve moral amaçlıdır",
+      "Kuruluş için Millî Savunma Bakanlığı izni gerekir",
+      "Tesislerin işletme esasları talimatla belirlenir",
+      "Belirli giderler genel bütçeden karşılanabilir"
+    ],
+    "answer":2
+  },
+   {
+     "q":"Belirli zamanlarda özel askerî eğitimlerin yapılması ve personelin moral ile motivasyonuna katkı sağlanması amacıyla hangi tesisler kurulabilir? (Madde 99)",
+     "options":[
+       "Orduevleri ve askerî gazinolar",
+       "Özel, yerel veya kış eğitim merkezleri",
+       "Kışla gazinoları",
+       "Vardiya yatakhaneleri"
+     ],
+     "answer":1
+   },
+   {
+     "q":"Özel, yerel veya kış eğitim merkezlerinin kurulabilmesi hangi makamın iznine bağlıdır? (Madde 99)",
+     "options":[
+       "Garnizon Komutanlığının",
+       "Maliye Bakanlığının",
+       "Millî Savunma Bakanlığının",
+       "Cumhurbaşkanlığının"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Özel, yerel veya kış eğitim merkezlerinin işletilmesine ilişkin usul ve esaslar hangi düzenleme ile belirlenir? (Madde 99)",
+     "options":[
+       "Kanunla",
+       "Talimatname ile",
+       "Yönetmelikle",
+       "Genelge ile"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Özel, yerel veya kış eğitim merkezlerinin hangi giderleri genel bütçeden karşılanabilir? (Madde 99)",
+     "options":[
+       "Tüm giderleri",
+       "Personel giderleri",
+       "Merkezî yönetim bütçe kanunu ile belirlenen giderleri",
+       "Sadece bakım giderleri"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Aşağıdakilerden hangisi Madde 99’a göre yanlıştır? (Madde 99)",
+     "options":[
+       "Bu merkezler askerî eğitim amaçlıdır",
+       "Kuruluş için Millî Savunma Bakanlığı izni gerekir",
+       "İşletme esasları talimatla belirlenir",
+       "Belirli giderleri genel bütçeden karşılanabilir"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Ordu evleri, askerî gazinolar ve kışla gazinoları hangi vasıf ve mahiyeti taşır? (Madde 100)",
+     "options":[
+       "Sivil bina",
+       "Kamu tesisi",
+       "Askerî bina ve askerî mahal",
+       "Özel mülk"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Madde 100’e göre aşağıdakilerden hangisi askerî mahal sayılır? (Madde 100)",
+     "options":[
+       "Sivil spor tesisleri",
+       "Belediye sosyal tesisleri",
+       "Ordu evleri",
+       "Özel eğitim merkezleri"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Aşağıdakilerden hangisi Madde 100’e göre doğrudur? (Madde 100)",
+     "options":[
+       "Ordu evleri sivil statüdedir",
+       "Askerî gazinolar askerî mahal değildir",
+       "Kışla gazinoları askerî bina vasfındadır",
+       "Bu tesisler kamuya açıktır"
+     ],
+     "answer":2
+   },
+  {
+    "q":"Orduevleri, askerî gazinolar, kışla gazinoları ve vardiya yatakhanelerinin gelirleri aşağıdakilerden hangisinden oluşur? (Madde 101)",
+    "options":[
+      "Sadece üye aidatlarından",
+      "İşletme ve kira gelirlerinden",
+      "Genel bütçe paylarından",
+      "Sadece bağışlardan"
+    ],
+    "answer":1
+  },
+  {
+    "q":"Madde 101’e göre aşağıdakilerden hangisi orduevleri ve askerî gazinoların gelir kaynakları arasında yer alır? (Madde 101)",
+    "options":[
+      "Vergi tahsilatları",
+      "Üye aidatları",
+      "Askerî para cezaları",
+      "Zorunlu kesintiler"
+    ],
+    "answer":1
+  },
+  {
+    "q":"Orduevleri ve askerî gazinoların gelirleri arasında aşağıdakilerden hangisi bulunmaktadır? (Madde 101)",
+    "options":[
+      "Kamu harçları",
+      "Bağış ve kart ücretleri",
+      "Disiplin cezaları",
+      "Zorunlu katkı payları"
+    ],
+    "answer":1
+  },
+  {
+    "q":"Yetkili komutanlığın izni ile diğer orduevleri ve askerî gazinolardan yapılabilecek aktarım aşağıdakilerden hangisine girer? (Madde 101)",
+    "options":[
+      "Kira gelirleri",
+      "Sermaye artırımı",
+      "Diğer tesislerin gelir ve sermayelerinden yapılan aktarımlar",
+      "Bağış gelirleri"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Sergi, fuar, promosyon ve reklam faaliyetlerinden elde edilen gelirler hangi kapsamda değerlendirilir? (Madde 101)",
+    "options":[
+      "Kira gelirleri",
+      "İşletme dışı gelirler",
+      "Diğer gelirler",
+      "Faiz gelirleri"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Madde 101’e göre aşağıdakilerden hangisi gelirlerden elde edilen faizleri ifade eder? (Madde 101)",
+    "options":[
+      "Kira faizi",
+      "İşletme faizi",
+      "Faiz gelirleri",
+      "Sermaye katkısı"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Orduevleri ve askerî gazinoların sermayeleri aşağıdakilerden hangisinden oluşmaz? (Madde 101)",
+    "options":[
+      "Gelir kalemleri",
+      "Millî Savunma Bakanlığı bütçesine konulan ödenekler",
+      "Jandarma Genel Komutanlığı bütçesine konulan ödenekler",
+      "Belediye bütçelerinden aktarılan paylar"
+    ],
+    "answer":3
+  },
+  {
+    "q":"Orduevleri, askerî gazinolar ve kış eğitim merkezlerinin sermayesine katkı sağlayan bütçelerden biri aşağıdakilerden hangisidir? (Madde 101)",
+    "options":[
+      "İçişleri Bakanlığı genel bütçesi",
+      "Millî Savunma Bakanlığı bütçesi",
+      "Belediye bütçesi",
+      "Üniversite bütçesi"
+    ],
+    "answer":1
+  },
+  {
+    "q":"Aşağıdakilerden hangisi Madde 101’e göre yanlıştır? (Madde 101)",
+    "options":[
+      "Üye aidatları gelir kaynağıdır",
+      "Kira gelirleri gelir kalemleri arasındadır",
+      "Faiz gelirleri gelir kapsamında yer alır",
+      "Gelirler yalnızca genel bütçeden sağlanır"
+    ],
+    "answer":3
+  },
+  {
+    "q":"Lüzum ve ihtiyaç görülen yerlerde rehabilitasyon merkezleri, gazi uyum evleri ve refakatçi misafirhaneleri hangi makamın izni ile açılıp işletilebilir? (Madde 102)",
+    "options":[
+      "Garnizon Komutanlığının izni ile",
+      "Maliye Bakanlığının izni ile",
+      "Millî Savunma Bakanlığının izni ile",
+      "Cumhurbaşkanının izni ile"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Madde 102’ye göre aşağıdaki tesislerden hangisi açılıp işletilebilecek tesisler arasında yer alır? (Madde 102)",
+    "options":[
+      "Askerî hastaneler",
+      "Kreş ve gündüz bakımevleri",
+      "Sivil huzurevleri",
+      "Belediye sosyal tesisleri"
+    ],
+    "answer":1
+  },
+  {
+    "q":"Rehabilitasyon merkezleri, gazi uyum evleri ve kreşlerin işletilmesine ilişkin usul ve esaslar hangi düzenleme ile belirlenir? (Madde 102)",
+    "options":[
+      "Kanunla",
+      "Talimatname ile",
+      "Yönetmelikle",
+      "Genelge ile"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Orduevleri ve askerî gazinolarda özel ihtisas gerektiren hizmetlerin verilememesi hâlinde bu hizmetler nasıl karşılanabilir? (Madde 103)",
+    "options":[
+      "Sadece askerî personel görevlendirilerek",
+      "Hizmet alımı veya kiralama yoluyla",
+      "Zorunlu personel aktarımı ile",
+      "Geçici görev emri ile"
+    ],
+    "answer":1
+  },
+  {
+    "q":"Madde 103’e göre hangi tesislerde özel ihtisas gerektiren hizmetler dışarıdan karşılanabilir? (Madde 103)",
+    "options":[
+      "Sadece orduevlerinde",
+      "Orduevleri, askerî gazinolar, askerî müzeler ve eğitim merkezlerinde",
+      "Sadece kışla gazinolarında",
+      "Yalnızca rehabilitasyon merkezlerinde"
+    ],
+    "answer":1
+  },
+  {
+    "q":"Mal ve hizmet alımlarının birlikte yapılabilmesi için hangi şart aranır? (Madde 103)",
+    "options":[
+      "Aynı yüklenici tarafından yapılması",
+      "Kabul edilebilir doğal bir bağlantının bulunması",
+      "Aynı bütçeden karşılanması",
+      "Aynı il sınırları içinde olması"
+    ],
+    "answer":1
+  },
+  {
+    "q":"Tesislerin kiraya verilmesi ve mal-hizmet alımı işlemleri hangi birim tarafından yerine getirilir? (Madde 103)",
+    "options":[
+      "Garnizon Komutanlığı",
+      "Millî Savunma Bakanlığı",
+      "Tesis müdürlükleri",
+      "Maliye Bakanlığı"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Kiraya verme ve hizmet alımı yoluyla elde edilen gelirler nasıl değerlendirilir? (Madde 103)",
+    "options":[
+      "Genel bütçe gelirlerine aktarılır",
+      "Özel bütçeye devredilir",
+      "Genel bütçe ile ilişkilendirilmeden tesis gelirlerine dâhil edilir",
+      "Belediyelere aktarılır"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Tesis gelirlerinin dağıtım yerleri, oranları ve denetimine ilişkin usul ve esaslar hangi makamın uygun görüşü üzerine belirlenir? (Madde 103)",
+    "options":[
+      "Millî Savunma Bakanlığının",
+      "İçişleri Bakanlığının",
+      "Maliye Bakanlığının",
+      "Cumhurbaşkanlığının"
+    ],
+    "answer":2
+  },
+  {
+    "q":"Aşağıdakilerden hangisi Madde 103’e göre yanlıştır? (Madde 103)",
+    "options":[
+      "Özel ihtisas gerektiren hizmetler dışarıdan alınabilir",
+      "Hizmet alımı ve kiralama mümkündür",
+      "Elde edilen gelirler genel bütçe gelirlerine eklenir",
+      "Mal ve hizmet alımları birlikte yapılabilir"
+    ],
+    "answer":2
+  },
+   {
+     "q":"Türk Silahlı Kuvvetleri personelinin zaruri ihtiyaçlarının daha ucuz ve kolay sağlanması amacıyla her kışlada hangi tesis kurulabilir? (Madde 104)",
+     "options":[
+       "Askerî gazino",
+       "Orduevi",
+       "Kantin",
+       "Sosyal tesis"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Askerî kantinlerin şubeleri ihtiyaç hâlinde nerelerde açılabilir? (Madde 104)",
+     "options":[
+       "Sadece kışla içinde",
+       "Sadece kışla dışında",
+       "Kışla içinde veya dışında",
+       "Sadece garnizon merkezinde"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Askerî kantinlerle ilgili aşağıdakilerden hangisi mümkündür? (Madde 104)",
+     "options":[
+       "Tamamının üçüncü şahıslara devredilmesi yasaktır",
+       "Tamamı veya bir kısmı kiraya verilebilir",
+       "Sadece subaylara hizmet verir",
+       "Genel bütçeye doğrudan bağlıdır"
+     ],
+     "answer":1
+   },
+   {
+     "q":"Özel bir ihtisas gerektiren hizmetlerin personel yetersizliği veya maliyet nedeniyle verilememesi hâlinde bu hizmetler nasıl karşılanabilir? (Madde 104)",
+     "options":[
+       "Zorunlu personel görevlendirmesiyle",
+       "Hizmet alımı yoluyla dışarıdan",
+       "Geçici emirle",
+       "Sadece askerî personel eliyle"
+     ],
+     "answer":1
+   },
+   {
+     "q":"Mal ve hizmet alımlarının birlikte yapılabilmesi için hangi şart aranır? (Madde 104)",
+     "options":[
+       "Aynı yüklenici tarafından yapılması",
+       "Kabul edilebilir doğal bir bağlantının bulunması",
+       "Aynı bütçeden karşılanması",
+       "Aynı yıl içinde yapılması"
+     ],
+     "answer":1
+   },
+   {
+     "q":"Askerî kantinlerin işletilmesi, işlettirilmesi veya kiraya verilmesi hangi makam tarafından yerine getirilir? (Madde 104)",
+     "options":[
+       "Millî Savunma Bakanlığı",
+       "Garnizon Komutanlığı",
+       "Kışla komutanlıkları",
+       "Maliye Bakanlığı"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Askerî kantinlerden elde edilen gelirler nasıl değerlendirilir? (Madde 104)",
+     "options":[
+       "Genel bütçe gelirlerine aktarılır",
+       "Özel bütçeye devredilir",
+       "Genel bütçe ile ilişkilendirilmeksizin kantin gelirlerine dâhil edilir",
+       "Belediyelere aktarılır"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Kiraya verilen veya üçüncü şahıslara işlettirilen kısımlar hariç olmak üzere askerî kantinlerin hangi giderleri genel bütçeden karşılanır? (Madde 104)",
+     "options":[
+       "Personel maaşları",
+       "Elektrik, su ve yakacak giderleri",
+       "Mal alım giderleri",
+       "Bakım ve onarım giderleri"
+     ],
+     "answer":1
+   },
+   {
+     "q":"Askerî kantinlerin teşkili, idaresi, işletilmesi ve gelirlerinin harcanmasına ilişkin usul ve esaslar hangi makamın uygun görüşü üzerine belirlenir? (Madde 104)",
+     "options":[
+       "Millî Savunma Bakanlığının",
+       "İçişleri Bakanlığının",
+       "Maliye Bakanlığının",
+       "Cumhurbaşkanlığının"
+     ],
+     "answer":2
+   },
+   {
+     "q":"Aşağıdakilerden hangisi askerî kantinler için yanlıştır? (Madde 104)",
+     "options":[
+       "Kışla içinde veya dışında şube açılabilir",
+       "Tamamı veya bir kısmı kiraya verilebilir",
+       "Elde edilen gelirler genel bütçeye aktarılır",
+       "Bazı hizmetler dışarıdan alınabilir"
+     ],
+     "answer":2
+   }
+]
