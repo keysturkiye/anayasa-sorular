@@ -1,0 +1,658 @@
+[
+  {
+    "q": "Tüzükler, kararnameler, yönetmelikler, talimnameler ve talimatların hükümlerine yasa denir.",
+    "answer": false
+  },
+  {
+    "q": "Tüzükler, kararnameler, yönetmelikler, talimnameler ve talimatların hükümlerine nizam denir.",
+    "answer": true
+  },
+  {
+    "q": "Kanunlarla ve nizamlarda yapılması veya yapılmaması yazılı hususlara emir denir.",
+    "answer": false
+  },
+  {
+    "q": "Kanunlarla ve nizamlarda yapılması veya yapılmaması yazılı hususlara vazife denir.",
+    "answer": true
+  },
+  {
+    "q": "Bir hizmetin yapılmasını veya yapılmamasını bildiren yazılı veya sözlü talimata hizmet denir.",
+    "answer": false
+  },
+  {
+    "q": "Bir hizmetin yapılmasını veya yapılmamasını bildiren yazılı veya sözlü talimata emir denir.",
+    "answer": true
+  },
+  {
+    "q": "Silahlı Kuvvetlerde mutlak itaate dayalı düzen disiplin olarak tanımlanır.",
+    "answer": true
+  },
+  {
+    "q": "Disiplin, yalnızca cezaya dayalı bir düzeni ifade eder.",
+    "answer": false
+  },
+  {
+    "q": "Astın, amirine kanuni yetkisinden korktuğu için itaat etmesi esas kabul edilir.",
+    "answer": false
+  },
+  {
+    "q": "Astın itaati, amirine duyduğu saygı ve güvene dayanmalıdır.",
+    "answer": true
+  },
+  {
+    "q": "Astın aldığı emir hakkında amirine mütalaada bulunması serbesttir.",
+    "answer": false
+  },
+  {
+    "q": "Ast, aldığı emri hiçbir kayıt ve şart koymadan yerine getirmekle yükümlüdür.",
+    "answer": true
+  },
+  {
+    "q": "Emirler açık, kısa ve kesin olmak zorundadır.",
+    "answer": true
+  },
+  {
+    "q": "Emirlerin ayrıntılı ve uzun olması tercih edilir.",
+    "answer": false
+  },
+  {
+    "q": "Verilen emrin zamanında yerine getirilmesi yalnızca astın sorumluluğundadır.",
+    "answer": false
+  },
+  {
+    "q": "Verilen emrin takibi ve sonucunun sağlanması amirin görevlerindendir.",
+    "answer": true
+  },
+  {
+    "q": "Astların üstlere isimle hitap etmeleri askerî usullere uygundur.",
+    "answer": false
+  },
+  {
+    "q": "Astlar üstlerine rütbe veya uygun hitaplarla seslenmek zorundadır.",
+    "answer": true
+  },
+  {
+    "q": "Amirin, maiyetine eşit davranma yükümlülüğü yoktur.",
+    "answer": false
+  },
+  {
+    "q": "Amir, maiyetine adil ve eşit muamele etmekle yükümlüdür.",
+    "answer": true
+  },
+  {
+    "q": "Amirin maiyetinin özel hallerini dikkate alması yasaktır.",
+    "answer": false
+  },
+  {
+    "q": "Amir, görev verirken maiyetinin kabiliyetlerini dikkate almalıdır.",
+    "answer": true
+  },
+  {
+    "q": "Günlük emir, yalnızca tören günlerinde yayımlanır.",
+    "answer": false
+  },
+  {
+    "q": "Günlük emir, disiplinin ve hizmetlerin düzenli yürütülmesi amacıyla çıkarılır.",
+    "answer": true
+  },
+  {
+    "q": "Günlük emirlerin birliklerde yazılı olarak tebliğ edilmesi esastır.",
+    "answer": true
+  },
+  {
+    "q": "Günlük emirler sadece sözlü olarak bildirilir.",
+    "answer": false
+  },
+  {
+    "q": "Devlet malının korunması ve muhafazası asker için zorunlu değildir.",
+    "answer": false
+  },
+  {
+    "q": "Devlet malının bakım ve korunması konusunda mazeret kabul edilmez.",
+    "answer": true
+  },
+  {
+    "q": "Asker, kendisine verilen eşyaya izinsiz değişiklik yapabilir.",
+    "answer": false
+  },
+  {
+    "q": "Asker, kendisine emanet edilen devlet malını aynen muhafaza etmekle yükümlüdür.",
+    "answer": true
+  },
+  {
+    "q": "Disiplin amirleri tarafından verilen hizmetten men cezaları, erbaş ve erlerin askerlik süresine eklenir.",
+    "answer": true
+  },
+  {
+    "q": "Hizmetten men cezası nedeniyle askerlik süresine eklenecek toplam süre otuz günü geçemez.",
+    "answer": true
+  },
+  {
+    "q": "Hizmet süresinin uzaması hâlinde personele özlük hakları ödenmez.",
+    "answer": false
+  },
+  {
+    "q": "Disiplin kurulu kurulan komutan hakkında disiplin tahkikatı aynı disiplin kurulunda yapılır.",
+    "answer": false
+  },
+  {
+    "q": "General ve amiraller hakkındaki disiplin tahkikatı Milli Savunma Bakanlığı Disiplin Kurulunda yapılır.",
+    "answer": true
+  },
+  {
+    "q": "Teşkilatında disiplin kurulu kurulan her komutanlıkta bir disiplin subayı bulunur.",
+    "answer": true
+  },
+  {
+    "q": "Disiplin subayı yalnızca hukuk sınıfına mensup subaylar arasından atanır.",
+    "answer": true
+  },
+  {
+    "q": "Hukuk sınıfından disiplin subayı bulunmazsa disiplin subayı görevlendirilemez.",
+    "answer": false
+  },
+  {
+    "q": "Disiplin kurulu, hizmet yerini terk etmeme cezası gerektiren fiillerde yetkilidir.",
+    "answer": true
+  },
+  {
+    "q": "Erbaş ve erlere hizmetten men cezası disiplin amirleri tarafından verilir.",
+    "answer": false
+  },
+  {
+    "q": "Seferberlik hâlinde hizmetten men cezası yerine oda hapsi cezası verilir.",
+    "answer": true
+  },
+  {
+    "q": "Disiplin kurulu tahkikat sırasında tanık dinleyemez.",
+    "answer": false
+  },
+  {
+    "q": "Disiplinsizliğin öğrenilmesinden itibaren otuz gün içinde dosya disiplin kuruluna gönderilir.",
+    "answer": true
+  },
+  {
+    "q": "Disiplin subayı, suç tespit ederse dosyayı Cumhuriyet başsavcılığına gönderir.",
+    "answer": true
+  },
+  {
+    "q": "Disiplin kuruluna sevk edilen personel savunma yapma hakkına sahiptir.",
+    "answer": true
+  },
+  {
+    "q": "Disiplin kurulu kararları oy birliği ile alınır.",
+    "answer": false
+  },
+  {
+    "q": "Oyların eşit çıkması hâlinde lehe olan oy esas alınır.",
+    "answer": false
+  },
+  {
+    "q": "Disiplin kurulu, ceza verilmesine yer olmadığına karar verebilir.",
+    "answer": true
+  },
+  {
+    "q": "Disiplin amirleri disiplinsizliği öğrendikten sonra bir ay içinde ceza verebilir.",
+    "answer": true
+  },
+  {
+    "q": "Disiplin cezası her hâlde fiilin işlendiği tarihten itibaren iki yıl içinde verilir.",
+    "answer": true
+  },
+  {
+    "q": "Silahlı Kuvvetlerden ayırma cezası için zamanaşımı her durumda beş yıldır.",
+    "answer": false
+  },
+  {
+    "q": "Savunma alınmadan disiplin cezası verilemez.",
+    "answer": true
+  },
+  {
+    "q": "Savunma süresi hiçbir durumda beş iş gününü geçemez.",
+    "answer": true
+  },
+  {
+    "q": "Disiplin amiri tarafından verilen cezalara iki iş günü içinde itiraz edilebilir.",
+    "answer": true
+  },
+  {
+    "q": "İtiraz edilmeyen disiplin cezası kesinleşir.",
+    "answer": true
+  },
+  {
+    "q": "Üst disiplin amiri itirazı üç iş günü içinde karara bağlar.",
+    "answer": true
+  },
+  {
+    "q": "Disiplin kurulu kararlarına beş iş günü içinde itiraz edilebilir.",
+    "answer": true
+  },
+  {
+    "q": "Milli Savunma Bakanlığı disiplin kurulu kararları kesindir.",
+    "answer": true
+  },
+  {
+    "q": "Tüm disiplin cezalarına karşı iptal davası açılabilir.",
+    "answer": false
+  },
+  {
+    "q": "Uyarma ve kınama cezalarına karşı yargı yolu kapalıdır.",
+    "answer": true
+  },
+  {
+    "q": "Seferberlik hâlinde disiplin cezaları yargı denetimi dışındadır.",
+    "answer": true
+  },
+  {
+    "q": "Disiplin cezaları kesinleşmeden infaz edilir.",
+    "answer": false
+  },
+  {
+    "q": "Disiplin cezasının infazı en fazla bir yıl ertelenebilir.",
+    "answer": true
+  },
+  {
+    "q": "Cezanın ertelenmesi idari sonuçları da erteler.",
+    "answer": false
+  },
+  {
+    "q": "Disiplin amirleri hizmetten men cezasını erbaş ve erlere verebilir.",
+    "answer": true
+  },
+  {
+    "q": "Oda hapsi cezası barış zamanında erbaş ve erlere uygulanmaz.",
+    "answer": true
+  },
+  {
+    "q": "Disiplin kurulu kararları gerekçeli olmak zorundadır.",
+    "answer": true
+  },
+  {
+    "q": "Disiplin cezası ilgilinin askerlik şubesine bildirilir.",
+    "answer": true
+  },
+  {
+    "q": "Disiplin tahkikatında disiplin subayı bulunması zorunludur.",
+    "answer": true
+  },
+  {
+    "q": "Disiplin kurulu toplantılarında tutanak kâtibi bulunur.",
+    "answer": true
+  },
+  {
+    "q": "Disiplin kurulunun oturum düzeni kurul başkanına aittir.",
+    "answer": true
+  },
+  {
+    "q": "Disiplin cezası kesinleşmeden yargı yoluna gidilebilir.",
+    "answer": false
+  },
+  {
+    "q": "Disiplin cezası iptal edilirse yeniden değerlendirme yapılabilir.",
+    "answer": true
+  },
+  {
+    "q": "Mahkemece iptal edilen disiplin cezası aynı fiil için tekrar verilemez.",
+    "answer": false
+  },
+  {
+    "q": "Disiplin kurulları yetkisizlik kararı verebilir.",
+    "answer": true
+  },
+  {
+    "q": "Disiplin cezası verilen personel savunma süresinden feragat edemez.",
+    "answer": false
+  },
+  {
+    "q": "Savunma alınmadan disiplin cezası verilemez.",
+    "answer": true
+  },
+  {
+    "q": "Disiplin amirleri tarafından verilen cezalara itiraz süresi iki iş günüdür.",
+    "answer": true
+  },
+  {
+    "q": "Disiplin amiri cezalarına itiraz süresi beş iş günüdür.",
+    "answer": false
+  },
+  {
+    "q": "Disiplin kurulu toplantılarında disiplin subayı bulunması zorunludur.",
+    "answer": true
+  },
+  {
+    "q": "Disiplin kurulu toplantılarında disiplin subayı isteğe bağlı olarak bulunur.",
+    "answer": false
+  },
+  {
+    "q": "Disiplin kurulu kararları oy çokluğu ile alınır.",
+    "answer": true
+  },
+  {
+    "q": "Disiplin kurulu kararları oy birliği ile alınmak zorundadır.",
+    "answer": false
+  },
+  {
+    "q": "Disiplin cezası kesinleşmeden infaz edilemez.",
+    "answer": true
+  },
+  {
+    "q": "Disiplin cezası verildiği anda kesinleşmiş sayılır.",
+    "answer": false
+  },
+  {
+    "q": "Disiplinsizliğin öğrenilmesinden itibaren disiplin kuruluna sevk süresi otuz gündür.",
+    "answer": true
+  },
+  {
+    "q": "Disiplin kuruluna sevk süresi onbeş gündür.",
+    "answer": false
+  },
+  {
+    "q": "Disiplin kurulu ceza verilmesine yer olmadığına karar verebilir.",
+    "answer": true
+  },
+  {
+    "q": "Disiplin kurulu yalnızca ceza vermekle yetkilidir.",
+    "answer": false
+  },
+  {
+    "q": "Mahkeme tarafından iptal edilen disiplin cezası yeniden değerlendirilebilir.",
+    "answer": true
+  },
+  {
+    "q": "Mahkemece iptal edilen disiplin cezası aynı fiil için bir daha ele alınamaz.",
+    "answer": false
+  },
+  {
+    "q": "Disiplin kurulu kararları gerekçeli olarak yazılır.",
+    "answer": true
+  },
+  {
+    "q": "Disiplin kurulu kararlarında gerekçe gösterilmesi zorunlu değildir.",
+    "answer": false
+  },
+  {
+    "q": "İşgallere karşı ilk direniş Fransızlara karşı Dörtyol'da başlamıştır.",
+    "answer": true
+  },
+  {
+    "q": "I. Dünya Savaşı'ndan en zararlı çıkan devlet Almanya'dır.",
+    "answer": true
+  },
+  {
+    "q": "Mebusan Meclisi'nin derhal toplanması kararı Sivas Kongresi'nde alınmıştır.",
+    "answer": false
+  },
+  {
+    "q": "'Ordular, ilk hedefiniz Akdeniz'dir, ileri!' emri Büyük Taarruz sırasında verilmiştir.",
+    "answer": true
+  },
+  {
+    "q": "Sulh ve Selamet-i Osmaniye Cemiyeti yararlı bir cemiyettir.",
+    "answer": false
+  },
+  {
+    "q": "İngilizler ve Araplarla Hicaz-Yemen Cephesi'nde savaşılmıştır.",
+    "answer": true
+  },
+  {
+    "q": "Dünya tarihinde ilk kez uçak Trablusgarp Savaşı'nda kullanılmıştır.",
+    "answer": true
+  },
+  {
+    "q": "'Manda ve himaye kabul edilemez.' kararı ilk kez Erzurum Kongresi'nde alınmıştır.",
+    "answer": true
+  },
+  {
+    "q": "Kurtuluş Savaşı resmen Amasya Genelgesi ile başlamıştır.",
+    "answer": true
+  },
+  {
+    "q": "'Ben size taarruzu değil, ölmeyi emrediyorum.' sözü Çanakkale Savaşı'nda söylenmiştir.",
+    "answer": true
+  },
+  {
+    "q": "Mustafa Kemal Kanal Cephesi'nde savaşmıştır.",
+    "answer": false
+  },
+  {
+    "q": "Almanya İtilaf Devletleri arasında yer almıştır.",
+    "answer": false
+  },
+  {
+    "q": "Osmanlı Devleti'nin ilk ve son anayasası Kanun-i Esasi'dir.",
+    "answer": true
+  },
+  {
+    "q": "Kurtuluş Savaşı'nın ilk genelgesi Havza Genelgesi'dir.",
+    "answer": true
+  },
+  {
+    "q": "III. Selim döneminde yapılan ilk ıslahat Nizam-ı Cedid'dir.",
+    "answer": true
+  },
+  {
+    "q": "İngiltere İttifak Devletleri arasında yer almıştır.",
+    "answer": false
+  },
+  {
+    "q": "Amasya Genelgesi'ni telgrafla onaylayanlar Kazım Karabekir ve Cemal Paşa'dır.",
+    "answer": true
+  },
+  {
+    "q": "Amasya Genelgesi'nde İsmet İnönü ve Ali Fethi Okyar'ın imzası bulunmaktadır.",
+    "answer": false
+  },
+  {
+    "q": "Tekâlif-i Milliye Emirleri Kütahya-Eskişehir Savaşı sırasında çıkarılmıştır.",
+    "answer": true
+  },
+  {
+    "q": "Askerlerin silah kullanma yetkileri İç Hizmet Kanununun 87-90. maddeleri hükümlerine göre uygulanır.",
+    "answer": true
+  },
+  {
+    "q": "Anayasada değişiklik teklifini Cumhurbaşkanı ve TBMM üyeleri yapabilir.",
+    "answer": true
+  },
+  {
+    "q": "Mülkiyet hakkı temel haklardan biri değildir.",
+    "answer": false
+  },
+  {
+    "q": "Egemenlik kayıtsız şartsız Türk halkına aittir.",
+    "answer": true
+  },
+  {
+    "q": "Devletin nitelikleri arasında demokratik, sosyal ve hukuk devleti yer alır.",
+    "answer": true
+  },
+  {
+    "q": "Devletin temel amaç ve görevleri Madde 5'te düzenlenmiştir.",
+    "answer": true
+  },
+  {
+    "q": "Cumhurbaşkanının TBMM'yi feshetme görevi vardır.",
+    "answer": true
+  },
+  {
+    "q": "Anayasa'da eşitlik ilkesi Madde 10'da yer alır.",
+    "answer": true
+  },
+  {
+    "q": "Danışma Kurulu devletin temel organlarından biridir.",
+    "answer": false
+  },
+  {
+    "q": "Anayasaya aykırı kanun hükümleri Madde 11'de düzenlenmiştir.",
+    "answer": true
+  },
+  {
+    "q": "Anayasaya aykırı sınırlama temel hak ve hürriyetlerin sınırlanmasına aykırıdır.",
+    "answer": true
+  },
+  {
+    "q": "Cumhurbaşkanının görev ve yetkileri Madde 104'te düzenlenmiştir.",
+    "answer": true
+  },
+  {
+    "q": "Yasama yetkisini kullanma yetkisi TBMM'ye aittir.",
+    "answer": true
+  },
+  {
+    "q": "Anayasa Mahkemesi üyelerinin sayısı 11'dir.",
+    "answer": true
+  },
+  {
+    "q": "Anayasa Mahkemesi üyeleri 10 yıl görev yapar.",
+    "answer": true
+  },
+  {
+    "q": "Anayasa Mahkemesi üyelerinin yaş sınırı 65'tir.",
+    "answer": true
+  },
+  {
+    "q": "TBMM seçimleri 5 yılda bir yapılır.",
+    "answer": true
+  },
+  {
+    "q": "1982 Anayasası 1961 Anayasası'ndan sonra kabul edilmiştir.",
+    "answer": true
+  },
+  {
+    "q": "Temel hak ve özgürlüklerin sınırlanmasında kanunilik, orantılılık ve gerekçelilik ilkelerine uyulmalıdır.",
+    "answer": true
+  },
+  {
+    "q": "Cumhurbaşkanının TBMM'yi feshetme yetkisi hükümet istifa ederse durumuyla sınırlıdır.",
+    "answer": false
+  },
+  {
+    "q": "Anayasaya göre siyasi partilerin kapatılması Anayasa Mahkemesi tarafından yapılır.",
+    "answer": true
+  },
+  {
+    "q": "Cumhurbaşkanının atadığı bakanlar TBMM'nin onayına tabidir.",
+    "answer": false
+  },
+  {
+    "q": "Anayasa değişiklikleri referandumla yürürlüğe girer.",
+    "answer": true
+  },
+  {
+    "q": "Temel hak ve özgürlüklerin korunmasında Anayasa Mahkemesi yetkilidir.",
+    "answer": true
+  },
+  {
+    "q": "Egemenliğin kullanılmasında kayıtsız şartsız yetki halktadır.",
+    "answer": true
+  },
+  {
+    "q": "Anayasada devletin resmi dili Türkçe'dir.",
+    "answer": true
+  },
+  {
+    "q": "Anayasada yer alan sosyal devlet ilkesi Madde 2'de yer alır.",
+    "answer": true
+  },
+  {
+    "q": "Türkiye Cumhuriyeti'nin rejimi Cumhuriyet'tir.",
+    "answer": true
+  },
+  {
+    "q": "Anayasaya göre sağlık hakkı sosyal haklar kapsamındadır.",
+    "answer": true
+  },
+  {
+    "q": "Anayasa Mahkemesi üyelerinin görev süresi dolduğunda aynı göreve dönmeleri mümkündür.",
+    "answer": false
+  },
+  {
+    "q": "1982 Anayasası devletin şekli, temel haklar ve devletin bütünlüğü hükümleriyle değiştirilemez.",
+    "answer": true
+  },
+  {
+    "q": "TBMM üyeleri 5 yılda bir seçilir.",
+    "answer": true
+  },
+  {
+    "q": "Cumhurbaşkanının olağanüstü yetkileri savaş durumunda kullanılır.",
+    "answer": true
+  },
+  {
+    "q": "Anayasaya aykırılık denetimini Anayasa Mahkemesi yapar.",
+    "answer": true
+  },
+  {
+    "q": "Devletin temel organları yasama, yürütme ve yargıdır.",
+    "answer": true
+  },
+  {
+    "q": "Temel hakların korunmasında kanunilik ilkesi geçerlidir.",
+    "answer": true
+  },
+  {
+    "q": "Cumhurbaşkanı seçimleri 7 yılda bir yapılır.",
+    "answer": false
+  },
+  {
+    "q": "Anayasada belirtilen laiklik ilkesi Madde 2'de yer alır.",
+    "answer": true
+  },
+  {
+    "q": "Cumhurbaşkanı, bakanları atarken TBMM'nin onayını alır.",
+    "answer": false
+  },
+  {
+    "q": "Türkiye Cumhuriyeti Anayasası parlamenter sistemle yönetilir.",
+    "answer": true
+  },
+  {
+    "q": "Anayasada belirtilen seçimlerin genel niteliği serbest ve gizlidir.",
+    "answer": true
+  },
+  {
+    "q": "Cumhurbaşkanının TBMM üyelerini seçme yetkisi vardır.",
+    "answer": false
+  },
+  {
+    "q": "Devletin temel amaç ve görevleri arasında savaş başlatmak yoktur.",
+    "answer": true
+  },
+  {
+    "q": "Anayasaya göre eğitim hakkı sosyal haklar kapsamındadır.",
+    "answer": true
+  },
+  {
+    "q": "Anayasa Mahkemesi anayasaya aykırılık başvurularını inceler.",
+    "answer": true
+  },
+  {
+    "q": "Cumhurbaşkanı hükümet istifa ederse TBMM'yi feshedebilir.",
+    "answer": true
+  },
+  {
+    "q": "Türkiye Cumhuriyeti'nin resmi dini yoktur.",
+    "answer": true
+  },
+  {
+    "q": "Anayasada kişi haklarının korunmasında Anayasa Mahkemesi görev yapar.",
+    "answer": true
+  },
+  {
+    "q": "Cumhurbaşkanı seçimi doğrudan halk tarafından yapılır.",
+    "answer": true
+  },
+  {
+    "q": "Anayasa Mahkemesi üyeleri 65 yaşından küçük olamaz.",
+    "answer": false
+  },
+  {
+    "q": "Anayasa değişiklikleri halk oylamasına sunulabilir.",
+    "answer": true
+  },
+  {
+    "q": "Temel hak ve hürriyetler orantılılık ilkesine göre sınırlandırılır.",
+    "answer": true
+  }
+]
