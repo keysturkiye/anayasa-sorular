@@ -1,0 +1,54 @@
+[
+  { "desc": "Anayasa devletin en üstün hukuk kuralıdır" },
+  { "desc": "Anayasa normlar hiyerarşisinin en üstünde yer alır" },
+  { "desc": "Türkiye Devleti bir Cumhuriyettir" },
+  { "desc": "Türkiye ülkesi ve milletiyle bölünmez bir bütündür" },
+  { "desc": "Devletin dili Türkçedir" },
+  { "desc": "Devletin başkenti Ankara’dır" },
+  { "desc": "Milli marş İstiklal Marşı’dır" },
+  { "desc": "Egemenlik kayıtsız şartsız milletindir" },
+
+  { "desc": "Yasama yetkisi TBMM’ye aittir" },
+  { "desc": "Yürütme yetkisi Cumhurbaşkanına aittir" },
+  { "desc": "Yargı yetkisi bağımsız mahkemelere aittir" },
+
+  { "desc": "TBMM 600 milletvekilinden oluşur" },
+  { "desc": "Milletvekili seçilme yaşı 18’dir" },
+  { "desc": "TBMM üyelerinin görev süresi 5 yıldır" },
+
+  { "desc": "Cumhurbaşkanı seçilme yaşı 40’tır" },
+  { "desc": "Cumhurbaşkanının görev süresi 5 yıldır" },
+  { "desc": "Cumhurbaşkanı en fazla iki kez seçilebilir" },
+
+  { "desc": "Yargıtay adli yargının en üst mahkemesidir" },
+  { "desc": "Yargıtay üyeleri HSK tarafından seçilir" },
+  { "desc": "Yargıtay üyeleri 12 yıl görev yapar" },
+
+  { "desc": "Danıştay idari yargının en üst mahkemesidir" },
+  { "desc": "Danıştay üyelerinin dörtte birini Cumhurbaşkanı seçer" },
+  { "desc": "Danıştay üyelerinin dörtte üçünü HSK seçer" },
+
+  { "desc": "Anayasa Mahkemesi 15 üyeden oluşur" },
+  { "desc": "Anayasa Mahkemesi üyelerinin görev süresi 12 yıldır" },
+  { "desc": "Anayasa Mahkemesi üyelerinin çoğunu Cumhurbaşkanı seçer" },
+
+  { "desc": "HSK toplam 13 üyeden oluşur" },
+  { "desc": "HSK’nın 7 üyesini TBMM seçer" },
+  { "desc": "HSK’nın 4 üyesini Cumhurbaşkanı seçer" },
+  { "desc": "Adalet Bakanı HSK’nın doğal başkanıdır" },
+
+  { "desc": "Sayıştay TBMM adına mali denetim yapar" },
+  { "desc": "Sayıştay kararlarına karşı 15 gün içinde düzeltme istenebilir" },
+
+  { "desc": "Siyasi parti kurmak için en az 30 kişi gerekir" },
+  { "desc": "TBMM’de siyasi parti grubu kurmak için 20 milletvekili gerekir" },
+  { "desc": "Siyasi partilerin mali denetimini Anayasa Mahkemesi yapar" },
+
+  { "desc": "Oy kullanma yaşı 18’dir" },
+  { "desc": "Erginlik yaşı 18’dir" },
+  { "desc": "Hak ehliyeti ana rahmine düşmekle başlar" },
+
+  { "desc": "1982 Anayasası 7 Kasım 1982 tarihinde yürürlüğe girmiştir" },
+  { "desc": "1982 Anayasası katı (sert) bir anayasadır" },
+  { "desc": "Anayasanın değiştirilemeyecek maddeleri 1, 2 ve 3. maddelerdir" }
+]
