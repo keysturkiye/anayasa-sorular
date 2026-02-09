@@ -4,6 +4,298 @@
     "answer": false
   },
   {
+    "q": "Disiplinsizlik nedeniyle yetkili kişi veya kurullar tarafından verilen ve bu kanunda gösterilmiş yaptırımlara disiplin soruşturması denir.",
+    "answer": false
+  },
+  {
+    "q": "Disiplinsizlik nedeniyle yetkili kişi veya kurullar tarafından verilen ve bu kanunda gösterilmiş yaptırımlara disiplin cezası adı verilir.",
+    "answer": true
+  },
+  {
+    "q": "Disiplin cezasının belirlenmesi de dahil olmak üzere disiplin kuruluna sevk edilen personel hakkında yapılan tüm faaliyetlere güvenlik soruşturması denir.",
+    "answer": false
+  },
+  {
+    "q": "Aynı fiil nedeniyle bu kanunda yazılı disiplin cezalarından en ağır olanı verilir.",
+    "answer": true
+  },
+  {
+    "q": "Disiplin soruşturmacısı 3 kişiden oluşur.",
+    "answer": true
+  },
+  {
+    "q": "Amire saygısızlık, aylıktan kesme cezasını gerektiren disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Yalan söylemek, aylıktan kesme cezasını gerektiren disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Hizmetle ilgisi olmayan emir vermek, aylıktan kesme cezasını gerektiren disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Maiyetinin gözetiminde ihmal göstermek, aylıktan kesme cezasını gerektiren disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Ayrımcılık yapmak, aylıktan kesme cezasını gerektiren disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Yasak edilen yerlere girmek, aylıktan kesme cezasını gerektiren disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Kayırma talep etmek, aylıktan kesme cezasını gerektiren disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Maiyetinden hediye kabul etmek, aylıktan kesme cezasını gerektiren disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Hizmetteyken siyasi içerikli konuşmak, aylıktan kesme cezasını gerektiren disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Yasaklanmış faaliyetlere katılmak, aylıktan kesme cezasını gerektiren disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "İzinsiz garnizon terk etmek, aylıktan kesme cezasını gerektiren disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Ulaşım güvenliğini ihlal etmek, aylıktan kesme cezasını gerektiren disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Emre itaatsizlik, hizmet yerini terk etmeme cezası gerektiren disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Kısa süreli kaçmak, hizmet yerini terk etmeme cezası gerektiren disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "İzin süresini geçirmek, hizmet yerini terk etmeme cezası gerektiren disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Hizmete mahsus eşyaya zarar vermek, hizmet yerini terk etmeme cezasını gerektiren disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Maiyetinin disiplinsizliği hakkında soruşturma yapmamak, aylıktan kesme cezasını gerektiren disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Asta kötü muamele yapmak, hizmet yerini terk etmeme cezasını gerektiren disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Nöbet talimatına aykırı hareket etmek, hizmet yerini terk etmeme cezasını gerektiren disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Hoşnutsuzluk yaratmak, hizmet yerini terk etmeme cezasını gerektiren disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Tahrik, hizmet yerini terk etmeme cezasını gerektiren disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Sarhoşluk, hizmet yerini terk etmeme cezasını gerektiren disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Kumar oynamak, hizmet yerini terk etmeme cezasını gerektiren disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Yasak edilen malzeme bulundurmak, hizmet yerini terk etmeme cezasını gerektiren disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Disiplin cezasının yerine getirilmesine karşı gelmek, hizmet yerini terk etmeme cezasını gerektiren disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Kavga etmek, hizmet yerini terk etmeme cezasını gerektiren disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Askeri kimliği, görev ve faaliyetleri izinsiz açıklamak, hizmet yerini terk etmeme cezasını gerektiren disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Aşırı borçlanmak ve borçlarını ödeyememek, Silahlı Kuvvetlerden ayırma cezası gerektiren disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Ahlaki zayıflık (yüz kızartıcı suçlar), Silahlı Kuvvetlerden ayırma cezası gerektiren disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Hizmete engel davranışlarda bulunmak, Silahlı Kuvvetlerden ayırma cezası gerektiren disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Gizli bilgileri açıklamak, Silahlı Kuvvetlerden ayırma cezası gerektiren disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "İdeolojik veya siyasi amaçlı faaliyetlere karışmak, Silahlı Kuvvetlerden ayırma cezası gerektiren disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Uzun süreli firar (1 yıldan fazla), Silahlı Kuvvetlerden ayırma cezası gerektiren disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Disiplinsizliği alışkanlık haline getirmek, Silahlı Kuvvetlerden ayırma cezası gerektiren disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "İffetsiz bir kimseyle evlenmek veya böyle bir kimse ile yaşamak, Silahlı Kuvvetlerden ayırma cezası gerektiren disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Gayri tabi mukarenette bulunmak (doğal olmayan yoldan cinsel davranışta bulunmak), Silahlı Kuvvetlerden ayırma cezası gerektiren disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Terör örgütleriyle ilişkisi olmak, Silahlı Kuvvetlerden ayırma cezası gerektiren disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Emri mütalaa etmek, uyarma cezasını gerektiren bir disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Görevde kayıtsızlık, uyarma cezasını gerektiren bir disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Hizmet dışındayken amir veya üste saygısızlık, uyarma cezasını gerektiren bir disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Mesai çizelgesine uymamak, uyarma cezasını gerektiren bir disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Kılık ve kıyafeti bozuk olmak, uyarma cezasını gerektiren bir disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Usulsüz müracaat veya şikayette bulunmak, uyarma cezasını gerektiren bir disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "İsraf etmek, uyarma cezasını gerektiren bir disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Saygısız davranmak, uyarma cezasını gerektiren bir disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Başkalarını kötülemek, uyarma cezasını gerektiren bir disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Askeri nezaket kurallarına uymamak, uyarma cezasını gerektiren bir disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Hizmet haricinde yalan söylemek, uyarma cezasını gerektiren bir disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Selamlama yapmamak, uyarma cezasını gerektiren bir disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Zamanına riayet etmemek, uyarma cezasını gerektiren bir disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Mesai dışında aşırı alkol kullanımı, uyarma cezasını gerektiren bir disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Görev dönüşü tekmil vermemek, uyarma cezasını gerektiren bir disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Kişisel ve çevre temizliğine dikkat etmemek, uyarma cezasını gerektiren bir disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Kendini geliştirmede yetersiz kalmak, uyarma cezasını gerektiren bir disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Amir veya üste nezaketsizlik, kınama cezasını gerektiren disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Meslek etiğine aykırı davranışta bulunmak, kınama cezasını gerektiren disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Küfürlü konuşmak, kınama cezasını gerektiren disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Askeri silsileyi bozarak hareket etmek, kınama cezasını gerektiren disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Uygun olmayan hitaplarda bulunmak, kınama cezasını gerektiren disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Sorumluluktan kaçmak, kınama cezasını gerektiren disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Askeri eşyayı uygun kullanmamak, kınama cezasını gerektiren disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Sağlığın korunması kurallarına uymamak, kınama cezasını gerektiren disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Üste saygısızlık, hizmete kısmi süreli devam cezasını gerektiren disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Görev yerini izinsiz terk etmek, hizmete kısmi süreli devam cezasını gerektiren disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Temaruz, hizmete kısmi süreli devam cezasını gerektiren disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Uygunsuz davranışlarda bulunmak, hizmete kısmi süreli devam cezasını gerektiren disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "Ketum davranmamak, hizmete kısmi süreli devam cezasını gerektiren disiplinsizliktir.",
+    "answer": true
+  },
+  {
+    "q": "İzinsiz üyelik, hizmet yerini terk etmeme cezasını gerektiren disiplinsizliktir.",
+    "answer": true
+  },
+  {
     "q": "Tüzükler, kararnameler, yönetmelikler, talimnameler ve talimatların hükümlerine nizam denir.",
     "answer": true
   },
