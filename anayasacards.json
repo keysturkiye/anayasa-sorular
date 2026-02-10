@@ -1,5 +1,305 @@
 [
   { "desc": "Anayasa devletin en üstün hukuk kuralıdır" },
+  {
+    "desc": "TBMM 600 milletvekilinden oluşur"
+  },
+  {
+    "desc": "18 yaşını dolduran her Türk vatandaşı milletvekili seçilebilir"
+  },
+  {
+    "desc": "Askerlikle ilişkisi olanlar milletvekili seçilemezler"
+  },
+  {
+    "desc": "TBMM ve Cumhurbaşkanlığı seçimi 5 yılda bir aynı gün yapılır"
+  },
+  {
+    "desc": "TBMM üye tam sayısının 5/3'ü (360 MV) ile seçim yenileyebilir"
+  },
+  {
+    "desc": "TBMM üye tam sayısının salt çoğunluğu 301 milletvekilidir"
+  },
+  {
+    "desc": "Cumhurbaşkanlığına siyasi parti grupları veya son seçimde geçerli oyların en az %5'ini almış siyasi partiler veya 100 bin oy olan seçmen aday gösterebilir"
+  },
+  {
+    "desc": "Bir kişi en fazla 2 kez Cumhurbaşkanı olabilir"
+  },
+  {
+    "desc": "Cumhurbaşkanlığı için seçilme yaşı 40 yaşını doldurmuş olmaktır"
+  },
+  {
+    "desc": "Cumhurbaşkanını HALK seçer (2007'de değişiklik, ilk seçim 2014'te)"
+  },
+  {
+    "desc": "Cumhurbaşkanlığı seçimi 2 turludur (salt çoğunluk yoksa 2. turda en çok oy alan seçilir)"
+  },
+  {
+    "desc": "İkinci tur oylamaya tek aday kalırsa referanduma gidilir"
+  },
+  {
+    "desc": "Yasama yetkisi TÜRK MİLLETİ adına TBMM'ye aittir"
+  },
+  {
+    "desc": "Yasama Dönemi 5 yıldır (2 seçim dönemi arası)"
+  },
+  {
+    "desc": "TBMM'nin asli görevi kanun koymak, değiştirmek ve kaldırmaktır"
+  },
+  {
+    "desc": "Para basılmasına karar verme yetkisi TBMM'ye ve CB'na aittir (Merkez Bankası basar)"
+  },
+  {
+    "desc": "Genel ve Özel Af ilanına karar vermek TBMM'ye aittir"
+  },
+  {
+    "desc": "TBMM toplantı yeter sayısı üye tam sayısının 1/3'üdür (200 milletvekili)"
+  },
+  {
+    "desc": "Kanun teklifleri milletvekilleri verir; Bütçe Kanunu'nu Cumhurbaşkanı verir"
+  },
+  {
+    "desc": "Cumhurbaşkanı kanunları 15 gün içinde onaylar ve yayımlar"
+  },
+  {
+    "desc": "Cumhurbaşkanı kanunları ancak 1 defa veto edebilir; veto edilen kanun 301 milletvekili onaylarsa yayımlamak zorundadır"
+  },
+  {
+    "desc": "Cumhurbaşkanı bütçe kanununu veto edemez"
+  },
+  {
+    "desc": "Milletvekillerinin dokunulmazlığını TBMM yapar"
+  },
+  {
+    "desc": "Yasama dokunulmazlığının kaldırılması ve milletvekilliğinin düşürülmesi kararlarının yargısal denetimini ANAYASA MAHKEMESİ yapar"
+  },
+  {
+    "desc": "Milletvekilinin Cumhurbaşkanı veya Cumhurbaşkanı Yardımcısı/Bakan seçilmesi durumunda milletvekilliği kendiliğinden düşer"
+  },
+  {
+    "desc": "Ohal ilan etme yetkisi Cumhurbaşkanına aittir"
+  },
+  {
+    "desc": "Yürütmeye ilişkin konularda Cumhurbaşkanlığı Kararnamesi çıkarılır"
+  },
+  {
+    "desc": "CB Kararnamesinin yargısal denetimini ANAYASA MAHKEMESİ yapar (OHAL hariç)"
+  },
+  {
+    "desc": "Cumhurbaşkanının partisi ile ilişiği kesilmez"
+  },
+  {
+    "desc": "Bütçe Kanunu tasarlamak ve sunmak CB'na aittir (2017)"
+  },
+  {
+    "desc": "Olağanüstü Hal'i CB ilan eder (6 ay), TBMM uzatır (4 ay)"
+  },
+  {
+    "desc": "Cumhurbaşkanlığı makamının boşalması halinde 45 gün içinde seçime gidilir; genel seçime 1 yıl kalmışsa seçim beklenir (bu süre CB Yardımcısı vekalet eder)"
+  },
+  {
+    "desc": "Cumhurbaşkanı, Devlet Başkanı sıfatıyla Türkiye Cumhuriyetini ve Türk Milletinin birliğini temsil eder"
+  },
+  {
+    "desc": "Başkomutanlık CUMHURBAŞKANI tarafından temsil edilir"
+  },
+  {
+    "desc": "Bakanlıkların kurulması, kaldırılması ve görevleri Cumhurbaşkanlığı kararnamesiyle düzenlenir"
+  },
+  {
+    "desc": "Millî güvenliğin sağlanmasından ve Türk Silahlı Kuvvetlerinin yurt savunmasına hazırlanmasından TBMM'ye karşı Cumhurbaşkanı sorumludur"
+  },
+  {
+    "desc": "Yargı yetkisi bağımsız ve tarafsız mahkemelerdedir"
+  },
+  {
+    "desc": "Yüksek Mahkemeler: Anayasa Mahkemesi, Yargıtay, Danıştay, Uyuşmazlık Mahkemeleridir"
+  },
+  {
+    "desc": "Anayasa Mahkemesi 15 üyeden oluşur (12 CB atar, 3 TBMM atar)"
+  },
+  {
+    "desc": "HSYK 13 üyeden oluşur; kurul 2 daire altında çalışır (7 TBMM, 4 üye CB seçer)"
+  },
+  {
+    "desc": "HSYK Başkanı ADALET BAKANIDIR"
+  },
+  {
+    "desc": "Türkiye'de seçimlerin yargısal denetimini YSK yapar"
+  },
+  {
+    "desc": "Yüksek Seçim Kurulu 7 asıl ve 4 yedek üyeden oluşur; üyeleri Yargıtay (6) ve Danıştay (5) seçer"
+  },
+  {
+    "desc": "Yüksek Seçim Kurulu kararlarına yargı yolu kapalıdır"
+  },
+  {
+    "desc": "Anayasa Mahkemesi ilk kez 1961 Anayasası ile birlikte kurulmuştur"
+  },
+  {
+    "desc": "Anayasa'da güvence altına alınmış temel hak ve hürriyetlerin ihlal edildiği iddiasıyla bireysel başvuruları inceleme ve karara bağlama yetkisi AYM'ye aittir"
+  },
+  {
+    "desc": "Adliye mahkemelerince verilen kararların ve hükümlerin son inceleme mercii Yargıtay'dır"
+  },
+  {
+    "desc": "İdari mahkemelerince verilen kararların ve hükümlerin son inceleme mercii Danıştay'dır"
+  },
+  {
+    "desc": "Adli ve idari yargı arasındaki görev ve hüküm uyuşmazlıklarını son olarak çözümleme yetkisi UYUŞMAZLIK MAHKEMELERİDİR"
+  },
+  {
+    "desc": "Uyuşmazlık Mahkemesi başkanını AYM kendi üyeleri içerisinden seçer"
+  },
+  {
+    "desc": "HSK başkanı Adalet Bakanı'dır; kurul 13 üyeden oluşur"
+  },
+  {
+    "desc": "Merkezi yönetim bütçesi kapsamındaki kamu idareleri ile sosyal güvenlik kurumlarının ve mahalli idarelerin bütün gelir ve giderlerinin hesap ve işlemlerinin denetimini ve kesin hükme bağlanmasını SAYIŞTAY yapar (Başkanını ve üyelerini TBMM seçer)"
+  },
+  {
+    "desc": "Sayıştay TBMM adına denetleme yapar (YÜKSEK MAH KEME DEĞİLDİR)"
+  },
+  {
+    "desc": "TBMM'yi tatil veya ara verme döneminde CB veya TBMM Başkanı doğrudan toplantıya çağırabilir"
+  },
+  {
+    "desc": "Cumhurbaşkanına Cumhurbaşkanı Yardımcısı vekalet eder"
+  },
+  {
+    "desc": "Kanun teklif etme yetkisi milletvekiline aittir (BÜTÇE KANUNU hariç)"
+  },
+  {
+    "desc": "Millî güvenliğin sağlanmasından TBMM'ye karşı CB sorumludur"
+  },
+  {
+    "desc": "Genelkurmay Başkanını Cumhurbaşkanı atar"
+  },
+  {
+    "desc": "TBMM'nin bilgi edinme ve denetim yolları: Meclis Soruşturması, Meclis Araştırması, Genel Görüşme, Yazılı Soru"
+  },
+  {
+    "desc": "Binalı YILDIRIM son başbakandır (65. Hükümet)"
+  },
+  {
+    "desc": "DDK (Devlet Denetleme Kurulu) Cumhurbaşkanlığına bağlıdır"
+  },
+  {
+    "desc": "Millî Güvenlik Kurulu CUMHURBAŞKANI başkanlığında toplanır"
+  },
+  {
+    "desc": "Siyasi partiler önceden izin almadan kurulurlar"
+  },
+  {
+    "desc": "Siyasi partiler 30 kişi ile kurulur"
+  },
+  {
+    "desc": "Siyasi partiler 20 milletvekili ile Mecliste Grup kurar"
+  },
+  {
+    "desc": "Siyasi partilerin mali denetimini ANAYASA MAHKEMESİ (Sayıştay'dan yardım alarak) yapar"
+  },
+  {
+    "desc": "Tamamen kapatılan siyasi partiler (ANAYASA MAHKEMESİ) başka isim altında yeniden kurulamaz"
+  },
+  {
+    "desc": "Kamu Denetçiliği Kurumu (Ombudsman) idarenin işleyişiyle ilgili şikayetleri inceler; TBMM tarafından seçilir"
+  },
+  {
+    "desc": "Genel ve Özel Af ilanına karar verme yetkisi TBMM'ye aittir (5/3 çoğunluk)"
+  },
+  {
+    "desc": "1982 Anayasası'na göre erken seçim kararını CB veya TBMM alabilir (2017 değişikliği)"
+  },
+  {
+    "desc": "Seçimler sadece savaş sebebiyle her defasında 1 yıl ertelenebilir"
+  },
+  {
+    "desc": "Ara seçim TBMM üyeliklerinde azalma sebebiyle yapılır; her seçim döneminde 1 defa yapılır; genel seçimden 30 ay geçmedikçe ara seçime gidilmez"
+  },
+  {
+    "desc": "Milletlerarası antlaşmaların onaylanmasını uygun bulmak TBMM'ye; onaylamak ve yayımlamak CB'na aittir"
+  },
+  {
+    "desc": "TBMM her yılın EKİM ayının ilk günü kendiliğinden toplanır"
+  },
+  {
+    "desc": "Meclis bir yasama yılında 3 ay tatile gider"
+  },
+  {
+    "desc": "Tatil ve ara verme döneminde doğrudan CB ve TBMM başkanı toplar"
+  },
+  {
+    "desc": "Meclis üye sayısının 1/5'i kadar milletvekili Meclis başkanından toplantı isteyebilir"
+  },
+  {
+    "desc": "TBMM başkanlık divanı için bir yasama döneminde 2 defa seçim yapılabilir"
+  },
+  {
+    "desc": "Yasama dokunulmazlığının kaldırılması ve milletvekilliğinin düşürülmesine karşı iptal davası 7 gün içinde Anayasa Mahkemesi'ne yapılır; 15 gün içinde karar verilir"
+  },
+  {
+    "desc": "Cumhurbaşkanı seçilen kişinin partisiyle ilişiği devam eder; milletvekilliği sona erer"
+  },
+  {
+    "desc": "Cumhurbaşkanı en az yükseköğretim mezunu olmak zorundadır"
+  },
+  {
+    "desc": "Devlet Denetleme Kurulu'nun işleyişi, üyeleri, görev süresi Cumhurbaşkanlığı Kararnamesi ile düzenlenir"
+  },
+  {
+    "desc": "DDK tüm kamu kurum ve kuruluşlarında, kamu kurumu niteliğindeki meslek kuruluşlarında, her düzeydeki işçi ve işveren meslek kuruluşlarında, kamu yararlı dernekler ve vakıflarda ve TÜRK SİLAHLI KUVVETLERİNDE idari soruşturma, inceleme, araştırma ve denetleme yapar; yargıyı denetleyemez"
+  },
+  {
+    "desc": "Cumhurbaşkanı suç işlediği iddiasıyla cezai sorumluluğunun araştırılması için TBMM tarafından soruşturma açılabilir veya yine TBMM tarafından yargılanması için YÜCE DİVAN'a sevk edilebilir (3/5 çoğunluk ile 400 milletvekili)"
+  },
+  {
+    "desc": "Halkoylamasına sunularak referandumla yürürlüğe giren anayasalarımız 1961 ve 1982'dir"
+  },
+  {
+    "desc": "Genelkurmay Başkanını Cumhurbaşkanı atar ve Cumhurbaşkanına karşı sorumludur; Millî Savunma Bakanlığı'na bağlıdır"
+  },
+  {
+    "desc": "Mahkemelerin kuruluşu, görev ve yetkileri, işleyişi ve yargılama usulleri kanunla düzenlenir"
+  },
+  {
+    "desc": "Hakimler ve Savcılar kendileri istemedikçe 65 yaşından önce emekli edilemezler"
+  },
+  {
+    "desc": "Cumhurbaşkanını, CB Yardımcılarını, Bakanları ve TBMM başkanını YÜCE DİVAN'da yargılama yetkisi AYM'dir"
+  },
+  {
+    "desc": "Genel idare kolunun makamı Cumhurbaşkanı, İçişleri Bakanı, Vali ve Kaymakamdır"
+  },
+  {
+    "desc": "Kamu düzeni ilkeleri: Genel Sağlık, Genel Ahlak, Güvenlik ve Esenliktir"
+  },
+  {
+    "desc": "Devletin yetkili organlarının kamu yararının gerektirdiği hallerde bedelini peşin ödemek koşuluyla özel mülkiyette bulunan taşınmaza el koymasına KAMULAŞTIRMA denir"
+  },
+  {
+    "desc": "Özel sektörde yer alan teşebbüsün kamu yararı durumunda kamu hizmetine dönüştürülmesine DEVLETLEŞTİRME denir"
+  },
+  {
+    "desc": "Devletin yetkili organlarının olağanüstü durumlarda özel mülkiyetteki taşınır mala el koymasına İSTİMVAL denir"
+  },
+  {
+    "desc": "Devletin idaresinin taşra teşkilatının başındaki amirlerin merkeze danışmadan karar alabilmelerine YETKİ GENİŞLİĞİ denir"
+  },
+  {
+    "desc": "Yetki Genişliğini sadece VALİ kullanır"
+  },
+  {
+    "desc": "Yerel yerinden yönetim kuruluşları: İl özel idaresi, Büyükşehir Belediye İdaresi, Belediye İdaresi, Köy İdaresi"
+  },
+  {
+    "desc": "İl özel idaresinin başında VALİ vardır"
+  },
+  {
+    "desc": "Bir Büyükşehir Belediye idaresi kurulabilmesi için 750 bin nüfus gerekir"
+  },
+  {
+    "desc": "Bir ilde belediye idaresi kurulabilmesi için 5 bin ve daha fazla nüfus ve Cumhurbaşkanlığı Kararnamesine ihtiyaç vardır"
+  },
   { "desc": "Anayasa normlar hiyerarşisinin en üstünde yer alır" },
   { "desc": "Türkiye Devleti bir Cumhuriyettir" },
   { "desc": "Türkiye ülkesi ve milletiyle bölünmez bir bütündür" },
