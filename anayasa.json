@@ -562,7 +562,7 @@
   {
     "q": "Soru: Cumhurbaşkanının atadığı bakanlar hangi organın onayına tabidir?",
     "options": ["Hiçbiri", "TBMM", "Danıştay", "Yargıtay"],
-    "answer": 1
+    "answer": 0
   },
   {
     "q": "Soru: Temel hak ve özgürlüklerin korunmasında hangi organ yetkilidir?",
