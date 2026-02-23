@@ -1,5 +1,129 @@
 [
   {"q": "Hukukun amacı mutlak eşitliği sağlamaktır.", "a": false},
+  {
+    "q": "Kanun teklifi 1 milletvekili tarafından yapılır.",
+    "a": true
+  },
+  {
+    "q": "Kanun görüşmesi 1 defa yapılır.",
+    "a": true
+  },
+  {
+    "q": "Kanunlar basit çoğunlukla kabul edilir.",
+    "a": true
+  },
+  {
+    "q": "Kanunlar halkoyuna sunulmaz.",
+    "a": true
+  },
+  {
+    "q": "Anayasa değişikliği teklifi 200 milletvekili tarafından yapılır.",
+    "a": true
+  },
+  {
+    "q": "Anayasa değişikliği görüşmesi 2 defa yapılır ve görüşmeler arasında 48 saat ara vardır.",
+    "a": true
+  },
+  {
+    "q": "Anayasa değişiklikleri ivedilikle görüşülemez.",
+    "a": true
+  },
+  {
+    "q": "Anayasa değişiklikleri nitelikli çoğunlukla kabul edilir.",
+    "a": true
+  },
+  {
+    "q": "Anayasa değişiklikleri halkoyuna sunulabilir.",
+    "a": true
+  },
+  {
+    "q": "Cezai sorumluluk yaşı 12'dir.",
+    "a": true
+  },
+  {
+    "q": "Kaza-i rüşt yaşı 15'tir.",
+    "a": true
+  },
+  {
+    "q": "Olağanüstü evlilik yaşı 16'dır.",
+    "a": true
+  },
+  {
+    "q": "Olağan evlilik yaşı 17'dir.",
+    "a": true
+  },
+  {
+    "q": "Normal reşitlik yaşı 18'dir.",
+    "a": true
+  },
+  {
+    "q": "Doğuştan sağır ve dilsizlerde yaş sınırına 3 yıl eklenir.",
+    "a": true
+  },
+  {
+    "q": "Seçme yaşı 18'dir.",
+    "a": true
+  },
+  {
+    "q": "Milletvekili seçilme yaşı 18'dir.",
+    "a": true
+  },
+  {
+    "q": "Siyasi parti üyelik yaşı 18'dir.",
+    "a": true
+  },
+  {
+    "q": "Cumhurbaşkanı seçilme yaşı 40'tır.",
+    "a": true
+  },
+  {
+    "q": "Yüksek mahkeme üyelik yaşı 45'tir.",
+    "a": true
+  },
+  {
+    "q": "Yüksek Seçim Kurulu üye sayısı 11'dir.",
+    "a": true
+  },
+  {
+    "q": "Yüksek Seçim Kurulu 7 asıl ve 4 yedek üyeden oluşur.",
+    "a": true
+  },
+  {
+    "q": "YSK üyelerinin görev süresi 6 yıldır.",
+    "a": true
+  },
+  {
+    "q": "YSK üyeleri Danıştay ve Yargıtay tarafından seçilir.",
+    "a": true
+  },
+  {
+    "q": "YSK'nın 6 üyesini Yargıtay seçer.",
+    "a": true
+  },
+  {
+    "q": "YSK'nın 5 üyesini Danıştay seçer.",
+    "a": true
+  },
+  {
+    "q": "Danıştay üyelerinin dörtte üçünü Hakimler ve Savcılar Kurulu seçer.",
+    "a": true
+  },
+  {
+    "q": "Danıştay üyelerinin dörtte birini Cumhurbaşkanı seçer.",
+    "a": true
+  },
+  {
+    "q": "Danıştay başkanı 4 yıllığına seçilir.",
+    "a": true
+  },
+  {
+    "q": "Danıştay üyeleri 12 yıllığına seçilir.",
+    "a": true
+  },
+  {
+    "q": "Sultan Abdülaziz döneminde kurulan Şuray-ı Devlet günümüzde Danıştay'dır.",
+    "a": true
+  },
   {"q": "Emredici hukuk kurallarının aksine işlem yapılması mümkün değildir.", "a": true},
   {"q": "Tamamlayıcı hukuk kuralları, tarafların aksini kararlaştırması durumunda uygulanmaz.", "a": true},
   {"q": "Örf ve adet hukuku kuralının oluşması için sürekli uygulanma, genel inanış ve hukukilik unsurları gereklidir.", "a": true},
