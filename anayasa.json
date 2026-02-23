@@ -5,6 +5,136 @@
     "answer": 4
   },
   {
+    "q": "Kanun teklifi en az kaç milletvekili tarafından yapılır?",
+    "options": ["200", "100", "1", "50", "20"],
+    "answer": 2
+  },
+  {
+    "q": "Kanun görüşmesi kaç defa yapılır?",
+    "options": ["3", "2", "4", "1", "Süresiz"],
+    "answer": 3
+  },
+  {
+    "q": "Kanunların kabulü için gereken karar yeter sayısı nedir?",
+    "options": ["Nitelikli çoğunluk", "400 oy", "360 oy", "Salt çoğunluk", "Basit çoğunluk"],
+    "answer": 4
+  },
+  {
+    "q": "Kanunlar halkoyuna sunulur mu?",
+    "options": ["Her zaman", "Cumhurbaşkanı isterse", "TBMM isterse", "Hayır", "Zorunludur"],
+    "answer": 3
+  },
+  {
+    "q": "Anayasa değişikliği teklifi en az kaç milletvekili tarafından yapılır?",
+    "options": ["100", "150", "200", "300", "360"],
+    "answer": 2
+  },
+  {
+    "q": "Anayasa değişikliği görüşmesi kaç defa yapılır?",
+    "options": ["1", "2", "3", "4", "5"],
+    "answer": 1
+  },
+  {
+    "q": "Anayasa değişiklikleri için aşağıdakilerden hangisi doğrudur?",
+    "options": ["İvedilikle görüşülebilir", "Basit çoğunluk yeterlidir", "Halkoyuna sunulamaz", "48 saat ara ile görüşülür", "Tek turda kabul edilir"],
+    "answer": 3
+  },
+  {
+    "q": "Cezai sorumluluk yaşı kaçtır?",
+    "options": ["15", "18", "12", "16", "14"],
+    "answer": 2
+  },
+  {
+    "q": "Kaza-i rüşt yaşı kaçtır?",
+    "options": ["18", "17", "16", "15", "14"],
+    "answer": 3
+  },
+  {
+    "q": "Olağan evlenme yaşı kaçtır?",
+    "options": ["16", "17", "18", "15", "14"],
+    "answer": 1
+  },
+  {
+    "q": "Olağanüstü evlenme yaşı kaçtır?",
+    "options": ["15", "17", "18", "16", "14"],
+    "answer": 3
+  },
+  {
+    "q": "Normal reşitlik yaşı kaçtır?",
+    "options": ["17", "18", "16", "19", "21"],
+    "answer": 1
+  },
+  {
+    "q": "Doğuştan sağır ve dilsizlerde yaş sınırına kaç yıl eklenir?",
+    "options": ["1", "2", "3", "4", "5"],
+    "answer": 2
+  },
+  {
+    "q": "Cumhurbaşkanı seçilme yaşı kaçtır?",
+    "options": ["35", "45", "40", "50", "30"],
+    "answer": 2
+  },
+  {
+    "q": "Yüksek mahkeme üyelik yaşı kaçtır?",
+    "options": ["40", "50", "35", "45", "42"],
+    "answer": 3
+  },
+  {
+    "q": "Yüksek Seçim Kurulu toplam kaç üyeden oluşur?",
+    "options": ["9", "10", "11", "12", "13"],
+    "answer": 2
+  },
+  {
+    "q": "YSK kaç asıl üyeden oluşur?",
+    "options": ["5", "6", "7", "8", "9"],
+    "answer": 2
+  },
+  {
+    "q": "YSK üyelerinin görev süresi kaç yıldır?",
+    "options": ["4", "5", "6", "7", "8"],
+    "answer": 2
+  },
+  {
+    "q": "YSK'nın 6 üyesini hangi kurum seçer?",
+    "options": ["TBMM", "Danıştay", "Cumhurbaşkanı", "Yargıtay", "Anayasa Mahkemesi"],
+    "answer": 3
+  },
+  {
+    "q": "YSK'nın 5 üyesini hangi kurum seçer?",
+    "options": ["Yargıtay", "TBMM", "Danıştay", "HSK", "Sayıştay"],
+    "answer": 2
+  },
+  {
+    "q": "Danıştay üyelerinin dörtte üçünü kim seçer?",
+    "options": ["Cumhurbaşkanı", "TBMM", "HSK", "Yargıtay", "AYM"],
+    "answer": 2
+  },
+  {
+    "q": "Danıştay üyelerinin dörtte birini kim seçer?",
+    "options": ["TBMM", "Cumhurbaşkanı", "HSK", "Danıştay Genel Kurulu", "Yargıtay"],
+    "answer": 1
+  },
+  {
+    "q": "Danıştay başkanı kaç yıllığına seçilir?",
+    "options": ["6", "3", "5", "4", "12"],
+    "answer": 3
+  },
+  {
+    "q": "Danıştay üyeleri kaç yıllığına seçilir?",
+    "options": ["10", "8", "6", "4", "12"],
+    "answer": 4
+  },
+  {
+    "q": "Osmanlı döneminde kurulan Şuray-ı Devlet günümüzde hangi yüksek mahkemedir?",
+    "options": ["Yargıtay", "Anayasa Mahkemesi", "Sayıştay", "Danıştay", "Uyuşmazlık Mahkemesi"],
+    "answer": 3
+  },
+  {
+    "q": "I. Anayasada belirtilen normların anayasaya uygunluk denetimini yapmak II. Bazı kişileri göreviyle ilgili suçlardan dolayı Yüce Divan sıfatıyla yargılamak III. Siyasi partilerin kapatılması davalarına bakmak Yukarıdakilerden hangileri Anayasa Mahkemesinin görevleri arasında yer alır?",
+    "options": ["Yalnız I", "I ve II", "I ve III", "II ve III", "I, II ve III"],
+    "answer": 4
+  },
+  {
     "q": "I. Partinin ideolojisinin toplum düzenine uymaması II. Partinin program ve tüzüğünün anayasaya aykırı olması III. Partinin yabancılardan maddi yardım alması Yukarıdakilerden hangileri siyasi partilerin kapatılma sebepleri arasında yer alır?",
     "options": ["Yalnız I", "I ve II", "I ve III", "II ve III", "I, II ve III"],
     "answer": 3
