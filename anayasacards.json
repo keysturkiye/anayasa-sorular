@@ -1,6 +1,99 @@
 [
   { "desc": "Anayasa devletin en üstün hukuk kuralıdır" },
   {
+    "desc": "Kanun teklifi 1 milletvekili tarafından yapılır."
+  },
+  {
+    "desc": "Kanun görüşmesi 1 defa yapılır."
+  },
+  {
+    "desc": "Kanunlar basit çoğunlukla kabul edilir."
+  },
+  {
+    "desc": "Kanunlar halkoyuna sunulmaz."
+  },
+  {
+    "desc": "Anayasa değişikliği teklifi 200 milletvekili tarafından yapılır."
+  },
+  {
+    "desc": "Anayasa değişikliği görüşmesi 2 defa yapılır ve görüşmeler arasında 48 saat ara vardır."
+  },
+  {
+    "desc": "Anayasa değişiklikleri ivedilikle görüşülemez."
+  },
+  {
+    "desc": "Anayasa değişiklikleri nitelikli çoğunlukla kabul edilir (360–400 arası)."
+  },
+  {
+    "desc": "Anayasa değişiklikleri halkoyuna (referanduma) sunulabilir."
+  },
+  {
+    "desc": "Cezai sorumluluk yaşı 12'dir."
+  },
+  {
+    "desc": "Kaza-i rüşt yaşı 15'tir."
+  },
+  {
+    "desc": "Olağanüstü evlilik yaşı 16'dır."
+  },
+  {
+    "desc": "Olağan evlilik yaşı 17'dir."
+  },
+  {
+    "desc": "Normal reşitlik yaşı 18'dir."
+  },
+  {
+    "desc": "Doğuştan sağır ve dilsizlerde yaş sınırına 3 yıl eklenir."
+  },
+  {
+    "desc": "Seçme yaşı 18'dir."
+  },
+  {
+    "desc": "Milletvekili seçilme yaşı 18'dir."
+  },
+  {
+    "desc": "Siyasi parti üyelik yaşı 18'dir."
+  },
+  {
+    "desc": "Cumhurbaşkanı seçilme yaşı 40'tır."
+  },
+  {
+    "desc": "Yüksek mahkeme üyelik yaşı 45'tir."
+  },
+  {
+    "desc": "Yüksek Seçim Kurulu üye sayısı 11'dir."
+  },
+  {
+    "desc": "Yüksek Seçim Kurulu 7 asıl ve 4 yedek üyeden oluşur."
+  },
+  {
+    "desc": "YSK üyelerinin görev süresi 6 yıldır."
+  },
+  {
+    "desc": "YSK üyeleri Danıştay ve Yargıtay tarafından seçilir."
+  },
+  {
+    "desc": "YSK'nın 6 üyesini Yargıtay seçer."
+  },
+  {
+    "desc": "YSK'nın 5 üyesini Danıştay seçer."
+  },
+  {
+    "desc": "Danıştay üyelerinin dörtte üçünü Hakimler ve Savcılar Kurulu seçer."
+  },
+  {
+    "desc": "Danıştay üyelerinin dörtte birini Cumhurbaşkanı seçer."
+  },
+  {
+    "desc": "Danıştay başkanı 4 yıllığına seçilir."
+  },
+  {
+    "desc": "Danıştay üyeleri 12 yıllığına seçilir."
+  },
+  {
+    "desc": "Sultan Abdülaziz döneminde kurulan Şuray-ı Devlet günümüzde Danıştay'dır."
+  },
+  {
     "desc": "TBMM 600 milletvekilinden oluşur"
   },
   {
