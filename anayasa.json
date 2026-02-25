@@ -512,7 +512,7 @@
   {
     "q": "Soru: Yargıtay Cumhuriyet Başsavcısı vekilini kim seçer?",
     "options": ["Hâkimler ve Savcılar Kurulu", "TBMM", "Cumhurbaşkanı", "Yargıtay Genel Kurulu"],
-    "answer": 2
+    "answer": 3
   },
   {
     "q": "Soru: Danıştay nedir?",
