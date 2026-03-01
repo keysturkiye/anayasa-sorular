@@ -1330,19 +1330,9 @@
     "answer": 1
   },
   {
-    "q": "Sayıştay aşağıdakilerden hangisine bağlıdır?",
-    "options": ["Yürütme organına", "TBMM'ye", "Cumhurbaşkanına", "Adalet Bakanlığına"],
-    "answer": 1
-  },
-  {
     "q": "Bir siyasi parti en az kaç kişiyle kurulur?",
     "options": ["20 kişi", "30 kişi", "40 kişi", "50 kişi"],
     "answer": 1
-  },
-  {
-    "q": "Siyasi partilerin mali denetimini aşağıdakilerden hangisi yapar?",
-    "options": ["Yargıtay", "Danıştay", "Anayasa Mahkemesi", "Sayıştay"],
-    "answer": 2
   },
   {
     "q": "Siyasi partilerin mali denetiminde Anayasa Mahkemesi aşağıdakilerden hangisinden yardım alır?",
