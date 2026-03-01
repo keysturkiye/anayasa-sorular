@@ -5,6 +5,342 @@
     "answer": 4
   },
   {
+    "q": "1982 Anayasası'nın 16 Nisan 2017 değişikliği ile aşağıdakilerden hangisi TBMM yetkileri arasından çıkarılmıştır?",
+    "options": [
+      "Başbakan’ı denetleme",
+      "Ohal süresini uzatma",
+      "Genel görüşme yapma",
+      "Kamu baş denetçisi seçme",
+      "Erken seçim kararı alma"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Aşağıda verilenlerden hangisi 2017 Anayasa değişikliği ile birlikte TBMM'nin görev ve yetkileri arasına eklenmiştir?",
+    "options": [
+      "Para basılmasına karar vermek",
+      "Genel af ilan etmek",
+      "Özel af ilan etmek",
+      "Hâkimler ve Savcılar kuruluna üye seçmek",
+      "Kamu baş denetçisi seçmek"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Ulaşılması hedeflenen, olan değil olması amaçlanan adalet duygularına en yakın hukuk tanımı aşağıdakilerden hangisidir?",
+    "options": [
+      "İdeal hukuk",
+      "Tarihi hukuk",
+      "Pozitif hukuk",
+      "Mevzu hukuk",
+      "Daimi hukuk"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "1982 Anayasası 2017 değişikliği ile aşağıdakilerden hangisinin adı değiştirilmiştir?",
+    "options": [
+      "Genel görüşme",
+      "Meclis araştırması",
+      "Meclis soruşturması",
+      "Gensoru",
+      "Soru"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "1982 Anayasası 2017 değişikliğine göre, yargı yetkisine hangi kavram eklenmiştir?",
+    "options": [
+      "Demokrat",
+      "Çoğulcu",
+      "Özgür",
+      "Bağımsız",
+      "Tarafsız"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Aşağıdakilerden hangisi yüksek mahkemeler arasında yer almaz?",
+    "options": [
+      "Anayasa Mahkemesi",
+      "Yargıtay",
+      "Danıştay",
+      "Asliye hukuk mahkemesi",
+      "Askeri Yargıtay"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Aşağıdakilerden hangisi savaşta başkomutanlık görevlerini cumhurbaşkanı namına yerine getirir?",
+    "options": [
+      "TBMM",
+      "Dışişleri bakanı",
+      "Cumhurbaşkanı yardımcısı",
+      "MSB",
+      "Genel kurmay başkanı"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Hangisi Anayasa Mahkemesine üye olarak atanamaz?",
+    "options": [
+      "Yargıtay üyesi",
+      "Üst kademe yönetici",
+      "Avukat",
+      "TBMM Başkanlık Divanı katip üyesi"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Aşağıdakilerden hangisi olağanüstü hal ilan sebepleri arasında yer almaz?",
+    "options": [
+      "Savaş",
+      "Doğal afetler",
+      "Tehlikeli salgın hastalık",
+      "Şiddetli olaylar",
+      "Seçim dönemi"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Siyasi partilerin Mali denetimini kim yapar?",
+    "options": [
+      "Yargıtay",
+      "Danıştay",
+      "Anayasa Mahkemesi",
+      "Uyuşmazlık Mahkemesi",
+      "Bütçe Denetleme Kurulu"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Siyasi partiler kaç kişiyle kurulabilir?",
+    "options": ["10", "20", "30", "40", "50"],
+    "answer": 2
+  },
+  {
+    "q": "YSK kaç üyeden oluşur?",
+    "options": ["11", "12", "13", "14", "15"],
+    "answer": 0
+  },
+  {
+    "q": "Siyasi partilerin kapatılması............ Açacağı dava üzerine............. Kesin olarak karara bağlanır.",
+    "options": [
+      "TBMM - anayasa mahkemesi",
+      "Cumhurbaşkanı - anayasa mahkemesi",
+      "Yargıtay Cumhuriyet başsavcısı - anayasa mahkemesi",
+      "HSK - yargıtay"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Seçim kanunlarında yapılan değişiklikler yürürlüğe girdiği tarihten itibaren ne kadar süre içerisinde yapılacak seçimlerde uygulanmaz? (Anayasa madde 67 Ek madde)",
+    "options": ["3 ay", "6 ay", "9 ay", "1 yıl", "1 ay"],
+    "answer": 3
+  },
+  {
+    "q": "Toplu sözleşme yapılması sırasında uyuşmazlık çıkması halinde taraflar nereye başvurur?",
+    "options": [
+      "HSK",
+      "Anayasa mahkemesi",
+      "Uyuşmazlık mahkemesi",
+      "Kamu görevlileri hakem kurulu",
+      "Yargıtay"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "TBMM’nin bilgi edinme ve denetim yolları arasında yoktur?",
+    "options": [
+      "Meclis araştırması",
+      "Yazılı soru",
+      "Meclis soruşturması",
+      "Gensoru",
+      "Genel görüşme"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "OHAL kararları ne kadar süreliğine hangi makam tarafından uzatılır?",
+    "options": [
+      "6 ay - CB",
+      "1 yıl - TBMM",
+      "4 ay - TBMM",
+      "4 ay - CB",
+      "6 ay - TBMM"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "TBMM’nin kendi iç çalışmalarını düzenlemek amacıyla koyduğu kurallara ne ad verilir?",
+    "options": [
+      "Kanun",
+      "Cumhurbaşkanı kararnamesi",
+      "Yönerge",
+      "İç tüzük",
+      "İdari karar"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "1982 anayasasına göre Cumhurbaşkanı yardımcıları ve bakanlar hakkında yüce divana sevk kararını aşağıdakilerden hangisi alır?",
+    "options": [
+      "TBMM başkanlığı",
+      "TBMM Genel Kurulu",
+      "Anayasa mahkemesi genel kurulu",
+      "Anayasa mahkemesi bölümleri",
+      "Cumhurbaşkanı"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "1982 anayasasında yapılan 2017 anayasa değişikliği ile aşağıdakilerden hangisinin yönetmelik çıkarma yetkisi tanınmıştır?",
+    "options": [
+      "TBMM",
+      "Anayasa mahkemesi",
+      "YSK",
+      "Danıştay",
+      "Cumhurbaşkanı"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "En yüksek rütbeli devlet memuru hangisidir?",
+    "options": [
+      "Cumhurbaşkanı idari işler başkanı.",
+      "Türkiye Büyük Millet Meclisi Başkanı",
+      "Türkiye Büyük Millet Meclisi Başkanı sekreteri",
+      "Cumhuriyet Başsavcılığı sekreteri",
+      "Muhalefet lideri sekreteri"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Belediye başkanını geçici görevden uzaklaştıran içişleri bakanı kesin görevine son veren kimdir?",
+    "options": [
+      "Yargıtay",
+      "Anayasa mahkemesi",
+      "Danıştay",
+      "Cumhurbaşkanı",
+      "Sayıştay"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Meclis çalışmalarına özürsüz veya izinsiz olarak ..... ay içinde toplam ..... birleşim günü katılmayan milletvekilinin vekilliğinin düşmesine, karar verilir. Yukarıdaki metinde noktalı yerleri doldurun.",
+    "options": [
+      "2 - 6",
+      "1 - 4",
+      "3 - 8",
+      "1 - 5",
+      "2 - 5"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Vatandaşlar arasında herhangi bir fark aranmaksızın herkesin vergi vermekle yükümlü olması aşağıdakilerden hangisiyle ifade edilir?",
+    "options": [
+      "Genellik",
+      "Kanunililik",
+      "Eşitlik",
+      "Adalet",
+      "Güvenlik"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Partisinin kapatılmasına sebep olan kişi kaç yıllığına başka partiye katılamaz?",
+    "options": ["2", "3", "5", "6", "7"],
+    "answer": 2
+  },
+  {
+    "q": "Anayasa Mahkemesinde doğrudan doğruya iptal davası açma hakkı, iptali istenen kanun, Cumhurbaşkanlığı kararnamesi veya içtüzüğün Resmi gazetede yayımlanmasından başlayarak kaç gün sonra düşer?",
+    "options": ["60", "70", "80", "90", "120"],
+    "answer": 0
+  },
+  {
+    "q": "Meclis başkanı en fazla kaç turda seçilir?",
+    "options": ["2", "5", "3", "1", "4"],
+    "answer": 4
+  },
+  {
+    "q": "TBMM her yıl ........ ayının ilk günü kendiliğinden toplanır.",
+    "options": [
+      "Ocak",
+      "Nisan",
+      "Haziran",
+      "Ekim",
+      "Aralık"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "TBMM Başkanının üçüncü turda seçilmesi için gerekli oy çoğunluğu aşağıdakilerden hangisidir?",
+    "options": [
+      "301 (üye sayısının salt çoğunluğu)",
+      "Basit çoğunluk",
+      "Toplantıya katılanların salt çoğunluğu",
+      "2/3 (400)",
+      "3/5 (360)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "1982 Anayasası'na göre Cumhurbaşkanı aşağıdakilerden hangisini TBMM ye geri gönderemez?",
+    "options": [
+      "Anayasa değişiklik kanunu",
+      "Bütçe kanunu",
+      "Af kanunu",
+      "Para basılması hakkında kanun",
+      "Bakanlıkların birleştirilmesi hakkında kanun"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "TBMM'nin kanun dışındaki işlemlerine ne ad verilir?",
+    "options": [
+      "Tüzük",
+      "Yönetmelik",
+      "Cumhurbaşkanı kararı",
+      "İç tüzük",
+      "Parlamento kararı"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Hukuk kurallarına aykırı olarak yapılmış bir idari işlemin yargı organları tarafından ortadan kaldırılmasına ne denir?",
+    "options": [
+      "Butlan",
+      "Yokluk",
+      "İptal",
+      "Hükümsüzlük",
+      "Cebr-i icra"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Resmi Gazete'de yayımlanan kanunlar aksi bir hüküm olmaması durumunda ne zaman yürürlüğe girer?",
+    "options": [
+      "1 hafta",
+      "10 gün",
+      "Yayımlandığı an",
+      "24 saat geçtikten sonra",
+      "30 gün"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "I. Anayasada belirtilen normların anayasaya uygunluk denetimini yapmak II. Bazı kişileri göreviyle ilgili suçlardan dolayı Yüce Divan sıfatıyla yargılamak III. Siyasi partilerin kapatılması davalarına bakmak Yukarıdakilerden hangileri Anayasa Mahkemesinin görevleri arasında yer alır?",
+    "options": [
+      "Yalnız I",
+      "I ve II",
+      "I ve III",
+      "II ve III",
+      "I, II ve III"
+    ],
+    "answer": 4
+  },
+  {
     "q": "Kanun teklifi en az kaç milletvekili tarafından yapılır?",
     "options": ["200", "100", "1", "50", "20"],
     "answer": 2
