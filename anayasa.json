@@ -1387,7 +1387,7 @@
   {
     "q": "Yargıtay üyeleri ne kadar süre görev yapar?",
     "options": ["12 yıl", "Emeklilik yaşına kadar", "10 yıl", "8 yıl"],
-    "answer": 1
+    "answer": 0
   },
   {
     "q": "Danıştay Başkanı nasıl seçilir?",
