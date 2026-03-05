@@ -1136,7 +1136,7 @@
   },
   {
     "q": "Soru: Anayasa Mahkemesi üyeleri kaç yaşından küçük olamaz?",
-    "options": ["50", "55", "60", "65"],
+    "options": ["45", "55", "60", "65"],
     "answer": 0
   },
   {
