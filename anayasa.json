@@ -11,6 +11,347 @@
     "answer": 0
   },
   {
+        "q": "2017 değişikliklerine göre, aşağıdaki hak veya ödevlerden hangisi Cumhurbaşkanlığı kararnamesiyle düzenlenebilir?",
+        "options": [
+            "Herkes, kişiliğine bağlı, dokunulmaz, devredilmez, vazgeçilmez temel hak ve hürriyetlere sahiptir.",
+            "Temel hak ve hürriyetler, özlerine dokunulmaksızın yalnızca Anayasanın ilgili maddelerinde belirtilen sebeplere bağlı olarak ve ancak kanunla sınırlanabilir.",
+            "Anayasada yer alan hak ve hürriyetlerden hiçbiri, Devletin ülkesi ve milletiyle bölünmez bütünlüğünü bozmayı ve insan haklarına dayanan demokratik ve laik Cumhuriyeti ortadan kaldırmayı amaçlayan faaliyetler biçiminde kullanılamaz.",
+            "Herkes, yaşama, maddî ve manevî varlığını koruma ve geliştirme hakkına sahiptir.",
+            "Çalışanlar ve işverenler, üyelerinin çalışma ilişkilerinde, ekonomik ve sosyal hak ve menfaatlerini korumak ve geliştirmek için önceden izin almaksızın sendikalar ve üst kuruluşlar kurma, bunlara serbestçe üye olma ve üyelikten serbestçe çekilme haklarına sahiptir."
+        ],
+        "answer": 2
+    },
+    {
+        "q": "2017 değişikliklerine göre, aşağıdaki hak veya ödevlerden hangisi Cumhurbaşkanlığı kararnamesiyle düzenlenemez?",
+        "options": [
+            "Kimse, eğitim ve öğrenim hakkından yoksun bırakılamaz.",
+            "Deniz, göl ve akarsu kıyılarıyla, deniz ve göllerin kıyılarını çevreleyen sahil şeritlerinden yararlanmada öncelikle kamu yararı gözetilir.",
+            "Devlet, toprağın verimli olarak işletilmesini korumak ve geliştirmek, erozyonla kaybedilmesini önlemek ve topraksız olan veya yeter toprağı bulunmayan çiftçilikle uğraşan köylüye toprak sağlamak amacıyla gerekli tedbirleri alır.",
+            "Devlet ve kamu tüzelkişileri; kamu yararının gerektirdiği hallerde, gerçek karşılıklarını peşin ödemek şartıyla, özel mülkiyette bulunan taşınmaz malların tamamını veya bir kısmını, kanunla gösterilen esas ve usullere göre, kamulaştırmaya ve bunlar üzerinde idarî irtifaklar kurmaya yetkilidir.",
+            "Vatandaşlar, kanunda gösterilen şartlara uygun olarak, seçme, seçilme ve bağımsız olarak veya bir siyasî parti içinde siyasî faaliyette bulunma ve halkoylamasına katılma hakkına sahiptir."
+        ],
+        "answer": 4
+    },
+    {
+        "q": "2017 değişikliklerine göre, Cumhurbaşkanı ile ilgili aşağıdakilerden hangisi doğru bir bilgi değildir?",
+        "options": [
+            "Kırk yaşını doldurmuş olmalıdır.",
+            "Cumhurbaşkanı seçilen kişinin varsa partisi ile ilişiği sona erer.",
+            "Yükseköğrenim yapmış olmalıdır.",
+            "Görev süresi 5 yıldır.",
+            "Doğrudan halk tarafından seçilir."
+        ],
+        "answer": 1
+    },
+    {
+        "q": "Aşağıdakilerden hangisi 2017 değişiklikleriyle Cumhurbaşkanına getirilen yeniliklerden biridir?",
+        "options": [
+            "Gerekli gördüğü takdirde, yasama yılının ilk günü TBMM'de açılış konuşmasını yapmak",
+            "Kanunları yayımlamak",
+            "Kanunları tekrar görüşülmek üzere TBMM'ye geri göndermek",
+            "Kanunların, kanun hükmündeki kararnamelerin, TBMM İçtüzüğünün tümünün veya belirli hükümlerinin Anayasaya şekil veya esas bakımından aykırı oldukları gerekçesiyle Anayasa Mahkemesinde iptal davası açmak",
+            "Yürütme yetkisi ve görevi, Cumhurbaşkanı tarafından Anayasaya ve kanunlara uygun olarak kullanılır ve yerine getirilir."
+        ],
+        "answer": 3
+    },
+    {
+        "q": "2017 değişikliklerine göre, aşağıdakilerden hangisi Cumhurbaşkanı Yardımcısı olarak atanabilir?",
+        "options": [
+            "Yüz kızartıcı suç işleyen birisi",
+            "Kasten işlenen bir suçtan 1 yılı aşkın süreyle hüküm giyen birisi",
+            "19 yaşında evli ve çocuklu bir kadın",
+            "Devlet sırlarını açığa vurmaktan hüküm giyen birisi",
+            "Dolanlı iflas suçundan hüküm giyen birisi"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "2017 değişiklikleriyle mahkemelerle ilgili getirilen önemli ifade hangisidir?",
+        "options": [
+            "Bağımsız",
+            "Objektif",
+            "Güçlü",
+            "Tarafsız",
+            "Kapsayıcı"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "2017 değişiklikleriyle aşağıdakilerden hangisi TBMM'nin görev ve yetkilerinden olmaktan çıkmıştır?",
+        "options": [
+            "Bakanlar Kurulunu ve bakanları denetlemek",
+            "Para basılmasına karar vermek",
+            "TBMM üye tamsayısının beşte üç çoğunluğunun kararı ile genel ve özel af ilanına karar vermek",
+            "Milletlerarası andlaşmaların onaylanmasını uygun bulmak",
+            "Savaş ilanına karar vermek"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "2017 değişikliklerine göre, Cumhurbaşkanının talebi üzerine TBMM, olağanüstü hâl süresini her defasında en fazla ne kadar uzatabilir?",
+        "options": [
+            "2 ay",
+            "3 ay",
+            "4 ay",
+            "6 ay",
+            "12 ay"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "Olağanüstü hâl döneminde Cumhurbaşkanı tarafından çıkarılan cumhurbaşkanlığı kararnameleri hangi hukuki niteliğe sahiptir?",
+        "options": [
+            "Kanun",
+            "Tüzük",
+            "Yönetmelik",
+            "Genelge",
+            "Kanun Hükmünde Kararname"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "Savaş ve mücbir sebeplerle TBMM'nin toplanamaması hâli dışında, olağanüstü hâl sırasında çıkarılan cumhurbaşkanlığı kararnameleri en geç ne kadar süre içinde Mecliste görüşülüp karara bağlanır?",
+        "options": [
+            "Derhâl",
+            "5 gün içinde",
+            "15 gün içinde",
+            "1 ay içinde",
+            "45 gün içinde"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "Olağanüstü hâl sırasında çıkarılan cumhurbaşkanlığı kararnameleri bir ay içinde TBMM'de karara bağlanmazsa ne olur?",
+        "options": [
+            "Kendiliğinden yürürlükten kalkar.",
+            "TBMM'nin karar vermesi için ek süre verilir.",
+            "Kararname geçerliliğini korur.",
+            "Kararname Cumhurbaşkanına geri gönderilir.",
+            "15 gün askıda kalır, ardından yürürlükten kalkar."
+        ],
+        "answer": 0
+    },
+    {
+        "q": "2017 değişikliklerine göre, askerî mahkemelerle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+        "options": [
+            "Adli mahkemeler kurulabilir.",
+            "İdarî mahkemeler kurulabilir.",
+            "Disiplin mahkemeleri kurulabilir.",
+            "Malî mahkemeler kurulabilir.",
+            "Ticarî mahkemeler kurulabilir."
+        ],
+        "answer": 2
+    },
+    {
+        "q": "2017 değişikliklerine göre, Anayasa Mahkemesi kaç üyeden oluşur?",
+        "options": [
+            "11",
+            "13",
+            "15",
+            "18",
+            "21"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "2017 değişikliklerine göre, TBMM, Anayasa Mahkemesi üyelerinden kaçının belirlenmesinde etkindir?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "2017 değişikliklerine göre, Cumhurbaşkanı, Anayasa Mahkemesi üyelerinden kaçının belirlenmesinde etkindir?",
+        "options": [
+            "9",
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "TBMM'nin, Sayıştay veya baro başkanlarının gösterdiği üç aday arasından Anayasa Mahkemesi üyesi seçiminde ilk turda aranan oy çokluğu nedir?",
+        "options": [
+            "Üye tamsayısının üçte biri",
+            "Üye tamsayısının salt çoğunluğu",
+            "Üye tamsayısının üçte ikisi",
+            "Üye tamsayısının beşte üçü",
+            "Üye tamsayısının dörtte üçü"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "TBMM'de yapılan Anayasa Mahkemesi üye seçiminde ilk turda üçte iki çoğunluk sağlanamazsa ikinci turda aranan çoğunluk nedir?",
+        "options": [
+            "Üye tamsayısının üçte biri",
+            "Üye tamsayısının salt çoğunluğu",
+            "Üye tamsayısının üçte ikisi",
+            "Üye tamsayısının beşte üçü",
+            "Üye tamsayısının dörtte üçü"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "TBMM'de yapılan Anayasa Mahkemesi üye seçiminde ikinci turda da salt çoğunluk sağlanamazsa üye nasıl belirlenir?",
+        "options": [
+            "Üçüncü tur yapılır, yine salt çoğunluk aranır.",
+            "Üçüncü tur yapılır, üye tamsayısının beşte iki çoğunluğu aranır.",
+            "Üçüncü turda ikinci turda en çok oy alan iki aday yarışır, salt çoğunluk aranır.",
+            "Üçüncü turda ikinci turda en çok oy alan iki aday yarışır, üçte iki çoğunluk aranır.",
+            "Üçüncü turda ikinci turda en çok oy alan iki aday yarışır, fazla oy alan seçilir."
+        ],
+        "answer": 2
+    },
+    {
+        "q": "2017 değişikliklerine göre, Anayasa Mahkemesine üye gönderme yetkisi kalmayan kurum aşağıdakilerden hangisidir?",
+        "options": [
+            "Yargıtay",
+            "Askerî Yargıtay",
+            "Danıştay",
+            "Sayıştay",
+            "YÖK"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "2017 değişikliklerine göre, Anayasa Mahkemesine üye gönderme yetkisi kalmayan kurum aşağıdakilerden hangisidir?",
+        "options": [
+            "Yargıtay",
+            "Danıştay",
+            "Askerî Yüksek İdare Mahkemesi",
+            "Sayıştay",
+            "YÖK"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "2017 değişiklikleriyle adı değiştirilen kurum aşağıdakilerden hangisidir?",
+        "options": [
+            "Anayasa Mahkemesi",
+            "Yargıtay",
+            "Askerî Yüksek İdare Mahkemesi",
+            "Hâkimler ve Savcılar Yüksek Kurulu",
+            "Sayıştay"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "2017 değişikliklerine göre, Hâkimler ve Savcılar Kurulu kaç üyeden oluşur?",
+        "options": [
+            "9",
+            "11",
+            "13",
+            "15",
+            "17"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "Hâkimler ve Savcılar Kurulu kaç daire hâlinde çalışır?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "7"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "Hâkimler ve Savcılar Kurulu üyelerinden kaçını TBMM belirler?",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "Hâkimler ve Savcılar Kurulu üyelerinden kaçını Cumhurbaşkanı belirler?",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "Hâkimler ve Savcılar Kurulu üyelerinin görev süresi kaç yıldır?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "7",
+            "11"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "\"___1___ bütçe kanun teklifini, malî yılbaşından en az ___2___ gün önce TBMM'ye sunar.\" Boşluklara sırasıyla hangi seçenek gelmelidir?",
+        "options": [
+            "Bakanlar Kurulu - 75",
+            "Cumhurbaşkanı - 75",
+            "Cumhurbaşkanı - 55",
+            "Bakanlar Kurulu - 55",
+            "Maliye Bakanlığı - 75"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "2017 değişikliklerine göre, Cumhurbaşkanı Anayasa Mahkemesine Yargıtay'dan kaç üye atar?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "2017 değişikliklerine göre, Anayasa Mahkemesi raportörünün üye olabilmesi için en az kaç yıl bu görevde bulunması gerekir?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "answer": 4
+    },
+    {
+        "q": "Aşağıdakilerden hangisi 2017 değişiklikleriyle Cumhurbaşkanına tanınan yetkilerden biri değildir?",
+        "options": [
+            "Cumhurbaşkanı yardımcıları ile bakanları atar ve görevlerine son verir.",
+            "Üst düzey kamu yöneticilerini atar ve görevlerine son verir.",
+            "Ülkenin iç ve dış siyaseti hakkında Meclise mesaj verir.",
+            "Devlet başkanı sıfatıyla Türkiye Cumhuriyetini ve Türk milletinin birliğini temsil eder.",
+            "TBMM adına Türk Silahlı Kuvvetlerinin Başkomutanlığını temsil eder."
+        ],
+        "answer": 4
+    },
+    {
+        "q": "2017 değişikliklerine göre, bakanlar aşağıdakilerden hangisine karşı sorumludur?",
+        "options": [
+            "TBMM",
+            "Bakanlar Kurulu",
+            "TBMM Başkanı",
+            "Cumhurbaşkanı yardımcıları",
+            "Cumhurbaşkanı"
+        ],
+        "answer": 4
+    },
+    {
         "q": "2017 değişiklikleriyle birlikte, aşağıdaki hak veya ödevlerden hangileri hakkında Cumhurbaşkanlığı kararnamesi çıkarılması mümkün değildir? I. Basın özgürlüğü II. Kamulaştırma III. Dilekçe hakkı IV. Toprak mülkiyeti V. Ailenin korunması",
         "options": [
             "I ve III",
