@@ -11,6 +11,446 @@
     "answer": 0
   },
   {
+        "q": "2017 değişiklikleriyle birlikte, aşağıdaki hak veya ödevlerden hangileri hakkında Cumhurbaşkanlığı kararnamesi çıkarılması mümkün değildir? I. Basın özgürlüğü II. Kamulaştırma III. Dilekçe hakkı IV. Toprak mülkiyeti V. Ailenin korunması",
+        "options": [
+            "I ve III",
+            "II ve III",
+            "I ve V",
+            "III ve V",
+            "I ve IV"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "Cumhurbaşkanı, kanunların uygulanmasını sağlamak ve onlara aykırı olmamak üzere yönetmelikler çıkarabilir. Aksi belirtilmediği takdirde, Cumhurbaşkanlığı kararnameleri ve yönetmelikler ne zaman yürürlüğe girer?",
+        "options": [
+            "Resmî Gazete'de yayımlandığı gün",
+            "Resmî Gazete'de yayımlandıktan 15 gün sonra",
+            "Resmî Gazete'de yayımlandıktan 30 gün sonra",
+            "Resmî Gazete'de yayımlandıktan 45 gün sonra",
+            "Resmî Gazete'de yayımlandıktan 3 ay sonra"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "Cumhurbaşkanı hakkında bir suç işlediği iddiasıyla soruşturma açılması istenebilmesi için TBMM üye tamsayısının en az kaçta kaçının önerge vermesi gerekir?",
+        "options": [
+            "Üçte biri",
+            "Salt çoğunluğu",
+            "Üçte ikisi",
+            "Beşte üçü",
+            "Dörtte üçü"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "Cumhurbaşkanı hakkında soruşturma açılmasına yönelik önergenin TBMM'de görüşülmesi için en geç ne kadarlık bir süre öngörülmüştür?",
+        "options": [
+            "7 gün",
+            "10 gün",
+            "15 gün",
+            "1 ay",
+            "3 ay"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "Cumhurbaşkanı hakkında soruşturma açılmasına izin verilebilmesi için TBMM Genel Kurulunda aranan oy çokluğu nedir?",
+        "options": [
+            "Üye tamsayısının üçte biri",
+            "Üye tamsayısının salt çoğunluğu",
+            "Üye tamsayısının üçte ikisi",
+            "Üye tamsayısının beşte üçü",
+            "Üye tamsayısının dörtte üçü"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "Cumhurbaşkanı hakkında soruşturma açılmasına karar verildikten sonra kurulacak komisyon için siyasi partiler, güçleri oranında komisyona verebilecekleri üye sayısının kaç katı aday gösterir?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "7"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "Soruşturma komisyonu, siyasi partilerin gösterdiği adaylar arasından her parti için ayrı ayrı ad çekme yöntemiyle kaç kişiden oluşur?",
+        "options": [
+            "10",
+            "15",
+            "30",
+            "45",
+            "55"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "Soruşturma komisyonu, raporunu en geç ne kadar süre içinde TBMM Başkanlığına sunmak zorundadır?",
+        "options": [
+            "7 gün",
+            "10 gün",
+            "15 gün",
+            "1 ay",
+            "2 ay"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "Komisyon, soruşturmayı belirtilen sürede tamamlayamazsa kendisine verilebilecek ek süre ne kadardır?",
+        "options": [
+            "7 gün",
+            "10 gün",
+            "15 gün",
+            "1 ay",
+            "2 ay"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "Komisyon raporunun TBMM Başkanlığına verilmesinden sonra, dağıtılması için tanınan süre kaç gündür?",
+        "options": [
+            "7 gün",
+            "10 gün",
+            "15 gün",
+            "1 ay",
+            "45 gün"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "Raporun dağıtılmasının ardından Genel Kurulda görüşülmesi için öngörülen süre kaç gündür?",
+        "options": [
+            "7 gün",
+            "10 gün",
+            "15 gün",
+            "1 ay",
+            "45 gün"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "Genel Kurulda görüşülen rapor sonucunda, Cumhurbaşkanının Yüce Divan'a sevk edilebilmesi için gereken oy oranı nedir?",
+        "options": [
+            "Üye tamsayısının üçte biri",
+            "Üye tamsayısının salt çoğunluğu",
+            "Üye tamsayısının üçte ikisi",
+            "Üye tamsayısının beşte üçü",
+            "Üye tamsayısının dörtte üçü"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "Yüce Divan'a sevk edilen Cumhurbaşkanının yargılamasının tamamlanması için öngörülen süre ne kadardır?",
+        "options": [
+            "15 gün",
+            "1 ay",
+            "45 gün",
+            "2 ay",
+            "3 ay"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "Yüce Divan, yargılamayı belirtilen sürede bitiremezse, kendisine verilebilecek ek süre ne kadardır?",
+        "options": [
+            "15 gün",
+            "1 ay",
+            "45 gün",
+            "2 ay",
+            "3 ay"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "Cumhurbaşkanlığı makamı herhangi bir nedenle boşaldığında, yeni Cumhurbaşkanı seçimi kaç gün içinde yapılır?",
+        "options": [
+            "15 gün",
+            "1 ay",
+            "45 gün",
+            "2 ay",
+            "3 ay"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "Cumhurbaşkanlığı makamının boşalması hâlinde, yenisi seçilene kadar Cumhurbaşkanlığına kim vekâlet eder?",
+        "options": [
+            "İçişleri Bakanı",
+            "TBMM Başkanı",
+            "Dışişleri Bakanı",
+            "Cumhurbaşkanı Yardımcısı",
+            "Genelkurmay Başkanı"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "Genel seçimlere ne kadarlık bir süre veya daha az kalmışsa, TBMM seçimleri Cumhurbaşkanı seçimiyle birlikte yenilenir?",
+        "options": [
+            "3 ay",
+            "6 ay",
+            "9 ay",
+            "1 yıl",
+            "18 ay"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "Cumhurbaşkanının hastalık veya yurt dışına çıkma gibi geçici sebeplerle görevinden ayrılması hâlinde yerine kim vekâlet eder?",
+        "options": [
+            "İçişleri Bakanı",
+            "TBMM Başkanı",
+            "Dışişleri Bakanı",
+            "Cumhurbaşkanı Yardımcısı",
+            "Genelkurmay Başkanı"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "Aşağıdakilerden hangisi Cumhurbaşkanı tarafından Cumhurbaşkanı Yardımcısı olarak atanabilir?",
+        "options": [
+            "26 yaşında, askerlikle ilişiği bulunan bir vatandaş",
+            "19 yaşında, ilkokul 4'ten terk bir vatandaş",
+            "Taksirli bir suçtan 14 ay ceza almış bir vatandaş",
+            "Hırsızlık suçundan hüküm giymiş bir vatandaş",
+            "Bir üniversitenin rektörü"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "Aşağıdakilerden hangisi Cumhurbaşkanı Yardımcısı olarak atanabilme şartlarını taşımaktadır?",
+        "options": [
+            "19 yaşında üniversite öğrencisi",
+            "İhaleye fesat karıştırma suçundan hüküm giymiş",
+            "Devlet sırlarını açığa vurmaktan hüküm giymiş",
+            "Kasten işlenen bir suçtan 1 yıl ceza almış",
+            "Dolandırıcılık suçundan hüküm giymiş"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "Aşağıdakilerden hangisi Cumhurbaşkanı Yardımcısı olarak atanabilme şartlarını sağlamamıştır?",
+        "options": [
+            "21 yaşında, askerlikle ilişiği olmayan",
+            "19 yaşında, fiziksel engelli",
+            "Öğretim görevliliğinden istifa etmiş",
+            "Hileli iflas suçundan hüküm giymiş",
+            "Kasten işlenen bir suçtan 11 ay ceza alan"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "Cumhurbaşkanı Yardımcıları ve bakanlar hakkında görevleriyle ilgili bir suç iddiasıyla soruşturma açılması istenebilmesi için TBMM üye tamsayısının kaçta kaçının önerge vermesi gerekir?",
+        "options": [
+            "Üçte biri",
+            "Salt çoğunluğu",
+            "Üçte ikisi",
+            "Beşte üçü",
+            "Dörtte üçü"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "Cumhurbaşkanı Yardımcıları ve bakanlar hakkında soruşturma açılmasına izin verilebilmesi için TBMM Genel Kurulunda aranan oy çokluğu nedir?",
+        "options": [
+            "Üye tamsayısının üçte biri",
+            "Üye tamsayısının salt çoğunluğu",
+            "Üye tamsayısının üçte ikisi",
+            "Üye tamsayısının beşte üçü",
+            "Üye tamsayısının dörtte üçü"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "Cumhurbaşkanı Yardımcıları ve bakanlar hakkında soruşturma açılmasına karar verilmesi hâlinde, siyasi partilerin komisyon için kaç katı aday göstermesi öngörülmüştür?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "7"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "Siyasi partilerin gösterdiği adaylar arasından ad çekme yöntemiyle oluşturulacak soruşturma komisyonu kaç kişiden oluşur?",
+        "options": [
+            "10",
+            "15",
+            "30",
+            "45",
+            "55"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "Cumhurbaşkanı Yardımcıları ve bakanlar için kurulan soruşturma komisyonu, raporunu en geç ne kadar sürede TBMM Başkanlığına sunar?",
+        "options": [
+            "7 gün",
+            "10 gün",
+            "15 gün",
+            "1 ay",
+            "2 ay"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "Komisyon, soruşturmayı bu sürede tamamlayamazsa kendisine verilecek ek süre ne kadardır?",
+        "options": [
+            "7 gün",
+            "10 gün",
+            "15 gün",
+            "1 ay",
+            "2 ay"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "Komisyon raporunun TBMM Başkanlığına verilmesinden sonra dağıtılması için tanınan süre kaç gündür?",
+        "options": [
+            "7 gün",
+            "10 gün",
+            "15 gün",
+            "1 ay",
+            "45 gün"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "Raporun dağıtılmasından itibaren Genel Kurulda görüşülmesi için öngörülen süre kaç gündür?",
+        "options": [
+            "7 gün",
+            "10 gün",
+            "15 gün",
+            "1 ay",
+            "45 gün"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "Genel Kurulda görüşülen rapor sonucunda, Cumhurbaşkanı Yardımcısı veya bakanın Yüce Divan'a sevk edilebilmesi için gereken oy oranı nedir?",
+        "options": [
+            "Üye tamsayısının üçte biri",
+            "Üye tamsayısının salt çoğunluğu",
+            "Üye tamsayısının üçte ikisi",
+            "Üye tamsayısının beşte üçü",
+            "Üye tamsayısının dörtte üçü"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "Yüce Divan'a sevk edilen Cumhurbaşkanı Yardımcısı veya bakanın yargılamasının tamamlanması için öngörülen süre ne kadardır?",
+        "options": [
+            "15 gün",
+            "1 ay",
+            "45 gün",
+            "2 ay",
+            "3 ay"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "Yüce Divan, bu yargılamayı belirtilen sürede bitiremezse kendisine verilebilecek ek süre ne kadardır?",
+        "options": [
+            "15 gün",
+            "1 ay",
+            "45 gün",
+            "2 ay",
+            "3 ay"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "TBMM, seçimlerin yenilenmesine hangi orandaki çoğunlukla karar verebilir?",
+        "options": [
+            "Üye tamsayısının üçte biri",
+            "Üye tamsayısının salt çoğunluğu",
+            "Üye tamsayısının üçte ikisi",
+            "Üye tamsayısının beşte üçü",
+            "Üye tamsayısının dörtte üçü"
+        ],
+        "answer": 1
+    },
+    {
+        "q": "TBMM'nin seçimlerin yenilenmesine karar vermesi hâlinde, Cumhurbaşkanlığı seçimi ile TBMM seçimleri nasıl gerçekleştirilir?",
+        "options": [
+            "Yalnızca TBMM seçimleri yenilenir.",
+            "Cumhurbaşkanlığı seçimine 3 aydan az süre kalmışsa birlikte yapılır.",
+            "Cumhurbaşkanlığı seçimine 4 aydan az süre kalmışsa birlikte yapılır.",
+            "Süreye bakılmaksızın her iki seçim birlikte yapılır.",
+            "İki seçim arasında bağlantı bulunmamaktadır."
+        ],
+        "answer": 3
+    },
+    {
+        "q": "Cumhurbaşkanının seçimlerin yenilenmesine karar vermesi hâlinde, Cumhurbaşkanlığı seçimi ile TBMM seçimleri nasıl gerçekleştirilir?",
+        "options": [
+            "Yalnızca TBMM seçimleri yenilenir.",
+            "Cumhurbaşkanlığı seçimine 3 aydan az süre kalmışsa birlikte yapılır.",
+            "Cumhurbaşkanlığı seçimine 4 aydan az süre kalmışsa birlikte yapılır.",
+            "Süreye bakılmaksızın her iki seçim birlikte yapılır.",
+            "İki seçim arasında bağlantı bulunmamaktadır."
+        ],
+        "answer": 3
+    },
+    {
+        "q": "2017 değişikliklerine göre, olağanüstü hâle karar verme yetkisi aşağıdakilerden hangisine aittir?",
+        "options": [
+            "Yalnız Cumhurbaşkanı",
+            "Yalnız Bakanlar Kurulu",
+            "Yalnız TBMM",
+            "Cumhurbaşkanı ve Bakanlar Kurulu birlikte",
+            "TBMM'deki iktidar partisi grubu"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "Cumhurbaşkanı, olağanüstü hâli en fazla ne kadar süreyle ilan edebilir?",
+        "options": [
+            "3 ay",
+            "4 ay",
+            "5 ay",
+            "6 ay",
+            "12 ay"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "Cumhurbaşkanının olağanüstü hâl kararı Resmî Gazete'de ne zaman yayımlanır?",
+        "options": [
+            "Aynı gün",
+            "3 gün içinde",
+            "5 gün içinde",
+            "1 hafta içinde",
+            "15 gün içinde"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "Resmî Gazete'de yayımlanan olağanüstü hâl kararı, TBMM'nin onayına en geç ne zaman sunulur?",
+        "options": [
+            "Aynı gün",
+            "3 gün içinde",
+            "5 gün içinde",
+            "1 hafta içinde",
+            "15 gün içinde"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "Olağanüstü hâl kararının ilan edildiği sırada TBMM tatilde ise aşağıdakilerden hangisi gerçekleşir?",
+        "options": [
+            "Tatile devam edilir, bitmesi beklenir.",
+            "TBMM derhâl toplantıya çağrılır.",
+            "TBMM'nin 3 gün içinde toplanması beklenir.",
+            "TBMM'nin 5 gün içinde toplanması beklenir.",
+            "TBMM'nin 15 gün içinde toplanması beklenir."
+        ],
+        "answer": 1
+    },
+  {
         "q": "1982 Anayasası 2017 değişikliğine göre, yargı yetkisine hangi kavram eklenmiştir?",
         "options": [
             "Tarafsız",
