@@ -11,6 +11,248 @@
     "answer": 0
   },
   {
+        "q": "1982 Anayasası 2017 değişikliğine göre, yargı yetkisine hangi kavram eklenmiştir?",
+        "options": [
+            "Tarafsız",
+            "Bağımsız",
+            "Özgür",
+            "Çoğulcu",
+            "Demokrat"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "1982 Anayasası 2017 değişikliğine göre, TBMM kaç milletvekilinden oluşur?",
+        "options": [
+            "400",
+            "450",
+            "550",
+            "600",
+            "550 asıl 100 yedek"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "1982 Anayasası döneminde 1982'den günümüze milletvekili sayısal değişimi hangi seçenekte kronolojik olarak doğru sıralanmıştır?",
+        "options": [
+            "450-500-550",
+            "400-450-550-600",
+            "450-550-600",
+            "450-500-550-600",
+            "400-500-550-600"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "1982 Anayasası 2017 değişikliğine göre, seçme ve seçilme sırayla yaşı kaçtır?",
+        "options": [
+            "18-25",
+            "18-18",
+            "25-25",
+            "18-21",
+            "21-21"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "1982 Anayasası 2017 değişikliğine göre, TBMM seçimleri kaç yılda bir yapılır?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "TBMM ve Cumhurbaşkanlığı seçimleri ile ilgili olarak aşağıdaki ifadelerden hangisi doğrudur?",
+        "options": [
+            "Her ikisinin de seçimleri ilgili süreleri doldurdukları zaman yapılabilir, ilişikleri yoktur.",
+            "İkisinin seçimleri arasında 1 yıldan fazla zaman aralığı olmalıdır.",
+            "Seçim zamanları birbirine yakınsa iki seçim birleştirilir.",
+            "Önce TBMM ardından Cumhurbaşkanlığı seçimi yapılmalıdır.",
+            "Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri beş yılda bir aynı günde yapılır."
+        ],
+        "answer": 4
+    },
+    {
+        "q": "1982 Anayasası 2017 değişikliğine göre aşağıdakilerden hangisi TBMM'nin görev ve yetkilerinden değildir?",
+        "options": [
+            "Kanun koymak, değiştirmek ve kaldırmak",
+            "Bütçe ve kesinhesap kanun tasarılarını görüşmek ve kabul etmek",
+            "Para basılmasına karar vermek",
+            "Bakanlar Kurulunu ve bakanları denetlemek",
+            "Savaş ilanına karar vermek"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "1982 Anayasası 2017 değişikliğine göre aşağıdakilerden hangisi TBMM'nin görev ve yetkilerinden değildir?",
+        "options": [
+            "Bakanlar Kurulu'na belli konularda kanun hükmünde kararname çıkarma yetkisi vermek",
+            "Milletler arası antlaşmaların onaylanmasını uygun bulmak",
+            "TBMM üye tamsayısının beşte üç çoğunluğunun kararı ile genel ve özel af ilanına karar vermek",
+            "Para basılmasına karar vermek",
+            "Kanunları kaldırmak"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "1982 Anayasası 2017 değişikliğine göre, aşağıdakilerden hangisi milletvekili seçilemez?",
+        "options": [
+            "19 yaşından gün almış bir Türk kadını",
+            "19 yaşından gün almış engelli bir vatandaş",
+            "18 yaşını tamamlamış bir üniversite öğrencisi",
+            "24 yaşında askerliğini yapan bir Türk genci",
+            "19 yaşındaki bir lise öğrencisi"
+        ],
+        "answer": 2
+    },
+    {
+        "q": "1982 Anayasası 2017 değişikliğine göre, kanunları Cumhurbaşkanının yayımlaması ile ilgili aşağıdaki bilgilerden hangisi doğru bir bilgi değildir?",
+        "options": [
+            "Cumhurbaşkanı, Türkiye Büyük Millet Meclisince kabul edilen kanunları onbeş gün içinde yayımlar.",
+            "Yayımlanmasını kısmen veya tamamen uygun bulmadığı kanunları, bir daha görüşülmek üzere, bu hususta gösterdiği gerekçe ile birlikte aynı süre içinde, Türkiye Büyük Millet Meclisine geri gönderir.",
+            "Cumhurbaşkanınca kısmen uygun bulunmama durumunda, Türkiye Büyük Millet Meclisi sadece uygun bulunmayan maddeleri görüşebilir.",
+            "TBMM, geri gönderilen kanunu üye tam sayısının salt çoğunluğu ile aynen kabul ederse kanun Cumhurbaşkanınca yayımlanır.",
+            "Türkiye Büyük Millet Meclisi, geri gönderilen kanunu aynen kabul ederse, kanun Cumhurbaşkanınca yayımlanır."
+        ],
+        "answer": 3
+    },
+    {
+        "q": "1982 Anayasası 2017 değişikliğine göre, TBMM ara verme veya tatildeyken aşağıdakilerden hangisi veya hangileri TBMM'yi toplantıya çağırabilir?",
+        "options": [
+            "Cumhurbaşkanı doğrudan",
+            "TBMM Başkanı doğrudan",
+            "Bakanlar Kurulu Cumhurbaşkanı aracılığıyla",
+            "TBMM üye tamsayısının beşte biri TBMM Başkanı aracılığıyla",
+            "Cumhurbaşkanı ve Cumhurbaşkanı"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "1982 Anayasası 2017 değişikliği ile aşağıdakilerden hangisi kaldırılmıştır?",
+        "options": [
+            "Soru",
+            "Meclis Araştırması",
+            "Genel Görüşme",
+            "Gensoru",
+            "Meclis Soruşturması"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "1982 Anayasası 2017 değişikliği ile aşağıdakilerden hangisinin adı değiştirilmiştir?",
+        "options": [
+            "Soru",
+            "Meclis Araştırması",
+            "Genel Görüşme",
+            "Gensoru",
+            "Meclis Soruşturması"
+        ],
+        "answer": 0
+    },
+    {
+        "q": "1982 Anayasası 2017 değişikliği ile gensorunun kaldırılmasıyla bakanlar üzerindeki hangi sorumluluk kalkmış olur?",
+        "options": [
+            "Hukuki sorumluluk",
+            "Mali sorumluluk",
+            "Ekonomik sorumluluk",
+            "Siyasi sorumluluk",
+            "Cezai sorumluluk"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "1982 Anayasası 2017 değişikliği ile yazılı soruya kaç gün içinde cevap verilmek zorunluluğu vardır?",
+        "options": [
+            "5",
+            "7",
+            "10",
+            "15",
+            "30"
+        ],
+        "answer": 3
+    },
+    {
+        "q": "1982 Anayasası 2017 değişikliği ile aşağıdakilerden hangisine yazılı soru sorulamaz veya meclis soruşturması açılamaz?",
+        "options": [
+            "Bakanlar",
+            "Milletvekili olmayan bakanlar",
+            "Başbakan",
+            "Cumhurbaşkanı yardımcıları",
+            "Hiçbiri"
+        ],
+        "answer": 4
+    },
+    {
+        "q": "1982 Anayasası 2017 değişikliğine göre, Cumhurbaşkanı seçimiyle ilgili olarak aşağıdakilerden hangisi yanlış bir bilgidir?",
+        "options": [
+            "Kırk yaşını doldurmuş olması gerekir.",
+            "Yükseköğrenim yapmış olması gerekir.",
+            "Milletvekili seçilme yeterliliğine sahip olması gerekir.",
+            "Doğrudan halk tarafından seçilir.",
+            "En son yapılan genel seçimlerde toplam geçerli oyların tek başına veya birlikte yüzde onunu almış olan siyasi partiler Cumhurbaşkanı aday gösterebilir."
+        ],
+        "answer": 4
+    },
+    {
+        "q": "1982 Anayasası 2017 değişikliğine göre, Cumhurbaşkanı seçimiyle ilgili olarak aşağıdakilerden hangisi yanlış bir bilgidir?",
+        "options": [
+            "Cumhurbaşkanı, Türk vatandaşları arasından halk tarafından seçilir.",
+            "En az yüzbin seçmen Cumhurbaşkanlığına aday gösterebilir.",
+            "Cumhurbaşkanı seçilen kişinin TBMM üyeliği sona erer.",
+            "Cumhurbaşkanı seçilenin, varsa partisi ile ilişiği kesilir.",
+            "Bir kimse en fazla iki defa Cumhurbaşkanı seçilebilir."
+        ],
+        "answer": 4
+    },
+    {
+        "q": "1982 Anayasası 2017 değişikliğine göre, aşağıdakilerden hangisi Cumhurbaşkanlığı seçiminde aday gösteremez?",
+        "options": [
+            "İktidar partisi grubu",
+            "Ana muhalefet partisi grubu",
+            "En az yüz bin seçmen",
+            "En son yapılan genel seçimlerde toplam geçerli oyların tek başına veya birlikte en az yüzde üçünü almış olan siyasi partiler",
+            "TBMM'de grubu bulunan herhangi bir siyasi parti"
+        ],
+        "answer": 4
+    },
+    {
+        "q": "1982 Anayasası 2017 değişikliğine göre, yürütme yetkisi ve görevi kime aittir?",
+        "options": [
+            "Bakanlar Kurulu",
+            "Başbakan",
+            "Ayrı ayrı her bakan",
+            "Bakanlar Kurulu + Cumhurbaşkanı",
+            "Cumhurbaşkanı"
+        ],
+        "answer": 4
+    },
+    {
+        "q": "Aşağıdakilerden hangisi, 2017 değişikliği ile Cumhurbaşkanının görev ve yetkileri ile ilgili yeniliklerden biri değildir?",
+        "options": [
+            "Ülkenin iç ve dış siyaseti hakkında Meclise mesaj verir.",
+            "Cumhurbaşkanı yardımcıları ile bakanları atar ve görevlerine son verir.",
+            "Üst kademe kamu yöneticilerini atar, görevlerine son verir ve bunların atanmalarına ilişkin usul ve esasları Cumhurbaşkanı kararnamesi ile düzenler.",
+            "Yabancı devletlere Türkiye Cumhuriyetinin temsilcilerini gönderir, Türkiye Cumhuriyetine gönderilecek yabancı devlet temsilcilerini kabul eder.",
+            "Türkiye Büyük Millet Meclisi adına, yürütme yetkisine ilişkin konularda Cumhurbaşkanlığı kararnamesi çıkarabilir."
+        ],
+        "answer": 0
+    },
+    {
+        "q": "1982 Anayasası 2017 değişikliği ile Cumhurbaşkanı hangi konularda Cumhurbaşkanlığı kararnamesi çıkarabilir?",
+        "options": [
+            "Yasama",
+            "Yürütme",
+            "Yargı",
+            "İdari",
+            "Uluslararası ilişkiler"
+        ],
+        "answer": 1
+    },
+  {
     "q": "Aşağıda verilenlerden hangisi 2017 Anayasa değişikliği ile birlikte TBMM'nin görev ve yetkileri arasına eklenmiştir?",
     "options": [
       "Para basılmasına karar vermek",
