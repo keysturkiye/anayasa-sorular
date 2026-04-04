@@ -2173,11 +2173,6 @@
     "answer": 0
   },
   {
-    "q": "Soru : Görevde yükselmede hangi kriter önemli değildir?",
-    "options": ["Süre", "Sınav", "Şans", "Başarı"],
-    "answer": 2
-  },
-  {
     "q": "Aşağıdakilerden hangisi 1982 Anayasası başlangıç metninde düzenlenen temel ilkelerden biri değildir?",
     "options": ["Milli egemenlik", "Laiklik", "Atatürk milliyetçiliği", "Kuvvetler birliği"],
     "answer": 3
