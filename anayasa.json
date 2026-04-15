@@ -2215,7 +2215,7 @@
   {
     "q": "Anayasa değişikliğinin iptali için başvuru süresi kaç gündür?",
     "options": ["10 gün", "15 gün", "30 gün", "45 gün"],
-    "answer": 1
+    "answer": 0
   },
   {
     "q": "Kanunların anayasaya uygunluğunu denetleme görevi kime aittir?",
