@@ -11,15 +11,15 @@
     "answer": 0
   },
   {
-        "q": "2017 değişikliklerine göre, aşağıdaki hak veya ödevlerden hangisi Cumhurbaşkanlığı kararnamesiyle düzenlenebilir?",
-        "options": [
-            "Herkes, kişiliğine bağlı, dokunulmaz, devredilmez, vazgeçilmez temel hak ve hürriyetlere sahiptir.",
-            "Temel hak ve hürriyetler, özlerine dokunulmaksızın yalnızca Anayasanın ilgili maddelerinde belirtilen sebeplere bağlı olarak ve ancak kanunla sınırlanabilir.",
-            "Anayasada yer alan hak ve hürriyetlerden hiçbiri, Devletin ülkesi ve milletiyle bölünmez bütünlüğünü bozmayı ve insan haklarına dayanan demokratik ve laik Cumhuriyeti ortadan kaldırmayı amaçlayan faaliyetler biçiminde kullanılamaz.",
-            "Herkes, yaşama, maddî ve manevî varlığını koruma ve geliştirme hakkına sahiptir.",
-            "Çalışanlar ve işverenler, üyelerinin çalışma ilişkilerinde, ekonomik ve sosyal hak ve menfaatlerini korumak ve geliştirmek için önceden izin almaksızın sendikalar ve üst kuruluşlar kurma, bunlara serbestçe üye olma ve üyelikten serbestçe çekilme haklarına sahiptir."
-        ],
-        "answer": 2
+        "q": "2017 değişikliklerine göre, aşağıdaki konulardan hangisi Cumhurbaşkanlığı kararnamesiyle düzenlenebilir?",
+  "options": [
+    "Herkes, kişiliğine bağlı, dokunulmaz, devredilmez, vazgeçilmez temel hak ve hürriyetlere sahiptir.",
+    "Temel hak ve hürriyetler, özlerine dokunulmaksızın yalnızca Anayasanın ilgili maddelerinde belirtilen sebeplere bağlı olarak ve ancak kanunla sınırlanabilir.",
+    "Anayasada yer alan hak ve hürriyetlerden hiçbiri, Devletin ülkesi ve milletiyle bölünmez bütünlüğünü bozmayı amaçlayan faaliyetler biçiminde kullanılamaz.",
+    "Herkes, yaşama, maddî ve manevî varlığını koruma ve geliştirme hakkına sahiptir.",
+    "Bakanlıkların kurulması, kaldırılması ve teşkilat yapısı"
+  ],
+  "answer": 4
     },
     {
         "q": "2017 değişikliklerine göre, aşağıdaki hak veya ödevlerden hangisi Cumhurbaşkanlığı kararnamesiyle düzenlenemez?",
@@ -45,14 +45,14 @@
     },
     {
         "q": "Aşağıdakilerden hangisi 2017 değişiklikleriyle Cumhurbaşkanına getirilen yeniliklerden biridir?",
-        "options": [
-            "Gerekli gördüğü takdirde, yasama yılının ilk günü TBMM'de açılış konuşmasını yapmak",
-            "Kanunları yayımlamak",
-            "Kanunları tekrar görüşülmek üzere TBMM'ye geri göndermek",
-            "Kanunların, kanun hükmündeki kararnamelerin, TBMM İçtüzüğünün tümünün veya belirli hükümlerinin Anayasaya şekil veya esas bakımından aykırı oldukları gerekçesiyle Anayasa Mahkemesinde iptal davası açmak",
-            "Yürütme yetkisi ve görevi, Cumhurbaşkanı tarafından Anayasaya ve kanunlara uygun olarak kullanılır ve yerine getirilir."
-        ],
-        "answer": 3
+  "options": [
+    "Gerekli gördüğü takdirde, yasama yılının ilk günü TBMM'de açılış konuşmasını yapmak",
+    "Kanunları yayımlamak",
+    "Kanunları tekrar görüşülmek üzere TBMM'ye geri göndermek",
+    "Kanunların, kanun hükmündeki kararnamelerin, TBMM İçtüzüğünün tümünün veya belirli hükümlerinin Anayasaya aykırılığı iddiasıyla Anayasa Mahkemesinde iptal davası açmak",
+    "Yürütme yetkisi ve görevinin Cumhurbaşkanı tarafından kullanılması"
+  ],
+  "answer": 4
     },
     {
         "q": "2017 değişikliklerine göre, aşağıdakilerden hangisi Cumhurbaşkanı Yardımcısı olarak atanabilir?",
@@ -206,7 +206,7 @@
             "Üçüncü turda ikinci turda en çok oy alan iki aday yarışır, üçte iki çoğunluk aranır.",
             "Üçüncü turda ikinci turda en çok oy alan iki aday yarışır, fazla oy alan seçilir."
         ],
-        "answer": 2
+        "answer": 4 
     },
     {
         "q": "2017 değişikliklerine göre, Anayasa Mahkemesine üye gönderme yetkisi kalmayan kurum aşağıdakilerden hangisidir?",
@@ -351,83 +351,208 @@
         ],
         "answer": 4
     },
+     {
+    "q": "TBMM üyeleri kaç yılda bir seçilir?",
+    "options": ["3", "4", "5", "6", "7"],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisi 2017 değişiklikleriyle kaldırılmıştır?",
+    "options": ["Yazılı soru", "Meclis araştırması", "Gensoru", "Genel görüşme", "Meclis soruşturması"],
+    "answer": 2
+  },
+  {
+    "q": "Cumhurbaşkanı aşağıdakilerden hangisini yapamaz?",
+    "options": ["Bakan atamak", "Cumhurbaşkanlığı kararnamesi çıkarmak", "Kanun teklif etmek", "Üst düzey atama yapmak", "OHAL ilan etmek"],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisi Cumhurbaşkanlığı kararnamesi ile düzenlenemez?",
+    "options": ["Bakanlıkların kurulması", "Üst kademe yöneticileri", "Temel hak ve özgürlükler", "Kamu kurumlarının teşkilatı", "Cumhurbaşkanlığı teşkilatı"],
+    "answer": 2
+  },
+  {
+    "q": "Cumhurbaşkanı yardımcıları ve bakanlar hakkında soruşturma açılması için gereken teklif oranı nedir?",
+    "options": ["1/10", "1/5", "1/3", "Salt çoğunluk", "2/3"],
+    "answer": 1
+  },
+  {
+    "q": "Soruşturma açılmasına karar verilmesi için gereken çoğunluk nedir?",
+    "options": ["1/5", "1/3", "Salt çoğunluk", "3/5", "2/3"],
+    "answer": 3
+  },
+  {
+    "q": "Cumhurbaşkanı yardımcıları veya bakanların Yüce Divan’a sevki için gereken çoğunluk nedir?",
+    "options": ["1/3", "Salt çoğunluk", "3/5", "2/3", "3/4"],
+    "answer": 3
+  },
+  {
+    "q": "Cumhurbaşkanı en fazla kaç kez seçilebilir?",
+    "options": ["1", "2", "3", "4", "Sınırsız"],
+    "answer": 1
+  },
+  {
+    "q": "Cumhurbaşkanı seçiminde gerekli çoğunluk sağlanamazsa ne yapılır?",
+    "options": ["TBMM seçer", "En çok oy alan kazanır", "İkinci tur yapılır", "Seçim iptal edilir", "YSK karar verir"],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisi siyasi haklardandır?",
+    "options": ["Yaşama hakkı", "Eğitim hakkı", "Seçme ve seçilme hakkı", "Mülkiyet hakkı", "Çalışma hakkı"],
+    "answer": 2
+  },
+  {
+    "q": "Cumhurbaşkanı olağanüstü hâli en fazla ne kadar süreyle ilan edebilir?",
+    "options": ["3 ay", "4 ay", "5 ay", "6 ay", "12 ay"],
+    "answer": 3
+  },
+  {
+    "q": "TBMM olağanüstü hâli her defasında en fazla ne kadar uzatabilir?",
+    "options": ["2 ay", "3 ay", "4 ay", "6 ay", "1 yıl"],
+    "answer": 1
+  },
+  {
+    "q": "Hâkimler ve Savcılar Kurulu kaç üyeden oluşur?",
+    "options": ["11", "13", "15", "17", "19"],
+    "answer": 1
+  },
+  {
+    "q": "Hâkimler ve Savcılar Kurulu üyelerinden kaçını Cumhurbaşkanı seçer?",
+    "options": ["3", "4", "5", "6", "7"],
+    "answer": 1
+  },
+  {
+    "q": "Hâkimler ve Savcılar Kurulu kaç daire hâlinde çalışır?",
+    "options": ["1", "2", "3", "4", "5"],
+    "answer": 1
+  },
+  {
+    "q": "Anayasa Mahkemesi kaç üyeden oluşur?",
+    "options": ["11", "13", "15", "17", "21"],
+    "answer": 2
+  },
+  {
+    "q": "Anayasa Mahkemesi üyelerinden kaçını TBMM seçer?",
+    "options": ["2", "3", "4", "5", "6"],
+    "answer": 1
+  },
+  {
+    "q": "Cumhurbaşkanı Anayasa Mahkemesi üyelerinden kaçını seçer?",
+    "options": ["9", "10", "11", "12", "13"],
+    "answer": 3
+  },
+  {
+    "q": "Aşağıdakilerden hangisi kişi haklarındandır?",
+    "options": ["Çalışma hakkı", "Eğitim hakkı", "Yaşama hakkı", "Sendika hakkı", "Grev hakkı"],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisi sosyal ve ekonomik haktır?",
+    "options": ["Seçme hakkı", "Yaşama hakkı", "Mülkiyet hakkı", "Çalışma hakkı", "Kişi dokunulmazlığı"],
+    "answer": 3
+  },
+  {
+    "q": "Milletvekili seçilme yaşı kaçtır?",
+    "options": ["18", "20", "21", "23", "25"],
+    "answer": 0
+  },
+  {
+    "q": "Milletvekili seçilebilmek için aşağıdakilerden hangisi gerekir?",
+    "options": ["Üniversite mezunu olmak", "25 yaşında olmak", "Askerlikle ilişiği olmamak", "Evli olmak", "Kamu görevlisi olmak"],
+    "answer": 2
+  },
+  {
+    "q": "TBMM aşağıdakilerden hangisini yapamaz?",
+    "options": ["Kanun koymak", "Bütçe kabul etmek", "Bakan atamak", "Savaş ilan etmek", "Uluslararası antlaşmaları onaylamak"],
+    "answer": 2
+  },
+  {
+    "q": "Cumhurbaşkanlığı kararnamesi ile kanun çelişirse hangisi uygulanır?",
+    "options": ["Kararname", "Kanun", "Cumhurbaşkanı kararı", "AYM kararı", "TBMM kararı"],
+    "answer": 1
+  },
+  {
+    "q": "Aşağıdakilerden hangisi 2017 değişikliğiyle getirilen bir yeniliktir?",
+    "options": ["Gensoru", "Başbakanlık", "Cumhurbaşkanlığı hükümet sistemi", "Bakanlar Kurulu", "Sözlü soru"],
+    "answer": 2
+  },
     {
-        "q": "2017 değişiklikleriyle birlikte, aşağıdaki hak veya ödevlerden hangileri hakkında Cumhurbaşkanlığı kararnamesi çıkarılması mümkün değildir? I. Basın özgürlüğü II. Kamulaştırma III. Dilekçe hakkı IV. Toprak mülkiyeti V. Ailenin korunması",
-        "options": [
-            "I ve III",
-            "II ve III",
-            "I ve V",
-            "III ve V",
-            "I ve IV"
-        ],
-        "answer": 2
-    },
-    {
-        "q": "Cumhurbaşkanı, kanunların uygulanmasını sağlamak ve onlara aykırı olmamak üzere yönetmelikler çıkarabilir. Aksi belirtilmediği takdirde, Cumhurbaşkanlığı kararnameleri ve yönetmelikler ne zaman yürürlüğe girer?",
-        "options": [
-            "Resmî Gazete'de yayımlandığı gün",
-            "Resmî Gazete'de yayımlandıktan 15 gün sonra",
-            "Resmî Gazete'de yayımlandıktan 30 gün sonra",
-            "Resmî Gazete'de yayımlandıktan 45 gün sonra",
-            "Resmî Gazete'de yayımlandıktan 3 ay sonra"
-        ],
-        "answer": 0
-    },
-    {
-        "q": "Cumhurbaşkanı hakkında bir suç işlediği iddiasıyla soruşturma açılması istenebilmesi için TBMM üye tamsayısının en az kaçta kaçının önerge vermesi gerekir?",
-        "options": [
-            "Üçte biri",
-            "Salt çoğunluğu",
-            "Üçte ikisi",
-            "Beşte üçü",
-            "Dörtte üçü"
-        ],
-        "answer": 0
-    },
-    {
-        "q": "Cumhurbaşkanı hakkında soruşturma açılmasına yönelik önergenin TBMM'de görüşülmesi için en geç ne kadarlık bir süre öngörülmüştür?",
-        "options": [
-            "7 gün",
-            "10 gün",
-            "15 gün",
-            "1 ay",
-            "3 ay"
-        ],
-        "answer": 3
-    },
-    {
-        "q": "Cumhurbaşkanı hakkında soruşturma açılmasına izin verilebilmesi için TBMM Genel Kurulunda aranan oy çokluğu nedir?",
-        "options": [
-            "Üye tamsayısının üçte biri",
-            "Üye tamsayısının salt çoğunluğu",
-            "Üye tamsayısının üçte ikisi",
-            "Üye tamsayısının beşte üçü",
-            "Üye tamsayısının dörtte üçü"
-        ],
-        "answer": 1
-    },
-    {
-        "q": "Cumhurbaşkanı hakkında soruşturma açılmasına karar verildikten sonra kurulacak komisyon için siyasi partiler, güçleri oranında komisyona verebilecekleri üye sayısının kaç katı aday gösterir?",
-        "options": [
-            "2",
-            "3",
-            "4",
-            "5",
-            "7"
-        ],
-        "answer": 0
-    },
-    {
-        "q": "Soruşturma komisyonu, siyasi partilerin gösterdiği adaylar arasından her parti için ayrı ayrı ad çekme yöntemiyle kaç kişiden oluşur?",
-        "options": [
-            "10",
-            "15",
-            "30",
-            "45",
-            "55"
-        ],
-        "answer": 1
-    },
+    "q": "2017 değişiklikleriyle birlikte, aşağıdaki hak veya ödevlerden hangileri hakkında Cumhurbaşkanlığı kararnamesi çıkarılması mümkün değildir? I. Basın özgürlüğü II. Kamulaştırma III. Dilekçe hakkı IV. Toprak mülkiyeti V. Ailenin korunması",
+    "options": [
+      "I ve III",
+      "II ve III",
+      "I ve V",
+      "III ve V",
+      "I ve IV"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Cumhurbaşkanı, kanunların uygulanmasını sağlamak ve onlara aykırı olmamak üzere yönetmelikler çıkarabilir. Aksi belirtilmediği takdirde, Cumhurbaşkanlığı kararnameleri ve yönetmelikler ne zaman yürürlüğe girer?",
+    "options": [
+      "Resmî Gazete'de yayımlandığı gün",
+      "Resmî Gazete'de yayımlandıktan 15 gün sonra",
+      "Resmî Gazete'de yayımlandıktan 30 gün sonra",
+      "Resmî Gazete'de yayımlandıktan 45 gün sonra",
+      "Resmî Gazete'de yayımlandıktan 3 ay sonra"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Cumhurbaşkanı hakkında bir suç işlediği iddiasıyla soruşturma açılması istenebilmesi için TBMM üye tamsayısının en az kaçta kaçının önerge vermesi gerekir?",
+    "options": [
+      "Üçte biri",
+      "Salt çoğunluğu",
+      "Üçte ikisi",
+      "Beşte üçü",
+      "Dörtte üçü"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Cumhurbaşkanı hakkında soruşturma açılmasına yönelik önergenin TBMM'de görüşülmesi için en geç ne kadarlık bir süre öngörülmüştür?",
+    "options": [
+      "7 gün",
+      "10 gün",
+      "15 gün",
+      "1 ay",
+      "3 ay"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Cumhurbaşkanı hakkında soruşturma açılmasına izin verilebilmesi için TBMM Genel Kurulunda aranan oy çokluğu nedir?",
+    "options": [
+      "Üye tamsayısının üçte biri",
+      "Üye tamsayısının salt çoğunluğu",
+      "Üye tamsayısının üçte ikisi",
+      "Üye tamsayısının beşte üçü",
+      "Üye tamsayısının dörtte üçü"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Cumhurbaşkanı hakkında soruşturma açılmasına karar verildikten sonra kurulacak komisyon için siyasi partiler, güçleri oranında komisyona verebilecekleri üye sayısının kaç katı aday gösterir?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "7"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Soruşturma komisyonu, siyasi partilerin gösterdiği adaylar arasından her parti için ayrı ayrı ad çekme yöntemiyle kaç kişiden oluşur?",
+    "options": [
+      "10",
+      "15",
+      "30",
+      "45",
+      "55"
+    ],
+    "answer": 1
+  },
     {
         "q": "Soruşturma komisyonu, raporunu en geç ne kadar süre içinde TBMM Başkanlığına sunmak zorundadır?",
         "options": [
@@ -437,7 +562,7 @@
             "1 ay",
             "2 ay"
         ],
-        "answer": 3
+        "answer": 4
     },
     {
         "q": "Komisyon, soruşturmayı belirtilen sürede tamamlayamazsa kendisine verilebilecek ek süre ne kadardır?",
@@ -481,7 +606,7 @@
             "Üye tamsayısının beşte üçü",
             "Üye tamsayısının dörtte üçü"
         ],
-        "answer": 1
+        "answer": 2
     },
     {
         "q": "Yüce Divan'a sevk edilen Cumhurbaşkanının yargılamasının tamamlanması için öngörülen süre ne kadardır?",
@@ -591,7 +716,7 @@
             "Beşte üçü",
             "Dörtte üçü"
         ],
-        "answer": 0
+        "answer": 1
     },
     {
         "q": "Cumhurbaşkanı Yardımcıları ve bakanlar hakkında soruşturma açılmasına izin verilebilmesi için TBMM Genel Kurulunda aranan oy çokluğu nedir?",
@@ -613,7 +738,7 @@
             "5",
             "7"
         ],
-        "answer": 0
+        "answer": 1
     },
     {
         "q": "Siyasi partilerin gösterdiği adaylar arasından ad çekme yöntemiyle oluşturulacak soruşturma komisyonu kaç kişiden oluşur?",
@@ -635,7 +760,7 @@
             "1 ay",
             "2 ay"
         ],
-        "answer": 3
+        "answer": 4
     },
     {
         "q": "Komisyon, soruşturmayı bu sürede tamamlayamazsa kendisine verilecek ek süre ne kadardır?",
@@ -679,7 +804,7 @@
             "Üye tamsayısının beşte üçü",
             "Üye tamsayısının dörtte üçü"
         ],
-        "answer": 1
+        "answer": 2
     },
     {
         "q": "Yüce Divan'a sevk edilen Cumhurbaşkanı Yardımcısı veya bakanın yargılamasının tamamlanması için öngörülen süre ne kadardır?",
@@ -712,7 +837,7 @@
             "Üye tamsayısının beşte üçü",
             "Üye tamsayısının dörtte üçü"
         ],
-        "answer": 1
+        "answer": 3
     },
     {
         "q": "TBMM'nin seçimlerin yenilenmesine karar vermesi hâlinde, Cumhurbaşkanlığı seçimi ile TBMM seçimleri nasıl gerçekleştirilir?",
@@ -756,7 +881,7 @@
             "6 ay",
             "12 ay"
         ],
-        "answer": 0
+        "answer": 3
     },
     {
         "q": "Cumhurbaşkanının olağanüstü hâl kararı Resmî Gazete'de ne zaman yayımlanır?",
@@ -833,7 +958,7 @@
             "18-21",
             "21-21"
         ],
-        "answer": 0
+        "answer": 1
     },
     {
         "q": "1982 Anayasası 2017 değişikliğine göre, TBMM seçimleri kaç yılda bir yapılır?",
@@ -888,7 +1013,7 @@
             "24 yaşında askerliğini yapan bir Türk genci",
             "19 yaşındaki bir lise öğrencisi"
         ],
-        "answer": 2
+        "answer": 3
     },
     {
         "q": "1982 Anayasası 2017 değişikliğine göre, kanunları Cumhurbaşkanının yayımlaması ile ilgili aşağıdaki bilgilerden hangisi doğru bir bilgi değildir?",
@@ -998,7 +1123,7 @@
             "En son yapılan genel seçimlerde toplam geçerli oyların tek başına veya birlikte en az yüzde üçünü almış olan siyasi partiler",
             "TBMM'de grubu bulunan herhangi bir siyasi parti"
         ],
-        "answer": 4
+        "answer": 3
     },
     {
         "q": "1982 Anayasası 2017 değişikliğine göre, yürütme yetkisi ve görevi kime aittir?",
@@ -1042,7 +1167,7 @@
       "Hâkimler ve Savcılar kuruluna üye seçmek",
       "Kamu baş denetçisi seçmek"
     ],
-    "answer": 4
+    "answer": 3
   },
   {
     "q": "Ulaşılması hedeflenen, olan değil olması amaçlanan adalet duygularına en yakın hukuk tanımı aşağıdakilerden hangisidir?",
@@ -1064,7 +1189,7 @@
       "Gensoru",
       "Soru"
     ],
-    "answer": 3
+    "answer": 4
   },
   {
     "q": "1982 Anayasası 2017 değişikliğine göre, yargı yetkisine hangi kavram eklenmiştir?",
@@ -1345,7 +1470,7 @@
       "24 saat geçtikten sonra",
       "30 gün"
     ],
-    "answer": 3
+    "answer": 2
   },
   {
     "q": "Kanun teklifi en az kaç milletvekili tarafından yapılır?",
@@ -1795,12 +1920,12 @@
   {
     "q": "Soru: Anayasada değişiklik teklifini kimler yapabilir?",
     "options": ["Cumhurbaşkanı", "TBMM üyeleri", "Cumhurbaşkanı ve TBMM üyeleri", "Yüksek Mahkemeler"],
-    "answer": 2
+    "answer": 1
   },
   {
-    "q": "Soru: Aşağıdakilerden hangisi temel haklardan biri değildir?",
+    "q": "Soru: Aşağıdakilerden hangisi 1982 Anayasası’na göre kişi hak ve ödevleri (negatif statü hakları) arasında yer almaz?",
     "options": ["Yaşama hakkı", "Düşünce özgürlüğü", "Çalışma hakkı", "Mülkiyet hakkı"],
-    "answer": 3
+    "answer": 2
   },
   {
     "q": "Soru: Egemenlik kayıtsız şartsız kime aittir?",
@@ -1855,7 +1980,7 @@
   {
     "q": "Soru: Yargıtay Cumhuriyet Başsavcısı vekilini kim seçer?",
     "options": ["Hâkimler ve Savcılar Kurulu", "TBMM", "Cumhurbaşkanı", "Yargıtay Genel Kurulu"],
-    "answer": 3
+    "answer": 2
   },
   {
     "q": "Soru: Danıştay nedir?",
@@ -2215,7 +2340,7 @@
   {
     "q": "Anayasa değişikliğinin iptali için başvuru süresi kaç gündür?",
     "options": ["10 gün", "15 gün", "30 gün", "45 gün"],
-    "answer": 1
+    "answer": 0
   },
   {
     "q": "Kanunların anayasaya uygunluğunu denetleme görevi kime aittir?",
