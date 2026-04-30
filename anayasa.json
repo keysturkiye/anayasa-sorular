@@ -11,6 +11,622 @@
     "answer": 0
   },
   {
+    "q": "Aşağıdakilerden hangisi kural dışı boşluk türüne girer?",
+    "options": [
+      "Kanunun bilinçli olarak eksik düzenleme yapması",
+      "Hükmün açık ve yeterli olması",
+      "Kanunda hiç hüküm bulunmaması",
+      "Hakimin takdir yetkisini kullanması",
+      "Kanunun koruma açık olması"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisi hukuk boşluğu – kanun boşluğu ayrımını doğru verir?",
+    "options": [
+      "Hukuk boşluğu yalnız yazılı kaynakları kapsar",
+      "Kanun boşluğu yazılı ve yazısız kaynakları kapsar",
+      "Hukuk boşluğu yazılı ve yazısız kaynaklarda hüküm olmamasıdır",
+      "Kanun boşluğu hakimin hukuk yaratmasıdır",
+      "Hukuk boşluğu takdir yetkisidir"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisi hakimin takdir yetkisini kullandığı boşluk türüdür?",
+    "options": [
+      "Hukuk boşluğu",
+      "Kanun boşluğu",
+      "Kural içi boşluk",
+      "Açık boşluk",
+      "Kapalı boşluk"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "“Hukukun toplum ihtiyaçlarına göre değişebilir olması” hangi hukuk kuralı özelliğini ifade eder?",
+    "options": [
+      "Genellik",
+      "Süreklilik",
+      "Değişkenlik",
+      "Soyutluk",
+      "Cebrilik"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisi hukuk kurallarının cebri olmasının doğal sonucudur?",
+    "options": [
+      "Manevi baskı uygulanması",
+      "Toplumsal ayıplama",
+      "Devlet zorunun kullanılması",
+      "Vicdani sorumluluk",
+      "Geleneklere dayanması"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Hukukun kişilere tanıdığı yetkilerin korunmasını sağlayan hukuk dalı aşağıdakilerden hangisidir?",
+    "options": [
+      "Maddi hukuk",
+      "Kamu hukuku",
+      "Özel hukuk",
+      "Şekli hukuk",
+      "Objektif hukuk"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Aşağıdakilerden hangisi hukuk kurallarının yaptırımlarından biri değildir?",
+    "options": [
+      "Ceza",
+      "Cebri icra",
+      "Tazminat",
+      "Ayıplama",
+      "İptal"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Hukuk kurallarının “kişilik dışı” olmasının anlamı aşağıdakilerden hangisidir?",
+    "options": [
+      "Sadece tüzel kişilere uygulanması",
+      "Kişiye özel düzenleme yapılması",
+      "Soyut ve genel olması",
+      "Yazılı olması",
+      "Yalnızca kamu hukukuna ait olması"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisi hukuk kuralı değildir?",
+    "options": [
+      "Kanun",
+      "Yönetmelik",
+      "Örf ve adet",
+      "Bilimsel görüş",
+      "Cumhurbaşkanlığı kararnamesi"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Aşağıdakilerden hangisi hukuk kurallarının adaletin amacını ifade eder?",
+    "options": [
+      "Keyfilik",
+      "Ayrımcılık",
+      "Eşitlik",
+      "Takdir yetkisinin sınırsızlığı",
+      "Manevi yaptırım"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisi yardımcı hukuk kaynaklarının özelliğidir?",
+    "options": [
+      "Bağlayıcı olması",
+      "Yazılı olması",
+      "Hakimi bağlamaması",
+      "Resmi Gazete’de yayımlanması",
+      "Devlet gücüyle desteklenmesi"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Hukuk kurallarının herkese uygulanması hangi ilkeyi ifade eder?",
+    "options": [
+      "Soyutluk",
+      "Genellik",
+      "Eşitlik",
+      "Süreklilik",
+      "Değişkenlik"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Hakimin hukuk yaratırken esas aldığı varsayım aşağıdakilerden hangisidir?",
+    "options": [
+      "Toplumun örfleri",
+      "Vicdani kanaat",
+      "Kanun koyucu olsaydı nasıl düzenlerdi",
+      "Yargıtay kararları",
+      "Bilimsel görüşler"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisi hukukun yardımcı kaynakları arasında yer almaz?",
+    "options": [
+      "Doktrin",
+      "İçtihat",
+      "Örf ve adet",
+      "Bilimsel görüş",
+      "Öğreti"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisi kamu hukukunun temel özelliklerinden biridir?",
+    "options": [
+      "Taraflar arasında eşitlik bulunması",
+      "İrade serbestisinin esas olması",
+      "Devletin üstün konumda olması",
+      "Tamamlayıcı kurallara dayanması",
+      "Emredici olmaması"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisi özel hukuk – kamu hukuku ayrımında kullanılan ölçütlerden biri değildir?",
+    "options": [
+      "Menfaat ölçütü",
+      "Egemenlik ölçütü",
+      "İrade serbestisi ölçütü",
+      "Eşitlik ölçütü",
+      "Yaptırım ölçütü"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Devletin bir taraf olduğu her ilişkinin kamu hukuku sayılmamasının nedeni aşağıdakilerden hangisidir?",
+    "options": [
+      "Devletin her zaman üstün olması",
+      "Devletin bazen özel kişi gibi hareket etmesi",
+      "Hukukun genellik ilkesi",
+      "Hukukun soyut olması",
+      "Hukuk kurallarının cebri olması"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Devletin kira sözleşmesi yapması hangi hukuk dalı kapsamına girer?",
+    "options": [
+      "Ceza hukuku",
+      "İdare hukuku",
+      "Özel hukuk",
+      "Anayasa hukuku",
+      "Kamu hukuku"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisi kamu hukukuna giren bir dal değildir?",
+    "options": [
+      "Ceza hukuku",
+      "Anayasa hukuku",
+      "İdare hukuku",
+      "Medeni hukuk",
+      "Vergi hukuku"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Suç ve cezaların düzenlenmesi aşağıdaki hukuk dallarından hangisinin konusudur?",
+    "options": [
+      "Medeni hukuk",
+      "Ceza hukuku",
+      "Ticaret hukuku",
+      "İcra hukuku",
+      "Borçlar hukuku"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Devlet ile bireyler arasındaki ilişkileri düzenleyen hukuk dalı aşağıdakilerden hangisidir?",
+    "options": [
+      "Özel hukuk",
+      "Karma hukuk",
+      "Objektif hukuk",
+      "Kamu hukuku",
+      "Maddi hukuk"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Bir kişinin mülkiyet hakkını kullanması aşağıdaki hukuk türlerinden hangisine girer?",
+    "options": [
+      "Objektif hukuk",
+      "Kamu hukuku",
+      "Şekli hukuk",
+      "Subjektif hukuk",
+      "Karma hukuk"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Kişilerin haklarının nasıl korunacağını ve dava yollarını düzenleyen hukuk türü aşağıdakilerden hangisidir?",
+    "options": [
+      "Maddi hukuk",
+      "Şekli hukuk",
+      "Objektif hukuk",
+      "Kamu hukuku",
+      "Özel hukuk"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Hakimin, önündeki uyuşmazlığa uygulanacak yazılı ve yazısız hiçbir kural bulamaması durumuna ne ad verilir?",
+    "options": [
+      "Kanun boşluğu",
+      "Kural içi boşluk",
+      "Hukuk boşluğu",
+      "Kural dışı boşluk",
+      "Takdir yetkisi"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Hakimin yazılı hukuk kaynaklarında hüküm bulamaması ancak örf ve adet hukukuna başvurabilmesi durumuna ne ad verilir?",
+    "options": [
+      "Hukuk boşluğu",
+      "Kanun boşluğu",
+      "Açık boşluk",
+      "Kapalı boşluk",
+      "Kural dışı boşluk"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Kanun koyucunun bilerek bıraktığı ve hakimin takdir yetkisini kullandığı boşluk türü aşağıdakilerden hangisidir?",
+    "options": [
+      "Hukuk boşluğu",
+      "Kanun boşluğu",
+      "Kural içi boşluk",
+      "Açık boşluk",
+      "Kapalı boşluk"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Kanunda hüküm bulunmasına rağmen hükmün çok geniş veya çok dar olması durumu aşağıdakilerden hangisidir?",
+    "options": [
+      "Açık boşluk",
+      "Gerçek boşluk",
+      "Hukuk boşluğu",
+      "Kapalı boşluk",
+      "Kanun boşluğu"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Aşağıdakilerden hangisi hakimin hukuk yaratmasını gerektiren bir durumdur?",
+    "options": [
+      "Kural içi boşluk",
+      "Kanun boşluğu",
+      "Hukuk boşluğu",
+      "Kapalı boşluk",
+      "Takdir yetkisi"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisi yazılı hukuk kaynaklarından biridir?",
+    "options": [
+      "Doktrin",
+      "Yargı içtihatları",
+      "Örf ve adet",
+      "Yönetmelik",
+      "Teamül"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Hakimin öncelikle başvurmak zorunda olduğu hukuk kaynakları aşağıdakilerden hangisidir?",
+    "options": [
+      "Yazısız kaynaklar",
+      "Yardımcı kaynaklar",
+      "Doktrin",
+      "Yazılı hukuk kuralları",
+      "İçtihatlar"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Aşağıdakilerden hangisi yazısız hukuk kaynağı olarak kabul edilir?",
+    "options": [
+      "Anayasa",
+      "Kanun",
+      "Örf ve adet",
+      "Yönetmelik",
+      "Genelge"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Örf ve adet hukukunun hukuk kuralı sayılabilmesi için aşağıdakilerden hangisi zorunlu unsurlardan biri değildir?",
+    "options": [
+      "Süreklilik",
+      "Genel inanış",
+      "Devlet gücüyle desteklenme",
+      "Yazılı olma",
+      "Tekrar edilme"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Aşağıdakilerden hangisi yardımcı hukuk kaynaklarından biridir?",
+    "options": [
+      "Anayasa",
+      "Kanun",
+      "Örf ve adet",
+      "Doktrin",
+      "Yönetmelik"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Aşağıdakilerden hangisi bağlayıcı hukuk kaynağı değildir?",
+    "options": [
+      "Kanun",
+      "Anayasa",
+      "Milletlerarası antlaşma",
+      "Doktrin",
+      "Cumhurbaşkanlığı kararnamesi"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Aşağıdakilerden hangisi hakimi bağlayan kaynaklardan biridir?",
+    "options": [
+      "Bilimsel görüş",
+      "Danıştay kararı",
+      "Yargıtay içtihadı birleştirme kararı",
+      "Öğreti",
+      "Makale"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Hakimin, hukuk boşluğu durumunda nasıl karar vereceği aşağıdakilerden hangisiyle ifade edilir?",
+    "options": [
+      "Takdir yetkisi",
+      "Hukuka uygunluk karinesi",
+      "Kanunilik ilkesi",
+      "Kanun koyucu gibi hareket etme",
+      "Yorumlayıcı hukuk"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Aşağıdakilerden hangisi hukukun yazılı kaynakları arasında yer almaz?",
+    "options": [
+      "Anayasa",
+      "Kanun",
+      "Cumhurbaşkanlığı kararnamesi",
+      "İçtihat",
+      "Milletlerarası antlaşmalar"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Hakimin, hukuk yaratırken Anayasa ve kanunlara aykırı davranmaması hangi ilkenin sonucudur?",
+    "options": [
+      "Eşitlik",
+      "Kanunilik",
+      "Masumiyet",
+      "Hukuki güvenlik",
+      "Objektiflik"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Aşağıdakilerden hangisi hukuk kurallarını diğer sosyal düzen kurallarından ayıran en temel özelliktir?",
+    "options": [
+      "Genellik göstermesi",
+      "Toplumsal yaptırıma sahip olması",
+      "Toplumsal ihtiyaçlara göre değişebilmesi",
+      "Devlet gücüyle desteklenen maddi yaptırıma sahip olması",
+      "Zamana ve mekâna göre farklılık göstermesi"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Aşağıdakilerden hangisi ahlak kurallarının özelliklerinden biri değildir?",
+    "options": [
+      "Manevi yaptırıma sahip olması",
+      "Subjektif ve objektif olarak ayrılması",
+      "Devlet tarafından zorla uygulanması",
+      "Toplumda iyi-kötü yargılarına dayanması",
+      "Toplumsal değer yargılarına dayanması"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Bir kişinin verdiği söze durmaması sonucu toplum tarafından ayıplanması aşağıdaki yaptırım türlerinden hangisine örnektir?",
+    "options": [
+      "Cebri icra",
+      "Ceza",
+      "Manevi yaptırım",
+      "Tazminat",
+      "İdari iptal"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisi görgü kurallarına örnek olarak gösterilebilir?",
+    "options": [
+      "Borcunu ödemeyen kişinin icraya verilmesi",
+      "Hırsızlık yapan kişinin hapis cezası alması",
+      "Taziyede bulunmak",
+      "Hakaret eden kişinin tazminat ödemesi",
+      "Ruhsatsız yapı yıkımı"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisi hukuk kurallarının temel amaçlarından değildir?",
+    "options": [
+      "Toplumsal barışı sağlamak",
+      "Hukuki güvenliği sağlamak",
+      "Yeni gelişmelere cevap vermek",
+      "Manevi değerleri korumak",
+      "Adaleti sağlamak"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Aşağıdakilerden hangisi hukuk kurallarının genel ve soyut olmasının bir sonucudur?",
+    "options": [
+      "Kişiye özel düzenleme yapılması",
+      "Herkese aynı şekilde uygulanması",
+      "Yalnızca kamu görevlilerini bağlaması",
+      "Değiştirilemez olması",
+      "Manevi yaptırıma dayanması"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Aşağıdakilerden hangisi maddi yaptırım türlerinden biri değildir?",
+    "options": [
+      "Ceza",
+      "Cebri icra",
+      "Tazminat",
+      "Ayıplama",
+      "Hükümsüzlük"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Bir sözleşmenin, hukukun emredici hükümlerine aykırı olması nedeniyle baştan itibaren geçersiz sayılması aşağıdakilerden hangisidir?",
+    "options": [
+      "Nisbi butlan",
+      "Mutlak butlan",
+      "Tek taraflı bağlamazlık",
+      "Cebri icra",
+      "İdari iptal"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Akıl hastası bir kişinin yaptığı hukuki işlemin kendisi bağlamaması aşağıdaki yaptırım türlerinden hangisine girer?",
+    "options": [
+      "Mutlak butlan",
+      "Nisbi butlan",
+      "Tek taraflı bağlamazlık",
+      "Yokluk",
+      "Tazminat"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisi hukukta yokluk haline örnek oluşturur?",
+    "options": [
+      "Silah zoruyla imzalatılan senet",
+      "Resmi nikâh olmadan yapılan evlilik",
+      "Küçüğün velisinin izniyle yaptığı sözleşme",
+      "Yanılma ile yapılan sözleşme",
+      "Ayıplı mal satışı"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Bir idari işlemin hukuka aykırı olması nedeniyle yargı kararıyla ortadan kaldırılması aşağıdakilerden hangisidir?",
+    "options": [
+      "Tazminat",
+      "Hükümsüzlük",
+      "İdari işlemin iptali",
+      "Cebri icra",
+      "Ceza"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisi emredici hukuk kurallarına örnektir?",
+    "options": [
+      "Tarafların aksini kararlaştırabileceği sözleşme hükmü",
+      "Mirasçının mirası reddetme hakkı",
+      "Kanunla düzenlenen evlenme şartları",
+      "Yorumlayıcı hukuk kuralları",
+      "Tamamlayıcı hukuk kuralları"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Tarafların sözleşmede düzenlemediği eksik hususları tamamlayan hukuk kuralları aşağıdakilerden hangisidir?",
+    "options": [
+      "Emredici",
+      "Yetki verici",
+      "Tanımlayıcı",
+      "Tamamlayıcı",
+      "Yorumlayıcı"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Aşağıdakilerden hangisi pozitif hukuk kavramını doğru tanımlar?",
+    "options": [
+      "Gelecekte olması gereken hukuk",
+      "Yürürlükten kaldırılmış hukuk",
+      "Yalnızca yazılı hukuk kuralları",
+      "Bir ülkede yürürlükte olan yazılı ve yazısız hukuk",
+      "Evrensel hukuk kuralları"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Aşağıdakilerden hangisi tabii (doğal) hukuk anlayışını ifade eder?",
+    "options": [
+      "Yürürlükteki kanunlar bütünü",
+      "Tarihsel süreçte uygulanmış hukuk",
+      "Olması gereken ideal hukuk",
+      "Mevzuat hükümleri",
+      "Yazısız hukuk kuralları"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Bir ülkede yetkili makamlarca çıkarılmış ve yürürlükte bulunan yazılı hukuk kurallarının tümü aşağıdakilerden hangisidir?",
+    "options": [
+      "Pozitif hukuk",
+      "Tabii hukuk",
+      "Mevzu hukuk",
+      "Tarihi hukuk",
+      "Objektif hukuk"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisi tarihi hukuk kapsamına girer?",
+    "options": [
+      "1982 Anayasası",
+      "1961 Anayasası",
+      "Yürürlükteki Türk Medeni Kanunu",
+      "Cumhurbaşkanlığı kararnameleri",
+      "Milletlerarası antlaşmalar"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "“Hukuk” kavramının kurallar bütünü, “hak” kavramının ise kişiye tanınmış yetki ifade etmesi durumunda sırasıyla hangi hukuk türü söz konusudur?",
+    "options": [
+      "Subjektif – Objektif",
+      "Özel – Kamu",
+      "Objektif – Subjektif",
+      "Maddi – Şekli",
+      "Kamu – Özel"
+    ],
+    "answer": 2
+  },
+  {
         "q": "2017 değişikliklerine göre, aşağıdaki hak veya ödevlerden hangisi Cumhurbaşkanlığı kararnamesiyle düzenlenebilir?",
         "options": [
             "Herkes, kişiliğine bağlı, dokunulmaz, devredilmez, vazgeçilmez temel hak ve hürriyetlere sahiptir.",
