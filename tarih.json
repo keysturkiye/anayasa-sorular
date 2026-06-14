@@ -1166,7 +1166,7 @@
                {
                  "q": "Azınlıkların faaliyetleri hangi amaca hizmet etmiştir?",
                  "options": ["İşgalleri meşrulaştırmak", "Milli birliği sağlamak", "Halkı örgütlemek", "Hilafeti kaldırmak"],
-                 "answer": 1
+                 "answer": 0
                },
                {
                  "q": "Yararlı cemiyetlerin ortak amacı aşağıdakilerden hangisidir?",
@@ -1233,7 +1233,7 @@
                {
                  "q": "İngiliz Muhipleri Cemiyeti’nin en önemli özelliği nedir?",
                  "options": ["İngiliz korumasını istemesi", "Bağımsızlık için savaşması", "Anadolu’yu savunması", "Cumhuriyet fikrini yayması"],
-                 "answer": 3
+                 "answer": 0
                },
                {
                  "q": "Rumların Pontus Devleti kurma planı en çok hangi bölgede etkili olmuştur?",
