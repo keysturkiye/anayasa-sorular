@@ -635,7 +635,7 @@
             "Herkes, yaşama, maddî ve manevî varlığını koruma ve geliştirme hakkına sahiptir.",
             "Çalışanlar ve işverenler, üyelerinin çalışma ilişkilerinde, ekonomik ve sosyal hak ve menfaatlerini korumak ve geliştirmek için önceden izin almaksızın sendikalar ve üst kuruluşlar kurma, bunlara serbestçe üye olma ve üyelikten serbestçe çekilme haklarına sahiptir."
         ],
-        "answer": 2
+        "answer": 4
     },
     {
         "q": "2017 değişikliklerine göre, aşağıdaki hak veya ödevlerden hangisi Cumhurbaşkanlığı kararnamesiyle düzenlenemez?",
@@ -1185,7 +1185,7 @@
             "Kasten işlenen bir suçtan 1 yıl ceza almış",
             "Dolandırıcılık suçundan hüküm giymiş"
         ],
-        "answer": 3
+        "answer": 0
     },
     {
         "q": "Aşağıdakilerden hangisi Cumhurbaşkanı Yardımcısı olarak atanabilme şartlarını sağlamamıştır?",
@@ -1372,7 +1372,7 @@
             "6 ay",
             "12 ay"
         ],
-        "answer": 0
+        "answer": 3
     },
     {
         "q": "Cumhurbaşkanının olağanüstü hâl kararı Resmî Gazete'de ne zaman yayımlanır?",
@@ -1449,7 +1449,7 @@
             "18-21",
             "21-21"
         ],
-        "answer": 0
+        "answer": 1
     },
     {
         "q": "1982 Anayasası 2017 değişikliğine göre, TBMM seçimleri kaç yılda bir yapılır?",
@@ -1858,7 +1858,7 @@
       "Cumhurbaşkanı",
       "Sayıştay"
     ],
-    "answer": 3
+    "answer": 2
   },
   {
     "q": "Meclis çalışmalarına özürsüz veya izinsiz olarak ..... ay içinde toplam ..... birleşim günü katılmayan milletvekilinin vekilliğinin düşmesine, karar verilir. Yukarıdaki metinde noktalı yerleri doldurun.",
@@ -2416,7 +2416,7 @@
   {
     "q": "Soru: Aşağıdakilerden hangisi temel haklardan biri değildir?",
     "options": ["Yaşama hakkı", "Düşünce özgürlüğü", "Çalışma hakkı", "Mülkiyet hakkı"],
-    "answer": 3
+    "answer": 2
   },
   {
     "q": "Soru: Egemenlik kayıtsız şartsız kime aittir?",
