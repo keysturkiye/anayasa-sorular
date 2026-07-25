@@ -363,17 +363,6 @@
     "answer": 3
   },
   {
-    "q": "Aşağıdakilerden hangisi yardımcı hukuk kaynaklarından biridir?",
-    "options": [
-      "Anayasa",
-      "Kanun",
-      "Örf ve adet",
-      "Doktrin",
-      "Yönetmelik"
-    ],
-    "answer": 3
-  },
-  {
     "q": "Aşağıdakilerden hangisi bağlayıcı hukuk kaynağı değildir?",
     "options": [
       "Kanun",
@@ -954,7 +943,7 @@
             "Devlet başkanı sıfatıyla Türkiye Cumhuriyetini ve Türk milletinin birliğini temsil eder.",
             "TBMM adına Türk Silahlı Kuvvetlerinin Başkomutanlığını temsil eder."
         ],
-        "answer": 4
+        "answer": 2
     },
     {
         "q": "2017 değişikliklerine göre, bakanlar aşağıdakilerden hangisine karşı sorumludur?",
@@ -1097,7 +1086,7 @@
             "Üye tamsayısının beşte üçü",
             "Üye tamsayısının dörtte üçü"
         ],
-        "answer": 1
+        "answer": 2
     },
     {
         "q": "Yüce Divan'a sevk edilen Cumhurbaşkanının yargılamasının tamamlanması için öngörülen süre ne kadardır?",
@@ -1111,15 +1100,15 @@
         "answer": 3
     },
     {
-        "q": "Yüce Divan, yargılamayı belirtilen sürede bitiremezse, kendisine verilebilecek ek süre ne kadardır?",
+        "q": "Anayasa Mahkemesi'nin yargılama süresi ne kadardır?",
         "options": [
             "15 gün",
             "1 ay",
             "45 gün",
             "2 ay",
-            "3 ay"
+            "5 ay"
         ],
-        "answer": 3
+        "answer": 4
     },
     {
         "q": "Cumhurbaşkanlığı makamı herhangi bir nedenle boşaldığında, yeni Cumhurbaşkanı seçimi kaç gün içinde yapılır?",
@@ -1295,7 +1284,7 @@
             "Üye tamsayısının beşte üçü",
             "Üye tamsayısının dörtte üçü"
         ],
-        "answer": 1
+        "answer": 2
     },
     {
         "q": "Yüce Divan'a sevk edilen Cumhurbaşkanı Yardımcısı veya bakanın yargılamasının tamamlanması için öngörülen süre ne kadardır?",
@@ -1505,17 +1494,6 @@
             "19 yaşındaki bir lise öğrencisi"
         ],
         "answer": 2
-    },
-    {
-        "q": "1982 Anayasası 2017 değişikliğine göre, kanunları Cumhurbaşkanının yayımlaması ile ilgili aşağıdaki bilgilerden hangisi doğru bir bilgi değildir?",
-        "options": [
-            "Cumhurbaşkanı, Türkiye Büyük Millet Meclisince kabul edilen kanunları onbeş gün içinde yayımlar.",
-            "Yayımlanmasını kısmen veya tamamen uygun bulmadığı kanunları, bir daha görüşülmek üzere, bu hususta gösterdiği gerekçe ile birlikte aynı süre içinde, Türkiye Büyük Millet Meclisine geri gönderir.",
-            "Cumhurbaşkanınca kısmen uygun bulunmama durumunda, Türkiye Büyük Millet Meclisi sadece uygun bulunmayan maddeleri görüşebilir.",
-            "TBMM, geri gönderilen kanunu üye tam sayısının salt çoğunluğu ile aynen kabul ederse kanun Cumhurbaşkanınca yayımlanır.",
-            "Türkiye Büyük Millet Meclisi, geri gönderilen kanunu aynen kabul ederse, kanun Cumhurbaşkanınca yayımlanır."
-        ],
-        "answer": 3
     },
     {
         "q": "1982 Anayasası 2017 değişikliğine göre, TBMM ara verme veya tatildeyken aşağıdakilerden hangisi veya hangileri TBMM'yi toplantıya çağırabilir?",
@@ -2471,7 +2449,7 @@
   {
     "q": "Soru: Yargıtay Cumhuriyet Başsavcısı vekilini kim seçer?",
     "options": ["Hâkimler ve Savcılar Kurulu", "TBMM", "Cumhurbaşkanı", "Yargıtay Genel Kurulu"],
-    "answer": 3
+    "answer": 2
   },
   {
     "q": "Soru: Danıştay nedir?",
@@ -2669,11 +2647,6 @@
     "answer": 1
   },
   {
-    "q": "Soru: Anayasada yer alan sosyal devlet ilkesi hangi maddede yer alır?",
-    "options": ["Madde 2", "Madde 5", "Madde 10", "Madde 11"],
-    "answer": 0
-  },
-  {
     "q": "Soru: Türkiye Cumhuriyeti'nin rejimi nedir?",
     "options": ["Monarşi", "Cumhuriyet", "Başkanlık", "Parlamenter"],
     "answer": 1
@@ -2722,11 +2695,6 @@
     "q": "Soru: Cumhurbaşkanı seçimleri kaç yılda bir yapılır?",
     "options": ["5", "6", "7", "8"],
     "answer": 0
-  },
-  {
-    "q": "Soru: Türkiye Cumhuriyeti Anayasası hangi sistemle yönetilir?",
-    "options": ["Başkanlık", "Parlamenter", "Monarşi", "Sosyalist"],
-    "answer": 1
   },
   {
     "q": "Soru: Anayasada belirtilen seçimlerin genel niteliği nedir?",
@@ -2831,7 +2799,7 @@
   {
     "q": "Anayasa değişikliğinin iptali için başvuru süresi kaç gündür?",
     "options": ["10 gün", "15 gün", "30 gün", "45 gün"],
-    "answer": 1
+    "answer": 0
   },
   {
     "q": "Kanunların anayasaya uygunluğunu denetleme görevi kime aittir?",
@@ -3086,7 +3054,7 @@
   {
     "q": "Anayasada değişiklik teklifini kim yapabilir?",
     "options": ["Sadece Cumhurbaşkanı", "Sadece TBMM üyeleri", "TBMM üye tamsayısının en az beşte biri", "TBMM üye tamsayısının en az üçte biri"],
-    "answer": 2
+    "answer": 3
   },
   {
     "q": "Egemenlik kayıtsız şartsız kime aittir?",
@@ -3125,11 +3093,11 @@
       "options": [
         "Kanun",
         "Örf ve Adet Hukuku",
-        "İçtihatı Birleştirme Kararları",
+        "Yargı karararı",
         "Yargısal İçtihatlar",
         "Yönetmelikler"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "q": "Soru: Aşağıdakilerden hangisi sosyal devletin amaçlarından biridir?",
