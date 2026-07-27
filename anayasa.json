@@ -11,6 +11,226 @@
     "answer": 0
   },
   {
+    "q": "Yedi kişinin kazanç paylaşma amacı dışında kurduğu kişi topluluğuna ne ad verilir?",
+    "options": [
+      "Vakıf",
+      "Kooperatif",
+      "Dernek",
+      "Sendika",
+      "Şirket"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Türk toplumunun temel değeri olarak kabul edilen aşağıdakilerden hangisidir?",
+    "options": [
+      "Komşuluk",
+      "Aile",
+      "Arkadaşlık",
+      "Eğitim",
+      "Dayanışma"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Kan hısımlığının bulunmadığı hısımlık türü aşağıdakilerden hangisidir?",
+    "options": [
+      "Altsoy",
+      "Üstsoy",
+      "Yansoy",
+      "Eş",
+      "Kardeş"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Anne ve baba ile çocuk arasındaki hukuki ilişkiye ne ad verilir?",
+    "options": [
+      "Vesayet",
+      "Velayet",
+      "Kayyımlık",
+      "Temsil",
+      "Evlat edinme"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "İsmini değiştirmek isteyen kişi nereye başvurmalıdır?",
+    "options": [
+      "Nüfus Müdürlüğü",
+      "Kaymakamlık",
+      "Mahkeme",
+      "Belediye",
+      "Valilik"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisi borcun kaynaklarından biri değildir?",
+    "options": [
+      "Sebepsiz zenginleşme",
+      "Sözleşme",
+      "Haksız fiil",
+      "Mirasçılık",
+      "Borcun tamamı kaynaktır"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Hakların kazanılmasında geçerli olan temel ilke aşağıdakilerden hangisidir?",
+    "options": [
+      "Dürüstlük",
+      "İyi niyet",
+      "Objektiflik",
+      "Kanunilik",
+      "Eşitlik"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Türk Medeni Kanunu'na göre kişi nasıl ergin olur?",
+    "options": [
+      "Evlenmesiyle",
+      "Mahkeme kararıyla",
+      "18 yaşını doldurmasıyla",
+      "İşe başlamasıyla",
+      "Askerlik yapmasıyla"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Sahibine eşya üzerinde en geniş yetkiyi veren ayni hak aşağıdakilerden hangisidir?",
+    "options": [
+      "İntifa hakkı",
+      "Rehin hakkı",
+      "Mülkiyet hakkı",
+      "Oturma hakkı",
+      "Geçit hakkı"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Kişinin kendi fiilleriyle borç altına girebilme ehliyetine ne ad verilir?",
+    "options": [
+      "Hak ehliyeti",
+      "Fiil ehliyeti",
+      "Dava ehliyeti",
+      "Temsil ehliyeti",
+      "Miras ehliyeti"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "\"Ayın başı\" ve \"ayın ortası\" gibi ifadelerin yorumlanmasını düzenleyen hukuk dalı aşağıdakilerden hangisidir?",
+    "options": [
+      "Ceza Hukuku",
+      "Borçlar Hukuku",
+      "Yorumlayıcı Hukuk",
+      "İdare Hukuku",
+      "Anayasa Hukuku"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aksine işlem yapılması mümkün olmayan hukuk kurallarına ne ad verilir?",
+    "options": [
+      "Tamamlayıcı kurallar",
+      "Yorumlayıcı kurallar",
+      "Emredici kurallar",
+      "Örf ve adet kuralları",
+      "Yetki kuralları"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Kişinin kendisini veya başkasını tehlikeden korumak amacıyla yaptığı davranış hangi hukuki durumu ifade eder?",
+    "options": [
+      "Meşru müdafaa",
+      "Zorunluluk (Iztırar) hali",
+      "Haksız tahrik",
+      "Taksir",
+      "Kusursuz sorumluluk"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Kanunda herhangi bir hükmün bulunmamasına ne ad verilir?",
+    "options": [
+      "Kanun boşluğu",
+      "Gerçek kanun boşluğu",
+      "Takdir yetkisi",
+      "Kural dışı boşluk",
+      "Yorum boşluğu"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Aşağıdakilerden hangisi hukukun temel görevlerinden biri değildir?",
+    "options": [
+      "Toplum düzenini sağlamak",
+      "Adaleti gerçekleştirmek",
+      "Hukuki güvenliği sağlamak",
+      "Mutlak eşitliği sağlamak",
+      "Hak ve özgürlükleri korumak"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Borçlar hukukunda aşağıdakilerden hangisi bir sorumluluk türü değildir?",
+    "options": [
+      "Kusur sorumluluğu",
+      "Kusursuz sorumluluk",
+      "Özen sorumluluğu",
+      "Şahıs varlığı sorumluluğu",
+      "Tehlike sorumluluğu"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Kadın ve erkek için olağan evlenme yaşı aşağıdakilerden hangisidir?",
+    "options": [
+      "16 yaşın doldurulması",
+      "17 yaşının tamamlanması",
+      "18 yaşın doldurulması",
+      "19 yaşın doldurulması",
+      "20 yaşın doldurulması"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Aşağıdakilerden hangisi sosyal düzen kurallarından biri değildir?",
+    "options": [
+      "Din kuralları",
+      "Ahlak kuralları",
+      "Görgü kuralları",
+      "Fizik kuralları",
+      "Hukuk kuralları"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Hukuk kurallarını diğer sosyal düzen kurallarından ayıran temel özellik aşağıdakilerden hangisidir?",
+    "options": [
+      "Yazılı olması",
+      "Devlet gücüne dayanması",
+      "Ahlaka uygun olması",
+      "Din kurallarına uygun olması",
+      "Toplum tarafından benimsenmesi"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Aşağıdakilerden hangisi Türk hukukunda uygulanan yaptırım türlerinden biri değildir?",
+    "options": [
+      "Cebri icra",
+      "Tazminat",
+      "İptal",
+      "Kısas",
+      "Hükümsüzlük"
+    ],
+    "answer": 3
+  },
+  {
     "q": "Aşağıdakilerden hangisi kural dışı boşluk türüne girer?",
     "options": [
       "Kanunun bilinçli olarak eksik düzenleme yapması",
