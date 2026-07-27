@@ -11,6 +11,237 @@
     "answer": 0
   },
   {
+    "q": "Anayasa değişikliği teklif kanunu en az kaç milletvekili tarafından verilebilir?",
+    "options": [
+      "100",
+      "150",
+      "200",
+      "250",
+      "300"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Milli Güvenlik Kurulu (MGK) gündemini kim belirler?",
+    "options": [
+      "Başbakan",
+      "Cumhurbaşkanı",
+      "TBMM Başkanı",
+      "Milli Savunma Bakanı",
+      "Genelkurmay Başkanı"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Cumhurbaşkanlığına aday gösterilebilmek için TBMM üyelerinin en az yüzde kaçı tarafından teklif edilmelidir?",
+    "options": [
+      "%3",
+      "%10",
+      "%15",
+      "%5",
+      "%20"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Aşağıdakilerden hangisi Cumhurbaşkanının görevlerinden biri değildir?",
+    "options": [
+      "Cumhurbaşkanlığı Kararnamesi çıkarmak",
+      "Kanunları yayımlamak",
+      "Genel ve özel af ilan etmek",
+      "Üst kademe yöneticilerini atamak",
+      "Milletlerarası antlaşmaları onaylamak"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Bireysel başvuruları incelemeye yetkili mahkeme aşağıdakilerden hangisidir?",
+    "options": [
+      "Danıştay",
+      "Yargıtay",
+      "Uyuşmazlık Mahkemesi",
+      "Anayasa Mahkemesi",
+      "Sayıştay"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Hakimler ve Savcılar Kurulunun (HSK) Başkanı kimdir?",
+    "options": [
+      "Adalet Bakanı",
+      "Cumhurbaşkanı",
+      "TBMM Başkanı",
+      "Yargıtay Başkanı",
+      "Anayasa Mahkemesi Başkanı"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Aşağıdakilerden hangileri yönetmelik çıkarabilir?",
+    "options": [
+      "Cumhurbaşkanı, Bakanlıklar ve kamu tüzel kişileri",
+      "Sadece TBMM",
+      "Sadece Cumhurbaşkanı",
+      "Cumhurbaşkanı ve Valilikler",
+      "Yalnız Bakanlıklar"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Bir yerleşim yerinin köy olabilmesi için nüfusunun en az kaç olması gerekir?",
+    "options": [
+      "1000",
+      "1500",
+      "2000",
+      "2500",
+      "3000"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Belediye kurulabilmesi için yerleşim yerinin nüfusu en az kaç olmalıdır?",
+    "options": [
+      "3000",
+      "4000",
+      "6000",
+      "5000",
+      "7000"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Aşağıdakilerden hangisi devlet memurlarına verilen disiplin cezalarından biridir?",
+    "options": [
+      "Görevden uzaklaştırma",
+      "Hapis cezası",
+      "Para cezası",
+      "Sürgün",
+      "Kademe ilerlemesinin durdurulması"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "İlçenin başında bulunan mülki idare amiri aşağıdakilerden hangisidir?",
+    "options": [
+      "Kaymakam",
+      "Vali",
+      "Belediye Başkanı",
+      "Muhtar",
+      "İl Genel Meclisi Başkanı"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Belediyenin karar organı aşağıdakilerden hangisidir?",
+    "options": [
+      "Encümen",
+      "Belediye Meclisi",
+      "Belediye Başkanı",
+      "Valilik",
+      "Kaymakamlık"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "İl Genel Meclisi aşağıdaki idarelerden hangisinin karar organıdır?",
+    "options": [
+      "Belediye",
+      "Büyükşehir Belediyesi",
+      "İl Özel İdaresi",
+      "Kaymakamlık",
+      "Valilik"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "İllerin kurulması ve kaldırılması hangi işlemle olur?",
+    "options": [
+      "Cumhurbaşkanı Kararı",
+      "Yönetmelik",
+      "TBMM Kararı",
+      "Kanun",
+      "Genelge"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Bir il belediyesi hangi işlemle büyükşehir belediyesi olur?",
+    "options": [
+      "Cumhurbaşkanı Kararı",
+      "Yönetmelik",
+      "Genelge",
+      "TBMM Kararı",
+      "Kanun"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Devlet memurlarının bilgi ve yeteneğe göre yükselmesi hangi ilkeye dayanır?",
+    "options": [
+      "Liyakat",
+      "Tarafsızlık",
+      "Eşitlik",
+      "Hiyerarşi",
+      "Kariyer"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Ast-üst ilişkisini ifade eden kavram aşağıdakilerden hangisidir?",
+    "options": [
+      "Liyakat",
+      "Hiyerarşi",
+      "Merkeziyet",
+      "Vesayet",
+      "Yetki genişliği"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Aşağıdakilerden hangisi devlet memurlarının haklarından biri değildir?",
+    "options": [
+      "İzin hakkı",
+      "Emeklilik hakkı",
+      "Hediye alma ve menfaat sağlama",
+      "Güvence hakkı",
+      "Müracaat hakkı"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aday memurluk süresi en az ve en fazla kaç yıldır?",
+    "options": [
+      "6 ay - 1 yıl",
+      "1 yıl - 3 yıl",
+      "2 yıl - 3 yıl",
+      "6 ay - 2 yıl",
+      "1 yıl - 2 yıl"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Türkiye'de gizli oy ve açık sayım ilkesi ilk kez hangi yıl uygulanmıştır?",
+    "options": [
+      "1946",
+      "1961",
+      "1982",
+      "1950",
+      "1924"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Türkiye'de son halk oylaması hangi yılda yapılmıştır?",
+    "options": [
+      "2010",
+      "2015",
+      "2018",
+      "2023",
+      "2017"
+    ],
+    "answer": 4
+  },
+  {
     "q": "Hak ehliyeti ne zaman başlar?",
     "options": [
       "Ana rahmine düştüğü anda, tam ve sağ doğmak şartıyla",
