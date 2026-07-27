@@ -11,6 +11,402 @@
     "answer": 0
   },
   {
+    "q": "\"YSK\" asıl üye sayısı kaçtır?",
+    "options": [
+      "9",
+      "11",
+      "7",
+      "13",
+      "15"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "\"YSK\" toplam üye sayısı kaçtır?",
+    "options": [
+      "13",
+      "11",
+      "9",
+      "15",
+      "7"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "\"HSK\" üye sayısı kaçtır?",
+    "options": [
+      "11",
+      "13",
+      "15",
+      "9",
+      "17"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Uyuşmazlık Mahkemesinin kuruluşunda toplam kaç üye bulunur?",
+    "options": [
+      "15",
+      "11",
+      "13",
+      "9",
+      "7"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Anayasa Mahkemesi kaç üyeden oluşur?",
+    "options": [
+      "17",
+      "13",
+      "11",
+      "15",
+      "9"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "\"YÖK\" üye sayısı kaçtır?",
+    "options": [
+      "19",
+      "17",
+      "23",
+      "21",
+      "25"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Devlet Denetleme Kurulu karar organı kaç kişiden oluşur?",
+    "options": [
+      "7",
+      "11",
+      "9",
+      "5",
+      "13"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Dernek kurmak için en az kaç kişi gerekir?",
+    "options": [
+      "5",
+      "9",
+      "10",
+      "7",
+      "3"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Sendika kurmak için en az kaç kişi gerekir?",
+    "options": [
+      "5",
+      "7",
+      "9",
+      "6",
+      "10"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Kooperatif kurmak için en az kaç kişi gerekir?",
+    "options": [
+      "10",
+      "5",
+      "7",
+      "6",
+      "9"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Vakıflar en az kaç kişi ile kurulabilir?",
+    "options": [
+      "2",
+      "3",
+      "Gerçek veya tüzel tek kişi",
+      "5",
+      "7"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Anonim ve limited şirket kurmak için en az kaç kişi gerekir?",
+    "options": [
+      "2",
+      "3",
+      "5",
+      "1",
+      "7"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Siyasi parti kurabilmek için en az kaç Türk vatandaşı gerekir?",
+    "options": [
+      "20",
+      "40",
+      "30",
+      "50",
+      "25"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Siyasi parti grubu oluşturabilmek için en az kaç milletvekili gerekir?",
+    "options": [
+      "15",
+      "25",
+      "30",
+      "20",
+      "40"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Aday memurluk süresi en az kaç yıldır?",
+    "options": [
+      "1 yıl",
+      "2 yıl",
+      "3 yıl",
+      "6 ay",
+      "18 ay"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Aday memurluk süresi en fazla kaç yıldır?",
+    "options": [
+      "1 yıl",
+      "3 yıl",
+      "4 yıl",
+      "2 yıl",
+      "5 yıl"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Memurların evlilik izni kaç gündür?",
+    "options": [
+      "5 gün",
+      "10 gün",
+      "7 gün",
+      "3 gün",
+      "15 gün"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Memurların babalık izni kaç gündür?",
+    "options": [
+      "5 gün",
+      "7 gün",
+      "10 gün",
+      "3 gün",
+      "15 gün"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Memurların mazeret izinlerinden biri olan evlat edinme izni ne kadardır?",
+    "options": [
+      "4 hafta",
+      "6 hafta",
+      "8 hafta",
+      "10 hafta",
+      "12 hafta"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Memurlar için analık izni toplam kaç haftadır?",
+    "options": [
+      "16 hafta",
+      "20 hafta",
+      "24 hafta",
+      "18 hafta",
+      "12 hafta"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Memurların süt izni, doğum sonrası ilk altı ayda günde kaç saattir?",
+    "options": [
+      "1 saat",
+      "1,5 saat",
+      "2 saat",
+      "3 saat",
+      "4 saat"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "657 sayılı Devlet Memurları Kanunu'na göre aşağıdakilerden hangisi istisnai devlet memurluklarından biridir?",
+    "options": [
+      "Kaymakam",
+      "Vali",
+      "İl Milli Eğitim Müdürü",
+      "Vergi Dairesi Başkanı",
+      "Rektör"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Aşağıdakilerden hangisi istisnai devlet memurluklarından biri değildir?",
+    "options": [
+      "Büyükelçiler",
+      "TBMM memurlukları",
+      "Cumhurbaşkanlığı memurlukları",
+      "TOKİ Başkanlığı",
+      "MİT memurlukları"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "657 sayılı Devlet Memurları Kanunu'na göre disiplin cezalarının hafiften ağıra doğru ilk sırası hangisidir?",
+    "options": [
+      "Kınama",
+      "Uyarma",
+      "Aylıktan kesme",
+      "Kademe ilerlemesinin durdurulması",
+      "Devlet memurluğundan çıkarma"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Aşağıdakilerden hangisi devlet memurlarına verilen disiplin cezalarından biri değildir?",
+    "options": [
+      "Kınama",
+      "Aylıktan kesme",
+      "Hapis cezası",
+      "Uyarma",
+      "Kademe ilerlemesinin durdurulması"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aday memurluk süresi en fazla kaç yıldır?",
+    "options": [
+      "1 yıl",
+      "3 yıl",
+      "2 yıl",
+      "4 yıl",
+      "5 yıl"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Atanan kişi, aynı yerde göreve atanmışsa tebligat tarihinden itibaren kaç gün içinde göreve başlamalıdır?",
+    "options": [
+      "10 gün",
+      "15 gün",
+      "7 gün",
+      "1 gün",
+      "30 gün"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Başka yerdeki göreve atanan kişi, tebligat tarihinden itibaren en geç kaç gün içinde hareket etmeli ve yol süresi sonunda göreve başlamalıdır?",
+    "options": [
+      "10 gün",
+      "15 gün",
+      "20 gün",
+      "30 gün",
+      "7 gün"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Milletvekili seçilme yaşı kaçtır?",
+    "options": [
+      "20",
+      "25",
+      "18",
+      "21",
+      "30"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Belediye Başkanı seçilebilmek için en az kaç yaşında olmak gerekir?",
+    "options": [
+      "25",
+      "18",
+      "30",
+      "21",
+      "35"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Cumhurbaşkanı seçilebilmek için en az kaç yaşında olmak gerekir?",
+    "options": [
+      "35",
+      "45",
+      "50",
+      "40",
+      "30"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Muhtar seçilebilmek için en az kaç yaşında olmak gerekir?",
+    "options": [
+      "21",
+      "25",
+      "18",
+      "30",
+      "20"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Olağan evlenme yaşı kaçtır?",
+    "options": [
+      "18",
+      "16",
+      "15",
+      "17",
+      "19"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Olağanüstü evlenme yaşı kaçtır?",
+    "options": [
+      "15",
+      "16",
+      "17",
+      "18",
+      "14"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Cumhurbaşkanının görev süresi kaç yıldır?",
+    "options": [
+      "7 yıl",
+      "6 yıl",
+      "5 yıl",
+      "4 yıl",
+      "8 yıl"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Memurların ölüm izni kaç gündür?",
+    "options": [
+      "10 gün",
+      "7 gün",
+      "5 gün",
+      "3 gün",
+      "15 gün"
+    ],
+    "answer": 1
+  },
+  {
     "q": "Anayasa değişikliği teklif kanunu en az kaç milletvekili tarafından verilebilir?",
     "options": [
       "100",
