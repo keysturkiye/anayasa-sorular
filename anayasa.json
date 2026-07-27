@@ -11,6 +11,171 @@
     "answer": 0
   },
   {
+    "q": "Hak ehliyeti ne zaman başlar?",
+    "options": [
+      "Ana rahmine düştüğü anda, tam ve sağ doğmak şartıyla",
+      "Doğum anında",
+      "Ergin olunca",
+      "Nüfusa kayıtla",
+      "Fiil ehliyeti kazanılınca"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Yetkili makamlarca yapılan ve yürürlükte bulunan hukuk kurallarına ne ad verilir?",
+    "options": [
+      "Doğal hukuk",
+      "Mevzu hukuk",
+      "Örf ve adet hukuku",
+      "Yargı hukuku",
+      "Roma hukuku"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Normlar hiyerarşisine göre en üst norm aşağıdakilerden hangisidir?",
+    "options": [
+      "Kanun",
+      "Cumhurbaşkanlığı Kararnamesi",
+      "Anayasa",
+      "Uluslararası Antlaşma",
+      "Yönetmelik"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Somut olaya uygulanacak yazılı ve yazısız hukuk kurallarının bulunmaması durumuna ne ad verilir?",
+    "options": [
+      "Kanun boşluğu",
+      "Gerçek kanun boşluğu",
+      "Kural dışı boşluk",
+      "Hukuk boşluğu",
+      "Yorum boşluğu"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Aşağıdakilerden hangisi kamu hukuku alt dallarından biri değildir?",
+    "options": [
+      "Anayasa Hukuku",
+      "İdare Hukuku",
+      "Ceza Hukuku",
+      "Vergi Hukuku",
+      "Borçlar Hukuku"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Bir kişiyi devlete bağlayan hukuki ve siyasi bağ aşağıdakilerden hangisidir?",
+    "options": [
+      "Tabiiyet (Uyrukluk)",
+      "İkamet",
+      "Yerleşim yeri",
+      "Vatandaşlık belgesi",
+      "Kimlik kaydı"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Belediye başkanını geçici olarak görevden uzaklaştırmaya yetkili makam aşağıdakilerden hangisidir?",
+    "options": [
+      "Cumhurbaşkanı",
+      "İçişleri Bakanı",
+      "Vali",
+      "TBMM",
+      "Danıştay"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Köy işlerinin köylüler tarafından birlikte yapılmasına ne ad verilir?",
+    "options": [
+      "Kooperatif",
+      "Dayanışma",
+      "İmece",
+      "Komisyon",
+      "Birlik"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Kamu Başdenetçisini seçmeye yetkili organ aşağıdakilerden hangisidir?",
+    "options": [
+      "Cumhurbaşkanı",
+      "Anayasa Mahkemesi",
+      "Danıştay",
+      "TBMM",
+      "Yargıtay"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Bakanları Yüce Divana göndermeye yetkili organ aşağıdakilerden hangisidir?",
+    "options": [
+      "Cumhurbaşkanı",
+      "Anayasa Mahkemesi",
+      "Yargıtay",
+      "Danıştay",
+      "TBMM"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Uluslararası antlaşmaları uygun bulma görevi aşağıdakilerden hangisine aittir?",
+    "options": [
+      "TBMM",
+      "Cumhurbaşkanı",
+      "Anayasa Mahkemesi",
+      "Danıştay",
+      "Yargıtay"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "OHAL kararı Resmî Gazete'de yayımlandıktan sonra kimin onayına sunulur?",
+    "options": [
+      "Cumhurbaşkanı",
+      "TBMM",
+      "Anayasa Mahkemesi",
+      "Danıştay",
+      "Yargıtay"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Aşağıdakilerden hangisi Kamu Başdenetçisini seçer?",
+    "options": [
+      "Cumhurbaşkanı",
+      "Yargıtay",
+      "TBMM",
+      "Danıştay",
+      "HSK"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Dokunulmazlığı kaldırılan milletvekili, kararın iptali için kaç gün içinde nereye başvurabilir?",
+    "options": [
+      "10 gün içinde Danıştay'a",
+      "15 gün içinde Yargıtay'a",
+      "30 gün içinde TBMM'ye",
+      "7 gün içinde Anayasa Mahkemesine",
+      "7 gün içinde Cumhurbaşkanlığına"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Yüce Divan sıfatıyla yargılama yapmaya yetkili mahkeme aşağıdakilerden hangisidir?",
+    "options": [
+      "Yargıtay",
+      "Danıştay",
+      "Uyuşmazlık Mahkemesi",
+      "Sayıştay",
+      "Anayasa Mahkemesi"
+    ],
+    "answer": 4
+  },
+  {
     "q": "Yedi kişinin kazanç paylaşma amacı dışında kurduğu kişi topluluğuna ne ad verilir?",
     "options": [
       "Vakıf",
