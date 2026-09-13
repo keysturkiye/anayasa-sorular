@@ -2109,7 +2109,7 @@
             "2 ay",
             "3 ay"
         ],
-        "answer": 3
+        "answer": 4
     },
     {
         "q": "Anayasa Mahkemesi'nin yargılama süresi ne kadardır?",
@@ -2307,7 +2307,7 @@
             "2 ay",
             "3 ay"
         ],
-        "answer": 3
+        "answer": 4
     },
     {
         "q": "Yüce Divan, bu yargılamayı belirtilen sürede bitiremezse kendisine verilebilecek ek süre ne kadardır?",
@@ -2318,7 +2318,7 @@
             "2 ay",
             "3 ay"
         ],
-        "answer": 3
+        "answer": 4
     },
     {
         "q": "TBMM, seçimlerin yenilenmesine hangi orandaki çoğunlukla karar verebilir?",
@@ -2502,10 +2502,10 @@
             "19 yaşından gün almış bir Türk kadını",
             "19 yaşından gün almış engelli bir vatandaş",
             "18 yaşını tamamlamış bir üniversite öğrencisi",
-            "24 yaşında askerliğini yapan bir Türk genci",
+            "24 yaşında askerliği devam eden bir Türk genci",
             "19 yaşındaki bir lise öğrencisi"
         ],
-        "answer": 2
+        "answer": 3
     },
     {
         "q": "1982 Anayasası 2017 değişikliğine göre, TBMM ara verme veya tatildeyken aşağıdakilerden hangisi veya hangileri TBMM'yi toplantıya çağırabilir?",
