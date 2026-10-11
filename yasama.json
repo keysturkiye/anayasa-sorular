@@ -1,1 +1,651 @@
-
+[
+  {
+    "q": "Cumhurbaşkanlığı kararnameleriyle ilgili olarak aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Cumhurbaşkanlığı kararnameleriyle temel haklar düzenlenebilir.",
+      "Kanunda açıkça düzenlenen konularda Cumhurbaşkanlığı kararnamesi çıkarılabilir.",
+      "TBMM'nin kanunla düzenlemesi öngörülen konularda Cumhurbaşkanlığı kararnamesi çıkarılamaz.",
+      "Cumhurbaşkanlığı kararnameleri kanunlardan üstündür.",
+      "Cumhurbaşkanlığı kararnameleri Anayasa Mahkemesi denetimine tabi değildir."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "TBMM'nin, Cumhurbaşkanı yardımcıları ve bakanlar hakkında meclis soruşturması açılmasını istemesi için kaç milletvekilinin imzası gerekir?",
+    "options": [
+      "100",
+      "120",
+      "151",
+      "200",
+      "300"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Anayasa değişikliği teklifleriyle ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Genel Kurulda bir defa görüşülür.",
+      "İlk görüşmede 400 oy alırsa ikinci görüşme yapılmaz.",
+      "Genel Kurulda iki defa görüşülür.",
+      "360 oyla kabul edilirse doğrudan yürürlüğe girer.",
+      "Cumhurbaşkanı isterse ikinci görüşme kaldırılabilir."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "TBMM'nin kendi üyeleri hakkında disiplin cezası verme yetkisi esas olarak hangi düzenleme çerçevesinde kullanılır?",
+    "options": [
+      "Anayasa m. 80",
+      "Anayasa m. 83",
+      "Anayasa m. 85",
+      "TBMM İçtüzüğü",
+      "Anayasa m. 92"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Cumhurbaşkanlığı kararnamelerinin Anayasa'ya aykırılığı iddiasıyla Anayasa Mahkemesi'nde iptal davası açabilmek için aşağıdakilerden hangisi yeterlidir?",
+    "options": [
+      "TBMM üye tamsayısının 1/10'u",
+      "TBMM üye tamsayısının 1/5'i",
+      "TBMM Başkanlık Divanı kararı",
+      "Siyasi parti gruplarının ortak kararı",
+      "Herhangi bir milletvekilinin başvurusu"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "TBMM'nin, Cumhurbaşkanı hakkında soruşturma açılmasını istemesi için gerekli milletvekili sayısı kaçtır?",
+    "options": [
+      "120",
+      "151",
+      "200",
+      "300",
+      "360"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "TBMM'nin yasama dönemi ile yasama yılı arasındaki fark nedir?",
+    "options": [
+      "Yasama dönemi 4 yıl, yasama yılı 2 yıldır.",
+      "Yasama dönemi 5 yıl, yasama yılı 1 yıldır.",
+      "Yasama dönemi milletvekili genel seçimleriyle başlar; yasama yılı her yıl 1 Ekim'de başlar.",
+      "Yasama dönemi 4 yıl, yasama yılı 8 aydır.",
+      "Hiçbir fark yoktur."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "TBMM'nin bütçe kanun teklifini görüşme süresi en fazla kaç gündür?",
+    "options": [
+      "20 gün",
+      "30 gün",
+      "40 gün",
+      "50 gün",
+      "55 gün"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "TBMM'de bir kanun teklifi, hangi durumda komisyona gitmeden doğrudan Genel Kurula gelir?",
+    "options": [
+      "Hiçbir zaman",
+      "Cumhurbaşkanı isterse",
+      "TBMM Başkanı uygun görürse",
+      "Siyasi parti gruplarının ortak kararı ile",
+      "Tek milletvekili tarafından verilirse"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Anayasa değişikliği teklifi, TBMM'de 360 oyla kabul edilirse aşağıdakilerden hangisi söz konusu olur?",
+    "options": [
+      "Doğrudan yürürlüğe girer.",
+      "Cumhurbaşkanı onayıyla yürürlüğe girer.",
+      "Halkoyuna sunulabilir.",
+      "Anayasa Mahkemesi denetimine kendiliğinden gider.",
+      "Tekrar Meclise gönderilir."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "TBMM'nin, Anayasa Mahkemesi üyeliğine seçtiği kişilerin görev süresi kaç yıldır?",
+    "options": [
+      "10 yıl",
+      "12 yıl",
+      "15 yıl",
+      "20 yıl",
+      "65 yaşına kadar"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "TBMM'de bir milletvekilinin yasama dokunulmazlığının kaldırılması kararında aşağıdakilerden hangisi uygulanır?",
+    "options": [
+      "Üye tamsayısının salt çoğunluğu",
+      "Toplantıya katılanların salt çoğunluğu",
+      "Üye tamsayısının 2/3'ü",
+      "Toplantıya katılanların 2/3'ü",
+      "Üye tamsayısının 3/5'i"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "TBMM'nin, Cumhurbaşkanı'nın görev süresini uzatma veya kısaltma yetkisi var mıdır?",
+    "options": [
+      "Evet, salt çoğunlukla",
+      "Evet, 2/3 çoğunlukla",
+      "Evet, referandumla",
+      "Hayır, böyle bir yetkisi yoktur",
+      "Sadece savaş döneminde vardır"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "TBMM İçtüzüğü'nü değiştirme yetkisi kime aittir ve hangi nitelikte işlemle değiştirilir?",
+    "options": [
+      "Cumhurbaşkanına, kararnameyle",
+      "Anayasa Mahkemesine, kararla",
+      "TBMM'ye, İçtüzük değişikliği kararıyla",
+      "TBMM'ye, ancak 2/3 çoğunlukla",
+      "Danıştay'a, tüzükle"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "TBMM'nin, olağanüstü hal süresini uzatma yetkisi var mıdır? Varsa hangi şartlarla?",
+    "options": [
+      "Yoktur, sadece Cumhurbaşkanı uzatabilir.",
+      "Vardır, salt çoğunlukla uzatır.",
+      "Vardır, dört ayı geçmemek üzere uzatabilir.",
+      "Vardır, ancak her defasında bir yılı geçmemek üzere uzatabilir.",
+      "Vardır, Meclis her ay yeniden değerlendirir."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Meclis başkanı en fazla kaç turda seçilir?",
+    "options": [
+      "2",
+      "5",
+      "3",
+      "1",
+      "4"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "TBMM her yıl ........ ayının ilk günü kendiliğinden toplanır.",
+    "options": [
+      "Ocak",
+      "Nisan",
+      "Haziran",
+      "Ekim",
+      "Aralık"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "TBMM Başkanının üçüncü turda seçilmesi için gerekli oy çoğunluğu aşağıdakilerden hangisidir?",
+    "options": [
+      "301 (üye tamsayısının salt çoğunluğu)",
+      "Basit çoğunluk",
+      "Toplantıya katılanların salt çoğunluğu",
+      "2/3 (400)",
+      "3/5 (360)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "1982 Anayasası'na göre Cumhurbaşkanı aşağıdakilerden hangisini TBMM'ye geri gönderemez?",
+    "options": [
+      "Anayasa değişiklik kanunu",
+      "Bütçe kanunu",
+      "Af kanunu",
+      "Para basılması hakkında kanun",
+      "Bakanlıkların birleştirilmesi hakkında kanun"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "TBMM'nin denetim yollarından biri olan 'yazılı soru' hangi usulle cevaplandırılır?",
+    "options": [
+      "Cumhurbaşkanı tarafından yazılı olarak",
+      "İlgili bakan tarafından yazılı olarak",
+      "TBMM Başkanı tarafından sözlü olarak",
+      "Cumhurbaşkanı yardımcısı tarafından yazılı olarak",
+      "İlgili bakan tarafından sözlü olarak"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "TBMM'nin tatil veya ara verme dışında çalışmadığı süreye ne ad verilir?",
+    "options": [
+      "Ara verme",
+      "Tatil",
+      "Reses",
+      "Toplanma dönemi",
+      "Yasama yılı"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "TBMM Başkanlık Divanı kaç başkan vekilinden oluşur?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Milletvekili dokunulmazlığının kaldırılmasına kim karar verir?",
+    "options": [
+      "Anayasa Mahkemesi",
+      "Yargıtay",
+      "TBMM Başkanı",
+      "TBMM Genel Kurulu",
+      "Adalet Bakanı"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "TBMM'de kanun teklifi görüşmelerinde ilk görüşme hangi komisyonda yapılır?",
+    "options": [
+      "Plan ve Bütçe Komisyonu",
+      "Anayasa Komisyonu",
+      "İlgili ihtisas komisyonu",
+      "Karma Komisyon",
+      "TBMM Başkanlık Divanı"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "TBMM'nin yasama yılı yaklaşık kaç ay sürer?",
+    "options": [
+      "5 ay",
+      "6 ay",
+      "7 ay",
+      "12 ay",
+      "10 ay"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Bir milletvekilinin yasama dokunulmazlığı hangi durumda geçerli değildir?",
+    "options": [
+      "Her zaman geçerlidir",
+      "Ağır cezayı gerektiren suçüstü hâlinde",
+      "Meclis toplantı hâlinde değilse",
+      "Cumhurbaşkanının izniyle",
+      "Adli tatilde"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "TBMM'nin onaylanmasını uygun bulduğu ve usulüne göre yürürlüğe konulan milletlerarası antlaşmalar hangi hukuki değere sahiptir?",
+    "options": [
+      "Kanundan üstün",
+      "Kanun hükmünde",
+      "Yönetmelik hükmünde",
+      "Cumhurbaşkanlığı kararnamesi hükmünde",
+      "Tüzük hükmünde"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "TBMM'de grubu bulunan siyasi partilerin Meclis Başkanlık Divanı'ndaki temsil durumu için en doğru ifade hangisidir?",
+    "options": [
+      "Her partinin 1 temsilcisi vardır",
+      "Her partinin 2 temsilcisi vardır",
+      "Her partinin 3 temsilcisi vardır",
+      "Her partinin 4 temsilcisi vardır",
+      "Temsil, siyasi parti gruplarının üye sayısı oranında sağlanır"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "TBMM'nin yasama yılı kapanışı hangi ayda olur?",
+    "options": [
+      "Mayıs",
+      "Haziran",
+      "Temmuz",
+      "Ağustos",
+      "Eylül"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "Cumhurbaşkanının bir daha görüşülmek üzere TBMM'ye geri gönderdiği kanunla ilgili aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "TBMM 10 gün içinde öncelikle görüşür.",
+      "TBMM 15 gün içinde öncelikle görüşür.",
+      "TBMM 30 gün içinde öncelikle görüşür.",
+      "Anayasada belirli bir gün sayısı öngörülmemiştir.",
+      "Kanun doğrudan halkoyuna sunulur."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "1982 Anayasası 2017 değişikliğine göre aşağıdakilerden hangisi TBMM'nin görev ve yetkilerinden değildir?",
+    "options": [
+      "Bakanlar Kurulu'na belli konularda kanun hükmünde kararname çıkarma yetkisi vermek",
+      "Milletlerarası antlaşmaların onaylanmasını uygun bulmak",
+      "TBMM üye tamsayısının beşte üç çoğunluğunun kararı ile genel ve özel af ilanına karar vermek",
+      "Para basılmasına karar vermek",
+      "Kanunları kaldırmak"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "1982 Anayasası 2017 değişikliğine göre, aşağıdakilerden hangisi milletvekili seçilemez?",
+    "options": [
+      "19 yaşından gün almış bir Türk kadını",
+      "19 yaşından gün almış engelli bir vatandaş",
+      "18 yaşını tamamlamış bir üniversite öğrencisi",
+      "24 yaşında askerliğini yapan bir Türk genci",
+      "19 yaşındaki bir lise öğrencisi"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "1982 Anayasası 2017 değişikliğine göre, kanunları Cumhurbaşkanının yayımlaması ile ilgili aşağıdaki bilgilerden hangisi doğru bir bilgi değildir?",
+    "options": [
+      "Cumhurbaşkanı, Türkiye Büyük Millet Meclisince kabul edilen kanunları onbeş gün içinde yayımlar.",
+      "Yayımlanmasını kısmen veya tamamen uygun bulmadığı kanunları, bir daha görüşülmek üzere, bu hususta gösterdiği gerekçe ile birlikte aynı süre içinde, Türkiye Büyük Millet Meclisine geri gönderir.",
+      "Cumhurbaşkanınca kısmen uygun bulunmama durumunda, Türkiye Büyük Millet Meclisi sadece uygun bulunmayan maddeleri görüşebilir.",
+      "TBMM, geri gönderilen kanunu üye tamsayısının salt çoğunluğu ile aynen kabul ederse kanun Cumhurbaşkanınca yayımlanır.",
+      "Türkiye Büyük Millet Meclisi, geri gönderilen kanunu aynen kabul ederse, kanun Cumhurbaşkanınca yayımlanır."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "1982 Anayasası 2017 değişikliğine göre, TBMM ara verme veya tatildeyken aşağıdakilerden hangisi veya hangileri TBMM'yi toplantıya çağırabilir?",
+    "options": [
+      "Cumhurbaşkanı doğrudan",
+      "TBMM Başkanı doğrudan",
+      "Bakanlar Kurulu Cumhurbaşkanı aracılığıyla",
+      "TBMM üye tamsayısının beşte biri TBMM Başkanı aracılığıyla",
+      "Cumhurbaşkanı ve TBMM üye tamsayısının beşte biri"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "1982 Anayasası 2017 değişikliği ile aşağıdakilerden hangisi kaldırılmıştır?",
+    "options": [
+      "Soru",
+      "Meclis Araştırması",
+      "Genel Görüşme",
+      "Gensoru",
+      "Meclis Soruşturması"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "1982 Anayasası 2017 değişikliği ile aşağıdakilerden hangisinin adı değiştirilmiştir?",
+    "options": [
+      "Soru",
+      "Meclis Araştırması",
+      "Genel Görüşme",
+      "Gensoru",
+      "Meclis Soruşturması"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "1982 Anayasası 2017 değişikliği ile gensorunun kaldırılmasıyla bakanlar üzerindeki hangi sorumluluk kalkmış olur?",
+    "options": [
+      "Hukuki sorumluluk",
+      "Mali sorumluluk",
+      "Ekonomik sorumluluk",
+      "Siyasi sorumluluk",
+      "Cezai sorumluluk"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "1982 Anayasası 2017 değişikliği ile yazılı soruya kaç gün içinde cevap verilmek zorunluluğu vardır?",
+    "options": [
+      "5",
+      "7",
+      "10",
+      "15",
+      "30"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "1982 Anayasası 2017 değişikliği ile aşağıdakilerden hangisine yazılı soru sorulamaz veya meclis soruşturması açılamaz?",
+    "options": [
+      "Bakanlar",
+      "Milletvekili olmayan bakanlar",
+      "Başbakan",
+      "Cumhurbaşkanı yardımcıları",
+      "Hiçbiri"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıda verilenlerden hangisi 2017 Anayasa değişikliği ile birlikte TBMM'nin görev ve yetkileri arasında yer almıştır?",
+    "options": [
+      "Para basılmasına karar vermek",
+      "Genel af ilan etmek",
+      "Özel af ilan etmek",
+      "Hâkimler ve Savcılar Kuruluna üye seçmek",
+      "Kamu başdenetçisi seçmek"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "TBMM'nin bilgi edinme ve denetim yolları arasında yoktur?",
+    "options": [
+      "Meclis araştırması",
+      "Yazılı soru",
+      "Meclis soruşturması",
+      "Gensoru",
+      "Genel görüşme"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "TBMM'nin kendi iç çalışmalarını düzenlemek amacıyla koyduğu kurallara ne ad verilir?",
+    "options": [
+      "Kanun",
+      "Cumhurbaşkanı kararnamesi",
+      "Yönerge",
+      "İç tüzük",
+      "İdari karar"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "1982 Anayasasına göre Cumhurbaşkanı yardımcıları ve bakanlar hakkında Yüce Divana sevk kararını aşağıdakilerden hangisi alır?",
+    "options": [
+      "TBMM Başkanlığı",
+      "TBMM Genel Kurulu",
+      "Anayasa Mahkemesi Genel Kurulu",
+      "Anayasa Mahkemesi Bölümleri",
+      "Cumhurbaşkanı"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Meclis çalışmalarına özürsüz veya izinsiz olarak ..... ay içinde toplam ..... birleşim günü katılmayan milletvekilinin vekilliğinin düşmesine karar verilir. Yukarıdaki metinde noktalı yerleri doldurun.",
+    "options": [
+      "2 - 6",
+      "1 - 4",
+      "3 - 8",
+      "1 - 5",
+      "2 - 5"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "1982 Anayasası'na göre aşağıdakilerden hangisi TBMM'nin görev veya yetkilerinden biri değildir?",
+    "options": [
+      "Milletlerarası antlaşmaların onaylanmasını uygun bulmak",
+      "Özel af ilanına karar vermek",
+      "Para basılmasına karar vermek",
+      "Hâkimler ve Savcılar Kuruluna üye seçmek",
+      "Kararname çıkarmak"
+    ],
+    "answer": 4
+  },
+  {
+    "q": "1982 Anayasası'na göre TBMM, Anayasa Mahkemesine kaç üye seçmektedir?",
+    "options": [
+      "3",
+      "5",
+      "7",
+      "9",
+      "10"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "TBMM seçimleriyle ilgili aşağıdaki ifadelerden hangileri doğrudur? I. Cumhurbaşkanlığı seçimiyle aynı gün yapılır. II. Beş yılda bir yapılır. III. İki turlu oylama ile yapılır.",
+    "options": [
+      "Yalnız I",
+      "Yalnız II",
+      "Yalnız III",
+      "I ve II",
+      "I, II ve III"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "1982 Anayasası'na göre bir siyasi partinin TBMM'de grup kurabilmesi için en az kaç milletvekiline sahip olması gerekir?",
+    "options": [
+      "10",
+      "20",
+      "25",
+      "Üye tamsayısının onda biri",
+      "Üye tamsayısının yüzde beşi"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "2017 anayasa değişikliği ile TBMM'nin bilgi edinme ve denetim yollarından hangisi kaldırılmıştır?",
+    "options": [
+      "Yazılı soru",
+      "Genel görüşme",
+      "Meclis araştırması",
+      "Gensoru",
+      "Meclis soruşturması"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "1982 Anayasası'na göre yasama organıyla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "TBMM, genel oyla seçilen 600 milletvekilinden oluşur.",
+      "18 yaşını dolduran her Türk vatandaşı milletvekili seçilebilir.",
+      "TBMM, Anayasa'ya aykırı olmamak kaydıyla her konuda kanun çıkarabilir.",
+      "TBMM, kanunları ancak Anayasa Mahkemesi denetiminden geçirerek kabul edebilir.",
+      "Milletvekili genel seçimleri, Cumhurbaşkanlığı seçimi ile aynı gün yapılır."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "TBMM, üye tam sayısının en az kaçta kaçı ile toplanır?",
+    "options": [
+      "1/2",
+      "1/3",
+      "1/5",
+      "1/7",
+      "1/10"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "1982 Anayasası'na göre aşağıdakilerden hangisi Meclis Başkanlık Divanı üyesi değildir?",
+    "options": [
+      "İdare amirleri",
+      "Kâtip üyeler",
+      "Siyasi parti grup başkan vekilleri",
+      "TBMM Başkanı",
+      "TBMM başkan vekilleri"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "1982 Anayasası'na göre TBMM ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+    "options": [
+      "Seçimler 5 yılda bir yapılır.",
+      "Süre dolmadan seçimlerin yenilenmesine karar verebilir.",
+      "Üye tam sayısının %5'inin boşalması durumunda ara seçime gidilir.",
+      "Yenilenmesine karar verilen meclisin yetkileri yeni meclis seçilinceye kadar sürer.",
+      "600 milletvekilinden oluşur."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "1982 Anayasası 2017 değişikliğine göre, TBMM kaç milletvekilinden oluşur?",
+    "options": [
+      "400",
+      "450",
+      "550",
+      "600",
+      "550 asıl 100 yedek"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "1982 Anayasası döneminde 1982'den günümüze milletvekili sayısal değişimi hangi seçenekte kronolojik olarak doğru sıralanmıştır?",
+    "options": [
+      "450-500-550",
+      "400-450-550-600",
+      "450-550-600",
+      "450-500-550-600",
+      "400-500-550-600"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "1982 Anayasası 2017 değişikliğine göre, seçme ve seçilme sırayla yaşı kaçtır?",
+    "options": [
+      "18-25",
+      "18-18",
+      "25-25",
+      "18-21",
+      "21-21"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "1982 Anayasası 2017 değişikliğine göre, TBMM seçimleri kaç yılda bir yapılır?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "TBMM ve Cumhurbaşkanlığı seçimleri ile ilgili olarak aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "Her ikisinin de seçimleri ilgili süreleri doldurdukları zaman yapılabilir, ilişikleri yoktur.",
+      "İkisinin seçimleri arasında 1 yıldan fazla zaman aralığı olmalıdır.",
+      "Seçim zamanları birbirine yakınsa iki seçim birleştirilir.",
+      "Önce TBMM ardından Cumhurbaşkanlığı seçimi yapılmalıdır.",
+      "Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri beş yılda bir aynı günde yapılır."
+    ],
+    "answer": 4
+  },
+  {
+    "q": "1982 Anayasası 2017 değişikliğine göre aşağıdakilerden hangisi TBMM'nin görev ve yetkilerinden değildir?",
+    "options": [
+      "Kanun koymak, değiştirmek ve kaldırmak",
+      "Bütçe ve kesinhesap kanun tekliflerini görüşmek ve kabul etmek",
+      "Para basılmasına karar vermek",
+      "Cumhurbaşkanı yardımcıları ve bakanları gensoru ile denetlemek",
+      "Savaş ilanına karar vermek"
+    ],
+    "answer": 3
+  }
+]
