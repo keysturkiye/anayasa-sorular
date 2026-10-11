@@ -1,1 +1,662 @@
-
+[
+  {
+    "q": "Cumhurbaşkanı seçilebilmek için aranan yaş şartı ile milletvekili seçilebilmek için aranan yaş şartı arasındaki fark nedir?",
+    "options": [
+      "Cumhurbaşkanı 40, milletvekili 18",
+      "Cumhurbaşkanı 35, milletvekili 20",
+      "Cumhurbaşkanı 40, milletvekili 25",
+      "Cumhurbaşkanı 45, milletvekili 18",
+      "Cumhurbaşkanı 35, milletvekili 18"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Cumhurbaşkanlığı Kararnamesi (CBK) ile Kanun arasındaki ilişki bakımından hangisi doğrudur?",
+    "options": [
+      "CBK her konuda çıkarılabilir, kanun sadece belirli konularda",
+      "Anayasa'da münhasıran kanunla düzenlenmesi öngörülen konularda CBK çıkarılamaz",
+      "Kanun ile CBK çelişirse CBK esas alınır",
+      "CBK için TBMM onayı zorunludur",
+      "CBK sadece bütçe konularında çıkarılabilir"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Cumhurbaşkanının kanunları geri gönderme (veto) yetkisi ile ilgili hangisi doğrudur?",
+    "options": [
+      "Veto edilen kanun Meclis tarafından üye tamsayısının salt çoğunluğuyla (301) aynen kabul edilirse, CB yayımlamak zorundadır",
+      "Cumhurbaşkanı bütçe kanunlarını da veto edebilir",
+      "Veto edilen kanun kadük olur, tekrar görüşülemez",
+      "Veto için Anayasa Mahkemesi'nin uygunluk görüşü gerekir",
+      "Veto yetkisi sadece anayasa değişiklikleri içindir"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Cumhurbaşkanı yardımcısı ve Bakanların hukuki sorumluluğu hakkında hangisi doğrudur?",
+    "options": [
+      "TBMM'ye karşı siyasi sorumlulukları (gensoru) vardır",
+      "Sadece Cumhurbaşkanına karşı sorumludurlar",
+      "Görev suçlarından dolayı doğrudan Yargıtay'da yargılanırlar",
+      "Milletvekili seçilme yeterliliğine sahip olmaları gerekmez",
+      "Atanmaları için TBMM onayı şarttır"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Olağanüstü Hal (OHAL) CBK'sı ile Olağan dönem CBK'sı arasındaki en temel fark nedir?",
+    "options": [
+      "OHAL CBK'sı ile temel haklar (sert çekirdek haklar hariç) düzenlenebilir, normal CBK ile düzenlenemez",
+      "OHAL CBK'sı yargı denetimine tabidir, normal CBK değildir",
+      "Normal CBK Meclis onayı gerektirir, OHAL CBK'sı gerektirmez",
+      "OHAL CBK'sı sadece 24 saat geçerlidir",
+      "Aralarında hukuki bir fark yoktur"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Cumhurbaşkanı tarafından görevine son verilen bir bakanın durumu ile ilgili hangisi doğrudur?",
+    "options": [
+      "Aynı kişi Cumhurbaşkanı tarafından tekrar bakan olarak atanabilir",
+      "Tekrar atanması için TBMM'den güvenoyu alması gerekir",
+      "Görevden alınan bakan bir daha hiçbir kamu görevinde bulunamaz",
+      "Bakanın görevden alınması için Meclis kararı gerekir",
+      "Bakanın istifası CB onayına tabi değildir"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Cumhurbaşkanlığı Hükümet Sistemi'nde yürütme erki ile ilgili hangisi doğrudur?",
+    "options": [
+      "Yürütme yetkisi Cumhurbaşkanı ve Bakanlar Kurulu'na aittir",
+      "Yürütme yetkisi ve görevi sadece Cumhurbaşkanına aittir",
+      "Cumhurbaşkanı yardımcısı yürütmenin başıdır",
+      "Bakanlar yürütmeden bağımsızdır",
+      "Meclis Başkanı yürütmenin doğal üyesidir"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Cumhurbaşkanının 'kişiye özel' af yetkisi ile TBMM'nin 'genel/özel af' yetkisi arasındaki fark nedir?",
+    "options": [
+      "CB sadece belirli kişilerin (hastalık/sakatlık/kocama) cezasını kaldırabilir, TBMM ise suçları genel olarak affedebilir",
+      "CB sadece para cezalarını affeder, TBMM hapis cezalarını",
+      "CB'nin af yetkisi yargı denetimine kapalıdır",
+      "TBMM af kararı için salt çoğunluk yeterlidir",
+      "Aralarında fark yoktur"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Cumhurbaşkanının TBMM'yi toplantıya çağırma yetkisi ile ilgili hangisi doğrudur?",
+    "options": [
+      "Meclis tatilde veya ara vermedeyken doğrudan veya Meclis Başkanı aracılığıyla çağırabilir",
+      "Sadece savaş ilanı için çağırabilir",
+      "Çağrı için en az 100 milletvekilinin imzası gerekir",
+      "Sadece her yılın Ekim ayı başında çağırabilir",
+      "Meclis'i toplantıya çağırma yetkisi yoktur"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Cumhurbaşkanı seçiminde birinci tur ile ikinci tur arasındaki oylama farkı nedir?",
+    "options": [
+      "Birinci turda salt çoğunluk (%50+1) aranır; sağlanamazsa ikinci turda en çok oyu alan iki aday yarışır",
+      "Birinci turda %40 alan seçilir",
+      "İkinci turda aday olabilmek için %10 oy almış olmak gerekir",
+      "İkinci turda sadece TBMM'deki partiler aday gösterebilir",
+      "İkinci turda salt çoğunluk aranmaz, en çok oyu alan seçilir"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Devlet Denetleme Kurulu (DDK) ile ilgili hangisi yanlıştır?",
+    "options": [
+      "Cumhurbaşkanlığına bağlıdır",
+      "Başkan ve üyelerini Cumhurbaşkanı atar",
+      "Yargı organlarını denetleyebilir",
+      "TSK ve meslek kuruluşlarını denetleyebilir",
+      "İnceleme, araştırma ve denetleme yapar"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Cumhurbaşkanı'na gönderilen kanunların yayımlanması veya geri gönderilmesi süreci nasıldır?",
+    "options": [
+      "Cumhurbaşkanı kanunları 15 gün içinde yayımlar veya geri gönderir",
+      "Önce yayımlar, sonra 15 gün içinde veto eder",
+      "Veto yetkisi sadece Anayasa değişikliklerinde 30 gündür",
+      "Kanunları 7 gün içinde incelemek zorundadır",
+      "Cumhurbaşkanı kanunları süresiz bekletebilir"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Cumhurbaşkanı yardımcıları ve bakanların Yüce Divan'a sevk edilmesi için gereken nihai oy oranı nedir?",
+    "options": [
+      "Üye tamsayısının salt çoğunluğu (301)",
+      "Üye tamsayısının beşte üçü (360)",
+      "Üye tamsayısının üçte ikisi (400)",
+      "Katılanların salt çoğunluğu",
+      "Üye tamsayısının dörte üçü"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Seçimlerin yenilenmesi (fesih benzeri) kararı alındığında hangisi gerçekleşir?",
+    "options": [
+      "Sadece TBMM seçimleri yenilenir",
+      "Sadece Cumhurbaşkanlığı seçimi yenilenir",
+      "Hem TBMM hem Cumhurbaşkanlığı seçimleri birlikte yapılır",
+      "Yeni seçimler 120 gün sonra yapılır",
+      "Seçim kararı Resmi Gazete'de yayımlanmaz"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Başkomutanlık ve TSK'nın kullanılması yetkisi ile ilgili hangisi doğrudur?",
+    "options": [
+      "Başkomutanlık, TBMM'nin manevi varlığından ayrılamaz ve Cumhurbaşkanı tarafından temsil edilir",
+      "Savaş ilanına sadece Cumhurbaşkanı karar verir",
+      "Genelkurmay Başkanı doğrudan Meclis'e sorumludur",
+      "Milli güvenliğin sağlanmasından Meclis Başkanı sorumludur",
+      "TSK'nın kullanılmasına sadece Anayasa Mahkemesi karar verir"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Türkiye Cumhuriyeti Anayasası'na göre yürütme yetkisi ve görevi kime aittir?",
+    "options": [
+      "Bakanlar Kurulu'na",
+      "Cumhurbaşkanı yardımcısına",
+      "Cumhurbaşkanına",
+      "TBMM'ye",
+      "Yargıtay'a"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "2017 Anayasa değişikliği ile birlikte aşağıdakilerden hangisi yürütme organının bir unsuru olmaktan çıkarılmıştır?",
+    "options": [
+      "Cumhurbaşkanı",
+      "Bakanlar",
+      "Cumhurbaşkanı Yardımcıları",
+      "Bakanlar Kurulu",
+      "Üst düzey kamu yöneticileri"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Cumhurbaşkanı seçilebilmek için aşağıdaki şartlardan hangisi anayasal bir zorunluluk değildir?",
+    "options": [
+      "Kırk yaşını doldurmuş olmak",
+      "Yükseköğrenim yapmış olmak",
+      "Milletvekili seçilme yeterliliğine sahip olmak",
+      "Muvazzaf askerlik hizmetini tamamlamış olmak",
+      "Türk vatandaşı olmak"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Cumhurbaşkanının görev süresi kaç yıldır ve bir kimse en fazla kaç defa seçilebilir?",
+    "options": [
+      "4 yıl - 2 defa",
+      "5 yıl - 1 defa",
+      "5 yıl - 2 defa (Meclis kararıyla seçim yenilenmesi hariç)",
+      "6 yıl - 2 defa",
+      "7 yıl - 1 defa"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Cumhurbaşkanı'nın 'seçimlerin yenilenmesine' karar verme yetkisiyle ilgili hangisi doğrudur?",
+    "options": [
+      "Sadece Meclis'in talebiyle karar verebilir",
+      "Herhangi bir gerekçe göstermeksizin seçimlerin yenilenmesine karar verebilir",
+      "Savaş hali dışında bu yetkiyi kullanamaz",
+      "Yalnızca AYM onayı ile kullanabilir",
+      "Bakanlar Kurulu'nun istifası halinde kullanabilir"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Cumhurbaşkanlığı Kararnameleri (CBK) ile ilgili 'normlar hiyerarşisi' bakımından hangisi doğrudur?",
+    "options": [
+      "Kanun ile CBK çelişirse CBK uygulanır",
+      "Anayasa'da münhasıran kanunla düzenlenmesi öngörülen konularda CBK çıkarılamaz",
+      "CBK'lar kanunlardan üstündür",
+      "TBMM kararnameleri iptal edemez",
+      "CBK için Danıştay'dan uygunluk görüşü alınmalıdır"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Cumhurbaşkanı tarafından ilan edilen Olağanüstü Hal (OHAL) kararı ile ilgili hangisi doğrudur?",
+    "options": [
+      "İlan edildiği gün Resmi Gazete'de yayımlanır ve aynı gün TBMM onayına sunulur",
+      "En fazla 1 yıl için ilan edilebilir",
+      "Meclis onayına sunulması için 48 saat süresi vardır",
+      "Sadece savaş durumunda ilan edilebilir",
+      "Yargı yolu kapalıdır"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Cumhurbaşkanı yardımcıları ve bakanlar, görevleriyle ilgili suçlardan dolayı hangi sıfatla nerede yargılanırlar?",
+    "options": [
+      "Yargıtay Ceza Genel Kurulu'nda",
+      "Danıştay İdari Dava Daireleri'nde",
+      "Yüce Divan sıfatıyla Anayasa Mahkemesi'nde",
+      "Ankara Bölge Adliye Mahkemesi'nde",
+      "Askeri Yargıtay'da"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Cumhurbaşkanı yardımcıları ve bakanların cevaplandırması gereken 'yazılı soru' önergesi en geç kaç gün içinde cevaplanmalıdır?",
+    "options": [
+      "7 gün",
+      "10 gün",
+      "15 gün",
+      "20 gün",
+      "30 gün"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Cumhurbaşkanı'nın 'Bütçe Kanunu' üzerindeki yetkisiyle ilgili hangisi doğrudur?",
+    "options": [
+      "Bütçe kanununu veto edip Meclis'e geri gönderemez",
+      "Bütçeyi tek başına onaylar, Meclis'e sunmaz",
+      "Bütçe kanununu Meclis kabul etmezse hükümet düşer",
+      "Sadece ek bütçe kanununu veto edebilir",
+      "Bütçe hazırlama yetkisi Sayıştay'a aittir"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Cumhurbaşkanı adaylığı için siyasi partilerin tek başına veya birlikte en son genel seçimde toplam geçerli oyların en az yüzde kaçını almış olmaları gerekir?",
+    "options": [
+      "%3",
+      "%5",
+      "%7",
+      "%10",
+      "%15"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Cumhurbaşkanlığı makamının ölüm, istifa veya başka bir nedenle 'boşalması' halinde seçimler kaç gün içinde yapılır?",
+    "options": [
+      "30 gün",
+      "45 gün",
+      "60 gün",
+      "90 gün",
+      "120 gün"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Devlet Denetleme Kurulu (DDK) aşağıdakilerden hangisi üzerinde denetim yapamaz?",
+    "options": [
+      "Kamu iktisadi teşebbüsleri",
+      "Meslek kuruluşları",
+      "Yargı organları",
+      "Silahlı Kuvvetler",
+      "Vakıflar"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisi 2017 değişikliği ile birlikte 'Yönetmelik' çıkarma yetkisine sahip kılınmıştır?",
+    "options": [
+      "Siyasi Parti Grupları",
+      "Sadece Bakanlıklar",
+      "Cumhurbaşkanı, bakanlıklar ve kamu tüzel kişileri",
+      "TBMM Başkanlığı",
+      "Valilikler"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Cumhurbaşkanı hakkında 'suç işlediği iddiasıyla' Meclis soruşturması açılmasına karar verilebilmesi için gereken oy oranı nedir?",
+    "options": [
+      "Üye tamsayısının salt çoğunluğu (301)",
+      "Üye tamsayısının beşte üçü (360)",
+      "Üye tamsayısının üçte ikisi (400)",
+      "Üye tamsayısının dörte üçü",
+      "Katılanların salt çoğunluğu"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Cumhurbaşkanı, Cumhurbaşkanlığı Kararnamesi çıkarırken aşağıdaki sınırlardan hangisine uymak zorundadır?",
+    "options": [
+      "Anayasa'da yer alan temel haklar, kişi hakları ve ödevlerine ilişkin düzenleme yapamaz",
+      "Her zaman TBMM'den yetki kanunu almalıdır",
+      "Sadece ekonomik konularda kararname çıkarabilir",
+      "Kararnameler Danıştay incelemesinden geçmek zorundadır",
+      "Sadece Meclis tatildeyken kararname çıkarabilir"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Cumhurbaşkanlığı makamının herhangi bir sebeple boşalması halinde, yenisi seçilene kadar Cumhurbaşkanlığına kim vekâlet eder?",
+    "options": [
+      "TBMM Başkanı",
+      "En yaşlı Cumhurbaşkanı yardımcısı",
+      "Cumhurbaşkanının görevlendireceği bir bakan",
+      "Anayasa Mahkemesi Başkanı",
+      "Genelkurmay Başkanı"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Cumhurbaşkanı tarafından sunulan bütçe teklifi süresinde yürürlüğe konulamazsa hangi mekanizma işletilir?",
+    "options": [
+      "Bütçe kanunu veto edilmiş sayılır",
+      "TBMM yeni bir bütçe hazırlar",
+      "Geçici bütçe kanunu çıkarılır; o da olmazsa bir önceki yılın bütçesi yeniden değerleme oranına göre uygulanır",
+      "Cumhurbaşkanı yardımcısı bütçeyi onaylar",
+      "Ülke bütçesiz yönetilmeye devam eder"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Cumhurbaşkanı seçiminde birinci turda hiçbir aday salt çoğunluğu (%50+1) sağlayamazsa, ikinci tura hangi adaylar katılır?",
+    "options": [
+      "%40'tan fazla oy alan tüm adaylar",
+      "%20 barajını geçen ilk üç aday",
+      "Birinci turda en çok oy alan iki aday",
+      "Siyasi parti gruplarının belirlediği iki aday",
+      "Meclis'te en çok milletvekili olan partilerin adayları"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Cumhurbaşkanı tarafından ilan edilen Olağanüstü Hal (OHAL) kararı, en geç ne kadar süre içinde TBMM'nin onayına sunulmalıdır?",
+    "options": [
+      "İlan edildiği gün",
+      "24 saat içinde",
+      "48 saat içinde",
+      "72 saat içinde",
+      "7 gün içinde"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Cumhurbaşkanı yardımcıları ve bakanların sayısını belirleme yetkisi kime aittir?",
+    "options": [
+      "Anayasa ile sabitlenmiştir",
+      "TBMM kanunla belirler",
+      "Cumhurbaşkanı tarafından belirlenir",
+      "Milli Güvenlik Kurulu kararlaştırır",
+      "Bakanlar Kurulu ortak kararıdır"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Cumhurbaşkanının yüksek yargı organlarına üye seçme yetkisiyle ilgili hangisi yanlıştır?",
+    "options": [
+      "Anayasa Mahkemesine üye seçer",
+      "Danıştay üyelerinin bir kısmını seçer",
+      "Yargıtay üyelerinin tamamını doğrudan atar",
+      "HSK üyelerinin bir kısmını seçer",
+      "Yargıtay Cumhuriyet Başsavcısını seçer"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Yeni sistemde Cumhurbaşkanı yardımcıları ve bakanlar, yasama denetim araçlarından hangisine muhatap olabilirler?",
+    "options": [
+      "Gensoru",
+      "Güvensizlik oyu",
+      "Meclis soruşturması ve yazılı soru",
+      "Sözlü soru önergesi",
+      "Bakanlar Kurulu azli"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Cumhurbaşkanı, hangi temel hak ve hürriyeti hiçbir durumda (savaş/OHAL dahil) tamamen durduramaz?",
+    "options": [
+      "Seyahat hürriyeti",
+      "Mülkiyet hakkı",
+      "Kişinin yaşama hakkı ve maddi/manevi varlığının bütünlüğü",
+      "Basın hürriyeti",
+      "Toplantı ve gösteri yürüyüşü hakkı"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Cumhurbaşkanının hastalık veya yurt dışına çıkış gibi 'geçici' ayrılma hallerinde vekâlet görevi nasıldır?",
+    "options": [
+      "TBMM Başkanı vekâlet eder",
+      "Cumhurbaşkanının görevlendireceği yardımcısı vekâlet eder",
+      "İçişleri Bakanı vekâlet eder",
+      "En kıdemli bakan vekâlet eder",
+      "Vekâlet kurumu bu durumlarda işlemez"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Cumhurbaşkanı, aşağıdakilerden hangisinin başkanını atama yetkisine sahip değildir?",
+    "options": [
+      "MİT Başkanı",
+      "Diyanet İşleri Başkanı",
+      "Anayasa Mahkemesi Başkanı",
+      "Genelkurmay Başkanı",
+      "Strateji ve Bütçe Başkanı"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Cumhurbaşkanı yardımcıları ve bakanların atanması için aranan şartlar nelerdir?",
+    "options": [
+      "Sadece yükseköğrenim mezunu olmak",
+      "Milletvekili seçilme yeterliliğine sahip olmak",
+      "En az 40 yaşında olmak",
+      "Daha önce devlet memurluğu yapmış olmak",
+      "Siyasi parti üyesi olmamak"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Bir kimse en fazla kaç kez Cumhurbaşkanı seçilebilir?",
+    "options": [
+      "Sınır yoktur",
+      "Bir kez",
+      "İki kez (Meclis tarafından seçim yenilenmesi hariç)",
+      "Üç kez",
+      "Sadece bir dönem için 7 yıllığına"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Savaş hali ilanına karar verme yetkisi kural olarak kime aittir?",
+    "options": [
+      "Doğrudan Cumhurbaşkanına",
+      "Milli Güvenlik Kurulu'na",
+      "TBMM'ye",
+      "Genelkurmay Başkanlığına",
+      "Cumhurbaşkanı yardımcısına"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Cumhurbaşkanı yardımcıları ve bakanlar hakkında görevleriyle ilgili suç işledikleri iddiasıyla Meclis soruşturması açılabilmesi için kaç milletvekilinin önergesi gerekir?",
+    "options": [
+      "Üye tamsayısının salt çoğunluğu (301)",
+      "Üye tamsayısının 3/5'i (360)",
+      "Üye tamsayısının 2/3'ü (400)",
+      "Üye tamsayısının beşte biri (120)",
+      "Salt çoğunluğun bir fazlası"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Cumhurbaşkanı, hangi durumda doğrudan (TBMM onayı olmaksızın) düzenleme yapma yetkisine sahiptir?",
+    "options": [
+      "Savaş ilanı",
+      "Olağanüstü hal kararnamesi çıkarmak",
+      "Kanunları yürürlükten kaldırmak",
+      "Anayasa değişikliği yapmak",
+      "Milletlerarası antlaşmaları tek başına feshetmek"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Cumhurbaşkanı yardımcılarının görev süresi ne kadardır?",
+    "options": [
+      "4 yıl",
+      "5 yıl",
+      "Cumhurbaşkanının görev süresi ile sınırlıdır",
+      "6 yıl",
+      "TBMM tarafından belirlenir"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Cumhurbaşkanının anayasal 'af' (cezayı hafifletme veya kaldırma) yetkisi hangi durumda geçerlidir?",
+    "options": [
+      "Tüm adli suçlar için",
+      "Sadece siyasi suçlar için",
+      "Disiplin cezaları için",
+      "Sürekli hastalık, sakatlık ve kocama hali olan kişiler için",
+      "Milletvekili seçilme engelini kaldırmak için"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Cumhurbaşkanı seçiminde ikinci tura kalma şartı nedir?",
+    "options": [
+      "Geçerli oyların salt çoğunluğunu (%50+1) alamamak",
+      "%40 barajını geçememek",
+      "En çok oyu alan iki adaylardan biri olamamak",
+      "%35 katılım oranına ulaşamamak",
+      "Meclis salt çoğunluğunu sağlayamamak"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Cumhurbaşkanı, bakanlıklar arasında koordinasyonu sağlamak ve devletin yürütme politikasını belirlemek için hangi yapıyı kullanır?",
+    "options": [
+      "Bakanlar Kurulu",
+      "Cumhurbaşkanlığı Kabinesi",
+      "Milli Güvenlik Kurulu",
+      "Yüksek İstişare Kurulu",
+      "Ekonomik ve Sosyal Konsey"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Cumhurbaşkanının kanunları tekrar görüşülmek üzere Meclis'e geri gönderme (veto) yetkisi hangi tür kanunlar için geçerlidir?",
+    "options": [
+      "Tüm kanunlar (Bütçe kanunu hariç)",
+      "Anayasa değişiklikleri",
+      "Sadece af kanunları",
+      "Sadece usul kanunları",
+      "Sadece vergi kanunları"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Cumhurbaşkanı yardımcısı veya Bakan olarak atanabilmek için aranan 'en az' öğrenim şartı nedir?",
+    "options": [
+      "Okuma yazma bilmek",
+      "İlkokul mezunu olmak",
+      "Lise mezunu olmak",
+      "Lisans mezunu olmak",
+      "Öğrenim şartı aranmaz"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Cumhurbaşkanı, hangi hukuki süreç sonunda görevinden ayrılmak zorunda kalır?",
+    "options": [
+      "TBMM'nin güvensizlik oyu vermesiyle",
+      "Danıştay'ın iptal kararıyla",
+      "Yüce Divan sıfatıyla AYM tarafından seçilmeye engel bir suçtan mahkum edilmesiyle",
+      "Cumhurbaşkanı yardımcısının azil talebiyle",
+      "Partisinden istifa etmesiyle"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Devlet Denetleme Kurulu'nun raporları ve inceleme sonuçları hangi hukuki niteliğe sahiptir?",
+    "options": [
+      "Yargı kararı yerine geçer",
+      "Tavsiye ve idari denetim niteliğindedir",
+      "Kanun hükmündedir",
+      "Kesinleşmiş mahkeme ilamıdır",
+      "Doğrudan hapis cezası öngörür"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Cumhurbaşkanı, milletlerarası antlaşmaların onaylanması sürecinde genel kural olarak hangi şartı gözetir?",
+    "options": [
+      "Doğrudan ve şartsız onaylar",
+      "TBMM'nin bir kanunla onaylamayı uygun bulmasını bekler",
+      "Yargıtay Cumhuriyet Başsavcılığından izin alır",
+      "Milli Güvenlik Kurulu'na danışır",
+      "Referandum sonucuna göre hareket eder"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Cumhurbaşkanı seçiminde aday gösterebilmek için siyasi partilerin TBMM'de en az kaç milletvekili ile grup kurmuş olmaları gerekir?",
+    "options": [
+      "10",
+      "15",
+      "20",
+      "25",
+      "30"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Cumhurbaşkanı, aşağıdakilerden hangisinin kararlarını (veto yoluyla) tekrar görüşülmek üzere geri gönderemez?",
+    "options": [
+      "TBMM tarafından kabul edilen kanunlar",
+      "Anayasa Mahkemesi kararları",
+      "Bakanlık genelgeleri",
+      "Üniversite yönetmelikleri",
+      "Belediye meclis kararları"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Cumhurbaşkanı yardımcıları ve bakanlar, yasama dokunulmazlığından hangi ölçüde yararlanırlar?",
+    "options": [
+      "Sadece görev suçlarında yararlanırlar",
+      "Milletvekillerinin sahip olduğu yasama dokunulmazlığına sahiptirler",
+      "Hiçbir şekilde dokunulmazlıkları yoktur",
+      "Sadece idari işlemlerde muaftırlar",
+      "Sadece görev süreleri bittikten sonra yargılanabilirler"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Cumhurbaşkanının seçimlerin yenilenmesine karar vermesi halinde, seçim kararı verildiği günden itibaren kaçıncı günü takip eden ilk Pazar günü seçim yapılır?",
+    "options": [
+      "30. gün",
+      "45. gün",
+      "60. gün",
+      "90. gün",
+      "120. gün"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Aşağıdakilerden hangisi Cumhurbaşkanının 'Yürütme' yetkisine ilişkin görevlerinden biridir?",
+    "options": [
+      "Kanunları yorumlamak",
+      "Bakanları atamak ve görevlerine son vermek",
+      "Bütçe kanununu tek başına kabul etmek",
+      "Anayasa Mahkemesi üyelerini görevden almak",
+      "Meclis Başkanı'nı seçmek"
+    ],
+    "answer": 1
+  }
+]
