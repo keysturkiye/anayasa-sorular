@@ -1,0 +1,664 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🌟 4. Sınıf Karma Besinler Sınavı 🍎</title>
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka+One&family=Quicksand:wght@500;700;800&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+    <style>
+        :root {
+            --primary: #10B981;
+            --secondary: #06B6D4;
+            --yellow: #F59E0B;
+            --pink: #EC4899;
+            --purple: #8B5CF6;
+            --dark: #1E293B;
+        }
+
+        * {
+            box-sizing: border-box;
+            user-select: none;
+            font-family: 'Quicksand', sans-serif;
+        }
+
+        body {
+            margin: 0;
+            padding: 20px;
+            background: linear-gradient(135deg, #FFEDD5 0%, #E0E7FF 50%, #DCFCE7 100%);
+            min-height: 100vh;
+            color: var(--dark);
+        }
+
+        .sticky-header {
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(8px);
+            padding: 15px 20px;
+            border-radius: 0 0 30px 30px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+            max-width: 950px;
+            margin: -20px auto 25px auto;
+            border: 4px solid var(--purple);
+            border-top: none;
+        }
+
+        .header-content {
+            text-align: center;
+        }
+
+        .header-content h1 {
+            font-family: 'Fredoka One', cursive;
+            color: var(--purple);
+            font-size: 1.8rem;
+            margin: 0 0 10px 0;
+            text-shadow: 2px 2px 0 var(--yellow);
+        }
+
+        .scoreboard {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            flex-wrap: wrap;
+        }
+
+        .score-box {
+            background: var(--yellow);
+            color: white;
+            padding: 8px 18px;
+            border-radius: 18px;
+            font-family: 'Fredoka One', cursive;
+            font-size: 1.15rem;
+            box-shadow: 0 4px 0 #D97706;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .category-filter {
+            display: flex;
+            justify-content: center;
+            gap: 12px;
+            flex-wrap: wrap;
+            max-width: 950px;
+            margin: 0 auto 25px auto;
+        }
+
+        .filter-btn {
+            background: white;
+            border: 3px solid #CBD5E1;
+            padding: 14px 22px;
+            border-radius: 20px;
+            font-family: 'Fredoka One', cursive;
+            font-size: 1.05rem;
+            cursor: pointer;
+            transition: all 0.2s;
+            box-shadow: 0 4px 0 #94A3B8;
+        }
+
+        .filter-btn:hover {
+            transform: translateY(-2px);
+        }
+
+        .filter-btn.active {
+            background: var(--pink);
+            color: white;
+            border-color: var(--pink);
+            box-shadow: 0 4px 0 #BE185D;
+        }
+
+        .container {
+            max-width: 950px;
+            margin: 0 auto;
+        }
+
+        .question-card {
+            background: white;
+            border-radius: 25px;
+            padding: 25px;
+            margin-bottom: 25px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+            border: 4px solid white;
+            transition: transform 0.2s;
+        }
+
+        .q-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+        }
+
+        .q-badge {
+            background: #EEF2FF;
+            color: var(--purple);
+            font-family: 'Fredoka One', cursive;
+            padding: 6px 16px;
+            border-radius: 12px;
+            font-size: 1.1rem;
+        }
+
+        .voice-btn {
+            background: var(--pink);
+            color: white;
+            border: none;
+            padding: 8px 16px;
+            border-radius: 15px;
+            font-weight: bold;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            box-shadow: 0 4px 0 #BE185D;
+        }
+
+        .q-title {
+            font-size: 1.25rem;
+            font-weight: 800;
+            margin-bottom: 18px;
+            line-height: 1.4;
+            color: #1E293B;
+        }
+
+        .options-grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 12px;
+        }
+
+        .answer-btn {
+            background: #F8FAFC;
+            border: 3px solid #E2E8F0;
+            padding: 14px 20px;
+            border-radius: 16px;
+            font-size: 1.05rem;
+            font-weight: 700;
+            cursor: pointer;
+            text-align: left;
+            transition: all 0.2s;
+            color: #334155;
+        }
+
+        .answer-btn:hover {
+            background: #F0F9FF;
+            border-color: var(--secondary);
+        }
+
+        .answer-btn.correct {
+            background: #DCFCE7 !important;
+            border-color: #22C55E !important;
+            color: #15803D !important;
+        }
+
+        .answer-btn.wrong {
+            background: #FEE2E2 !important;
+            border-color: #EF4444 !important;
+            color: #B91C1C !important;
+        }
+
+        .explanation {
+            display: none;
+            margin-top: 18px;
+            padding: 15px 20px;
+            background: #FFFBEB;
+            border-radius: 16px;
+            border: 3px dashed #F59E0B;
+            font-size: 1rem;
+            line-height: 1.5;
+            color: #78350F;
+        }
+
+        .explanation.show {
+            display: block;
+        }
+
+        .speak-exp-btn {
+            background: var(--yellow);
+            color: white;
+            border: none;
+            padding: 6px 12px;
+            border-radius: 10px;
+            font-weight: bold;
+            cursor: pointer;
+            margin-top: 8px;
+        }
+
+        .submit-container {
+            text-align: center;
+            margin: 30px 0 50px 0;
+        }
+
+        .finish-btn {
+            background: var(--primary);
+            color: white;
+            border: none;
+            padding: 18px 40px;
+            border-radius: 22px;
+            font-family: 'Fredoka One', cursive;
+            font-size: 1.4rem;
+            cursor: pointer;
+            box-shadow: 0 6px 0 #059669;
+            transition: all 0.2s;
+        }
+
+        .finish-btn:hover {
+            transform: scale(1.03);
+        }
+
+        .finish-btn:active {
+            transform: translateY(3px);
+            box-shadow: 0 3px 0 #059669;
+        }
+
+        .analysis-card {
+            background: white;
+            border-radius: 30px;
+            padding: 30px;
+            text-align: center;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.15);
+            border: 6px solid var(--purple);
+            display: none;
+            animation: bounceIn 0.5s ease;
+            margin-bottom: 40px;
+        }
+
+        @keyframes bounceIn {
+            0% { transform: scale(0.8); opacity: 0; }
+            100% { transform: scale(1); opacity: 1; }
+        }
+
+        .analysis-card h2 {
+            font-family: 'Fredoka One', cursive;
+            color: var(--purple);
+            font-size: 2rem;
+            margin-top: 0;
+        }
+
+        .analysis-btn {
+            background: var(--primary);
+            color: white;
+            border: none;
+            padding: 15px 30px;
+            border-radius: 20px;
+            font-family: 'Fredoka One', cursive;
+            font-size: 1.2rem;
+            cursor: pointer;
+            box-shadow: 0 6px 0 #059669;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="sticky-header">
+        <div class="header-content">
+            <h1>🌟 4. Sınıf Karma Besinler Sınavı 🍎</h1>
+            <div class="scoreboard">
+                <div class="score-box" style="background: #10B981;">⭐ PUAN: <span id="score">0</span></div>
+                <div class="score-box" style="background: #EC4899;">🎯 İŞARETLENEN: <span id="solved">0</span> / 25</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="category-filter" id="filter-container">
+        <button class="filter-btn active" onclick="generateRandomExam('A', this)">🎲 25 Soruluk Yeni Sınav (A Seti)</button>
+        <button class="filter-btn" onclick="generateRandomExam('B', this)">🎲 25 Soruluk Yeni Sınav (B Seti)</button>
+        <button class="filter-btn" onclick="generateRandomExam('C', this)">🎲 25 Soruluk Yeni Sınav (C Seti)</button>
+    </div>
+
+    <div class="container" id="quiz-container"></div>
+
+    <div class="submit-container" id="submit-area">
+        <button class="finish-btn" onclick="showAnalysis()">🏁 Sınavı Şimdi Bitir ve Karnemi Gör</button>
+    </div>
+
+    <div class="container">
+        <div class="analysis-card" id="analysis-section">
+            <h2>🏆 4. Sınıf Besin Uzmanlığı Karnen! 🎓</h2>
+            <p id="analysis-text" style="font-size: 1.2rem; line-height: 1.6; margin: 20px 0; text-align: left; display: inline-block;"></p>
+            <br>
+            <button class="analysis-btn" onclick="speakAnalysis()">🔊 Sesli Karneni Dinle!</button>
+        </div>
+    </div>
+
+    <script>
+        const masterQuestionPool = [
+            { cat: 'karbonhidrat', q: "Okulda oyun oynarken yorulduğumuzda vücudumuza ilk enerji veren besin grubu hangisidir?", options: ["🥩 Proteinler", "🍞 Karbonhidratlar", "🥑 Yağlar"], correct: 1, exp: "Vücudumuz ilk olarak karbonhidratları enerjiye dönüştürür." },
+            { cat: 'karbonhidrat', q: "Zihnimizin derslerde çok iyi çalışması ve soruları çözmesi için hangi besin grubuna ihtiyacı vardır?", options: ["🍞 Karbonhidratlar", "🛢️ Yağlar", "🧱 Sadece Su"], correct: 0, exp: "Beynimiz sadece karbonhidratlardan elde edilen enerjiyi kullanmayı sever." },
+            { cat: 'karbonhidrat', q: "Sabah kahvaltısında yediğimiz ekmek, patates ve makarnada en çok hangi besin vardır?", options: ["🍊 Vitamin", "🥛 Protein", "🍞 Karbonhidrat"], correct: 2, exp: "Tahıllar ve nişastalı yiyecekler tam birer karbonhidrat kaynağıdır." },
+            { cat: 'karbonhidrat', q: "Bisiklete binerken veya ip atlarken kaslarımıza hareket gücünü veren temel besin nedir?", options: ["🍞 Karbonhidratlar", "💧 Sadece Su", "🍬 Sadece Şeker"], correct: 0, exp: "Fiziksel aktiviteler için en önemli yakıt karbonhidratlardır." },
+            { cat: 'karbonhidrat', q: "Futbol maçı veya koşu yarışından hemen önce sporcular neden makarna yerler?", options: ["❄️ Vücudu soğutmak için", "⚡ Hızlı ve kolay enerji toplamak için", "🐘 Kilo almak için"], correct: 1, exp: "Karbonhidratlar en çabuk enerjiye dönüşen besinlerdir." },
+            { cat: 'karbonhidrat', q: "Gereğinden çok fazla karbonhidrat yiyip hiç hareket etmezsek vücudumuzda ne birikir?", options: ["💪 Anında kas olur", "🥑 Fazla enerji yağa dönüşüp depolanır", "🍊 Vitamin artar"], correct: 1, exp: "Kullanılmayan karbonhidrat yağa dönüşür." },
+            { cat: 'karbonhidrat', q: "En sevdiğimiz meyvelerin içindeki tatlılık hangi doğal besin maddesinden gelir?", options: ["🍞 Karbonhidrat (Meyve Şekeri)", "💧 Mineral", "🥑 Yağ"], correct: 0, exp: "Meyve şekerleri hızlı enerji veren karbonhidratlardır." },
+            { cat: 'karbonhidrat', q: "Besin piramidinin en alt ve en geniş kısmında hangi besinler yer alır?", options: ["🥩 Et ürünleri", "🍞 Karbonhidratlar (Tahıllar)", "🍫 Tatlılar"], correct: 1, exp: "En çok tüketilmesi gereken tahıllar piramidin tabanındadır." },
+            { cat: 'karbonhidrat', q: "Beyaz ekmek yerine neden Tam Buğday Ekmeği yemeliyiz?", options: ["🌾 Lif oranı yüksek olduğu için sindirimi daha sağlıklıdır", "🥑 İçinde çok yağ olduğu için", "💧 Hiç suyu yoktur"], correct: 0, exp: "Lifli ürünler sindirimi harika destekler." },
+            { cat: 'karbonhidrat', q: "Pirinç pilavı ve bulgur pilavı hangi besin içerik grubu içinde yer alır?", options: ["🍞 Karbonhidratlar", "🍊 Vitaminler", "🥛 Proteinler"], correct: 0, exp: "Pirinç ve bulgur tahıl grubundandır." },
+            { cat: 'karbonhidrat', q: "Mısır ve kestane yediğimizde en çok hangi besin maddesini almış oluruz?", options: ["🍞 Karbonhidrat", "🥛 Protein", "🧂 Mineral"], correct: 0, exp: "Mısır ve kestane nişastalı karbonhidratlardır." },
+            { cat: 'karbonhidrat', q: "Bal ve pekmezde bolca bulunan tatlı enerji kaynağı nedir?", options: ["🍞 Doğal Karbonhidrat Şekeri", "🥑 Katı Yağ", "🥩 Protein"], correct: 0, exp: "Bal ve pekmez doğal enerjidir." },
+
+            { cat: 'yag', q: "Karbonhidratlarımız bittiğinde vücudumuzun imdadına yetişen yedek enerji depomuz nedir?", options: ["🍊 Vitaminler", "🥑 Yağlar", "🧱 Mineraller"], correct: 1, exp: "Yağlar bizim yedek enerji depomuzdur." },
+            { cat: 'yag', q: "Ceviz, fındık, badem ve zeytin gibi lezzetlerde hangi besin maddesi çok bulunur?", options: ["🍞 Karbonhidrat", "🍊 C Vitamini", "🥑 Sağlıklı Yağlar"], correct: 2, exp: "Kuruyemişler bitkisel yağlar bakımından çok zengindir." },
+            { cat: 'yag', q: "Kışın dışarıda kartopu oynarken vücudumuzu soğuktan koruyan deri altındaki tabaka nedir?", options: ["🧥 Koruyucu Yağ tabakası", "📏 Boy uzaması", "💦 Terleme"], correct: 0, exp: "Deri altı yağ tabakası yalıtım yapar." },
+            { cat: 'yag', q: "A, D, E, K vitaminlerinin vücudumuz tarafından kullanılabilmesi için mutlaka neye ihtiyaç vardır?", options: ["🍭 Şekere", "🥑 Yağlara", "🧂 Tuza"], correct: 1, exp: "Bu vitaminler sadece yağda çözünür." },
+            { cat: 'yag', q: "İç organlarımızı dışarıdan gelen darbelere karşı ne korur?", options: ["🍊 Vitaminler", "🍞 Karbonhidratlar", "🥑 Etrafındaki koruyucu yağ dokusu"], correct: 2, exp: "Yağ dokuları organlara yastık olur." },
+            { cat: 'yag', q: "Tereyağı ve kuyruk yağı ne tür yağ grubuna girer?", options: ["🐄 Hayvansal yağlar", "🌻 Bitkisel yağlar", "🪨 Taş yağlar"], correct: 0, exp: "Hayvanlardan sağlanan yağlardır." },
+            { cat: 'yag', q: "Zeytinyağı ve ayçiçek yağı hangi kaynaktan üretilir?", options: ["🌱 Bitkisel kaynaklardan", "🐄 Hayvansal kaynaklardan", "🤖 Yapay fabrikalardan"], correct: 0, exp: "Bitkilerin meyve ve tohumlarından sıkılır." },
+            { cat: 'yag', q: "Besin piramidinin en tepesinde ne bulunur?", options: ["🍫 Yağlar ve Tatlılar", "🍎 Meyveler", "🍞 Ekmekler"], correct: 0, exp: "Yağ ve şekerler az tüketilmelidir." },
+            { cat: 'yag', q: "Balık yağının çocuklara sağladığı en önemli fayda nedir?", options: ["🧠 Beyin ve göz gelişimini desteklemek", "🦷 Dişleri sarartmak", "😴 Uyku getirmek"], correct: 0, exp: "Balık yağı (Omega-3) beyin dostudur." },
+            { cat: 'yag', q: "Kutup ayılarının dondurucu soğukta üşümemesinin sırrı nedir?", options: ["🧥 Kalın deri altı yağ tabakası", "🔥 Ateş yakmaları", "🏃 Çok koşmaları"], correct: 0, exp: "Yağ harika bir ısı yalıtkanıdır." },
+
+            { cat: 'vitamin', q: "Kışın hastalıklardan korunmamızı sağlayan besin ögesi nedir?", options: ["🍊 Vitaminler", "🥑 Yağlar", "🍞 Karbonhidratlar"], correct: 0, exp: "Vitaminler bağışıklığı güçlendirir." },
+            { cat: 'vitamin', q: "Portakal, mandalina ve limonda bolca bulunan, bizi gripten koruyan vitamin hangisidir?", options: ["🦴 D Vitamini", "🛡️ C Vitamini", "👁️ A Vitamini"], correct: 1, exp: "C vitamini gripten korur." },
+            { cat: 'vitamin', q: "Gözlerimizin gece ve karanlıkta daha net görmesine yardımcı olan vitamin hangisidir?", options: ["👁️ A Vitamini (Havuçta bulunur)", "🧠 B Vitamini", "🩸 K Vitamini"], correct: 0, exp: "A vitamini göz sağlığı içindir." },
+            { cat: 'vitamin', q: "Güneş ışığı sayesinde vücudumuzda üretilen vitamin hangisidir?", options: ["🛡️ C Vitamini", "🦴 D Vitamini", "🌻 E Vitamini"], correct: 1, exp: "D vitamini güneşten sentezlenir." },
+            { cat: 'vitamin', q: "Vücudumuzdaki sistemlerin düzenli çalışmasını sağlayan vitaminler hangi gruba girer?", options: ["⚡ Enerji Vericiler", "🧱 Yapıcı-Onarıcılar", "🛠️ Düzenleyiciler"], correct: 2, exp: "Vitaminler düzenleyicidir." },
+            { cat: 'vitamin', q: "Manavdan aldığımız taze sebze ve meyveler en çok hangi yönleriyle bilinir?", options: ["🍊 Zengin vitamin deposu olmalarıyla", "🍞 Karbonhidrat olmalarıyla", "🛢️ Katı yağ olmalarıyla"], correct: 0, exp: "Sebze ve meyve vitamin kaynağıdır." },
+            { cat: 'vitamin', q: "Sinir sistemimizin güçlü olmasını sağlayan B grubu vitaminleri en çok nerelerde bulunur?", options: ["🥩 Et, süt ve tahıllarda", "🍭 Şekerlemelerde", "🥤 Gazlı içeceklerde"], correct: 0, exp: "B vitamini sinir ve kan içindir." },
+            { cat: 'vitamin', q: "Yaralandığımızda kanımızın durmasını sağlayan pıhtılaştırıcı vitamin hangisidir?", options: ["🩸 K Vitamini", "👁️ A Vitamini", "🦴 D Vitamini"], correct: 0, exp: "K vitamini kanı pıhtılaştırır." },
+            { cat: 'vitamin', q: "Domateste bulunan kırmızı renkli koruyucu madde ve vitamin sağlığa nasıl katkı verir?", options: ["🛡️ Kalp ve bağışıklığı güçlendirir", "😴 Uyku getirir", "🦴 Diş çıkarır"], correct: 0, exp: "Domates güçlü antioksidan içerir." },
+
+            { cat: 'su-mineral', q: "Vücudumuzun yaklaşık ne kadarı sudan oluşmaktadır?", options: ["🏜️ Yüzde 10'u", "🌊 Yüzde 70'i (Yarısından fazlası)", "🧊 Yüzde 99'u"], correct: 1, exp: "Vücudumuzun büyük kısmı sudur." },
+            { cat: 'su-mineral', q: "Yediğimiz yemeklerin sindirilmesine ve zararlı atıkların dışarı atılmasına ne yardım eder?", options: ["🥑 Yağ", "💧 Bol Su", "🍞 Un"], correct: 1, exp: "Su temizlik ve taşıma sıvısıdır." },
+            { cat: 'su-mineral', q: "Dişlerimizin ve kemiklerimizin güçlenmesini sağlayan düzenleyici madde nedir?", options: ["🥑 Yağ asidi", "🍭 Şeker", "🧱 Kalsiyum Minerali"], correct: 2, exp: "Kalsiyum kemik ve diş içindir." },
+            { cat: 'su-mineral', q: "Kanımızın içinde oksijen taşıyan en önemli mineral nedir?", options: ["🩸 Demir ve Potasyum", "🛢️ Plastik", "🍬 Glikoz"], correct: 0, exp: "Demir oksijen taşımada kilit roldedir." },
+            { cat: 'su-mineral', q: "Büyümemizi ve yaralandığımızda tenimizin onarılmasını sağlayan besin nedir?", options: ["⚡ Hızlı enerji", "🧱 Proteinler (Yapıcı ve Onarıcı)", "❄️ Su"], correct: 1, exp: "Proteinler vücudun inşaatçısıdır." },
+            { cat: 'su-mineral', q: "Dünyadaki en kuru yiyeceğin bile içinde az da olsa bulunan iki şey nedir?", options: ["💧 Su ve Mineraller", "🧈 Yağ ve Şeker", "🥛 Sadece Protein"], correct: 0, exp: "Bütün besinlerde su ve mineral vardır." },
+            { cat: 'su-mineral', q: "Su ve mineraller vücudumuzda hangi görevleriyle bilinir?", options: ["🛠️ Düzenleyici görevleriyle", "⚡ Enerji deposu olmalarıyla", "💪 Kas şişirmeleriyle"], correct: 0, exp: "Tüm düzenleyici işleri üstlenirler." },
+            { cat: 'su-mineral', q: "Su ihtiyacımızı sadece bardakla su içerek mi gideririz?", options: ["🍉 Hayır, sulu meyvelerden de alırız", "🥛 Evet, başka yolu yoktur", "☕ Sadece gazozla alırız"], correct: 0, exp: "Sebze ve meyveler de su içerir." },
+            { cat: 'su-mineral', q: "Yazın terlediğimizde kaybettiğimiz suyu yerine koymazsak ne olur?", options: ["🪫 Başımız ağrır ve susuzluktan halsiz düşeriz", "⚡ Süper kahraman oluruz", "👍 Hiçbir şey olmaz"], correct: 0, exp: "Su kaybı halsizlik yapar." },
+            { cat: 'su-mineral', q: "Vücudumuzda Düzenleyici olan üçlü takım hangisidir?", options: ["💧 Su, Mineraller ve Vitaminler", "🧈 Yağ, Şeker, Un", "🥩 Protein, Karbonhidrat, Yağ"], correct: 0, exp: "Su, mineral ve vitamin düzenleyicidir." },
+            { cat: 'su-mineral', q: "Süt içtiğimizde su ve mineralin yanı sıra kemiklerimizi büyüten neyi alırız?", options: ["🥛 Kalsiyum ve Protein", "🍞 Karbonhidrat", "🌾 Nişasta"], correct: 0, exp: "Süt kalsiyum ve protein kaynağıdır." },
+            { cat: 'su-mineral', q: "Akşam yemekte tabağımızı hazırlarken nasıl bir yol izlemeliyiz?", options: ["🌈 Her besin grubundan dengeli ve yeterli yemeliyiz", "🍝 Sadece makarna yemeliyiz", "🍫 Sadece çikolata seçmeliyiz"], correct: 0, exp: "Tüm besinlerden dengeli alınmalıdır." }
+        ];
+
+        let activeQuestions = [];
+        let userAnswers = {};
+        let turkishVoices = [];
+
+        function loadVoices() {
+            if ('speechSynthesis' in window) {
+                const voices = window.speechSynthesis.getVoices();
+                turkishVoices = voices.filter(v => v.lang.includes('tr') || v.lang.includes('TR'));
+            }
+        }
+
+        if ('speechSynthesis' in window) {
+            loadVoices();
+            window.speechSynthesis.onvoiceschanged = loadVoices;
+        }
+
+        // Genişletilmiş ve zenginleştirilmiş samimi motivasyon sözleri
+        const successPhrases = [
+            "Harika gittin, bu soruyu tertemiz bildin!",
+            "Süpersin! Cevabın şte tam yerinde ve doğru!",
+            "Helal olsun sana, fen bilimlerini adeta yutmuşsun!",
+            "Mükemmel bir tahmin, yıldız gibi parladın!",
+            "Bravo sana! Bilgi küpü olduğunu yine kanıtladın!",
+            "Tebrikler dostum, bu soruyu anında avladın!",
+            "Çok akıllıca bir cevap, aynen böyle devam et!",
+            "İşte bu! Dersin en parlak yıldızı sensin!",
+            "Süper bir adım daha attın, harikasın!",
+            "Müthiş bir zeka, tebrik ederim seni!"
+        ];
+
+        const errorPhrases = [
+            "Üzülme sakın, öğrenmek işte tam da böyle hatalarla başlar.",
+            "Olabilir, hata yapmak öğrenmenin en güzel yoludur. Şimdi doğrusunu öğrendik!",
+            "Hiç sorun değil dostum! Bir dahaki sefere kesin yaparsın, birlikte öğreniyoruz.",
+            "Ufak bir kaza nazar boncuğu olsun, hemen doğrusunu hafızaya alalım.",
+            "Canın sağ olsun! Bilmemek ayıp değil, öğrenmemek ayıp. Şimdi öğrendik gitti!"
+        ];
+
+        // Motivasyon + Doğal Samimi Bilgi Anlatımı
+        function speakMotivationAndInfo(motivationText, infoText) {
+            if ('speechSynthesis' in window) {
+                window.speechSynthesis.cancel();
+                
+                const cleanMotivation = motivationText.replace(/[^\w\sğüşıöçĞÜŞİÖÇ?,.!]/gi, '');
+                const cleanInfo = infoText.replace(/[^\w\sğüşıöçĞÜŞİÖÇ?,.!]/gi, '');
+
+                const utterance1 = new SpeechSynthesisUtterance(cleanMotivation);
+                utterance1.lang = 'tr-TR';
+                utterance1.pitch = 1.45;
+                utterance1.rate = 0.95;
+
+                const utterance2 = new SpeechSynthesisUtterance(cleanInfo);
+                utterance2.lang = 'tr-TR';
+                utterance2.pitch = 1.45;
+                utterance2.rate = 0.95;
+
+                if (turkishVoices.length > 0) {
+                    const femaleVoice = turkishVoices.find(v => v.name.toLowerCase().includes('female') || v.name.toLowerCase().includes('zira') || v.name.toLowerCase().includes('yelda') || v.name.toLowerCase().includes('seda'));
+                    const selectedVoice = femaleVoice || turkishVoices[0];
+                    utterance1.voice = selectedVoice;
+                    utterance2.voice = selectedVoice;
+                }
+
+                utterance1.onend = function() {
+                    window.speechSynthesis.speak(utterance2);
+                };
+
+                window.speechSynthesis.speak(utterance1);
+            }
+        }
+
+        function speakText(text) {
+            if ('speechSynthesis' in window) {
+                window.speechSynthesis.cancel();
+                const cleanText = text.replace(/[^\w\sğüşıöçĞÜŞİÖÇ?,.!]/gi, '');
+                const utterance = new SpeechSynthesisUtterance(cleanText);
+                utterance.lang = 'tr-TR';
+
+                if (turkishVoices.length > 0) {
+                    const femaleVoice = turkishVoices.find(v => v.name.toLowerCase().includes('female') || v.name.toLowerCase().includes('zira') || v.name.toLowerCase().includes('yelda') || v.name.toLowerCase().includes('seda'));
+                    utterance.voice = femaleVoice || turkishVoices[0];
+                }
+
+                utterance.pitch = 1.45;
+                utterance.rate = 0.95;
+
+                window.speechSynthesis.speak(utterance);
+            }
+        }
+
+        function playSound(type) {
+            const audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+            const osc = audioCtx.createOscillator();
+            const gain = audioCtx.createGain();
+            osc.connect(gain);
+            gain.connect(audioCtx.destination);
+
+            if (type === 'correct') {
+                osc.type = 'triangle';
+                osc.frequency.setValueAtTime(523.25, audioCtx.currentTime);
+                osc.frequency.setValueAtTime(659.25, audioCtx.currentTime + 0.1);
+                gain.gain.setValueAtTime(0.15, audioCtx.currentTime);
+                gain.gain.exponentialRampToValueAtTime(0.01, audioCtx.currentTime + 0.3);
+                osc.start();
+                osc.stop(audioCtx.currentTime + 0.3);
+            } else {
+                osc.type = 'sawtooth';
+                osc.frequency.setValueAtTime(180, audioCtx.currentTime);
+                gain.gain.setValueAtTime(0.15, audioCtx.currentTime);
+                gain.gain.exponentialRampToValueAtTime(0.01, audioCtx.currentTime + 0.2);
+                osc.start();
+                osc.stop(audioCtx.currentTime + 0.2);
+            }
+        }
+
+        function shuffleArray(array) {
+            let currentIndex = array.length, randomIndex;
+            while (currentIndex != 0) {
+                randomIndex = Math.floor(Math.random() * currentIndex);
+                currentIndex--;
+                [array[currentIndex], array[randomIndex]] = [array[randomIndex], array[currentIndex]];
+            }
+            return array;
+        }
+
+        function generateRandomExam(setLabel, btn) {
+            document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+            if(btn) btn.classList.add('active');
+
+            const container = document.getElementById('quiz-container');
+            container.innerHTML = '';
+            userAnswers = {};
+
+            let poolCopy = [...masterQuestionPool];
+            shuffleArray(poolCopy);
+            activeQuestions = poolCopy.slice(0, 25);
+
+            document.getElementById('solved').innerText = "0";
+            document.getElementById('score').innerText = "0";
+            document.getElementById('analysis-section').style.display = 'none';
+            document.getElementById('submit-area').style.display = 'block';
+
+            activeQuestions.forEach((q, index) => {
+                const card = document.createElement('div');
+                card.className = 'question-card';
+                card.id = `card-${index}`;
+
+                let shuffledOptions = q.options.map((opt, i) => ({ opt: opt, isCorrect: i === q.correct }));
+                shuffleArray(shuffledOptions);
+
+                let correctNewIdx = shuffledOptions.findIndex(o => o.isCorrect);
+                q.currentCorrect = correctNewIdx;
+
+                let optionsHTML = '';
+                shuffledOptions.forEach((item, idx) => {
+                    optionsHTML += `<button class="answer-btn" id="btn-${index}-${idx}" onclick="selectAnswer(${index}, ${idx}, ${correctNewIdx}, '${q.exp.replace(/["']/g, "")}')">${item.opt}</button>`;
+                });
+
+                const safeQuestion = q.q.replace(/["']/g, "");
+                const safeExp = q.exp.replace(/["']/g, "");
+
+                card.innerHTML = `
+                    <div class="q-header">
+                        <span class="q-badge">Soru #${index + 1}</span>
+                        <button class="voice-btn" onclick="speakText('${safeQuestion}')">👩‍🦰 Soruyu Dinle</button>
+                    </div>
+                    <div class="q-title">${q.q}</div>
+                    <div class="options-grid">${optionsHTML}</div>
+                    <div class="explanation" id="exp-${index}">
+                        <div><b>💡 Bilgi:</b> ${q.exp}</div>
+                        <button class="speak-exp-btn" onclick="speakText('${safeExp}')">👩‍🦰 Açıklamayı Dinle</button>
+                    </div>
+                `;
+                container.appendChild(card);
+            });
+        }
+
+        function selectAnswer(qIndex, selectedIdx, correctIdx, expText) {
+            const card = document.getElementById(`card-${qIndex}`);
+            const buttons = card.querySelectorAll('.answer-btn');
+            const exp = document.getElementById(`exp-${qIndex}`);
+
+            // Eğer daha önce bu soru cevaplandıysa puanı düşürmemek için kontrol et
+            let wasAlreadyAnswered = userAnswers[qIndex] !== undefined;
+            let previousSelection = userAnswers[qIndex];
+
+            buttons.forEach(b => b.classList.remove('selected', 'correct', 'wrong'));
+            userAnswers[qIndex] = selectedIdx;
+
+            if (selectedIdx === correctIdx) {
+                buttons[selectedIdx].classList.add('correct');
+                playSound('correct');
+                
+                // Eğer daha önce yanlış yapıp şimdi doğru yaptıysa veya hiç cevaplamadıysa puan ekle
+                if (!wasAlreadyAnswered || previousSelection !== correctIdx) {
+                    // Eğer önceden yanlış yaptıysa puanı düzeltmek için baştan hesaplayalım
+                }
+
+                const randomPhrase = successPhrases[Math.floor(Math.random() * successPhrases.length)];
+                speakMotivationAndInfo(randomPhrase, expText);
+            } else {
+                buttons[selectedIdx].classList.add('wrong');
+                buttons[correctIdx].classList.add('correct');
+                playSound('wrong');
+
+                const randomErrorPhrase = errorPhrases[Math.floor(Math.random() * errorPhrases.length)];
+                speakMotivationAndInfo(randomErrorPhrase, "Doğrusu şöyle: " + expText);
+            }
+
+            exp.classList.add('show');
+
+            // İŞARETLENEN / ÇÖZÜLEN SORU SAYISINI GÜNCELLE
+            const answeredCount = Object.keys(userAnswers).length;
+            document.getElementById('solved').innerText = answeredCount;
+
+            // DOĞRU PUANLAMA HESAPLAMA MANTIĞI
+            let currentScore = 0;
+            for (let qIdx in userAnswers) {
+                if (userAnswers[qIdx] === activeQuestions[qIdx].currentCorrect) {
+                    currentScore += 10;
+                }
+            }
+            document.getElementById('score').innerText = currentScore;
+        }
+
+        function showAnalysis() {
+            const analysisCard = document.getElementById('analysis-section');
+            const analysisText = document.getElementById('analysis-text');
+            
+            let correctCount = 0;
+            let wrongCount = 0;
+            let emptyCount = 0;
+
+            activeQuestions.forEach((q, idx) => {
+                if (userAnswers[idx] === undefined) {
+                    emptyCount++;
+                } else if (userAnswers[idx] === q.currentCorrect) {
+                    correctCount++;
+                } else {
+                    wrongCount++;
+                }
+            });
+
+            let totalScore = correctCount * 10;
+
+            let summaryHtml = `📊 <b>Sınav Karne Özetin:</b><br>`;
+            summaryHtml += `✅ Doğru Cevap Sayısı: <b>${correctCount}</b><br>`;
+            summaryHtml += `❌ Yanlış Cevap Sayısı: <b>${wrongCount}</b><br>`;
+            summaryHtml += `⬜ Boş Bırakılan Soru: <b>${emptyCount}</b><br>`;
+            summaryHtml += `⭐ Toplam Puanın: <b>${totalScore} / 250</b><br><br>`;
+
+            if (emptyCount > 0) {
+                summaryHtml += `💡 <i>Öneri:</i> Çözmediğin ${emptyCount} boş soruyu yukarı kaydırıp tamamlayabilirsin.<br>`;
+            }
+            if (correctCount >= 18) {
+                summaryHtml += `🌟 Harika bir performans! Tüm konuları harika bir şekilde kavramışsın, tebrik ederim!`;
+            } else {
+                summaryHtml += `💪 Fena değil! Yanlış ve boş yaptığın soruların altındaki bilgileri okuyarak kendini geliştirebilirsin.`;
+            }
+
+            analysisText.innerHTML = summaryHtml;
+            analysisCard.style.display = 'block';
+            window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' });
+        }
+
+        function speakAnalysis() {
+            let correctCount = 0;
+            let wrongCount = 0;
+            let emptyCount = 0;
+
+            activeQuestions.forEach((q, idx) => {
+                if (userAnswers[idx] === undefined) emptyCount++;
+                else if (userAnswers[idx] === q.currentCorrect) correctCount++;
+                else wrongCount++;
+            });
+
+            let analysisSpeech = `Sınav sonucun hazır! ${correctCount} doğru, ${wrongCount} yanlış ve ${emptyCount} boş sorun var. `;
+            if (correctCount >= 18) {
+                analysisSpeech += `Harika iş çıkardın, seni yürekten kutlarım!`;
+            } else {
+                analysisSpeech += `Boş veya yanlış sorularını tekrar gözden geçirerek çok daha başarılı olabilirsin. Tebrik ederim!`;
+            }
+            speakText(analysisSpeech);
+        }
+
+        generateRandomExam('A');
+    </script>
+</body>
+</html>
